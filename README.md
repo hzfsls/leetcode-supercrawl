@@ -1,3 +1,19 @@
+# LeetCode-SuperCrawl
+
+This repository contains data for all 2837 LeetCode problems, including problem descriptions(English/Chinese) and official solutions(Chinese) in markdown format.
+ 
+## Full Data
+
+Since the table is too long, it has been splitted into three files:
+
+- [0001 - 1000](./0001-1000.md)
+- [1001 - 2000](./1001-2000.md)
+- [2001 - 3000](./2001-3000.md)
+
+## Examples
+
+The table shown below contains the data for the first 500 LeetCode problems.
+
 | # | Title | Tag | Link | Difficulty | Description | Official Solution(🇨🇳) | Popular Solutions(🚧) |
 | - | - | - | - | - | - | - | - |
 | 0001 | [Two Sum](data/0001.two-sum) |  | [🌐](https://leetcode.com/problems/two-sum/) | Easy | [English](data/0001.two-sum/description/EN.md)/[中文描述](data/0001.two-sum/description/CN.md) | [Solution](data/0001.two-sum/solutions/Official.md) |  |
