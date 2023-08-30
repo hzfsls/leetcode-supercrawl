@@ -1,0 +1,4 @@
+(define/contract (count-good-rectangles rectangles)
+  (-> (listof (listof exact-integer?)) exact-integer?)
+
+  )

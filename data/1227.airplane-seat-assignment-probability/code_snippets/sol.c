@@ -1,0 +1,5 @@
+
+
+double nthPersonGetsNthSeat(int n){
+
+}

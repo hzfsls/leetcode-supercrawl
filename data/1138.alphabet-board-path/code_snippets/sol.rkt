@@ -1,0 +1,4 @@
+(define/contract (alphabet-board-path target)
+  (-> string? string?)
+
+  )

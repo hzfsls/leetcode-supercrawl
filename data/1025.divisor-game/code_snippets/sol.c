@@ -1,0 +1,5 @@
+
+
+bool divisorGame(int n){
+
+}

@@ -1,0 +1,5 @@
+
+
+char * minimizeResult(char * expression){
+
+}

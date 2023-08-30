@@ -1,0 +1,5 @@
+
+
+int numWays(char * s){
+
+}

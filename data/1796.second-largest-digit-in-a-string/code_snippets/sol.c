@@ -1,0 +1,5 @@
+
+
+int secondHighest(char * s){
+
+}

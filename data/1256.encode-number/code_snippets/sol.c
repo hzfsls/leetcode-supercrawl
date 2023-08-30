@@ -1,0 +1,5 @@
+
+
+char * encode(int num){
+
+}

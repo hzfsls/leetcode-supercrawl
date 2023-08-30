@@ -1,0 +1,5 @@
+
+
+bool checkZeroOnes(char * s){
+
+}

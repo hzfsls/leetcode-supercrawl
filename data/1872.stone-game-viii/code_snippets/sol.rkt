@@ -1,0 +1,4 @@
+(define/contract (stone-game-viii stones)
+  (-> (listof exact-integer?) exact-integer?)
+
+  )

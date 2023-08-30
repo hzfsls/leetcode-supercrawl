@@ -1,0 +1,5 @@
+
+
+int concatenatedBinary(int n){
+
+}

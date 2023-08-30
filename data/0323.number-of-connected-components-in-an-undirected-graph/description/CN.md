@@ -1,0 +1,36 @@
+## [323.无向图中连通分量的数目]
+<p>你有一个包含&nbsp;<code>n</code> 个节点的图。给定一个整数 <code>n</code> 和一个数组&nbsp;<code>edges</code>&nbsp;，其中&nbsp;<code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code>&nbsp;表示图中&nbsp;<code>a<sub>i</sub></code>&nbsp;和&nbsp;<code>b<sub>i</sub></code>&nbsp;之间有一条边。</p>
+
+<p>返回 <em>图中已连接分量的数目</em>&nbsp;。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 1:</strong></p>
+
+<p><img src="https://assets.leetcode.com/uploads/2021/03/14/conn1-graph.jpg" /></p>
+
+<pre>
+<strong>输入: </strong><code>n = 5</code>, <code>edges = [[0, 1], [1, 2], [3, 4]]</code>
+<strong>输出: </strong>2
+</pre>
+
+<p><strong>示例 2:</strong></p>
+
+<p><img src="https://assets.leetcode.com/uploads/2021/03/14/conn2-graph.jpg" /></p>
+
+<pre>
+<strong>输入: </strong><code>n = 5,</code> <code>edges = [[0,1], [1,2], [2,3], [3,4]]</code>
+<strong>输出:&nbsp;&nbsp;</strong>1</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示：</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 2000</code></li>
+	<li><code>1 &lt;= edges.length &lt;= 5000</code></li>
+	<li><code>edges[i].length == 2</code></li>
+	<li><code>0 &lt;= a<sub>i</sub>&nbsp;&lt;= b<sub>i</sub>&nbsp;&lt; n</code></li>
+	<li><code>a<sub>i</sub>&nbsp;!= b<sub>i</sub></code></li>
+	<li><code>edges</code> 中不会出现重复的边</li>
+</ul>

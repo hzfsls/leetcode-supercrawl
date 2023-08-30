@@ -1,0 +1,5 @@
+
+
+char * countAndSay(int n){
+
+}

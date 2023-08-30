@@ -1,0 +1,4 @@
+(define/contract (champagne-tower poured query_row query_glass)
+  (-> exact-integer? exact-integer? exact-integer? flonum?)
+
+  )

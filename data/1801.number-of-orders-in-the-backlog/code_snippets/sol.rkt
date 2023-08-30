@@ -1,0 +1,4 @@
+(define/contract (get-number-of-backlog-orders orders)
+  (-> (listof (listof exact-integer?)) exact-integer?)
+
+  )

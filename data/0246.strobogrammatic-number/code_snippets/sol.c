@@ -1,0 +1,5 @@
+
+
+bool isStrobogrammatic(char * num){
+
+}

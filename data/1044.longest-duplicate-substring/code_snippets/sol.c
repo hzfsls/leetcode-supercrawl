@@ -1,0 +1,5 @@
+
+
+char * longestDupSubstring(char * s){
+
+}

@@ -1,0 +1,5 @@
+
+
+int countLetters(char * s){
+
+}

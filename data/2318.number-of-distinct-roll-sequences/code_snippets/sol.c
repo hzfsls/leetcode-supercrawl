@@ -1,0 +1,5 @@
+
+
+int distinctSequences(int n){
+
+}

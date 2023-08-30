@@ -1,0 +1,5 @@
+
+
+int countVowelSubstrings(char * word){
+
+}

@@ -1,0 +1,5 @@
+
+
+bool digitCount(char * num){
+
+}

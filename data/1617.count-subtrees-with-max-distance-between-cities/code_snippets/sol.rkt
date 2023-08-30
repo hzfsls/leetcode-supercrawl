@@ -1,0 +1,4 @@
+(define/contract (count-subgraphs-for-each-diameter n edges)
+  (-> exact-integer? (listof (listof exact-integer?)) (listof exact-integer?))
+
+  )

@@ -1,0 +1,4 @@
+(define/contract (min-operations nums queries)
+  (-> (listof exact-integer?) (listof exact-integer?) (listof exact-integer?))
+
+  )

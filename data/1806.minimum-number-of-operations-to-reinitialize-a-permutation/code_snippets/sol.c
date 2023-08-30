@@ -1,0 +1,5 @@
+
+
+int reinitializePermutation(int n){
+
+}

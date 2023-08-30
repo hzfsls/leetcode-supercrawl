@@ -1,0 +1,5 @@
+
+
+int longestBeautifulSubstring(char * word){
+
+}

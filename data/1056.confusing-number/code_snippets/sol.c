@@ -1,0 +1,3 @@
+bool confusingNumber(int n){
+
+}

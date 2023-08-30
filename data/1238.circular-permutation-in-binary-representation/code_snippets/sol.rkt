@@ -1,0 +1,4 @@
+(define/contract (circular-permutation n start)
+  (-> exact-integer? exact-integer? (listof exact-integer?))
+
+  )

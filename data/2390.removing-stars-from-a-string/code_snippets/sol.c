@@ -1,0 +1,5 @@
+
+
+char * removeStars(char * s){
+
+}

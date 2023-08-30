@@ -1,0 +1,3 @@
+int lengthOfLongestSubstringTwoDistinct(char * s){
+
+}

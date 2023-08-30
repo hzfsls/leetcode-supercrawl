@@ -1,0 +1,5 @@
+
+
+char * smallestNumber(char * pattern){
+
+}

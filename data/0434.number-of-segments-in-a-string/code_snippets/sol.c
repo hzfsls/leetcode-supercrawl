@@ -1,0 +1,5 @@
+
+
+int countSegments(char * s){
+
+}

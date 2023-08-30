@@ -1,0 +1,4 @@
+(define/contract (get-sum-absolute-differences nums)
+  (-> (listof exact-integer?) (listof exact-integer?))
+
+  )

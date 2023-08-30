@@ -1,0 +1,4 @@
+(define/contract (distance-between-bus-stops distance start destination)
+  (-> (listof exact-integer?) exact-integer? exact-integer? exact-integer?)
+
+  )

@@ -1,0 +1,5 @@
+
+
+int consecutiveNumbersSum(int n){
+
+}

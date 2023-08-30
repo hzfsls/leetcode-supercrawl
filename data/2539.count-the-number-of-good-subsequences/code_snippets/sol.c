@@ -1,0 +1,3 @@
+int countGoodSubsequences(char * s){
+
+}

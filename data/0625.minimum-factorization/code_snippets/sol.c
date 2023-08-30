@@ -1,0 +1,5 @@
+
+
+int smallestFactorization(int num){
+
+}

@@ -1,0 +1,4 @@
+(define/contract (create-sorted-array instructions)
+  (-> (listof exact-integer?) exact-integer?)
+
+  )

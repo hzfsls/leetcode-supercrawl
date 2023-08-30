@@ -1,0 +1,5 @@
+
+
+char * toHexspeak(char * num){
+
+}

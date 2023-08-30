@@ -1,0 +1,4 @@
+(define/contract (shuffle nums n)
+  (-> (listof exact-integer?) exact-integer? (listof exact-integer?))
+
+  )

@@ -1,0 +1,5 @@
+
+
+bool isDecomposable(char * s){
+
+}

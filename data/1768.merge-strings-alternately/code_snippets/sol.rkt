@@ -1,0 +1,4 @@
+(define/contract (merge-alternately word1 word2)
+  (-> string? string? string?)
+
+  )

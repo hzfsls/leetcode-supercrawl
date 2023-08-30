@@ -1,0 +1,4 @@
+(define/contract (valid-mountain-array arr)
+  (-> (listof exact-integer?) boolean?)
+
+  )

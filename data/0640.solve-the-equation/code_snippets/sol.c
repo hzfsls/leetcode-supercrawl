@@ -1,0 +1,5 @@
+
+
+char * solveEquation(char * equation){
+
+}

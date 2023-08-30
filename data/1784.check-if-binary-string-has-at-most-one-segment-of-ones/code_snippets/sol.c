@@ -1,0 +1,5 @@
+
+
+bool checkOnesSegment(char * s){
+
+}

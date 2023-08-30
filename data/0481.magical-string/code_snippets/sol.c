@@ -1,0 +1,5 @@
+
+
+int magicalString(int n){
+
+}

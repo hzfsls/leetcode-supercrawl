@@ -1,0 +1,4 @@
+(define/contract (min-flips a b c)
+  (-> exact-integer? exact-integer? exact-integer? exact-integer?)
+
+  )

@@ -1,0 +1,5 @@
+
+
+char * reorderSpaces(char * text){
+
+}

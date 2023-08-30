@@ -1,0 +1,5 @@
+
+
+bool checkString(char * s){
+
+}

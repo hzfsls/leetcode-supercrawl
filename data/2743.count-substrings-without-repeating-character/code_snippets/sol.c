@@ -1,0 +1,3 @@
+int numberOfSpecialSubstrings(char * s){
+
+}

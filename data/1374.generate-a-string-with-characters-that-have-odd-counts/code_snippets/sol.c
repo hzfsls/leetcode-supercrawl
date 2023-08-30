@@ -1,0 +1,5 @@
+
+
+char * generateTheString(int n){
+
+}

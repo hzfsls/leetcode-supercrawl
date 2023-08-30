@@ -1,0 +1,4 @@
+(define/contract (fib n)
+  (-> exact-integer? exact-integer?)
+
+  )

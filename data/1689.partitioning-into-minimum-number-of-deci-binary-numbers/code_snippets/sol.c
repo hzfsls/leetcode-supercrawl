@@ -1,0 +1,5 @@
+
+
+int minPartitions(char * n){
+
+}

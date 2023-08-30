@@ -1,0 +1,5 @@
+
+
+char * arrangeWords(char * text){
+
+}

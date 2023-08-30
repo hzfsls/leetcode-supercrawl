@@ -1,0 +1,5 @@
+
+
+int nthUglyNumber(int n){
+
+}

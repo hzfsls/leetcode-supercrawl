@@ -1,0 +1,5 @@
+
+
+int longestContinuousSubstring(char * s){
+
+}

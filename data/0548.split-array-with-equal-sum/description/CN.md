@@ -1,0 +1,41 @@
+## [548.将数组分割成和相等的子数组]
+<p>给定一个有 <code>n</code> 个整数的数组 <code>nums</code>&nbsp;，如果能找到满足以下条件的三元组&nbsp; <code>(i, j, k)</code>&nbsp; 则返回 <code>true</code> ：</p>
+
+<ol>
+	<li><code>0 &lt; i, i + 1 &lt; j, j + 1 &lt; k &lt; n - 1</code></li>
+	<li>子数组 <code>(0, i - 1)</code>&nbsp;， <code>(i + 1, j - 1)</code> ， <code>(j + 1, k - 1)</code> ， <code>(k + 1, n - 1)</code> 的和应该相等。</li>
+</ol>
+
+<p>这里我们定义子数组&nbsp;<code>(l, r)</code>&nbsp;表示原数组从索引为&nbsp;<code>l</code>&nbsp;的元素开始至索引为&nbsp;<code>r</code> 的元素。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 1:&nbsp;</strong></p>
+
+<pre>
+<strong>输入:</strong> nums = [1,2,1,2,1,2,1]
+<strong>输出:</strong> True
+<strong>解释:</strong>
+i = 1, j = 3, k = 5. 
+sum(0, i - 1) = sum(0, 0) = 1
+sum(i + 1, j - 1) = sum(2, 2) = 1
+sum(j + 1, k - 1) = sum(4, 4) = 1
+sum(k + 1, n - 1) = sum(6, 6) = 1
+</pre>
+
+<p><strong>示例 2:</strong></p>
+
+<pre>
+<strong>输入:</strong> nums = [1,2,1,2,1,2,1,2]
+<strong>输出:</strong> false
+</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>提示:</strong></p>
+
+<ul>
+	<li><code>n ==&nbsp;nums.length</code></li>
+	<li><code>1 &lt;= n &lt;= 2000</code></li>
+	<li><code>-10<sup>6</sup>&nbsp;&lt;= nums[i] &lt;= 10<sup>6</sup></code></li>
+</ul>

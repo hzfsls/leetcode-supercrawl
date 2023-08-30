@@ -1,0 +1,5 @@
+
+
+bool isStrictlyPalindromic(int n){
+
+}

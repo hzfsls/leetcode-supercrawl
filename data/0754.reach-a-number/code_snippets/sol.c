@@ -1,0 +1,5 @@
+
+
+int reachNumber(int target){
+
+}

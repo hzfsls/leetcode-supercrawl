@@ -1,0 +1,5 @@
+
+
+int closestFair(int n){
+
+}

@@ -1,0 +1,5 @@
+
+
+char * parseTernary(char * expression){
+
+}

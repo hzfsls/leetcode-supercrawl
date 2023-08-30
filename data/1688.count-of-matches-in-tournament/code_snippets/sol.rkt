@@ -1,0 +1,4 @@
+(define/contract (number-of-matches n)
+  (-> exact-integer? exact-integer?)
+
+  )

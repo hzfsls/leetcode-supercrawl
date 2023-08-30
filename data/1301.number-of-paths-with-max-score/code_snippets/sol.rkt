@@ -1,0 +1,4 @@
+(define/contract (paths-with-max-score board)
+  (-> (listof string?) (listof exact-integer?))
+
+  )

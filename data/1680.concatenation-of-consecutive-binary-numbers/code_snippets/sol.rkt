@@ -1,0 +1,4 @@
+(define/contract (concatenated-binary n)
+  (-> exact-integer? exact-integer?)
+
+  )

@@ -1,0 +1,5 @@
+
+
+int numOfWays(int n){
+
+}

@@ -1,0 +1,5 @@
+
+
+int secondsToRemoveOccurrences(char * s){
+
+}

@@ -1,0 +1,4 @@
+(define/contract (display-table orders)
+  (-> (listof (listof string?)) (listof (listof string?)))
+
+  )

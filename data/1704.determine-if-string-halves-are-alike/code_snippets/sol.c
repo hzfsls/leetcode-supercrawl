@@ -1,0 +1,5 @@
+
+
+bool halvesAreAlike(char * s){
+
+}

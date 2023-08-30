@@ -1,0 +1,5 @@
+
+
+int bulbSwitch(int n){
+
+}

@@ -1,0 +1,5 @@
+
+
+int primePalindrome(int n){
+
+}

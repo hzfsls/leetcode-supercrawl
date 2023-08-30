@@ -1,0 +1,5 @@
+
+
+int numSub(char * s){
+
+}

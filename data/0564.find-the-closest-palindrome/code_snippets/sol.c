@@ -1,0 +1,5 @@
+
+
+char * nearestPalindromic(char * n){
+
+}

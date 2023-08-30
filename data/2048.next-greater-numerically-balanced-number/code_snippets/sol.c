@@ -1,0 +1,5 @@
+
+
+int nextBeautifulNumber(int n){
+
+}

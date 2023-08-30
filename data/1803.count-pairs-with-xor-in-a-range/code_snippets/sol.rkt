@@ -1,0 +1,4 @@
+(define/contract (count-pairs nums low high)
+  (-> (listof exact-integer?) exact-integer? exact-integer? exact-integer?)
+
+  )

@@ -1,0 +1,4 @@
+(define/contract (print-vertically s)
+  (-> string? (listof string?))
+
+  )

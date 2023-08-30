@@ -1,0 +1,5 @@
+
+
+char * maximumBinaryString(char * binary){
+
+}

@@ -1,0 +1,4 @@
+(define/contract (max-operations nums k)
+  (-> (listof exact-integer?) exact-integer? exact-integer?)
+
+  )

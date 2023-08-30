@@ -1,0 +1,4 @@
+(define/contract (count-odds low high)
+  (-> exact-integer? exact-integer? exact-integer?)
+
+  )

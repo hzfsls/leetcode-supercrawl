@@ -1,0 +1,5 @@
+
+
+bool checkRecord(char * s){
+
+}

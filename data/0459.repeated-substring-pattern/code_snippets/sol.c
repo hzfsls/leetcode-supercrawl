@@ -1,0 +1,5 @@
+
+
+bool repeatedSubstringPattern(char * s){
+
+}

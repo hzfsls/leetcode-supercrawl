@@ -1,0 +1,5 @@
+
+
+int maxLengthBetweenEqualCharacters(char * s){
+
+}

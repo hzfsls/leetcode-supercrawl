@@ -1,0 +1,5 @@
+
+
+bool isSameAfterReversals(int num){
+
+}

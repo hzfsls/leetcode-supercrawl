@@ -1,0 +1,5 @@
+
+
+int minimumSum(int num){
+
+}

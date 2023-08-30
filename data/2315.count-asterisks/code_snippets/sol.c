@@ -1,0 +1,5 @@
+
+
+int countAsterisks(char * s){
+
+}

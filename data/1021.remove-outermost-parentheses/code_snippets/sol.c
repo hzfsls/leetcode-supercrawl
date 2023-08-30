@@ -1,0 +1,5 @@
+
+
+char * removeOuterParentheses(char * s){
+
+}

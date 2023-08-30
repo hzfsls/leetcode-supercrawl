@@ -1,0 +1,5 @@
+
+
+bool areOccurrencesEqual(char * s){
+
+}

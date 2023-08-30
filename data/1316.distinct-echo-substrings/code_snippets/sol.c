@@ -1,0 +1,5 @@
+
+
+int distinctEchoSubstrings(char * text){
+
+}
