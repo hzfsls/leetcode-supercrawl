@@ -1,4 +1,4 @@
-## [1294.Weather Type in Each Country]
+## [1294.Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/)
 <p>Table: <code>Countries</code></p>
 
 <pre>

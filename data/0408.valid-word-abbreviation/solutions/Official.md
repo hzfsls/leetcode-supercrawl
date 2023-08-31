@@ -1,3 +1,4 @@
+## [408.有效单词缩写 中文官方题解](https://leetcode.cn/problems/valid-word-abbreviation/solutions/100000/you-xiao-dan-ci-suo-xie-by-leetcode-solution)
 #### 方法：模拟
 
 关键是分析清楚判断缩写的条件：

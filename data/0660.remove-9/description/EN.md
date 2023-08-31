@@ -1,4 +1,4 @@
-## [660.Remove 9]
+## [660.Remove 9](https://leetcode.com/problems/remove-9/)
 <p>Start from integer <code>1</code>, remove any integer that contains <code>9</code> such as <code>9</code>, <code>19</code>, <code>29</code>...</p>
 
 <p>Now, you will have a new integer sequence <code>[1, 2, 3, 4, 5, 6, 7, 8, 10, 11, ...]</code>.</p>

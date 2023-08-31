@@ -1,4 +1,4 @@
-## [1739.放置盒子]
+## [1739.放置盒子](https://leetcode.cn/problems/building-boxes/)
 <p>有一个立方体房间，其长度、宽度和高度都等于 <code>n</code> 个单位。请你在房间里放置 <code>n</code> 个盒子，每个盒子都是一个单位边长的立方体。放置规则如下：</p>
 
 <ul>

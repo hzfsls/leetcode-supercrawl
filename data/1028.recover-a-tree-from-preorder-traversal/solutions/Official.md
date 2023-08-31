@@ -1,3 +1,4 @@
+## [1028.从先序遍历还原二叉树 中文官方题解](https://leetcode.cn/problems/recover-a-tree-from-preorder-traversal/solutions/100000/cong-xian-xu-bian-li-huan-yuan-er-cha-shu-by-leetc)
 #### 前言
 
 相较于传统的递归 + 回溯的实现方法而言，本题使用迭代方法（模拟递归）更加简洁方便。

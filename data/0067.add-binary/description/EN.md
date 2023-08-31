@@ -1,4 +1,4 @@
-## [67.Add Binary]
+## [67.Add Binary](https://leetcode.com/problems/add-binary/)
 <p>Given two binary strings <code>a</code> and <code>b</code>, return <em>their sum as a binary string</em>.</p>
 
 <p>&nbsp;</p>

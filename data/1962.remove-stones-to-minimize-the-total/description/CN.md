@@ -1,4 +1,4 @@
-## [1962.移除石子使总数最小]
+## [1962.移除石子使总数最小](https://leetcode.cn/problems/remove-stones-to-minimize-the-total/)
 <p>给你一个整数数组 <code>piles</code> ，数组 <strong>下标从 0 开始</strong> ，其中 <code>piles[i]</code> 表示第 <code>i</code> 堆石子中的石子数量。另给你一个整数 <code>k</code> ，请你执行下述操作 <strong>恰好</strong> <code>k</code> 次：</p>
 
 <ul>

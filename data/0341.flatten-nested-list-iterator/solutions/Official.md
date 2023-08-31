@@ -1,3 +1,4 @@
+## [341.扁平化嵌套列表迭代器 中文官方题解](https://leetcode.cn/problems/flatten-nested-list-iterator/solutions/100000/bian-ping-hua-qian-tao-lie-biao-die-dai-ipjzq)
 #### 方法一：深度优先搜索
 
 **思路**

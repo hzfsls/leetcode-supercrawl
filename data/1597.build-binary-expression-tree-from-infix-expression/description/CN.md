@@ -1,4 +1,4 @@
-## [1597.根据中缀表达式构造二叉表达式树]
+## [1597.根据中缀表达式构造二叉表达式树](https://leetcode.cn/problems/build-binary-expression-tree-from-infix-expression/)
 <p><strong>二叉表达式树</strong> 是一种表达算术表达式的二叉树。二叉表达式树中的每一个节点都有零个或两个子节点。&nbsp;叶节点（有 0 个子节点的节点）表示操作数，非叶节点（有 2 个子节点的节点）表示运算符：&nbsp;<code>'+'</code>&nbsp;（加）、&nbsp;<code>'-'</code> （减）、&nbsp;<code>'*'</code> （乘）和&nbsp;<code>'/'</code> （除）。</p>
 
 <p>对于每一个运算符为 <code>o</code> 的非叶节点，对应的<strong> <a href="http://baike.baidu.com/item/中缀表达式/2725244?fr=aladdin" target="_blank">中缀表达式</a></strong> 为&nbsp;<code>(A o B)</code>，其中&nbsp;<code>A</code>&nbsp;是左子树所表达的表达式，&nbsp;<code>B</code>&nbsp;是右子树所表达的表达式。</p>

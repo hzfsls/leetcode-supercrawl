@@ -1,3 +1,4 @@
+## [1170.比较字符串最小字母出现频次 中文官方题解](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/solutions/100000/bi-jiao-zi-fu-chuan-zui-xiao-zi-mu-chu-x-pb50)
 #### 方法一：后缀和
 
 **思路与算法**

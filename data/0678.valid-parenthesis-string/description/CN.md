@@ -1,4 +1,4 @@
-## [678.有效的括号字符串]
+## [678.有效的括号字符串](https://leetcode.cn/problems/valid-parenthesis-string/)
 <p>给你一个只包含三种字符的字符串，支持的字符类型分别是 <code>'('</code>、<code>')'</code> 和 <code>'*'</code>。请你检验这个字符串是否为有效字符串，如果是有效字符串返回 <code>true</code> 。</p>
 
 <p>有效字符串符合如下规则：</p>

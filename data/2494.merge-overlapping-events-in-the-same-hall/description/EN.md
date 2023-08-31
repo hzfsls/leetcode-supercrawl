@@ -1,4 +1,4 @@
-## [2494.Merge Overlapping Events in the Same Hall]
+## [2494.Merge Overlapping Events in the Same Hall](https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall/)
 <p>Table: <code>HallEvents</code></p>
 
 <pre>

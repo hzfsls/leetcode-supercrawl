@@ -1,4 +1,4 @@
-## [2783.航班入座率和等待名单分析]
+## [2783.航班入座率和等待名单分析](https://leetcode.cn/problems/flight-occupancy-and-waitlist-analysis/)
 <p><code><font face="monospace">Flights</font></code>表</p>
 
 <pre>

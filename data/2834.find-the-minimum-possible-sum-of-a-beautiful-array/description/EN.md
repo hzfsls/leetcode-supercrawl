@@ -1,4 +1,4 @@
-## [2834.Find the Minimum Possible Sum of a Beautiful Array]
+## [2834.Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)
 <p>You are given positive integers <code>n</code> and <code>target</code>.</p>
 
 <p>An array <code>nums</code> is <strong>beautiful</strong> if it meets the following conditions:</p>

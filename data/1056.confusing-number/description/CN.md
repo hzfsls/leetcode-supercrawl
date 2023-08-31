@@ -1,4 +1,4 @@
-## [1056.易混淆数]
+## [1056.易混淆数](https://leetcode.cn/problems/confusing-number/)
 <p>给定一个数字 <code>N</code>，当它满足以下条件的时候返回 <code>true</code>：</p>
 
 <p>原数字旋转 180&deg; 以后可以得到新的数字。</p>

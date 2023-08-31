@@ -1,3 +1,4 @@
+## [146.LRU 缓存 中文官方题解](https://leetcode.cn/problems/lru-cache/solutions/100000/lruhuan-cun-ji-zhi-by-leetcode-solution)
 ### 📺视频题解  
 
 ![146. LRU缓存机制.mp4](42b5ca6a-4d69-4f7d-bf63-5c196aa23b44)

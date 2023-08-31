@@ -1,4 +1,4 @@
-## [1652.Defuse the Bomb]
+## [1652.Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 <p>You have a bomb to defuse, and your time is running out! Your informer will provide you with a <strong>circular</strong> array <code>code</code>&nbsp;of length of <code>n</code>&nbsp;and a key <code>k</code>.</p>
 
 <p>To decrypt the code, you must replace every number. All the numbers are replaced <strong>simultaneously</strong>.</p>

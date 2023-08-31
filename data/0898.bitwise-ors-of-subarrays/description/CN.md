@@ -1,4 +1,4 @@
-## [898.子数组按位或操作]
+## [898.子数组按位或操作](https://leetcode.cn/problems/bitwise-ors-of-subarrays/)
 <p>我们有一个非负整数数组<meta charset="UTF-8" />&nbsp;<code>arr</code>&nbsp;。</p>
 
 <p>对于每个（连续的）子数组<meta charset="UTF-8" />&nbsp;<code>sub = [arr[i], arr[i + 1], ..., arr[j]]</code>&nbsp;（&nbsp;<code>i &lt;= j</code>），我们对<meta charset="UTF-8" />&nbsp;<code>sub</code>&nbsp;中的每个元素进行按位或操作，获得结果<meta charset="UTF-8" />&nbsp;<code>arr[i] | arr[i + 1] | ... | arr[j]</code>&nbsp;。</p>

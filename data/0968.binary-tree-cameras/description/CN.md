@@ -1,4 +1,4 @@
-## [968.监控二叉树]
+## [968.监控二叉树](https://leetcode.cn/problems/binary-tree-cameras/)
 <p>给定一个二叉树，我们在树的节点上安装摄像头。</p>
 
 <p>节点上的每个摄影头都可以监视<strong>其父对象、自身及其直接子对象。</strong></p>

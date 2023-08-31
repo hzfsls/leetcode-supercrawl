@@ -1,4 +1,4 @@
-## [2082.The Number of Rich Customers]
+## [2082.The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)
 <p>Table: <code>Store</code></p>
 
 <pre>

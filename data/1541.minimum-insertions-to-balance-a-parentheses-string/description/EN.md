@@ -1,4 +1,4 @@
-## [1541.Minimum Insertions to Balance a Parentheses String]
+## [1541.Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
 <p>Given a parentheses string <code>s</code> containing only the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. A parentheses string is <strong>balanced</strong> if:</p>
 
 <ul>

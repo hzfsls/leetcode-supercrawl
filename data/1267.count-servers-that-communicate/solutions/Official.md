@@ -1,3 +1,4 @@
+## [1267.统计参与通信的服务器 中文官方题解](https://leetcode.cn/problems/count-servers-that-communicate/solutions/100000/tong-ji-can-yu-tong-xin-de-fu-wu-qi-by-leetcode-so)
 #### 方法一：两次遍历 + 哈希表
 
 **思路与算法**

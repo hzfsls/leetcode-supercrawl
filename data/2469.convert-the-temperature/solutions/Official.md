@@ -1,3 +1,4 @@
+## [2469.温度转换 中文官方题解](https://leetcode.cn/problems/convert-the-temperature/solutions/100000/wen-du-zhuan-huan-by-leetcode-solution-7bz8)
 #### 方法一：模拟
 
 **思路与算法**

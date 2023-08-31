@@ -1,3 +1,4 @@
+## [2347.最好的扑克手牌 中文官方题解](https://leetcode.cn/problems/best-poker-hand/solutions/100000/zui-hao-de-bu-ke-shou-pai-by-leetcode-so-5zz2)
 #### 方法一：哈希表 + 计数
 
 **思路与算法**

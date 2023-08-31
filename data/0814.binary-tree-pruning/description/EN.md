@@ -1,4 +1,4 @@
-## [814.Binary Tree Pruning]
+## [814.Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 <p>Given the <code>root</code> of a binary tree, return <em>the same tree where every subtree (of the given tree) not containing a </em><code>1</code><em> has been removed</em>.</p>
 
 <p>A subtree of a node <code>node</code> is <code>node</code> plus every node that is a descendant of <code>node</code>.</p>

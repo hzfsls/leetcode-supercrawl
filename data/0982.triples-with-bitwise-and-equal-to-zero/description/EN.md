@@ -1,4 +1,4 @@
-## [982.Triples with Bitwise AND Equal To Zero]
+## [982.Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)
 <p>Given an integer array nums, return <em>the number of <strong>AND triples</strong></em>.</p>
 
 <p>An <strong>AND triple</strong> is a triple of indices <code>(i, j, k)</code> such that:</p>

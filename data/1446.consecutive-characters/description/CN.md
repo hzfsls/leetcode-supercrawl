@@ -1,4 +1,4 @@
-## [1446.连续字符]
+## [1446.连续字符](https://leetcode.cn/problems/consecutive-characters/)
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;，字符串的<strong>「能量」</strong>定义为：只包含一种字符的最长非空子字符串的长度。</p>
 
 <p>请你返回字符串 <code>s</code> 的 <strong>能量</strong>。</p>

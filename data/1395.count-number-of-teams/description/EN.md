@@ -1,4 +1,4 @@
-## [1395.Count Number of Teams]
+## [1395.Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 <p>There are <code>n</code> soldiers standing in a line. Each soldier is assigned a <strong>unique</strong> <code>rating</code> value.</p>
 
 <p>You have to form a team of 3 soldiers amongst them under the following rules:</p>

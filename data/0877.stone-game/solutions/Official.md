@@ -1,3 +1,4 @@
+## [877.石子游戏 中文官方题解](https://leetcode.cn/problems/stone-game/solutions/100000/shi-zi-you-xi-by-leetcode-solution)
 #### 前言
 
 这道题是「[486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner)」的特例。和第 486 题相比，这道题增加了两个限制条件：

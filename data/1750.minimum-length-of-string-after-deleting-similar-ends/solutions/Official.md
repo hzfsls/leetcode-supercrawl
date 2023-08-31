@@ -1,3 +1,4 @@
+## [1750.删除字符串两端相同字符后的最短长度 中文官方题解](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/solutions/100000/shan-chu-zi-fu-chuan-liang-duan-xiang-to-biep)
 #### 方法一：双指针
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [2184.建造坚实的砖墙的方法数]
+## [2184.建造坚实的砖墙的方法数](https://leetcode.cn/problems/number-of-ways-to-build-sturdy-brick-wall/)
 <p>给你两个整数&nbsp;<code>height</code>&nbsp;与<code>width</code>&nbsp;，表示你要建造的砖墙的高和宽。再给你一个下标从 <strong>0</strong> 开始的数组 <code>bricks</code> ，其中第 <code>i</code> 块砖的高度是 <code>1</code> ，宽度为 <code>bricks[i]</code> 。每种砖的数量都是 <strong>无限 </strong>的，并且砖 <strong>不可以</strong> 进行旋转。</p>
 
 <p>墙的每一行必须正好&nbsp;<code>width</code> 单位长。为了让墙体<strong> 坚实 </strong>，除了在首尾的位置，相邻的行砖缝<strong> 不能 </strong>在同一个位置。</p>

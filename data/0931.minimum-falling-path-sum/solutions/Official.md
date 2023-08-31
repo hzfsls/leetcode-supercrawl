@@ -1,3 +1,4 @@
+## [931.下降路径最小和 中文官方题解](https://leetcode.cn/problems/minimum-falling-path-sum/solutions/100000/xia-jiang-lu-jing-zui-xiao-he-by-leetcod-vyww)
 #### 方法一：动态规划 
 
 **思路**

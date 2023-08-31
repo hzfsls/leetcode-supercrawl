@@ -1,4 +1,4 @@
-## [408.Valid Word Abbreviation]
+## [408.Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)
 <p>A string can be <strong>abbreviated</strong> by replacing any number of <strong>non-adjacent</strong>, <strong>non-empty</strong> substrings with their lengths. The lengths <strong>should not</strong> have leading zeros.</p>
 
 <p>For example, a string such as <code>&quot;substitution&quot;</code> could be abbreviated as (but not limited to):</p>

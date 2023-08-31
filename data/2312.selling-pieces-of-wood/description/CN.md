@@ -1,4 +1,4 @@
-## [2312.卖木头块]
+## [2312.卖木头块](https://leetcode.cn/problems/selling-pieces-of-wood/)
 <p>给你两个整数&nbsp;<code>m</code> 和&nbsp;<code>n</code>&nbsp;，分别表示一块矩形木块的高和宽。同时给你一个二维整数数组&nbsp;<code>prices</code>&nbsp;，其中&nbsp;<code>prices[i] = [h<sub>i</sub>, w<sub>i</sub>, price<sub>i</sub>]</code>&nbsp;表示你可以以&nbsp;<code>price<sub>i</sub></code>&nbsp;元的价格卖一块高为&nbsp;<code>h<sub>i</sub></code>&nbsp;宽为&nbsp;<code>w<sub>i</sub></code>&nbsp;的矩形木块。</p>
 
 <p>每一次操作中，你必须按下述方式之一执行切割操作，以得到两块更小的矩形木块：</p>

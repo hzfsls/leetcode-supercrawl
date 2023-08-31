@@ -1,4 +1,4 @@
-## [1783.大满贯数量]
+## [1783.大满贯数量](https://leetcode.cn/problems/grand-slam-titles/)
 <p>表：<code>Players</code></p>
 
 <pre>

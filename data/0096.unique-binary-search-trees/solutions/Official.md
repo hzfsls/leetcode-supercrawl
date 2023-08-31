@@ -1,3 +1,4 @@
+## [96.不同的二叉搜索树 中文官方题解](https://leetcode.cn/problems/unique-binary-search-trees/solutions/100000/bu-tong-de-er-cha-sou-suo-shu-by-leetcode-solution)
 #### 方法一：动态规划
 
 **思路**

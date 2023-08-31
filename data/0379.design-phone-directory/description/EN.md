@@ -1,4 +1,4 @@
-## [379.Design Phone Directory]
+## [379.Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)
 <p>Design a phone directory that initially has <code>maxNumbers</code> empty slots that can store numbers. The directory should store numbers, check if a certain slot is empty or not, and empty a given slot.</p>
 
 <p>Implement the <code>PhoneDirectory</code> class:</p>

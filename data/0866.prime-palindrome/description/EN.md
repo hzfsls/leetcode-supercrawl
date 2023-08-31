@@ -1,4 +1,4 @@
-## [866.Prime Palindrome]
+## [866.Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)
 <p>Given an integer n, return <em>the smallest <strong>prime palindrome</strong> greater than or equal to </em><code>n</code>.</p>
 
 <p>An integer is <strong>prime</strong> if it has exactly two divisors: <code>1</code> and itself. Note that <code>1</code> is not a prime number.</p>

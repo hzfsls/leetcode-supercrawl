@@ -1,4 +1,4 @@
-## [2082.富有客户的数量]
+## [2082.富有客户的数量](https://leetcode.cn/problems/the-number-of-rich-customers/)
 <p>表： <code>Store</code></p>
 
 <pre>

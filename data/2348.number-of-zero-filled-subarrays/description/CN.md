@@ -1,4 +1,4 @@
-## [2348.全 0 子数组的数目]
+## [2348.全 0 子数组的数目](https://leetcode.cn/problems/number-of-zero-filled-subarrays/)
 <p>给你一个整数数组&nbsp;<code>nums</code>&nbsp;，返回全部为&nbsp;<code>0</code>&nbsp;的&nbsp;<strong>子数组</strong>&nbsp;数目。</p>
 
 <p><strong>子数组</strong>&nbsp;是一个数组中一段连续非空元素组成的序列。</p>

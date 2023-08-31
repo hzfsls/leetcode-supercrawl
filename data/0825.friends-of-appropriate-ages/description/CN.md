@@ -1,4 +1,4 @@
-## [825.适龄的朋友]
+## [825.适龄的朋友](https://leetcode.cn/problems/friends-of-appropriate-ages/)
 <p>在社交媒体网站上有 <code>n</code> 个用户。给你一个整数数组 <code>ages</code> ，其中 <code>ages[i]</code> 是第 <code>i</code> 个用户的年龄。</p>
 
 <p>如果下述任意一个条件为真，那么用户 <code>x</code> 将不会向用户 <code>y</code>（<code>x != y</code>）发送好友请求：</p>

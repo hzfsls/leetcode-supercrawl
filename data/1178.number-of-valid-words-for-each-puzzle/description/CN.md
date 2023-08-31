@@ -1,4 +1,4 @@
-## [1178.猜字谜]
+## [1178.猜字谜](https://leetcode.cn/problems/number-of-valid-words-for-each-puzzle/)
 <p>外国友人仿照中国字谜设计了一个英文版猜字谜小游戏，请你来猜猜看吧。</p>
 
 <p>字谜的迷面 <code>puzzle</code> 按字符串形式给出，如果一个单词 <code>word</code> 符合下面两个条件，那么它就可以算作谜底：</p>

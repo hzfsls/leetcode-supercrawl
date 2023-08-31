@@ -1,4 +1,4 @@
-## [821.字符的最短距离]
+## [821.字符的最短距离](https://leetcode.cn/problems/shortest-distance-to-a-character/)
 <p>给你一个字符串 <code>s</code> 和一个字符 <code>c</code> ，且 <code>c</code> 是 <code>s</code> 中出现过的字符。</p>
 
 <p>返回一个整数数组 <code>answer</code> ，其中 <code>answer.length == s.length</code> 且 <code>answer[i]</code> 是 <code>s</code> 中从下标 <code>i</code> 到离它 <strong>最近</strong> 的字符 <code>c</code> 的 <strong>距离</strong> 。</p>

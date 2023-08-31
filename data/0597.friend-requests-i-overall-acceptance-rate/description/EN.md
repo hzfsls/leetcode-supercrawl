@@ -1,4 +1,4 @@
-## [597.Friend Requests I: Overall Acceptance Rate]
+## [597.Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)
 <p>Table: <code>FriendRequest</code></p>
 
 <pre>

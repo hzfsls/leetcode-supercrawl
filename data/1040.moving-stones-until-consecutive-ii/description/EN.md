@@ -1,4 +1,4 @@
-## [1040.Moving Stones Until Consecutive II]
+## [1040.Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)
 <p>There are some stones in different positions on the X-axis. You are given an integer array <code>stones</code>, the positions of the stones.</p>
 
 <p>Call a stone an <strong>endpoint stone</strong> if it has the smallest or largest position. In one move, you pick up an <strong>endpoint stone</strong> and move it to an unoccupied position so that it is no longer an <strong>endpoint stone</strong>.</p>

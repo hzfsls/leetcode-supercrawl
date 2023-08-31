@@ -1,4 +1,4 @@
-## [2764.数组是否表示某二叉树的前序遍历]
+## [2764.数组是否表示某二叉树的前序遍历](https://leetcode.cn/problems/is-array-a-preorder-of-some-binary-tree/)
 <p>给定一个以 <strong>0</strong> 为起始索引的整数 <strong>二维数组</strong> <code>nodes</code> ，你的任务是确定给定的数组是否表示某个 <strong>二叉</strong> 树的 <strong>前序</strong> 遍历。</p>
 
 <p>对于每个索引 <code>i</code> ，<code>nodes[i] = [id, parentId]</code> ，其中 <code>id</code> 是索引 <code>i</code> 处节点的 id，<code>parentId</code> 是其在树中的父节点 id（如果该节点没有父节点，则 <code>parentId = -1</code> ）。</p>

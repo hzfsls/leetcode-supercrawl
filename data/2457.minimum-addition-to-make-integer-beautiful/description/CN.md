@@ -1,4 +1,4 @@
-## [2457.美丽整数的最小增量]
+## [2457.美丽整数的最小增量](https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/)
 <p>给你两个正整数 <code>n</code> 和 <code>target</code> 。</p>
 
 <p>如果某个整数每一位上的数字相加小于或等于 <code>target</code> ，则认为这个整数是一个 <strong>美丽整数</strong> 。</p>

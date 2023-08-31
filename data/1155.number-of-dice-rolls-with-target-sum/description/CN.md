@@ -1,4 +1,4 @@
-## [1155.掷骰子等于目标和的方法数]
+## [1155.掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/)
 <p>这里有&nbsp;<code>n</code>&nbsp;个一样的骰子，每个骰子上都有&nbsp;<code>k</code>&nbsp;个面，分别标号为&nbsp;<code>1</code>&nbsp;到 <code>k</code> 。</p>
 
 <p>给定三个整数 <code>n</code> ,&nbsp; <code>k</code> 和&nbsp;<code>target</code>&nbsp;，返回可能的方式(从总共<em>&nbsp;</em><code>k<sup>n</sup></code><em>&nbsp;</em>种方式中)滚动骰子的数量，使正面朝上的数字之和等于<em>&nbsp;</em><code>target</code>&nbsp;。</p>

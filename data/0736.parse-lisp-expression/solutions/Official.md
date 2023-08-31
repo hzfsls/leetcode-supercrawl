@@ -1,3 +1,4 @@
+## [736.Lisp 语法解析 中文官方题解](https://leetcode.cn/problems/parse-lisp-expression/solutions/100000/lisp-yu-fa-jie-xi-by-leetcode-solution-zycb)
 #### 方法一：递归解析
 
 对于一个表达式 $\textit{expression}$，如果它的首字符不等于左括号 $\text{`('}$，那么它只能是一个整数或者变量；否则它是 $\text{let}$，$\text{add}$ 和 $\text{mult}$ 三种表达式之一。

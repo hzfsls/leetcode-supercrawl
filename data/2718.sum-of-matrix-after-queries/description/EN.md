@@ -1,4 +1,4 @@
-## [2718.Sum of Matrix After Queries]
+## [2718.Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)
 <p>You are given an integer <code>n</code> and a <strong>0-indexed</strong>&nbsp;<strong>2D array</strong> <code>queries</code> where <code>queries[i] = [type<sub>i</sub>, index<sub>i</sub>, val<sub>i</sub>]</code>.</p>
 
 <p>Initially, there is a <strong>0-indexed</strong> <code>n x n</code> matrix filled with <code>0</code>&#39;s. For each query, you must apply one of the following changes:</p>

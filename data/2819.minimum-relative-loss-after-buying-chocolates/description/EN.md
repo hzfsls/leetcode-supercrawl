@@ -1,4 +1,4 @@
-## [2819.Minimum Relative Loss After Buying Chocolates]
+## [2819.Minimum Relative Loss After Buying Chocolates](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/)
 <p>You are given an integer array <code>prices</code>, which shows the chocolate prices and a 2D integer array <code>queries</code>, where <code>queries[i] = [k<sub>i</sub>, m<sub>i</sub>]</code>.</p>
 
 <p>Alice and Bob went to buy some chocolates, and Alice suggested a way to pay for them, and Bob agreed.</p>

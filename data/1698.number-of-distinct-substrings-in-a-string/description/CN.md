@@ -1,4 +1,4 @@
-## [1698.字符串的不同子字符串个数]
+## [1698.字符串的不同子字符串个数](https://leetcode.cn/problems/number-of-distinct-substrings-in-a-string/)
 <p>给定一个字符串 <code>s</code>，返回 <code>s</code> 的不同子字符串的个数。</p>
 
 <p>字符串的 <strong>子字符串 </strong>是由原字符串删除开头若干个字符（可能是 0 个）并删除结尾若干个字符（可能是 0 个）形成的字符串。</p>

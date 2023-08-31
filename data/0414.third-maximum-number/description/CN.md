@@ -1,4 +1,4 @@
-## [414.第三大的数]
+## [414.第三大的数](https://leetcode.cn/problems/third-maximum-number/)
 <p>给你一个非空数组，返回此数组中 <strong>第三大的数</strong> 。如果不存在，则返回数组中最大的数。</p>
 
 <p> </p>

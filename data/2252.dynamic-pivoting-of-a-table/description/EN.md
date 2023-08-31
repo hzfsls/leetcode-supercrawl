@@ -1,4 +1,4 @@
-## [2252.Dynamic Pivoting of a Table]
+## [2252.Dynamic Pivoting of a Table](https://leetcode.com/problems/dynamic-pivoting-of-a-table/)
 <p>Table: <code>Products</code></p>
 
 <pre>

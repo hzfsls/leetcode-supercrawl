@@ -1,3 +1,4 @@
+## [539.最小时间差 中文官方题解](https://leetcode.cn/problems/minimum-time-difference/solutions/100000/zui-xiao-shi-jian-chai-by-leetcode-solut-xolj)
 #### 方法一：排序
 
 将 $\textit{timePoints}$ 排序后，最小时间差必然出现在 $\textit{timePoints}$ 的两个相邻时间，或者 $\textit{timePoints}$ 的两个首尾时间中。因此排序后遍历一遍 $\textit{timePoints}$ 即可得到最小时间差。

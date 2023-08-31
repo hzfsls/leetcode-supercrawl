@@ -1,4 +1,4 @@
-## [1261.Find Elements in a Contaminated Binary Tree]
+## [1261.Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)
 <p>Given a binary tree with the following rules:</p>
 
 <ol>

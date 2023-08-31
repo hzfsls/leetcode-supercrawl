@@ -1,4 +1,4 @@
-## [1330.Reverse Subarray To Maximize Array Value]
+## [1330.Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/)
 <p>You are given an integer array <code>nums</code>. The <em>value</em> of this array is defined as the sum of <code>|nums[i] - nums[i + 1]|</code> for all <code>0 &lt;= i &lt; nums.length - 1</code>.</p>
 
 <p>You are allowed to select any subarray of the given array and reverse it. You can perform this operation <strong>only once</strong>.</p>

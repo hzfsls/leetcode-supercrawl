@@ -1,4 +1,4 @@
-## [1163.Last Substring in Lexicographical Order]
+## [1163.Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
 <p>Given a string <code>s</code>, return <em>the last substring of</em> <code>s</code> <em>in lexicographical order</em>.</p>
 
 <p>&nbsp;</p>

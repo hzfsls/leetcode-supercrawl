@@ -1,4 +1,4 @@
-## [2083.求以相同字母开头和结尾的子串总数]
+## [2083.求以相同字母开头和结尾的子串总数](https://leetcode.cn/problems/substrings-that-begin-and-end-with-the-same-letter/)
 <p>给你一个仅由小写英文字母组成的，&nbsp; 下标从 <code>0</code> 开始的字符串 <code>s</code> 。返回 <code>s</code> 中以相同字符开头和结尾的子字符串总数。</p>
 
 <p>子字符串是字符串中连续的非空字符序列。</p>

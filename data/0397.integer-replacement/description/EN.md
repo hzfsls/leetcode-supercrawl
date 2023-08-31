@@ -1,4 +1,4 @@
-## [397.Integer Replacement]
+## [397.Integer Replacement](https://leetcode.com/problems/integer-replacement/)
 <p>Given a positive integer <code>n</code>,&nbsp;you can apply one of the following&nbsp;operations:</p>
 
 <ol>

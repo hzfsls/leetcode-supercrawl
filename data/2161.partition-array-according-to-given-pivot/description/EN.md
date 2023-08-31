@@ -1,4 +1,4 @@
-## [2161.Partition Array According to Given Pivot]
+## [2161.Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>pivot</code>. Rearrange <code>nums</code> such that the following conditions are satisfied:</p>
 
 <ul>

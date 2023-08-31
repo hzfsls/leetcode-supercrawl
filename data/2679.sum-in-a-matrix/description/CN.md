@@ -1,4 +1,4 @@
-## [2679.矩阵中的和]
+## [2679.矩阵中的和](https://leetcode.cn/problems/sum-in-a-matrix/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的二维整数数组&nbsp;<code>nums</code>&nbsp;。一开始你的分数为&nbsp;<code>0</code>&nbsp;。你需要执行以下操作直到矩阵变为空：</p>
 
 <ol>

@@ -1,3 +1,4 @@
+## [447.回旋镖的数量 中文官方题解](https://leetcode.cn/problems/number-of-boomerangs/solutions/100000/hui-xuan-biao-de-shu-liang-by-leetcode-s-lft5)
 #### 方法一：枚举 + 哈希表
 
 题目所描述的回旋镖可以视作一个 $\texttt{V}$ 型的折线。我们可以枚举每个 $\textit{points}[i]$，将其当作 $\texttt{V}$ 型的拐点。设 $\textit{points}$ 中有 $m$ 个点到 $\textit{points}[i]$ 的距离均相等，我们需要从这 $m$ 点中选出 $2$ 个点当作回旋镖的 $2$ 个端点，由于题目要求考虑元组的顺序，因此方案数即为在 $m$ 个元素中选出 $2$ 个不同元素的排列数，即：

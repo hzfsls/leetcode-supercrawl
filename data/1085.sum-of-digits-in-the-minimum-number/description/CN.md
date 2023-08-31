@@ -1,4 +1,4 @@
-## [1085.最小元素各数位之和]
+## [1085.最小元素各数位之和](https://leetcode.cn/problems/sum-of-digits-in-the-minimum-number/)
 <p>给你一个正整数的数组 <code>A</code>。</p>
 
 <p>然后计算 <code>S</code>，使其等于数组 <code>A</code> 当中最小的那个元素各个数位上数字之和。</p>

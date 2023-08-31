@@ -1,4 +1,4 @@
-## [395.Longest Substring with At Least K Repeating Characters]
+## [395.Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 <p>Given a string <code>s</code> and an integer <code>k</code>, return <em>the length of the longest substring of</em> <code>s</code> <em>such that the frequency of each character in this substring is greater than or equal to</em> <code>k</code>.</p>
 
 <p data-pm-slice="1 1 []">if no such substring exists, return 0.</p>

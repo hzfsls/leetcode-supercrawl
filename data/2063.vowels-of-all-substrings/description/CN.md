@@ -1,4 +1,4 @@
-## [2063.所有子字符串中的元音]
+## [2063.所有子字符串中的元音](https://leetcode.cn/problems/vowels-of-all-substrings/)
 <p>给你一个字符串 <code>word</code> ，返回 <code>word</code> 的所有子字符串中 <strong>元音的总数</strong> ，元音是指 <code>'a'</code>、<code>'e'</code><em>、</em><code>'i'</code><em>、</em><code>'o'</code><em> </em>和 <code>'u'</code><em> 。</em></p>
 
 <p><strong>子字符串</strong> 是字符串中一个连续（非空）的字符序列。</p>

@@ -1,3 +1,4 @@
+## [1291.顺次数 中文官方题解](https://leetcode.cn/problems/sequential-digits/solutions/100000/shun-ci-shu-by-leetcode-solution)
 ### 方法一：枚举
 
 我们可以枚举所有的「顺次数」，并依次判断它们是否在 `[low, high]` 的范围内。

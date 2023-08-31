@@ -1,4 +1,4 @@
-## [1522.Diameter of N-Ary Tree]
+## [1522.Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/)
 <p>Given a <code>root</code> of an <a href="https://leetcode.com/articles/introduction-to-n-ary-trees/" target="_blank">N-ary tree</a>, you need to compute the length of the diameter of the tree.</p>
 
 <p>The diameter of an N-ary tree is the length of the <strong>longest</strong> path between any two nodes in the tree. This path may or may not pass through the root.</p>

@@ -1,4 +1,4 @@
-## [1571.仓库经理]
+## [1571.仓库经理](https://leetcode.cn/problems/warehouse-manager/)
 <p>表:&nbsp;<code>Warehouse</code></p>
 
 <pre>

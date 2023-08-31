@@ -1,3 +1,4 @@
+## [728.自除数 中文官方题解](https://leetcode.cn/problems/self-dividing-numbers/solutions/100000/zi-chu-shu-by-leetcode-solution-820g)
 #### 方法一：直接判断
 
 遍历范围 $[\textit{left}, \textit{right}]$ 内的所有整数，分别判断每个整数是否为自除数。

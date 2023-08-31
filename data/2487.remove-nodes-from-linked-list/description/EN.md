@@ -1,4 +1,4 @@
-## [2487.Remove Nodes From Linked List]
+## [2487.Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)
 <p>You are given the <code>head</code> of a linked list.</p>
 
 <p>Remove every node which has a node with a <strong>strictly greater</strong> value anywhere to the right side of it.</p>

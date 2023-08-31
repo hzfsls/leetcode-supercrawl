@@ -1,3 +1,4 @@
+## [359.日志速率限制器 中文官方题解](https://leetcode.cn/problems/logger-rate-limiter/solutions/100000/ri-zhi-su-lu-xian-zhi-qi-by-leetcode-sol-gl8v)
 [TOC]
 
 ## 解决方案

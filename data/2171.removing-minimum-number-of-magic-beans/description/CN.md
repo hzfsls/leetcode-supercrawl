@@ -1,4 +1,4 @@
-## [2171.拿出最少数目的魔法豆]
+## [2171.拿出最少数目的魔法豆](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)
 <p>给你一个 <strong>正</strong>&nbsp;整数数组&nbsp;<code>beans</code>&nbsp;，其中每个整数表示一个袋子里装的魔法豆的数目。</p>
 
 <p>请你从每个袋子中&nbsp;<strong>拿出</strong>&nbsp;一些豆子（也可以<strong>&nbsp;不拿出</strong>），使得剩下的 <strong>非空</strong> 袋子中（即 <strong>至少</strong>&nbsp;还有 <strong>一颗</strong>&nbsp;魔法豆的袋子）魔法豆的数目&nbsp;<strong>相等</strong>&nbsp;。一旦魔法豆从袋子中取出，你不能将它放到任何其他的袋子中。</p>

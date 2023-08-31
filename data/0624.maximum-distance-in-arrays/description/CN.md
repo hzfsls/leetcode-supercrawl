@@ -1,4 +1,4 @@
-## [624.数组列表中的最大距离]
+## [624.数组列表中的最大距离](https://leetcode.cn/problems/maximum-distance-in-arrays/)
 <p>给定&nbsp;<code>m</code>&nbsp;个数组，每个数组都已经按照升序排好序了。现在你需要从两个不同的数组中选择两个整数（每个数组选一个）并且计算它们的距离。两个整数&nbsp;<code>a</code>&nbsp;和&nbsp;<code>b</code>&nbsp;之间的距离定义为它们差的绝对值&nbsp;<code>|a-b|</code>&nbsp;。你的任务就是去找到最大距离</p>
 
 <p><strong>示例 1：</strong></p>

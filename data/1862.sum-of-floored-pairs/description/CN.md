@@ -1,4 +1,4 @@
-## [1862.向下取整数对和]
+## [1862.向下取整数对和](https://leetcode.cn/problems/sum-of-floored-pairs/)
 <p>给你一个整数数组 <code>nums</code> ，请你返回所有下标对 <code>0 &lt;= i, j &lt; nums.length</code> 的 <code>floor(nums[i] / nums[j])</code> 结果之和。由于答案可能会很大，请你返回答案对<code>10<sup>9</sup> + 7</code> <strong>取余</strong> 的结果。</p>
 
 <p>函数 <code>floor()</code> 返回输入数字的整数部分。</p>

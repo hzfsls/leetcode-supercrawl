@@ -1,3 +1,4 @@
+## [2079.给植物浇水 中文官方题解](https://leetcode.cn/problems/watering-plants/solutions/100000/gei-zhi-wu-jiao-shui-by-leetcode-solutio-y84o)
 #### 方法一：维护剩余的水量
 
 **思路与算法**

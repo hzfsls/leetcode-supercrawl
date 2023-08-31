@@ -1,4 +1,4 @@
-## [805.Split Array With Same Average]
+## [805.Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
 <p>You are given an integer array <code>nums</code>.</p>
 
 <p>You should move each element of <code>nums</code> into one of the two arrays <code>A</code> and <code>B</code> such that <code>A</code> and <code>B</code> are non-empty, and <code>average(A) == average(B)</code>.</p>

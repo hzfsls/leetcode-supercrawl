@@ -1,3 +1,4 @@
+## [135.分发糖果 中文官方题解](https://leetcode.cn/problems/candy/solutions/100000/fen-fa-tang-guo-by-leetcode-solution-f01p)
 #### 方法一：两次遍历
 
 **思路及解法**

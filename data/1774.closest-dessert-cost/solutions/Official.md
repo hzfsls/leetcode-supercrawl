@@ -1,3 +1,4 @@
+## [1774.最接近目标价格的甜点成本 中文官方题解](https://leetcode.cn/problems/closest-dessert-cost/solutions/100000/zui-jie-jin-mu-biao-jie-ge-de-tian-dian-2ck06)
 #### 方法一：回溯
 
 **思路与算法**

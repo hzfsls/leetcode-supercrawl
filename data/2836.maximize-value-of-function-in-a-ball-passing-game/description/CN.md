@@ -1,4 +1,4 @@
-## [2836.在传球游戏中最大化函数值]
+## [2836.在传球游戏中最大化函数值](https://leetcode.cn/problems/maximize-value-of-function-in-a-ball-passing-game/)
 <p>给你一个长度为 <code>n</code>&nbsp;下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>receiver</code>&nbsp;和一个整数&nbsp;<code>k</code>&nbsp;。</p>
 
 <p>总共有&nbsp;<code>n</code>&nbsp;名玩家，玩家 <strong>编号</strong>&nbsp;互不相同，且为&nbsp;<code>[0, n - 1]</code>&nbsp;中的整数。这些玩家玩一个传球游戏，<code>receiver[i]</code>&nbsp;表示编号为 <code>i</code>&nbsp;的玩家会传球给编号为 <code>receiver[i]</code>&nbsp;的玩家。玩家可以传球给自己，也就是说&nbsp;<code>receiver[i]</code>&nbsp;可能等于&nbsp;<code>i</code>&nbsp;。</p>

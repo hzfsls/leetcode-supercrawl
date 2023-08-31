@@ -1,4 +1,4 @@
-## [320.列举单词的全部缩写]
+## [320.列举单词的全部缩写](https://leetcode.cn/problems/generalized-abbreviation/)
 <p>单词的 <strong>广义缩写词</strong> 可以通过下述步骤构造：先取任意数量的 <strong>不重叠、不相邻</strong> 的子字符串，再用它们各自的长度进行替换。</p>
 
 <ul>

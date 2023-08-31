@@ -1,3 +1,4 @@
+## [899.有序队列 中文官方题解](https://leetcode.cn/problems/orderly-queue/solutions/100000/you-xu-dui-lie-by-leetcode-solution-p6gv)
 #### 方法一：分情况讨论
 
 计算字典序最小的字符串时，需要分别考虑 $k = 1$ 和 $k > 1$ 的两种情况。

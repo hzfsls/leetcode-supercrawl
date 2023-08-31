@@ -1,3 +1,4 @@
+## [2135.统计追加字母可以获得的单词数 中文官方题解](https://leetcode.cn/problems/count-words-obtained-after-adding-a-letter/solutions/100000/tong-ji-zhui-jia-zi-mu-ke-yi-huo-de-de-d-9ivl)
 #### 方法一：维护所有可构成的状态
 
 **思路与算法**

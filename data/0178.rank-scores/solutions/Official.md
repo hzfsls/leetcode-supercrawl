@@ -1,3 +1,4 @@
+## [178.分数排名 中文官方题解](https://leetcode.cn/problems/rank-scores/solutions/100000/fen-shu-pai-ming-by-leetcode-solution-qekv)
 [TOC]
 
 ## 解决方案

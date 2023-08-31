@@ -1,3 +1,4 @@
+## [153.寻找旋转排序数组中的最小值 中文官方题解](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/solutions/100000/xun-zhao-xuan-zhuan-pai-xu-shu-zu-zhong-5irwp)
 #### 方法一：二分查找
 
 **思路与算法**

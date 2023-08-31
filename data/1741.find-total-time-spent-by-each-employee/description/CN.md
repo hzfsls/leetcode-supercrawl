@@ -1,4 +1,4 @@
-## [1741.查找每个员工花费的总时间]
+## [1741.查找每个员工花费的总时间](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/)
 <p>表: <code>Employees</code></p>
 
 <pre>

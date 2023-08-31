@@ -1,4 +1,4 @@
-## [1098.Unpopular Books]
+## [1098.Unpopular Books](https://leetcode.com/problems/unpopular-books/)
 <p>Table: <code>Books</code></p>
 
 <pre>

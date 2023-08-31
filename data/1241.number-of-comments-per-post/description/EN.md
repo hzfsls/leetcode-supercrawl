@@ -1,4 +1,4 @@
-## [1241.Number of Comments per Post]
+## [1241.Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/)
 <p>Table: <code>Submissions</code></p>
 
 <pre>

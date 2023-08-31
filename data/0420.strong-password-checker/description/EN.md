@@ -1,4 +1,4 @@
-## [420.Strong Password Checker]
+## [420.Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
 <p>A password is considered strong if the below conditions are all met:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1833.雪糕的最大数量 中文官方题解](https://leetcode.cn/problems/maximum-ice-cream-bars/solutions/100000/xue-gao-de-zui-da-shu-liang-by-leetcode-ia3m7)
 #### 方法一：排序 + 贪心
 
 在给定硬币数量 $\textit{coins}$ 的情况下，要买到最多的雪糕，应该买最便宜的雪糕，理由如下。

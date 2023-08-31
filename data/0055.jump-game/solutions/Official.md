@@ -1,3 +1,4 @@
+## [55.跳跃游戏 中文官方题解](https://leetcode.cn/problems/jump-game/solutions/100000/tiao-yue-you-xi-by-leetcode-solution)
 ### 📺 视频题解
 ![55. 跳跃游戏 v2(1).mp4](faf3fd9c-dbee-4d4f-8acd-975b78a5bb35)
 

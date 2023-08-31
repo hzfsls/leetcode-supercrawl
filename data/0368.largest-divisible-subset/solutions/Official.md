@@ -1,3 +1,4 @@
+## [368.最大整除子集 中文官方题解](https://leetcode.cn/problems/largest-divisible-subset/solutions/100000/zui-da-zheng-chu-zi-ji-by-leetcode-solut-t4pz)
 #### 前言
 
 首先需要理解什么叫「整除子集」。根据题目的描述，如果一个所有元素**互不相同**的集合中的**任意**元素存在整除关系，就称为整除子集。为了得到「最大整除子集」，我们需要考虑**如何从一个小的整除子集扩充成为更大的整除子集**。

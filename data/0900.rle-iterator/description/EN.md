@@ -1,4 +1,4 @@
-## [900.RLE Iterator]
+## [900.RLE Iterator](https://leetcode.com/problems/rle-iterator/)
 <p>We can use run-length encoding (i.e., <strong>RLE</strong>) to encode a sequence of integers. In a run-length encoded array of even length <code>encoding</code> (<strong>0-indexed</strong>), for all even <code>i</code>, <code>encoding[i]</code> tells us the number of times that the non-negative integer value <code>encoding[i + 1]</code> is repeated in the sequence.</p>
 
 <ul>

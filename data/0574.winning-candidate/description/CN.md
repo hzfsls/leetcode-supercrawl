@@ -1,4 +1,4 @@
-## [574.当选者]
+## [574.当选者](https://leetcode.cn/problems/winning-candidate/)
 <p>表: <code>Candidate</code></p>
 
 <pre>

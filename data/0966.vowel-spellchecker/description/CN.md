@@ -1,4 +1,4 @@
-## [966.元音拼写检查器]
+## [966.元音拼写检查器](https://leetcode.cn/problems/vowel-spellchecker/)
 <p>在给定单词列表&nbsp;<code>wordlist</code>&nbsp;的情况下，我们希望实现一个拼写检查器，将查询单词转换为正确的单词。</p>
 
 <p>对于给定的查询单词&nbsp;<code>query</code>，拼写检查器将会处理两类拼写错误：</p>

@@ -1,4 +1,4 @@
-## [2407.最长递增子序列 II]
+## [2407.最长递增子序列 II](https://leetcode.cn/problems/longest-increasing-subsequence-ii/)
 <p>给你一个整数数组&nbsp;<code>nums</code>&nbsp;和一个整数&nbsp;<code>k</code>&nbsp;。</p>
 
 <p>找到&nbsp;<code>nums</code>&nbsp;中满足以下要求的最长子序列：</p>

@@ -1,4 +1,4 @@
-## [472.Concatenated Words]
+## [472.Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 <p>Given an array of strings <code>words</code> (<strong>without duplicates</strong>), return <em>all the <strong>concatenated words</strong> in the given list of</em> <code>words</code>.</p>
 
 <p>A <strong>concatenated word</strong> is defined as a string that is comprised entirely of at least two shorter words (not necesssarily distinct)&nbsp;in the given array.</p>

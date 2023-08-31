@@ -1,4 +1,4 @@
-## [1223.掷骰子模拟]
+## [1223.掷骰子模拟](https://leetcode.cn/problems/dice-roll-simulation/)
 <p>有一个骰子模拟器会每次投掷的时候生成一个 1 到 6 的随机数。</p>
 
 <p>不过我们在使用它时有个约束，就是使得投掷骰子时，<strong>连续</strong> 掷出数字&nbsp;<code>i</code>&nbsp;的次数不能超过&nbsp;<code>rollMax[i]</code>（<code>i</code>&nbsp;从 1 开始编号）。</p>

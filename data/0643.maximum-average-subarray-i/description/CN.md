@@ -1,4 +1,4 @@
-## [643.子数组最大平均数 I]
+## [643.子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/)
 <p>给你一个由 <code>n</code> 个元素组成的整数数组 <code>nums</code> 和一个整数 <code>k</code> 。</p>
 
 <p>请你找出平均数最大且 <strong>长度为 <code>k</code></strong> 的连续子数组，并输出该最大平均数。</p>

@@ -1,3 +1,4 @@
+## [1968.构造元素不等于两相邻元素平均值的数组 中文官方题解](https://leetcode.cn/problems/array-with-elements-not-equal-to-average-of-neighbors/solutions/100000/gou-zao-yuan-su-bu-deng-yu-liang-xiang-l-u6vz)
 #### 方法一：排序
 
 **思路与算法**

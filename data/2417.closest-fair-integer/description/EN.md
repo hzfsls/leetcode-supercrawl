@@ -1,4 +1,4 @@
-## [2417.Closest Fair Integer]
+## [2417.Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/)
 <p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
 
 <p>We call an integer <code>k</code> fair if the number of <strong>even</strong> digits in <code>k</code> is equal to the number of <strong>odd</strong> digits in it.</p>

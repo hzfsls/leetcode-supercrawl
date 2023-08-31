@@ -1,4 +1,4 @@
-## [945.使数组唯一的最小增量]
+## [945.使数组唯一的最小增量](https://leetcode.cn/problems/minimum-increment-to-make-array-unique/)
 <p>给你一个整数数组 <code>nums</code> 。每次 move 操作将会选择任意一个满足 <code>0 &lt;= i &lt; nums.length</code> 的下标 <code>i</code>，并将&nbsp;<code>nums[i]</code> 递增&nbsp;<code>1</code>。</p>
 
 <p>返回使 <code>nums</code> 中的每个值都变成唯一的所需要的最少操作次数。</p>

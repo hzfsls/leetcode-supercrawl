@@ -1,4 +1,4 @@
-## [2720.受欢迎度百分比]
+## [2720.受欢迎度百分比](https://leetcode.cn/problems/popularity-percentage/)
 <p>表：<code>Friends</code></p>
 
 <pre>

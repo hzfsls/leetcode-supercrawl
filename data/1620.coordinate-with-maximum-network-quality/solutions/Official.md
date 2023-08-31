@@ -1,3 +1,4 @@
+## [1620.网络信号最好的坐标 中文官方题解](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/solutions/100000/wang-luo-xin-hao-zui-hao-de-zuo-biao-by-7x1qm)
 #### 方法一：枚举
 
 首先遍历所有的信号塔，获得所有信号塔的 $x$ 坐标和 $y$ 坐标的最大值，分别记为 $\textit{xMax}$ 和 $\textit{yMax}$。

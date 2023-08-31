@@ -1,3 +1,4 @@
+## [493.翻转对 中文官方题解](https://leetcode.cn/problems/reverse-pairs/solutions/100000/fan-zhuan-dui-by-leetcode-solution)
 #### 前言
 
 本题与「[327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/)」非常相像。

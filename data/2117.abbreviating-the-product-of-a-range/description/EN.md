@@ -1,4 +1,4 @@
-## [2117.Abbreviating the Product of a Range]
+## [2117.Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/)
 <p>You are given two positive integers <code>left</code> and <code>right</code> with <code>left &lt;= right</code>. Calculate the <strong>product</strong> of all integers in the <strong>inclusive</strong> range <code>[left, right]</code>.</p>
 
 <p>Since the product may be very large, you will <strong>abbreviate</strong> it following these steps:</p>

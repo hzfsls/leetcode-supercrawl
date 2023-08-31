@@ -1,3 +1,4 @@
+## [1937.扣分后的最大得分 中文官方题解](https://leetcode.cn/problems/maximum-number-of-points-with-cost/solutions/100000/kou-fen-hou-de-zui-da-de-fen-by-leetcode-60zl)
 #### 方法一：动态规划
 
 **思路与算法**

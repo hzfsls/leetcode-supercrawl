@@ -1,4 +1,4 @@
-## [1661.每台机器的进程平均运行时间]
+## [1661.每台机器的进程平均运行时间](https://leetcode.cn/problems/average-time-of-process-per-machine/)
 <p>表: <code>Activity</code></p>
 
 <pre>

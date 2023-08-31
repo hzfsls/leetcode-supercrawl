@@ -1,3 +1,4 @@
+## [1325.删除给定值的叶子节点 中文官方题解](https://leetcode.cn/problems/delete-leaves-with-a-given-value/solutions/100000/shan-chu-gei-ding-zhi-de-xie-zi-jie-dian-by-leet-2)
 #### 方法一：递归
 
 由于我们需要删除所有值为 `target` 的叶子节点，那么我们的操作顺序应当从二叉树的叶子节点开始，逐步向上直到二叉树的根为止。因此我们可以使用递归的方法遍历整颗二叉树，并在回溯时进行删除操作。这样对于二叉树中的每个节点，它的子节点一定先于它被操作。这其实也就是二叉树的后序遍历。

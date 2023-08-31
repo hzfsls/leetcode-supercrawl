@@ -1,4 +1,4 @@
-## [857.雇佣 K 名工人的最低成本]
+## [857.雇佣 K 名工人的最低成本](https://leetcode.cn/problems/minimum-cost-to-hire-k-workers/)
 <p>有 <code>n</code>&nbsp;名工人。&nbsp;给定两个数组&nbsp;<code>quality</code>&nbsp;和&nbsp;<code>wage</code>&nbsp;，其中，<code>quality[i]</code>&nbsp;表示第&nbsp;<code>i</code>&nbsp;名工人的工作质量，其最低期望工资为&nbsp;<code>wage[i]</code>&nbsp;。</p>
 
 <p>现在我们想雇佣&nbsp;<code>k</code>&nbsp;名工人组成一个<em>工资组。</em>在雇佣&nbsp;一组 <code>k</code>&nbsp;名工人时，我们必须按照下述规则向他们支付工资：</p>

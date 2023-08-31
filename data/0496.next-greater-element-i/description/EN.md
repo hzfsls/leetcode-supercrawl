@@ -1,4 +1,4 @@
-## [496.Next Greater Element I]
+## [496.Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 <p>The <strong>next greater element</strong> of some element <code>x</code> in an array is the <strong>first greater</strong> element that is <strong>to the right</strong> of <code>x</code> in the same array.</p>
 
 <p>You are given two <strong>distinct 0-indexed</strong> integer arrays <code>nums1</code> and <code>nums2</code>, where <code>nums1</code> is a subset of <code>nums2</code>.</p>

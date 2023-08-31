@@ -1,3 +1,4 @@
+## [1904.你完成的完整对局数 中文官方题解](https://leetcode.cn/problems/the-number-of-full-rounds-you-have-played/solutions/100000/ni-wan-cheng-de-wan-zheng-dui-ju-shu-by-df44r)
 #### 方法一：转化为分钟
 
 **思路与算法**

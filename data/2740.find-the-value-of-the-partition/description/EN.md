@@ -1,4 +1,4 @@
-## [2740.Find the Value of the Partition]
+## [2740.Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/)
 <p>You are given a <strong>positive</strong> integer array <code>nums</code>.</p>
 
 <p>Partition <code>nums</code> into two arrays,&nbsp;<code>nums1</code> and <code>nums2</code>, such that:</p>

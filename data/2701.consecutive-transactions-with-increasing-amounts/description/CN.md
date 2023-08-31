@@ -1,4 +1,4 @@
-## [2701.连续递增交易]
+## [2701.连续递增交易](https://leetcode.cn/problems/consecutive-transactions-with-increasing-amounts/)
 <p>表: <code>Transactions</code></p>
 
 <pre>

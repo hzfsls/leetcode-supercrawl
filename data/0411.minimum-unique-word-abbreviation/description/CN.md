@@ -1,4 +1,4 @@
-## [411.最短独占单词缩写]
+## [411.最短独占单词缩写](https://leetcode.cn/problems/minimum-unique-word-abbreviation/)
 <p>通过将任意数量的 <strong>不相邻</strong> 子字符串替换为它们的长度，可以完成对字符串的 <strong>缩写</strong> 。 例如，像 <code>"substitution"</code> 这样的字符串可以缩写为（但不限于）：</p>
 
 <ul>

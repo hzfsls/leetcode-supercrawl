@@ -1,4 +1,4 @@
-## [1934.确认率]
+## [1934.确认率](https://leetcode.cn/problems/confirmation-rate/)
 <p>表: <code>Signups</code></p>
 
 <pre>

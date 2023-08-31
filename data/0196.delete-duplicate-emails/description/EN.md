@@ -1,4 +1,4 @@
-## [196.Delete Duplicate Emails]
+## [196.Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 <p>Table: <code>Person</code></p>
 
 <pre>

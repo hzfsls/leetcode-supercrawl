@@ -1,4 +1,4 @@
-## [2819.购买巧克力后的最小相对损失]
+## [2819.购买巧克力后的最小相对损失](https://leetcode.cn/problems/minimum-relative-loss-after-buying-chocolates/)
 <p>现给定一个整数数组 <code>prices</code>，表示巧克力的价格；以及一个二维整数数组 <code>queries</code>，其中 <code>queries[i] = [ki, mi]</code>。</p>
 
 <p>Alice 和 Bob 去买巧克力，Alice 提出了一种付款方式，而 Bob 同意了。</p>

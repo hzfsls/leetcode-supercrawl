@@ -1,3 +1,4 @@
+## [1411.给 N x 3 网格图涂色的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-paint-n-3-grid/solutions/100000/gei-n-x-3-wang-ge-tu-tu-se-de-fang-an-shu-by-leetc)
 #### 方法一：递推
 
 我们可以用 $f[i][\textit{type}]$ 表示当网格的大小为 $i \times 3$ 且最后一行的填色方法为 $\textit{type}$ 时的方案数。由于我们在填充第 $i$ 行时，会影响我们填充方案的只有它上面的那一行（即 $i - 1$ 行），因此用 $f[i][\textit{type}]$ 表示状态是合理的。

@@ -1,3 +1,4 @@
+## [2042.检查句子中的数字是否递增 中文官方题解](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/solutions/100000/jian-cha-ju-zi-zhong-de-shu-zi-shi-fou-d-uhaf)
 #### 方法一：直接遍历
 
 **思路与算法**

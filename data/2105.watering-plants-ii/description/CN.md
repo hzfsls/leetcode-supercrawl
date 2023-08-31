@@ -1,4 +1,4 @@
-## [2105.给植物浇水 II]
+## [2105.给植物浇水 II](https://leetcode.cn/problems/watering-plants-ii/)
 <p>Alice 和 Bob 打算给花园里的 <code>n</code> 株植物浇水。植物排成一行，从左到右进行标记，编号从 <code>0</code> 到 <code>n - 1</code> 。其中，第 <code>i</code> 株植物的位置是 <code>x = i</code> 。</p>
 
 <p>每一株植物都需要浇特定量的水。Alice 和 Bob 每人有一个水罐，<strong>最初是满的 </strong>。他们按下面描述的方式完成浇水：</p>

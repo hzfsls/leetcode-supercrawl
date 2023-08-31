@@ -1,4 +1,4 @@
-## [1264.Page Recommendations]
+## [1264.Page Recommendations](https://leetcode.com/problems/page-recommendations/)
 <p>Table: <code>Friendship</code></p>
 
 <pre>

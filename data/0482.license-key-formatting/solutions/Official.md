@@ -1,3 +1,4 @@
+## [482.密钥格式化 中文官方题解](https://leetcode.cn/problems/license-key-formatting/solutions/100000/mi-yao-ge-shi-hua-by-leetcode-solution-xnae)
 #### 方法一：数学
 
 **思路及解法**

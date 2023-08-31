@@ -1,4 +1,4 @@
-## [2172.数组的最大与和]
+## [2172.数组的最大与和](https://leetcode.cn/problems/maximum-and-sum-of-array/)
 <p>给你一个长度为&nbsp;<code>n</code>&nbsp;的整数数组&nbsp;<code>nums</code>&nbsp;和一个整数&nbsp;<code>numSlots</code>&nbsp;，满足<code>2 * numSlots &gt;= n</code>&nbsp;。总共有&nbsp;<code>numSlots</code>&nbsp;个篮子，编号为&nbsp;<code>1</code>&nbsp;到&nbsp;<code>numSlots</code>&nbsp;。</p>
 
 <p>你需要把所有&nbsp;<code>n</code>&nbsp;个整数分到这些篮子中，且每个篮子 <strong>至多</strong>&nbsp;有 2 个整数。一种分配方案的 <strong>与和</strong>&nbsp;定义为每个数与它所在篮子编号的 <strong>按位与运算</strong>&nbsp;结果之和。</p>

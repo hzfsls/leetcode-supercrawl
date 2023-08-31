@@ -1,4 +1,4 @@
-## [135.分发糖果]
+## [135.分发糖果](https://leetcode.cn/problems/candy/)
 <p><code>n</code> 个孩子站成一排。给你一个整数数组 <code>ratings</code> 表示每个孩子的评分。</p>
 
 <p>你需要按照以下要求，给这些孩子分发糖果：</p>

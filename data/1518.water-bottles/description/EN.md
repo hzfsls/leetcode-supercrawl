@@ -1,4 +1,4 @@
-## [1518.Water Bottles]
+## [1518.Water Bottles](https://leetcode.com/problems/water-bottles/)
 <p>There are <code>numBottles</code> water bottles that are initially full of water. You can exchange <code>numExchange</code> empty water bottles from the market with one full water bottle.</p>
 
 <p>The operation of drinking a full water bottle turns it into an empty bottle.</p>

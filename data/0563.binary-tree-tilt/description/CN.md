@@ -1,4 +1,4 @@
-## [563.二叉树的坡度]
+## [563.二叉树的坡度](https://leetcode.cn/problems/binary-tree-tilt/)
 <p>给你一个二叉树的根节点 <code>root</code> ，计算并返回 <strong>整个树 </strong>的坡度 。</p>
 
 <p>一个树的<strong> 节点的坡度 </strong>定义即为，该节点左子树的节点之和和右子树节点之和的 <strong>差的绝对值 </strong>。如果没有左子树的话，左子树的节点之和为 0 ；没有右子树的话也是一样。空结点的坡度是 0 。</p>

@@ -1,4 +1,4 @@
-## [1757.Recyclable and Low Fat Products]
+## [1757.Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 <p>Table: <code>Products</code></p>
 
 <pre>

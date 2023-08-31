@@ -1,4 +1,4 @@
-## [2668.Find Latest Salaries]
+## [2668.Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/)
 <p>Table: <code><font face="monospace">Salary</font></code></p>
 
 <pre>

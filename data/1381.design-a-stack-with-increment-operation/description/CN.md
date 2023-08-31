@@ -1,4 +1,4 @@
-## [1381.设计一个支持增量操作的栈]
+## [1381.设计一个支持增量操作的栈](https://leetcode.cn/problems/design-a-stack-with-increment-operation/)
 <p>请你设计一个支持对其元素进行增量操作的栈。</p>
 
 <p>实现自定义栈类 <code>CustomStack</code> ：</p>

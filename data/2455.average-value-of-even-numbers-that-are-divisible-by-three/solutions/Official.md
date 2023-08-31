@@ -1,3 +1,4 @@
+## [2455.可被三整除的偶数的平均值 中文官方题解](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/solutions/100000/ke-bei-san-zheng-chu-de-ou-shu-de-ping-j-vruh)
 #### 方法一：遍历
 
 **思路与算法**

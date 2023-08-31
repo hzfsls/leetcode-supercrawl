@@ -1,4 +1,4 @@
-## [2605.Form Smallest Number From Two Digit Arrays]
+## [2605.Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)
 Given two arrays of <strong>unique</strong> digits <code>nums1</code> and <code>nums2</code>, return <em>the <strong>smallest</strong> number that contains <strong>at least</strong> one digit from each array</em>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

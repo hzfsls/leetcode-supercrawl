@@ -1,4 +1,4 @@
-## [1231.分享巧克力]
+## [1231.分享巧克力](https://leetcode.cn/problems/divide-chocolate/)
 <p>你有一大块巧克力，它由一些甜度不完全相同的小块组成。我们用数组&nbsp;<code>sweetness</code>&nbsp;来表示每一小块的甜度。</p>
 
 <p>你打算和&nbsp;<code>K</code>&nbsp;名朋友一起分享这块巧克力，所以你需要将切割&nbsp;<code>K</code>&nbsp;次才能得到 <code>K+1</code>&nbsp;块，每一块都由一些 <strong>连续&nbsp;</strong>的小块组成。</p>

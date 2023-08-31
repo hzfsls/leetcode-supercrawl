@@ -1,4 +1,4 @@
-## [267.Palindrome Permutation II]
+## [267.Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)
 <p>Given a string s, return <em>all the palindromic permutations (without duplicates) of it</em>.</p>
 
 <p>You may return the answer in <strong>any order</strong>. If <code>s</code> has no palindromic permutation, return an empty list.</p>

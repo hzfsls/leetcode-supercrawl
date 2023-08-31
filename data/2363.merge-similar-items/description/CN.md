@@ -1,4 +1,4 @@
-## [2363.合并相似的物品]
+## [2363.合并相似的物品](https://leetcode.cn/problems/merge-similar-items/)
 <p>给你两个二维整数数组&nbsp;<code>items1</code> 和&nbsp;<code>items2</code>&nbsp;，表示两个物品集合。每个数组&nbsp;<code>items</code>&nbsp;有以下特质：</p>
 
 <ul>

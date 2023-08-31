@@ -1,3 +1,4 @@
+## [1600.王位继承顺序 中文官方题解](https://leetcode.cn/problems/throne-inheritance/solutions/100000/huang-wei-ji-cheng-shun-xu-by-leetcode-s-p6lk)
 #### 方法一：多叉树的前序遍历
 
 **思路与算法**

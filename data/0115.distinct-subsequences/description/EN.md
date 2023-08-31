@@ -1,4 +1,4 @@
-## [115.Distinct Subsequences]
+## [115.Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 <p>Given two strings <code>s</code> and <code>t</code>, return <em>the number of distinct</em> <span data-keyword="subsequence-string"><strong><em>subsequences</em></strong></span><em> of </em><code>s</code><em> which equals </em><code>t</code>.</p>
 
 <p>The test cases are generated so that the answer fits on a 32-bit signed integer.</p>

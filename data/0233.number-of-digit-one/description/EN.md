@@ -1,4 +1,4 @@
-## [233.Number of Digit One]
+## [233.Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
 <p>Given an integer <code>n</code>, count <em>the total number of digit </em><code>1</code><em> appearing in all non-negative integers less than or equal to</em> <code>n</code>.</p>
 
 <p>&nbsp;</p>

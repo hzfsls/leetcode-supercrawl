@@ -1,4 +1,4 @@
-## [992.K 个不同整数的子数组]
+## [992.K 个不同整数的子数组](https://leetcode.cn/problems/subarrays-with-k-different-integers/)
 <p>给定一个正整数数组 <code>nums</code>和一个整数 <code>k</code>，返回 <code>nums</code> 中 「<strong>好子数组」</strong><em>&nbsp;</em>的数目。</p>
 
 <p>如果 <code>nums</code>&nbsp;的某个子数组中不同整数的个数恰好为 <code>k</code>，则称 <code>nums</code>&nbsp;的这个连续、不一定不同的子数组为 <strong>「</strong><strong>好子数组 」</strong>。</p>

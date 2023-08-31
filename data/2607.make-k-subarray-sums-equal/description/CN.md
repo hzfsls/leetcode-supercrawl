@@ -1,4 +1,4 @@
-## [2607.使子数组元素和相等]
+## [2607.使子数组元素和相等](https://leetcode.cn/problems/make-k-subarray-sums-equal/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>arr</code> 和一个整数 <code>k</code> 。数组 <code>arr</code> 是一个循环数组。换句话说，数组中的最后一个元素的下一个元素是数组中的第一个元素，数组中第一个元素的前一个元素是数组中的最后一个元素。</p>
 
 <p>你可以执行下述运算任意次：</p>

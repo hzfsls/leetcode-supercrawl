@@ -1,3 +1,4 @@
+## [842.将数组拆分成斐波那契序列 中文官方题解](https://leetcode.cn/problems/split-array-into-fibonacci-sequence/solutions/100000/jiang-shu-zu-chai-fen-cheng-fei-bo-na-qi-ts6c)
 #### 方法一：回溯 + 剪枝
 
 将给定的字符串拆分成斐波那契式序列，可以通过回溯的方法实现。

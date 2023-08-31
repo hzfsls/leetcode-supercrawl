@@ -1,4 +1,4 @@
-## [1296.划分数组为连续数字的集合]
+## [1296.划分数组为连续数字的集合](https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 <p>给你一个整数数组&nbsp;<code>nums</code>&nbsp;和一个正整数&nbsp;<code>k</code>，请你判断是否可以把这个数组划分成一些由&nbsp;<code>k</code>&nbsp;个连续数字组成的集合。<br />
 如果可以，请返回 <code>true</code>；否则，返回 <code>false</code>。</p>
 

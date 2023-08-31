@@ -1,4 +1,4 @@
-## [2533.好二进制字符串的数量]
+## [2533.好二进制字符串的数量](https://leetcode.cn/problems/number-of-good-binary-strings/)
 <p><span style="">给你四个整数 </span><code>minLenght</code>、<code>maxLength</code>、<code>oneGroup</code><span style=""> 和 </span><code>zeroGroup</code><span style=""> 。</span></p>
 
 <p><strong>好 </strong>二进制字符串满足下述条件：</p>

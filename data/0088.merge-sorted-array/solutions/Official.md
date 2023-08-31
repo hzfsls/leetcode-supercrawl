@@ -1,3 +1,4 @@
+## [88.合并两个有序数组 中文官方题解](https://leetcode.cn/problems/merge-sorted-array/solutions/100000/he-bing-liang-ge-you-xu-shu-zu-by-leetco-rrb0)
 
 ### 📺 视频题解  
 ![88. 合并两个有序数组.mp4](c4e23dee-0349-4f11-83d0-d476c2567f90)

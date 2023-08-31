@@ -1,3 +1,4 @@
+## [264.丑数 II 中文官方题解](https://leetcode.cn/problems/ugly-number-ii/solutions/100000/chou-shu-ii-by-leetcode-solution-uoqd)
 #### 方法一：最小堆
 
 要得到从小到大的第 $n$ 个丑数，可以使用**最小堆**实现。

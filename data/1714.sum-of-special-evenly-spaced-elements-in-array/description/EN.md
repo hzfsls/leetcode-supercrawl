@@ -1,4 +1,4 @@
-## [1714.Sum Of Special Evenly-Spaced Elements In Array]
+## [1714.Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> consisting of <code>n</code> non-negative integers.</p>
 
 <p>You are also given an array <code>queries</code>, where <code>queries[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>. The answer to the <code>i<sup>th</sup></code> query is the sum of all <code>nums[j]</code> where <code>x<sub>i</sub> &lt;= j &lt; n</code> and <code>(j - x<sub>i</sub>)</code> is divisible by <code>y<sub>i</sub></code>.</p>

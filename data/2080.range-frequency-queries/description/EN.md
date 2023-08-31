@@ -1,4 +1,4 @@
-## [2080.Range Frequency Queries]
+## [2080.Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)
 <p>Design a data structure to find the <strong>frequency</strong> of a given value in a given subarray.</p>
 
 <p>The <strong>frequency</strong> of a value in a subarray is the number of occurrences of that value in the subarray.</p>

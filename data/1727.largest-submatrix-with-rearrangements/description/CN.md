@@ -1,4 +1,4 @@
-## [1727.重新排列后的最大子矩阵]
+## [1727.重新排列后的最大子矩阵](https://leetcode.cn/problems/largest-submatrix-with-rearrangements/)
 <p>给你一个二进制矩阵 <code>matrix</code> ，它的大小为 <code>m x n</code> ，你可以将 <code>matrix</code> 中的 <strong>列</strong> 按任意顺序重新排列。</p>
 
 <p>请你返回最优方案下将 <code>matrix</code> 重新排列后，全是 <code>1</code> 的子矩阵面积。</p>

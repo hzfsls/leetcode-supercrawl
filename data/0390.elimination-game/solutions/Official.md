@@ -1,3 +1,4 @@
+## [390.消除游戏 中文官方题解](https://leetcode.cn/problems/elimination-game/solutions/100000/xiao-chu-you-xi-by-leetcode-solution-ydpb)
 #### 方法一：等差数列模拟
 
 **思路与算法**

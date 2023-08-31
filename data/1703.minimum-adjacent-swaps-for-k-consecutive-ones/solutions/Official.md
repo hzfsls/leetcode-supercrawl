@@ -1,3 +1,4 @@
+## [1703.得到连续 K 个 1 的最少相邻交换次数 中文官方题解](https://leetcode.cn/problems/minimum-adjacent-swaps-for-k-consecutive-ones/solutions/100000/de-dao-lian-xu-k-ge-1-de-zui-shao-xiang-mk5ws)
 #### 方法一：贪心 + 前缀和
 
 **思路**

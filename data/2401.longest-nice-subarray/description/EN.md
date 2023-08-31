@@ -1,4 +1,4 @@
-## [2401.Longest Nice Subarray]
+## [2401.Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)
 <p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>We call a subarray of <code>nums</code> <strong>nice</strong> if the bitwise <strong>AND</strong> of every pair of elements that are in <strong>different</strong> positions in the subarray is equal to <code>0</code>.</p>

@@ -1,4 +1,4 @@
-## [533.Lonely Pixel II]
+## [533.Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/)
 <p>Given an <code>m x n</code> <code>picture</code> consisting of black <code>&#39;B&#39;</code> and white <code>&#39;W&#39;</code> pixels and an integer target, return <em>the number of <b>black</b> lonely pixels</em>.</p>
 
 <p>A black lonely pixel is a character <code>&#39;B&#39;</code> that located at a specific position <code>(r, c)</code> where:</p>

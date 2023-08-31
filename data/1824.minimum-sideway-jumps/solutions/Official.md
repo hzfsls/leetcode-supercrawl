@@ -1,3 +1,4 @@
+## [1824.最少侧跳次数 中文官方题解](https://leetcode.cn/problems/minimum-sideway-jumps/solutions/100000/zui-shao-ce-tiao-ci-shu-by-leetcode-solu-3y2g)
 #### 方法一：动态规划
 
 **思路与算法**

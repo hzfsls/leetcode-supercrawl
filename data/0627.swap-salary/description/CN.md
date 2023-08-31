@@ -1,4 +1,4 @@
-## [627.变更性别]
+## [627.变更性别](https://leetcode.cn/problems/swap-salary/)
 <div class="original__bRMd">
 <div>
 <p><code>Salary</code> 表：</p>

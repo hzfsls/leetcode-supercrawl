@@ -1,4 +1,4 @@
-## [1875.将工资相同的雇员分组]
+## [1875.将工资相同的雇员分组](https://leetcode.cn/problems/group-employees-of-the-same-salary/)
 <p>表: <code>Employees</code></p>
 
 <pre>

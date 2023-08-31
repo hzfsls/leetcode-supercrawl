@@ -1,3 +1,4 @@
+## [1530.好叶子节点对的数量 中文官方题解](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/solutions/100000/hao-xie-zi-jie-dian-dui-de-shu-liang-by-leetcode-s)
 #### 方法一：递归
 
 **思路与算法**

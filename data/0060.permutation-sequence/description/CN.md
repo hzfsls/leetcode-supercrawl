@@ -1,4 +1,4 @@
-## [60.排列序列]
+## [60.排列序列](https://leetcode.cn/problems/permutation-sequence/)
 <p>给出集合 <code>[1,2,3,...,n]</code>，其所有元素共有 <code>n!</code> 种排列。</p>
 
 <p>按大小顺序列出所有排列情况，并一一标记，当 <code>n = 3</code> 时, 所有排列如下：</p>

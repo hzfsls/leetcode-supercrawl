@@ -1,4 +1,4 @@
-## [1207.Unique Number of Occurrences]
+## [1207.Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 <p>Given an array of integers <code>arr</code>, return <code>true</code> <em>if the number of occurrences of each value in the array is <strong>unique</strong> or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>

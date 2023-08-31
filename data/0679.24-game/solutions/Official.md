@@ -1,3 +1,4 @@
+## [679.24 点游戏 中文官方题解](https://leetcode.cn/problems/24-game/solutions/100000/24-dian-you-xi-by-leetcode-solution)
 #### 方法一：回溯
 
 一共有 $4$ 个数和 $3$ 个运算操作，因此可能性非常有限。一共有多少种可能性呢？

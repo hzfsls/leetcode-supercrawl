@@ -1,3 +1,4 @@
+## [1178.猜字谜 中文官方题解](https://leetcode.cn/problems/number-of-valid-words-for-each-puzzle/solutions/100000/cai-zi-mi-by-leetcode-solution-345u)
 #### 前言
 
 我们首先需要理解清楚题目中的字谜规则：

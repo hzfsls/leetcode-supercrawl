@@ -1,3 +1,4 @@
+## [268.丢失的数字 中文官方题解](https://leetcode.cn/problems/missing-number/solutions/100000/diu-shi-de-shu-zi-by-leetcode-solution-naow)
 #### 方法一：排序
 
 将数组排序之后，即可根据数组中每个下标处的元素是否和下标相等，得到丢失的数字。

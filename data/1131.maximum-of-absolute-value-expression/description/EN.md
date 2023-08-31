@@ -1,4 +1,4 @@
-## [1131.Maximum of Absolute Value Expression]
+## [1131.Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/)
 <p>Given two arrays of integers with equal lengths, return the maximum value of:</p>
 
 <p><code>|arr1[i] - arr1[j]| + |arr2[i] - arr2[j]| + |i - j|</code></p>

@@ -1,3 +1,4 @@
+## [1838.最高频元素的频数 中文官方题解](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/solutions/100000/zui-gao-pin-yuan-su-de-pin-shu-by-leetco-q5g9)
 #### 方法一：排序 + 滑动窗口
 
 **提示 $1$**

@@ -1,4 +1,4 @@
-## [2062.统计字符串中的元音子字符串]
+## [2062.统计字符串中的元音子字符串](https://leetcode.cn/problems/count-vowel-substrings-of-a-string/)
 <p><strong>子字符串</strong> 是字符串中的一个连续（非空）的字符序列。</p>
 
 <p><strong>元音子字符串</strong> 是 <strong>仅</strong> 由元音（<code>'a'</code>、<code>'e'</code>、<code>'i'</code>、<code>'o'</code> 和 <code>'u'</code>）组成的一个子字符串，且必须包含 <strong>全部五种</strong> 元音。</p>

@@ -1,4 +1,4 @@
-## [687.最长同值路径]
+## [687.最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)
 <p>给定一个二叉树的<meta charset="UTF-8" />&nbsp;<code>root</code>&nbsp;，返回&nbsp;<em>最长的路径的长度</em> ，这个路径中的&nbsp;<em>每个节点具有相同值</em>&nbsp;。 这条路径可以经过也可以不经过根节点。</p>
 
 <p><strong>两个节点之间的路径长度</strong>&nbsp;由它们之间的边数表示。</p>

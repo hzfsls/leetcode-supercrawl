@@ -1,4 +1,4 @@
-## [2734.Lexicographically Smallest String After Substring Operation]
+## [2734.Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/)
 <p>You are given a string <code>s</code> consisting of only lowercase English letters. In one operation, you can do the following:</p>
 
 <ul>

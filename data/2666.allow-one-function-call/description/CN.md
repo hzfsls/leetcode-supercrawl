@@ -1,4 +1,4 @@
-## [2666.只允许一次函数调用]
+## [2666.只允许一次函数调用](https://leetcode.cn/problems/allow-one-function-call/)
 <p>给定一个函数 <code>fn</code> ，它返回一个新的函数，返回的函数与原始函数完全相同，只不过它确保 <code>fn</code> 最多被调用一次。</p>
 
 <ul>

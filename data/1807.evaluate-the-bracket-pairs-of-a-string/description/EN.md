@@ -1,4 +1,4 @@
-## [1807.Evaluate the Bracket Pairs of a String]
+## [1807.Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)
 <p>You are given a string <code>s</code> that contains some bracket pairs, with each pair containing a <strong>non-empty</strong> key.</p>
 
 <ul>

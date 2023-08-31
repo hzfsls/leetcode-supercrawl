@@ -1,4 +1,4 @@
-## [1072.Flip Columns For Maximum Number of Equal Rows]
+## [1072.Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
 <p>You are given an <code>m x n</code> binary matrix <code>matrix</code>.</p>
 
 <p>You can choose any number of columns in the matrix and flip every cell in that column (i.e., Change the value of the cell from <code>0</code> to <code>1</code> or vice versa).</p>

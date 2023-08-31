@@ -1,4 +1,4 @@
-## [194.转置文件]
+## [194.转置文件](https://leetcode.cn/problems/transpose-file/)
 <p>给定一个文件 <code>file.txt</code>，转置它的内容。</p>
 
 <p>你可以假设每行列数相同，并且每个字段由 <code>' '</code> 分隔。</p>

@@ -1,4 +1,4 @@
-## [996.Number of Squareful Arrays]
+## [996.Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
 <p>An array is <strong>squareful</strong> if the sum of every pair of adjacent elements is a <strong>perfect square</strong>.</p>
 
 <p>Given an integer array nums, return <em>the number of permutations of </em><code>nums</code><em> that are <strong>squareful</strong></em>.</p>

@@ -1,3 +1,4 @@
+## [494.目标和 中文官方题解](https://leetcode.cn/problems/target-sum/solutions/100000/mu-biao-he-by-leetcode-solution-o0cp)
 #### 方法一：回溯
 
 数组 $\textit{nums}$ 的每个元素都可以添加符号 $\texttt{+}$ 或 $\texttt{-}$，因此每个元素有 $2$ 种添加符号的方法，$n$ 个数共有 $2^n$ 种添加符号的方法，对应 $2^n$ 种不同的表达式。当 $n$ 个元素都添加符号之后，即得到一种表达式，如果表达式的结果等于目标数 $\textit{target}$，则该表达式即为符合要求的表达式。

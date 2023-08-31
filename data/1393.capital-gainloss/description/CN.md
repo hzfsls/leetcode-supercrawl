@@ -1,4 +1,4 @@
-## [1393.股票的资本损益]
+## [1393.股票的资本损益](https://leetcode.cn/problems/capital-gainloss/)
 <p><code>Stocks</code>&nbsp;表：</p>
 
 <pre>

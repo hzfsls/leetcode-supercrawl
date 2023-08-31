@@ -1,4 +1,4 @@
-## [2459.通过移动项目到空白区域来排序数组]
+## [2459.通过移动项目到空白区域来排序数组](https://leetcode.cn/problems/sort-array-by-moving-items-to-empty-space/)
 <p>给定一个大小为 <code>n</code> 的整数数组 <code>nums</code>，其中包含从 <code>0</code> 到 <code>n - 1</code>&nbsp;(<strong>包含边界</strong>) 的&nbsp;<strong>每个&nbsp;</strong>元素。从 <code>1</code> 到 <code>n - 1</code> 的每一个元素都代表一项目，元素 <code>0</code> 代表一个空白区域。</p>
 
 <p>在一个操作中，您可以将&nbsp;<strong>任何&nbsp;</strong>项目移动到空白区域。如果所有项目的编号都是&nbsp;<strong>升序&nbsp;</strong>的，并且空格在数组的开头或结尾，则认为 <code>nums</code> 已排序。</p>

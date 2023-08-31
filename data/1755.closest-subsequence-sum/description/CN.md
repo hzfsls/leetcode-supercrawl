@@ -1,4 +1,4 @@
-## [1755.最接近目标值的子序列和]
+## [1755.最接近目标值的子序列和](https://leetcode.cn/problems/closest-subsequence-sum/)
 <p>给你一个整数数组 <code>nums</code> 和一个目标值 <code>goal</code> 。</p>
 
 <p>你需要从 <code>nums</code> 中选出一个子序列，使子序列元素总和最接近 <code>goal</code> 。也就是说，如果子序列元素和为 <code>sum</code> ，你需要 <strong>最小化绝对差</strong> <code>abs(sum - goal)</code> 。</p>

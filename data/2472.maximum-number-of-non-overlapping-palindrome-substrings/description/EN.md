@@ -1,4 +1,4 @@
-## [2472.Maximum Number of Non-overlapping Palindrome Substrings]
+## [2472.Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)
 <p>You are given a string <code>s</code> and a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>Select a set of <strong>non-overlapping</strong> substrings from the string <code>s</code> that satisfy the following conditions:</p>

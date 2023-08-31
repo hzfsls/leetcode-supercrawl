@@ -1,3 +1,4 @@
+## [196.删除重复的电子邮箱 中文官方题解](https://leetcode.cn/problems/delete-duplicate-emails/solutions/100000/shan-chu-zhong-fu-de-dian-zi-you-xiang-b-8e7p)
 [TOC]
 
 ## 解决方案

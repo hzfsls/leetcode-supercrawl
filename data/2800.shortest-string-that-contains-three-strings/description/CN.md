@@ -1,4 +1,4 @@
-## [2800.包含三个字符串的最短字符串]
+## [2800.包含三个字符串的最短字符串](https://leetcode.cn/problems/shortest-string-that-contains-three-strings/)
 给你三个字符串&nbsp;<code>a</code>&nbsp;，<code>b</code>&nbsp;和&nbsp;<code>c</code>&nbsp;， 你的任务是找到长度&nbsp;<strong>最短</strong>&nbsp;的字符串，且这三个字符串都是它的 <strong>子字符串</strong>&nbsp;。
 <p>如果有多个这样的字符串，请你返回 <strong>字典序最小</strong>&nbsp;的一个。</p>
 

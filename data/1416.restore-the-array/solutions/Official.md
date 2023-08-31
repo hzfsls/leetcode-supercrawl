@@ -1,3 +1,4 @@
+## [1416.恢复数组 中文官方题解](https://leetcode.cn/problems/restore-the-array/solutions/100000/hui-fu-shu-zu-by-leetcode-solution)
 #### 方法一：递推
 
 对于「求出方案数」的题目，我们一般可以想到的做法就是递推。

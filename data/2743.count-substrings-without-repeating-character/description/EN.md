@@ -1,4 +1,4 @@
-## [2743.Count Substrings Without Repeating Character]
+## [2743.Count Substrings Without Repeating Character](https://leetcode.com/problems/count-substrings-without-repeating-character/)
 <p>You are given a string <code>s</code> consisting only of lowercase English letters. We call a substring <b>special</b> if it contains no character which has occurred at least twice (in other words, it does not contain a repeating character). Your task is to count the number of <b>special</b> substrings. For example, in the string <code>&quot;pop&quot;</code>, the substring <code>&quot;po&quot;</code> is a <strong>special</strong> substring, however, <code>&quot;pop&quot;</code> is not <strong>special</strong> (since <code>&#39;p&#39;</code> has occurred twice).</p>
 
 <p>Return <em>the number of <b>special</b> substrings.</em></p>

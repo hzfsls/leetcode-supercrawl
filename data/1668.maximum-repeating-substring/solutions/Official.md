@@ -1,3 +1,4 @@
+## [1668.最大重复子字符串 中文官方题解](https://leetcode.cn/problems/maximum-repeating-substring/solutions/100000/zui-da-zhong-fu-zi-zi-fu-chuan-by-leetco-r4cp)
 #### 方法一：简单枚举 + 动态规划
 
 **思路与算法**

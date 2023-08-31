@@ -1,4 +1,4 @@
-## [2496.数组中字符串的最大值]
+## [2496.数组中字符串的最大值](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/)
 <p>一个由字母和数字组成的字符串的 <strong>值</strong>&nbsp;定义如下：</p>
 
 <ul>

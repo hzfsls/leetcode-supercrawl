@@ -1,4 +1,4 @@
-## [2604.Minimum Time to Eat All Grains]
+## [2604.Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/)
 <p>There are <code>n</code> hens and <code>m</code> grains on a line. You are given the initial positions of the hens and the grains in two integer arrays <code>hens</code> and <code>grains</code> of size <code>n</code> and <code>m</code> respectively.</p>
 
 <p>Any hen can eat a grain if they are on the same position. The time taken for this is negligible. One hen can also eat multiple grains.</p>

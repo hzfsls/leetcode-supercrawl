@@ -1,3 +1,4 @@
+## [532.数组中的 k-diff 数对 中文官方题解](https://leetcode.cn/problems/k-diff-pairs-in-an-array/solutions/100000/shu-zu-zhong-de-k-diff-shu-dui-by-leetco-ane6)
 #### 方法一：哈希表
 
 **思路**

@@ -1,4 +1,4 @@
-## [2450.Number of Distinct Binary Strings After Applying Operations]
+## [2450.Number of Distinct Binary Strings After Applying Operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/)
 <p>You are given a <strong>binary</strong> string <code>s</code> and a positive integer <code>k</code>.</p>
 
 <p>You can apply the following operation on the string <strong>any</strong> number of times:</p>

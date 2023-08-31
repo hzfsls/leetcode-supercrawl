@@ -1,3 +1,4 @@
+## [987.二叉树的垂序遍历 中文官方题解](https://leetcode.cn/problems/vertical-order-traversal-of-a-binary-tree/solutions/100000/er-cha-shu-de-chui-xu-bian-li-by-leetcod-clsh)
 #### 方法一：自定义排序
 
 **思路与算法**

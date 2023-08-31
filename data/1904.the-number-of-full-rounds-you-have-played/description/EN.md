@@ -1,4 +1,4 @@
-## [1904.The Number of Full Rounds You Have Played]
+## [1904.The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)
 <p>You are participating in an online chess tournament. There is a chess round that starts every <code>15</code> minutes. The first round of the day starts at <code>00:00</code>, and after every <code>15</code> minutes, a new round starts.</p>
 
 <ul>

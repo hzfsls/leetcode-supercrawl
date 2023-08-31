@@ -1,3 +1,4 @@
+## [718.最长重复子数组 中文官方题解](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/solutions/100000/zui-chang-zhong-fu-zi-shu-zu-by-leetcode-solution)
 #### 写在前面
 
 本题要求我们计算两个数组的最长公共子数组。需要注意到数组长度不超过 $1000$，且子数组在原数组中连续。

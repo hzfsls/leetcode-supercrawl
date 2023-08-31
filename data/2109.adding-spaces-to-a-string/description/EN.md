@@ -1,4 +1,4 @@
-## [2109.Adding Spaces to a String]
+## [2109.Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)
 <p>You are given a <strong>0-indexed</strong> string <code>s</code> and a <strong>0-indexed</strong> integer array <code>spaces</code> that describes the indices in the original string where spaces will be added. Each space should be inserted <strong>before</strong> the character at the given index.</p>
 
 <ul>

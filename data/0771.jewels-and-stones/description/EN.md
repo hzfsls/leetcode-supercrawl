@@ -1,4 +1,4 @@
-## [771.Jewels and Stones]
+## [771.Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 <p>You&#39;re given strings <code>jewels</code> representing the types of stones that are jewels, and <code>stones</code> representing the stones you have. Each character in <code>stones</code> is a type of stone you have. You want to know how many of the stones you have are also jewels.</p>
 
 <p>Letters are case sensitive, so <code>&quot;a&quot;</code> is considered a different type of stone from <code>&quot;A&quot;</code>.</p>

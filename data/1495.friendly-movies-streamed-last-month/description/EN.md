@@ -1,4 +1,4 @@
-## [1495.Friendly Movies Streamed Last Month]
+## [1495.Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/)
 <p>Table: <code>TVProgram</code></p>
 
 <pre>

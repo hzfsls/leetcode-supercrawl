@@ -1,4 +1,4 @@
-## [1618.Maximum Font to Fit a Sentence in a Screen]
+## [1618.Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/)
 <p>You are given a string <code>text</code>. We want to display <code>text</code> on a screen of width <code>w</code> and height <code>h</code>. You can choose any font size from array <code>fonts</code>, which contains the available font sizes <strong>in ascending order</strong>.</p>
 
 <p>You can use the <code>FontInfo</code> interface to get the width and height of any character at any available font size.</p>

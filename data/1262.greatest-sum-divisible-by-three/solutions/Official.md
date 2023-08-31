@@ -1,3 +1,4 @@
+## [1262.可被三整除的最大和 中文官方题解](https://leetcode.cn/problems/greatest-sum-divisible-by-three/solutions/100000/ke-bei-san-zheng-chu-de-zui-da-he-by-lee-cvzo)
 #### 方法一：贪心 + 正向思维
 
 我们把数组中的数分成三部分 $a, b, c$，它们分别包含所有被 $3$ 除余 $0, 1, 2$ 的数。显然，我们可以选取 $a$ 中所有的数，而对于 $b$ 和 $c$ 中的数，我们需要根据不同的情况选取不同数量的数。

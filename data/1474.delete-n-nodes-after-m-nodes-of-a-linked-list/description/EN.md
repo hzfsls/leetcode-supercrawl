@@ -1,4 +1,4 @@
-## [1474.Delete N Nodes After M Nodes of a Linked List]
+## [1474.Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)
 <p>You are given the <code>head</code> of a linked list and two integers <code>m</code> and <code>n</code>.</p>
 
 <p>Traverse the linked list and remove some nodes in the following way:</p>

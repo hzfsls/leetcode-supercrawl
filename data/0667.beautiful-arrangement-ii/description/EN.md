@@ -1,4 +1,4 @@
-## [667.Beautiful Arrangement II]
+## [667.Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)
 <p>Given two integers <code>n</code> and <code>k</code>, construct a list <code>answer</code> that contains <code>n</code> different positive integers ranging from <code>1</code> to <code>n</code> and obeys the following requirement:</p>
 
 <ul>

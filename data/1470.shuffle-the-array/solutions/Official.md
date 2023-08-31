@@ -1,3 +1,4 @@
+## [1470.重新排列数组 中文官方题解](https://leetcode.cn/problems/shuffle-the-array/solutions/100000/zhong-xin-pai-lie-shu-zu-by-leetcode-sol-1eps)
 #### 方法一：一次遍历
 
 用 $\textit{ans}$ 表示结果数组，数组 $\textit{nums}$ 和 $\textit{ans}$ 的长度都是 $2n$。对于 $0 \le i < n$，重新排列数组的规则如下：

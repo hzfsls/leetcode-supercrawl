@@ -1,4 +1,4 @@
-## [1915.Number of Wonderful Substrings]
+## [1915.Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)
 <p>A <strong>wonderful</strong> string is a string where <strong>at most one</strong> letter appears an <strong>odd</strong> number of times.</p>
 
 <ul>

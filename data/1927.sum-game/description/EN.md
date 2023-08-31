@@ -1,4 +1,4 @@
-## [1927.Sum Game]
+## [1927.Sum Game](https://leetcode.com/problems/sum-game/)
 <p>Alice and Bob take turns playing a game, with <strong>Alice</strong><strong>&nbsp;starting first</strong>.</p>
 
 <p>You are given a string <code>num</code> of <strong>even length</strong> consisting of digits and <code>&#39;?&#39;</code> characters. On each turn, a player will do the following if there is still at least one <code>&#39;?&#39;</code> in <code>num</code>:</p>

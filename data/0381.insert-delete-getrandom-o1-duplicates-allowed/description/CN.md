@@ -1,4 +1,4 @@
-## [381.O(1) 时间插入、删除和获取随机元素 - 允许重复]
+## [381.O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode.cn/problems/insert-delete-getrandom-o1-duplicates-allowed/)
 <p><code>RandomizedCollection</code> 是一种包含数字集合(可能是重复的)的数据结构。它应该支持插入和删除特定元素，以及删除随机元素。</p>
 
 <p>实现 <code>RandomizedCollection</code> 类:</p>

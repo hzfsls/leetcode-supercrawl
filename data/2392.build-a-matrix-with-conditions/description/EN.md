@@ -1,4 +1,4 @@
-## [2392.Build a Matrix With Conditions]
+## [2392.Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)
 <p>You are given a <strong>positive</strong> integer <code>k</code>. You are also given:</p>
 
 <ul>

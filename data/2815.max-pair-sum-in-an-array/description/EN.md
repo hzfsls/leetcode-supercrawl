@@ -1,4 +1,4 @@
-## [2815.Max Pair Sum in an Array]
+## [2815.Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. You have to find the <strong>maximum</strong> sum of a pair of numbers from <code>nums</code> such that the maximum <strong>digit </strong>in both numbers are equal.</p>
 
 <p>Return <em>the maximum sum or</em> <code>-1</code><em> if no such pair exists</em>.</p>

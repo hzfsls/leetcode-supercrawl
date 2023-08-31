@@ -1,4 +1,4 @@
-## [690.Employee Importance]
+## [690.Employee Importance](https://leetcode.com/problems/employee-importance/)
 <p>You have a data structure of employee information, including the employee&#39;s unique ID, importance value, and direct subordinates&#39; IDs.</p>
 
 <p>You are given an array of employees <code>employees</code> where:</p>

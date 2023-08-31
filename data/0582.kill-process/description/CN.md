@@ -1,4 +1,4 @@
-## [582.杀掉进程]
+## [582.杀掉进程](https://leetcode.cn/problems/kill-process/)
 <p>系统中存在 <code>n</code>&nbsp;个进程，形成一个有根树结构。给你两个整数数组&nbsp;<code>pid</code> 和 <code>ppid</code> ，其中 <code>pid[i]</code> 是第 <code>i</code> 个进程的 ID ，<code>ppid[i]</code> 是第 <code>i</code> 个进程的父进程 ID 。</p>
 
 <p>每一个进程只有 <strong>一个父进程</strong> ，但是可能会有 <strong>一个或者多个子进程</strong> 。只有一个进程的 <code>ppid[i] = 0</code> ，意味着这个进程 <strong>没有父进程</strong> 。</p>

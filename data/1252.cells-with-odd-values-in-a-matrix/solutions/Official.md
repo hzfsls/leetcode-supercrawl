@@ -1,3 +1,4 @@
+## [1252.奇数值单元格的数目 中文官方题解](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/solutions/100000/qi-shu-zhi-dan-yuan-ge-de-shu-mu-by-leet-oa4o)
 #### 方法一：直接模拟
 
 直接使用使用一个 $n \times m$ 的矩阵来存放操作的结果，对于 $\textit{indices}$ 中的每一对 $[r_i, c_i]$，将矩阵第 $r_i$ 行的所有数增加 $1$，第 $c_i$ 列的所有数增加 $1$。在所有操作模拟完毕后，我们遍历矩阵，得到奇数的数目。

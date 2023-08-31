@@ -1,4 +1,4 @@
-## [2269.Find the K-Beauty of a Number]
+## [2269.Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)
 <p>The <strong>k-beauty</strong> of an integer <code>num</code> is defined as the number of <strong>substrings</strong> of <code>num</code> when it is read as a string that meet the following conditions:</p>
 
 <ul>

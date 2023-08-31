@@ -1,3 +1,4 @@
+## [1182.与目标颜色间的最短距离 中文官方题解](https://leetcode.cn/problems/shortest-distance-to-target-color/solutions/100000/yu-mu-biao-yan-se-jian-de-zui-duan-ju-chi-by-leetc)
 [TOC]
 
 ## 解决方案

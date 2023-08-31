@@ -1,4 +1,4 @@
-## [578.查询回答率最高的问题]
+## [578.查询回答率最高的问题](https://leetcode.cn/problems/get-highest-answer-rate-question/)
 <p><code>SurveyLog</code> 表：</p>
 
 <div class="original__bRMd">

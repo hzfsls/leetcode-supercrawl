@@ -1,4 +1,4 @@
-## [1872.石子游戏 VIII]
+## [1872.石子游戏 VIII](https://leetcode.cn/problems/stone-game-viii/)
 <p>Alice 和 Bob 玩一个游戏，两人轮流操作， <strong>Alice 先手</strong> 。</p>
 
 <p>总共有 <code>n</code> 个石子排成一行。轮到某个玩家的回合时，如果石子的数目 <strong>大于 1</strong> ，他将执行以下操作：</p>

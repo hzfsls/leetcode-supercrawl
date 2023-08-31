@@ -1,4 +1,4 @@
-## [1500.Design a File Sharing System]
+## [1500.Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system/)
 <p>We will use a file-sharing system to share a very large file which consists of <code>m</code> small <b>chunks</b> with IDs from <code>1</code> to <code>m</code>.</p>
 
 <p>When users join the system, the system should assign <b>a unique</b> ID to them. The unique ID should be used <b>once</b> for each user, but when a user leaves the system, the ID can be <b>reused</b> again.</p>

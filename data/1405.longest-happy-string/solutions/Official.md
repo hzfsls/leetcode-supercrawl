@@ -1,3 +1,4 @@
+## [1405.最长快乐字符串 中文官方题解](https://leetcode.cn/problems/longest-happy-string/solutions/100000/zui-chang-kuai-le-zi-fu-chuan-by-leetcod-5nde)
 #### 方法一：贪心
 
 **思路**

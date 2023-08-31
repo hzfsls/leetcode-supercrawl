@@ -1,3 +1,4 @@
+## [2278.字母在字符串中的百分比 中文官方题解](https://leetcode.cn/problems/percentage-of-letter-in-string/solutions/100000/zi-mu-zai-zi-fu-chuan-zhong-de-bai-fen-b-6jm6)
 #### 方法一：遍历统计
 
 **思路与算法**

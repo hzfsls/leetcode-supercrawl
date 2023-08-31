@@ -1,3 +1,4 @@
+## [2053.数组中第 K 个独一无二的字符串 中文官方题解](https://leetcode.cn/problems/kth-distinct-string-in-an-array/solutions/100000/zha-zhu-zhi-jian-de-pan-zi-by-leetcode-s-r92u)
 #### 方法一：哈希表
 
 **思路与算法**

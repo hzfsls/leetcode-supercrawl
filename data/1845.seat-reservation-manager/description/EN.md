@@ -1,4 +1,4 @@
-## [1845.Seat Reservation Manager]
+## [1845.Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)
 <p>Design a system that manages the reservation state of <code>n</code> seats that are numbered from <code>1</code> to <code>n</code>.</p>
 
 <p>Implement the <code>SeatManager</code> class:</p>

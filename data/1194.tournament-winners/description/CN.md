@@ -1,4 +1,4 @@
-## [1194.锦标赛优胜者]
+## [1194.锦标赛优胜者](https://leetcode.cn/problems/tournament-winners/)
 <p><code>Players</code>&nbsp;玩家表</p>
 
 <pre>

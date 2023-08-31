@@ -1,4 +1,4 @@
-## [1849.将字符串拆分为递减的连续值]
+## [1849.将字符串拆分为递减的连续值](https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values/)
 <p>给你一个仅由数字组成的字符串 <code>s</code> 。</p>
 
 <p>请你判断能否将 <code>s</code> 拆分成两个或者多个 <strong>非空子字符串</strong> ，使子字符串的 <strong>数值</strong> 按 <strong>降序</strong> 排列，且每两个 <strong>相邻子字符串</strong> 的数值之 <strong>差 </strong>等于 <code>1</code> 。</p>

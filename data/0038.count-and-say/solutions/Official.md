@@ -1,3 +1,4 @@
+## [38.外观数列 中文官方题解](https://leetcode.cn/problems/count-and-say/solutions/100000/wai-guan-shu-lie-by-leetcode-solution-9rt8)
 ### 📺 视频题解  
 
 ![38.外观数列-仲耀晖.mp4](abb686e4-d06c-4ee0-bb5c-633d86df1767)

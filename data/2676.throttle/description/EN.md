@@ -1,4 +1,4 @@
-## [2676.Throttle]
+## [2676.Throttle](https://leetcode.com/problems/throttle/)
 <p>Given a function <code>fn</code> and&nbsp;a time in milliseconds <code>t</code>, return&nbsp;a <strong>throttled</strong> version of that function.</p>
 
 <p>A <strong>throttled</strong> function is first called without delay and then, for a time interval of <code>t</code> milliseconds, can&#39;t be executed but should store the latest function arguments provided to call <code>fn</code> with them after the end of the delay.</p>

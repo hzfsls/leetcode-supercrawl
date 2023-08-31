@@ -1,4 +1,4 @@
-## [941.Valid Mountain Array]
+## [941.Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 <p>Given an array of integers <code>arr</code>, return <em><code>true</code> if and only if it is a valid mountain array</em>.</p>
 
 <p>Recall that arr is a mountain array if and only if:</p>

@@ -1,4 +1,4 @@
-## [1495.上月播放的儿童适宜电影]
+## [1495.上月播放的儿童适宜电影](https://leetcode.cn/problems/friendly-movies-streamed-last-month/)
 <p>表: <code>TVProgram</code></p>
 
 <pre>

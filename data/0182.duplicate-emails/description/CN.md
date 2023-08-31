@@ -1,4 +1,4 @@
-## [182.查找重复的电子邮箱]
+## [182.查找重复的电子邮箱](https://leetcode.cn/problems/duplicate-emails/)
 <p><meta charset="UTF-8" /></p>
 
 <p>表:&nbsp;<code>Person</code></p>

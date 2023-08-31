@@ -1,3 +1,4 @@
+## [989.数组形式的整数加法 中文官方题解](https://leetcode.cn/problems/add-to-array-form-of-integer/solutions/100000/shu-zu-xing-shi-de-zheng-shu-jia-fa-by-l-jljp)
 #### 方法一：逐位相加
 
 **思路**

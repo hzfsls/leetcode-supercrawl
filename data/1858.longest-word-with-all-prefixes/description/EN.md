@@ -1,4 +1,4 @@
-## [1858.Longest Word With All Prefixes]
+## [1858.Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)
 <p>Given an array of strings <code>words</code>, find the <strong>longest</strong> string in <code>words</code> such that <strong>every prefix</strong> of it is also in <code>words</code>.</p>
 
 <ul>

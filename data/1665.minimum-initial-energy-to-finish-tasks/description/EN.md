@@ -1,4 +1,4 @@
-## [1665.Minimum Initial Energy to Finish Tasks]
+## [1665.Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)
 <p>You are given an array <code>tasks</code> where <code>tasks[i] = [actual<sub>i</sub>, minimum<sub>i</sub>]</code>:</p>
 
 <ul>

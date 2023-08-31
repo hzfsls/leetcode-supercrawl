@@ -1,4 +1,4 @@
-## [2794.从两个数组中创建对象]
+## [2794.从两个数组中创建对象](https://leetcode.cn/problems/create-object-from-two-arrays/)
 <p>给定两个数组 <code>keysArr </code>和 <code>valuesArr</code>，返回一个新的对象 <code>obj</code>。<code>obj</code> 中的每个键值对都来自 <code>keysArr[i]</code> 和 <code>valuesArr[i]</code>。</p>
 
 <p>如果前面的索引中存在重复的键，则应该跳过该键值对。换句话说，只有第一次出现的键会被添加到对象中。</p>

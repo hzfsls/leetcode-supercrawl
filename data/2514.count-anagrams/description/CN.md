@@ -1,4 +1,4 @@
-## [2514.统计同位异构字符串数目]
+## [2514.统计同位异构字符串数目](https://leetcode.cn/problems/count-anagrams/)
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;，它包含一个或者多个单词。单词之间用单个空格&nbsp;<code>' '</code>&nbsp;隔开。</p>
 
 <p>如果字符串 <code>t</code>&nbsp;中第 <code>i</code>&nbsp;个单词是 <code>s</code>&nbsp;中第 <code>i</code>&nbsp;个单词的一个&nbsp;<strong>排列</strong>&nbsp;，那么我们称字符串&nbsp;<code>t</code>&nbsp;是字符串&nbsp;<code>s</code>&nbsp;的同位异构字符串。</p>

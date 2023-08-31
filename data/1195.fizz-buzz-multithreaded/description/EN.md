@@ -1,4 +1,4 @@
-## [1195.Fizz Buzz Multithreaded]
+## [1195.Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)
 <p>You have the four functions:</p>
 
 <ul>

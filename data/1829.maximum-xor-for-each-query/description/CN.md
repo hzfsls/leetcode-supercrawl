@@ -1,4 +1,4 @@
-## [1829.每个查询的最大异或值]
+## [1829.每个查询的最大异或值](https://leetcode.cn/problems/maximum-xor-for-each-query/)
 <p>给你一个 <strong>有序</strong> 数组 <code>nums</code> ，它由 <code>n</code> 个非负整数组成，同时给你一个整数 <code>maximumBit</code> 。你需要执行以下查询 <code>n</code> 次：</p>
 
 <ol>

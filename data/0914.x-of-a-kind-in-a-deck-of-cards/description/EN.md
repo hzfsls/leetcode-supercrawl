@@ -1,4 +1,4 @@
-## [914.X of a Kind in a Deck of Cards]
+## [914.X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 <p>You are given an integer array <code>deck</code> where <code>deck[i]</code> represents the number written on the <code>i<sup>th</sup></code> card.</p>
 
 <p>Partition the cards into <strong>one or more groups</strong> such that:</p>

@@ -1,4 +1,4 @@
-## [2490.Circular Sentence]
+## [2490.Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 <p>A <strong>sentence</strong> is a list of words that are separated by a<strong> single</strong> space with no leading or trailing spaces.</p>
 
 <ul>

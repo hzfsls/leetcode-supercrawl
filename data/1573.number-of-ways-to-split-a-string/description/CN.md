@@ -1,4 +1,4 @@
-## [1573.分割字符串的方案数]
+## [1573.分割字符串的方案数](https://leetcode.cn/problems/number-of-ways-to-split-a-string/)
 <p>给你一个二进制串&nbsp;<code>s</code>&nbsp; （一个只包含 0 和 1 的字符串），我们可以将 <code>s</code>&nbsp;分割成 3 个 <strong>非空</strong>&nbsp;字符串 s1, s2, s3 （s1 + s2 + s3 = s）。</p>
 
 <p>请你返回分割&nbsp;<code>s</code>&nbsp;的方案数，满足 s1，s2 和 s3 中字符 &#39;1&#39; 的数目相同。</p>

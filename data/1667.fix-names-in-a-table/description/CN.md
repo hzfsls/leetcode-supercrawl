@@ -1,4 +1,4 @@
-## [1667.修复表中的名字]
+## [1667.修复表中的名字](https://leetcode.cn/problems/fix-names-in-a-table/)
 <p>表： <code>Users</code></p>
 
 <pre>

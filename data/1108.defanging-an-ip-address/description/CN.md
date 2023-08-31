@@ -1,4 +1,4 @@
-## [1108.IP 地址无效化]
+## [1108.IP 地址无效化](https://leetcode.cn/problems/defanging-an-ip-address/)
 <p>给你一个有效的 <a href="https://baike.baidu.com/item/IPv4" target="_blank">IPv4</a> 地址&nbsp;<code>address</code>，返回这个 IP 地址的无效化版本。</p>
 
 <p>所谓无效化&nbsp;IP 地址，其实就是用&nbsp;<code>&quot;[.]&quot;</code>&nbsp;代替了每个 <code>&quot;.&quot;</code>。</p>

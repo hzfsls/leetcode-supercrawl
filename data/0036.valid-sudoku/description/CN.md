@@ -1,4 +1,4 @@
-## [36.有效的数独]
+## [36.有效的数独](https://leetcode.cn/problems/valid-sudoku/)
 <p>请你判断一个&nbsp;<code>9 x 9</code> 的数独是否有效。只需要<strong> 根据以下规则</strong> ，验证已经填入的数字是否有效即可。</p>
 
 <ol>

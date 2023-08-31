@@ -1,3 +1,4 @@
+## [2409.统计共同度过的日子数 中文官方题解](https://leetcode.cn/problems/count-days-spent-together/solutions/100000/tong-ji-gong-tong-du-guo-de-ri-zi-shu-by-1iwp)
 #### 方法一：分别计算出每个日子是一年中的第几天后求差
 
 **思路**

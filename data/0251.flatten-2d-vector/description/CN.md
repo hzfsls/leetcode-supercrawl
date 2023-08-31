@@ -1,4 +1,4 @@
-## [251.展开二维向量]
+## [251.展开二维向量](https://leetcode.cn/problems/flatten-2d-vector/)
 <p>请设计并实现一个能够展开二维向量的迭代器。该迭代器需要支持 <code>next</code> 和 <code>hasNext</code> 两种操作。</p>
 
 <p> </p>

@@ -1,4 +1,4 @@
-## [2754.将函数绑定到上下文]
+## [2754.将函数绑定到上下文](https://leetcode.cn/problems/bind-function-to-context/)
 <p>编写一个所有函数都支持的方法&nbsp;<code>bindPolyfill</code> 。当 <code>bindPolyfill</code> 方法被调用并传递了一个对象 <code>obj</code> 时，该对象将成为函数的 <code>this</code> 上下文。</p>
 
 <p>例如，如果你有以下代码：</p>

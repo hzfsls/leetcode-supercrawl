@@ -1,3 +1,4 @@
+## [1667.修复表中的名字 中文官方题解](https://leetcode.cn/problems/fix-names-in-a-table/solutions/100000/xiu-fu-biao-zhong-de-ming-zi-by-leetcode-vrs5)
 [TOC]
 
 ## 解决方案

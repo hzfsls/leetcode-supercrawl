@@ -1,3 +1,4 @@
+## [1609.奇偶树 中文官方题解](https://leetcode.cn/problems/even-odd-tree/solutions/100000/qi-ou-shu-by-leetcode-solution-l7bw)
 #### 方法一：广度优先搜索
 
 由于判断一棵二叉树是否为奇偶树的条件是针对同一层的节点，因此可以使用广度优先搜索，每一轮搜索访问同一层的全部节点，且只会访问这一层的节点。

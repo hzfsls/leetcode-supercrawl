@@ -1,3 +1,4 @@
+## [1987.不同的好子序列数目 中文官方题解](https://leetcode.cn/problems/number-of-unique-good-subsequences/solutions/100000/bu-tong-de-hao-zi-xu-lie-shu-mu-by-leetc-ej2n)
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [1438.绝对差不超过限制的最长连续子数组 中文官方题解](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/solutions/100000/jue-dui-chai-bu-chao-guo-xian-zhi-de-zui-5bki)
 #### 方法一：滑动窗口 + 有序集合
 
 **思路和解法**

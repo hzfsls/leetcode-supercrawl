@@ -1,4 +1,4 @@
-## [439.Ternary Expression Parser]
+## [439.Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/)
 <p>Given a string <code>expression</code> representing arbitrarily nested ternary expressions, evaluate the expression, and return <em>the result of it</em>.</p>
 
 <p>You can always assume that the given expression is valid and only contains digits, <code>&#39;?&#39;</code>, <code>&#39;:&#39;</code>, <code>&#39;T&#39;</code>, and <code>&#39;F&#39;</code> where <code>&#39;T&#39;</code> is true and <code>&#39;F&#39;</code> is false. All the numbers in the expression are <strong>one-digit</strong> numbers (i.e., in the range <code>[0, 9]</code>).</p>

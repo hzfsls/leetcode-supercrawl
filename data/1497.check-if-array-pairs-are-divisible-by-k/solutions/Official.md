@@ -1,3 +1,4 @@
+## [1497.检查数组对是否可以被 k 整除 中文官方题解](https://leetcode.cn/problems/check-if-array-pairs-are-divisible-by-k/solutions/100000/jian-cha-shu-zu-dui-shi-fou-ke-yi-bei-k-zheng-chu-)
 #### 方法一：按照余数进行统计
 
 两个数 $x$ 和 $y$ 的和能被 $k$ 整除，当且仅当这两个数对 $k$ 取模的结果 $x_k$ 和 $y_k$ 的和就能被 $k$ 整除。这里我们规定取模的结果大于等于 $0$，无论 $x$ 和 $y$ 的正负性。因此，我们将数组 $\it arr$ 中的每个数 $x$ 对 $k$ 进行取模，并将得到的余数 $x_k$ 进行配对：

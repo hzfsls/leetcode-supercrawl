@@ -1,3 +1,4 @@
+## [1828.统计一个圆中点的数目 中文官方题解](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/solutions/100000/tong-ji-yi-ge-yuan-zhong-dian-de-shu-mu-jnylm)
 #### 方法一：枚举每个点是否在每个圆中
 
 **思路与算法**

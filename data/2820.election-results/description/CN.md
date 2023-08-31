@@ -1,4 +1,4 @@
-## [2820.选举结果]
+## [2820.选举结果](https://leetcode.cn/problems/election-results/)
 <p>表：<code><font face="monospace">Votes</font></code></p>
 
 <pre>

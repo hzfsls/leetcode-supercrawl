@@ -1,4 +1,4 @@
-## [1924.安装栅栏 II]
+## [1924.安装栅栏 II](https://leetcode.cn/problems/erect-the-fence-ii/)
 <p>给你一个二维整数数组&nbsp;<code>trees</code>，其中 <code>trees[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> 表示花园中第 <code>i</code> 棵树的坐标。</p>
 
 <p>你需要用最少的原材料给花园安装一个 <strong>圆形</strong> 的栅栏，使花园中所有的树都在被 <strong>围在栅栏内部</strong>（在栅栏边界上的树也算在内）。</p>

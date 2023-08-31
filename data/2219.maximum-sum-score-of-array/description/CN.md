@@ -1,4 +1,4 @@
-## [2219.数组的最大总分]
+## [2219.数组的最大总分](https://leetcode.cn/problems/maximum-sum-score-of-array/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> ，数组长度为 <code>n</code> 。</p>
 
 <p><code>nums</code> 在下标 <code>i</code> （<code>0 &lt;= i &lt; n</code>）处的 <strong>总分</strong> 等于下面两个分数中的 <strong>最大值</strong> ：</p>

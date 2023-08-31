@@ -1,3 +1,4 @@
+## [875.爱吃香蕉的珂珂 中文官方题解](https://leetcode.cn/problems/koko-eating-bananas/solutions/100000/ai-chi-xiang-jiao-de-ke-ke-by-leetcode-s-z4rt)
 #### 方法一：二分查找
 
 如果珂珂在 $h$ 小时内吃掉所有香蕉的最小速度是每小时 $k$ 个香蕉，则当吃香蕉的速度大于每小时 $k$ 个香蕉时一定可以在 $h$ 小时内吃掉所有香蕉，当吃香蕉的速度小于每小时 $k$ 个香蕉时一定不能在 $h$ 小时内吃掉所有香蕉。

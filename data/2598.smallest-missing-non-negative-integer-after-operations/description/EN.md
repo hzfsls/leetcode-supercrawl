@@ -1,4 +1,4 @@
-## [2598.Smallest Missing Non-negative Integer After Operations]
+## [2598.Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>value</code>.</p>
 
 <p>In one operation, you can add or subtract <code>value</code> from any element of <code>nums</code>.</p>

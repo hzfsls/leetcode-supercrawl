@@ -1,3 +1,4 @@
+## [2073.买票需要的时间 中文官方题解](https://leetcode.cn/problems/time-needed-to-buy-tickets/solutions/100000/mai-piao-xu-yao-de-shi-jian-by-leetcode-jnfxx)
 #### 方法一：计算每个人需要的时间
 
 **思路与算法**

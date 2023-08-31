@@ -1,4 +1,4 @@
-## [38.Count and Say]
+## [38.Count and Say](https://leetcode.com/problems/count-and-say/)
 <p>The <strong>count-and-say</strong> sequence is a sequence of digit strings defined by the recursive formula:</p>
 
 <ul>

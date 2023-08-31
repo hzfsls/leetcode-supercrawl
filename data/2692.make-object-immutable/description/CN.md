@@ -1,4 +1,4 @@
-## [2692.使对象不可变]
+## [2692.使对象不可变](https://leetcode.cn/problems/make-object-immutable/)
 <p>请你编写一个函数，该函数接收一个对象 <code>obj</code> ，并返回该对象的一个新的 <strong>不可变</strong> 版本。</p>
 
 <p><strong>不可变</strong> 对象是指不能被修改的对象，如果试图修改它，则会抛出错误。</p>

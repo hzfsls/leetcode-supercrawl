@@ -1,4 +1,4 @@
-## [1492.The kth Factor of n]
+## [1492.The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
 <p>You are given two positive integers <code>n</code> and <code>k</code>. A factor of an integer <code>n</code> is defined as an integer <code>i</code> where <code>n % i == 0</code>.</p>
 
 <p>Consider a list of all factors of <code>n</code> sorted in <strong>ascending order</strong>, return <em>the </em><code>k<sup>th</sup></code><em> factor</em> in this list or return <code>-1</code> if <code>n</code> has less than <code>k</code> factors.</p>

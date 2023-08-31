@@ -1,4 +1,4 @@
-## [2720.Popularity Percentage]
+## [2720.Popularity Percentage](https://leetcode.com/problems/popularity-percentage/)
 <p>Table: <code>Friends</code></p>
 
 <pre>

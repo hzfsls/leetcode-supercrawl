@@ -1,3 +1,4 @@
+## [1283.使结果不超过阈值的最小除数 中文官方题解](https://leetcode.cn/problems/find-the-smallest-divisor-given-a-threshold/solutions/100000/shi-jie-guo-bu-chao-guo-yu-zhi-de-zui-xiao-chu-s-3)
 **方法一：二分查找**
 
 假设我们选择了除数 `d`，当 `d` 增加时，正整数数组 `nums` 中的每个数 `num[i]` 除以 `d` 的结果 `num[i] / d` 单调递减，它们的和 `total` 同样也单调递减。

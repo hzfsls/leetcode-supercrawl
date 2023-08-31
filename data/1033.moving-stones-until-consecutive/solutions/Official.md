@@ -1,3 +1,4 @@
+## [1033.移动石子直到连续 中文官方题解](https://leetcode.cn/problems/moving-stones-until-consecutive/solutions/100000/yi-dong-shi-zi-zhi-dao-lian-xu-by-leetco-y5kb)
 #### 方法一：贪心
 
 **思路与算法**

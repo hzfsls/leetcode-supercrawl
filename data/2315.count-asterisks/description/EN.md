@@ -1,4 +1,4 @@
-## [2315.Count Asterisks]
+## [2315.Count Asterisks](https://leetcode.com/problems/count-asterisks/)
 <p>You are given a string <code>s</code>, where every <strong>two</strong> consecutive vertical bars <code>&#39;|&#39;</code> are grouped into a <strong>pair</strong>. In other words, the 1<sup>st</sup> and 2<sup>nd</sup> <code>&#39;|&#39;</code> make a pair, the 3<sup>rd</sup> and 4<sup>th</sup> <code>&#39;|&#39;</code> make a pair, and so forth.</p>
 
 <p>Return <em>the number of </em><code>&#39;*&#39;</code><em> in </em><code>s</code><em>, <strong>excluding</strong> the </em><code>&#39;*&#39;</code><em> between each pair of </em><code>&#39;|&#39;</code>.</p>

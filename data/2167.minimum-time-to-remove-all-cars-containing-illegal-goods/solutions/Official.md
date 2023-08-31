@@ -1,3 +1,4 @@
+## [2167.移除所有载有违禁货物车厢所需的最少时间 中文官方题解](https://leetcode.cn/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/solutions/100000/yi-chu-suo-you-zai-you-wei-jin-huo-wu-ch-qinx)
 #### 方法一：前缀和
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1441.Build an Array With Stack Operations]
+## [1441.Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
 <p>You are given an integer array <code>target</code> and an integer <code>n</code>.</p>
 
 <p>You have an empty stack with the two following operations:</p>

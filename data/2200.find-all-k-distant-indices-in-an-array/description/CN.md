@@ -1,4 +1,4 @@
-## [2200.找出数组中的所有 K 近邻下标]
+## [2200.找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 和两个整数 <code>key</code> 和 <code>k</code> 。<strong>K 近邻下标</strong> 是 <code>nums</code> 中的一个下标 <code>i</code> ，并满足至少存在一个下标 <code>j</code> 使得 <code>|i - j| &lt;= k</code> 且 <code>nums[j] == key</code> 。</p>
 
 <p>以列表形式返回按 <strong>递增顺序</strong> 排序的所有 K 近邻下标。</p>

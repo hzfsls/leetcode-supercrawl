@@ -1,3 +1,4 @@
+## [1694.重新格式化电话号码 中文官方题解](https://leetcode.cn/problems/reformat-phone-number/solutions/100000/zhong-xin-ge-shi-hua-dian-hua-hao-ma-by-nf6g3)
 #### 方法一：找出所有的数字并分块
 
 **思路与算法**

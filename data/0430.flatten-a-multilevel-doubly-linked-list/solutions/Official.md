@@ -1,3 +1,4 @@
+## [430.扁平化多级双向链表 中文官方题解](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/solutions/100000/bian-ping-hua-duo-ji-shuang-xiang-lian-b-383h)
 #### 方法一：深度优先搜索
 
 **思路与算法**

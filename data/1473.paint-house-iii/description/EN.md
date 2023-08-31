@@ -1,4 +1,4 @@
-## [1473.Paint House III]
+## [1473.Paint House III](https://leetcode.com/problems/paint-house-iii/)
 <p>There is a row of <code>m</code> houses in a small city, each house must be painted with one of the <code>n</code> colors (labeled from <code>1</code> to <code>n</code>), some houses that have been painted last summer should not be painted again.</p>
 
 <p>A neighborhood is a maximal group of continuous houses that are painted with the same color.</p>

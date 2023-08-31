@@ -1,4 +1,4 @@
-## [2122.Recover the Original Array]
+## [2122.Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/)
 <p>Alice had a <strong>0-indexed</strong> array <code>arr</code> consisting of <code>n</code> <strong>positive</strong> integers. She chose an arbitrary <strong>positive integer</strong> <code>k</code> and created two new <strong>0-indexed</strong> integer arrays <code>lower</code> and <code>higher</code> in the following manner:</p>
 
 <ol>

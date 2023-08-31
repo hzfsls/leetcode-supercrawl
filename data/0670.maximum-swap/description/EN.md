@@ -1,4 +1,4 @@
-## [670.Maximum Swap]
+## [670.Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 <p>You are given an integer <code>num</code>. You can swap two digits at most once to get the maximum valued number.</p>
 
 <p>Return <em>the maximum valued number you can get</em>.</p>

@@ -1,3 +1,4 @@
+## [2028.找出缺失的观测数据 中文官方题解](https://leetcode.cn/problems/find-missing-observations/solutions/100000/zhao-chu-que-shi-de-guan-ce-shu-ju-by-le-0z7j)
 #### 方法一：模拟构造
 
 根据题目描述，数组 $\textit{rolls}$ 的长度为 $m$，记录了 $m$ 个观测数据，还有 $n$ 个观测数据缺失，共有 $n + m$ 个观测数据。由于所有观测数据的平均值为 $\textit{mean}$，因此所有观测数据之和为 $\textit{mean} \times (n + m)$。

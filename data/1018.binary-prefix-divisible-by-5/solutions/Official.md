@@ -1,3 +1,4 @@
+## [1018.可被 5 整除的二进制前缀 中文官方题解](https://leetcode.cn/problems/binary-prefix-divisible-by-5/solutions/100000/ke-bei-5-zheng-chu-de-er-jin-zhi-qian-zh-asih)
 #### 方法一：遍历
 
 令 $\textit{num}_i$ 为数组 $\textit{nums}$ 从下标 $0$ 到下标 $i$ 的前缀表示的二进制数，则有 $\textit{num}_0=\textit{nums}[0]$。当 $i>0$ 时，有 $\textit{num}_i=\textit{num}_{i-1} \times 2+\textit{nums}[i]$。令 $n$ 为数组 $\textit{nums}$ 的长度，则对于 $0 \le i<n$，可以依次计算每个 $\textit{num}_i$ 的值。对于每个 $\textit{num}_i$ 的值，判断其是否可以被 $5$ 整除，即可得到答案。

@@ -1,3 +1,4 @@
+## [735.行星碰撞 中文官方题解](https://leetcode.cn/problems/asteroid-collision/solutions/100000/xing-xing-peng-zhuang-by-leetcode-soluti-u3k0)
 #### 方法一：栈模拟
 
 使用栈 $\textit{st}$ 模拟行星碰撞，从左往右遍历行星数组 $\textit{asteroids}$，当我们遍历到行星 $\textit{aster}$ 时，使用变量 $\textit{alive}$ 记录行星 $\textit{aster}$ 是否还存在（即未爆炸）。

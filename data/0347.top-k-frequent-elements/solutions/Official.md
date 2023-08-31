@@ -1,3 +1,4 @@
+## [347.前 K 个高频元素 中文官方题解](https://leetcode.cn/problems/top-k-frequent-elements/solutions/100000/qian-k-ge-gao-pin-yuan-su-by-leetcode-solution)
 #### 方法一：堆
 
 **思路与算法**

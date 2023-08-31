@@ -1,3 +1,4 @@
+## [1818.绝对差值和 中文官方题解](https://leetcode.cn/problems/minimum-absolute-sum-difference/solutions/100000/jue-dui-chai-zhi-he-by-leetcode-solution-gv78)
 #### 方法一：排序 + 二分查找
 
 **思路及算法**

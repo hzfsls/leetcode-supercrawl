@@ -1,3 +1,4 @@
+## [1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？ 中文官方题解](https://leetcode.cn/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/solutions/100000/ni-neng-zai-ni-zui-xi-huan-de-na-tian-ch-boa0)
 #### 前言
 
 读者需要注意的题目中的一个小陷阱：**我们是从第 $0$ 天开始吃糖果**。因此对于第 $i$ 个询问，我们可以吃 $\textit{favoriteDay}_i+1$ 天的糖果。

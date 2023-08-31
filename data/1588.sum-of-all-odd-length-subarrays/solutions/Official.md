@@ -1,3 +1,4 @@
+## [1588.所有奇数长度子数组的和 中文官方题解](https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/solutions/100000/suo-you-qi-shu-chang-du-zi-shu-zu-de-he-yoaqu)
 #### 方法一：暴力
 
 最简单的方法是遍历数组 $\textit{arr}$ 中的每个长度为奇数的子数组，计算这些子数组的和。由于只需要计算所有长度为奇数的子数组的和，不需要分别计算每个子数组的和，因此只需要维护一个变量 $\textit{sum}$ 存储总和即可。

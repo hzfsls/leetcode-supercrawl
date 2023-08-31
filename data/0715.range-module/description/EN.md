@@ -1,4 +1,4 @@
-## [715.Range Module]
+## [715.Range Module](https://leetcode.com/problems/range-module/)
 <p>A Range Module is a module that tracks ranges of numbers. Design a data structure to track the ranges represented as <strong>half-open intervals</strong> and query about them.</p>
 
 <p>A <strong>half-open interval</strong> <code>[left, right)</code> denotes all the real numbers <code>x</code> where <code>left &lt;= x &lt; right</code>.</p>

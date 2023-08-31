@@ -1,4 +1,4 @@
-## [584.寻找用户推荐人]
+## [584.寻找用户推荐人](https://leetcode.cn/problems/find-customer-referee/)
 <p>表:&nbsp;<code>Customer</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [2645.构造有效字符串的最少插入数]
+## [2645.构造有效字符串的最少插入数](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/)
 <p>给你一个字符串 <code>word</code> ，你可以向其中任何位置插入 "a"、"b" 或 "c" 任意次，返回使 <code>word</code> <strong>有效</strong> 需要插入的最少字母数。</p>
 
 <p>如果字符串可以由 "abc" 串联多次得到，则认为该字符串 <strong>有效</strong> 。</p>

@@ -1,3 +1,4 @@
+## [76.最小覆盖子串 中文官方题解](https://leetcode.cn/problems/minimum-window-substring/solutions/100000/zui-xiao-fu-gai-zi-chuan-by-leetcode-solution)
 ### 📺视频题解  
 
 ![76. 最小覆盖子串.mp4](37fa6129-0eb2-4c1f-a75b-152e1d6b2f5e)

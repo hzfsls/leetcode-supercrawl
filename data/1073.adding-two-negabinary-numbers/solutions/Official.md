@@ -1,3 +1,4 @@
+## [1073.负二进制数相加 中文官方题解](https://leetcode.cn/problems/adding-two-negabinary-numbers/solutions/100000/fu-er-jin-zhi-shu-xiang-jia-by-leetcode-nwktq)
 #### 方法一：模拟
 
 **思路与算法**

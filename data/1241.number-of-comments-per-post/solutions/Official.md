@@ -1,3 +1,4 @@
+## [1241.每个帖子的评论数 中文官方题解](https://leetcode.cn/problems/number-of-comments-per-post/solutions/100000/mei-ge-tie-zi-de-ping-lun-shu-by-leetcode-solution)
 #### 方法一：`LEFT JOIN`
 
 **思路**

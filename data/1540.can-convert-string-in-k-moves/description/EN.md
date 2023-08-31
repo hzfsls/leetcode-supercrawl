@@ -1,4 +1,4 @@
-## [1540.Can Convert String in K Moves]
+## [1540.Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/)
 <p>Given two strings&nbsp;<code>s</code>&nbsp;and&nbsp;<code>t</code>, your goal is to convert&nbsp;<code>s</code>&nbsp;into&nbsp;<code>t</code>&nbsp;in&nbsp;<code>k</code><strong>&nbsp;</strong>moves or less.</p>
 
 <p>During the&nbsp;<code>i<sup>th</sup></code>&nbsp;(<font face="monospace"><code>1 &lt;= i &lt;= k</code>)&nbsp;</font>move you can:</p>

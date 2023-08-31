@@ -1,4 +1,4 @@
-## [2470.最小公倍数为 K 的子数组数目]
+## [2470.最小公倍数为 K 的子数组数目](https://leetcode.cn/problems/number-of-subarrays-with-lcm-equal-to-k/)
 <p>给你一个整数数组 <code>nums</code> 和一个整数 <code>k</code> ，请你统计并返回 <code>nums</code> 的 <strong>子数组</strong> 中满足 <em>元素最小公倍数为 <code>k</code> </em>的子数组数目。</p>
 
 <p><strong>子数组</strong> 是数组中一个连续非空的元素序列。</p>

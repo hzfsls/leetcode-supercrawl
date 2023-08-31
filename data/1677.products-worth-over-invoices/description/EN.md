@@ -1,4 +1,4 @@
-## [1677.Product's Worth Over Invoices]
+## [1677.Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices/)
 <p>Table: <code>Product</code></p>
 
 <pre>

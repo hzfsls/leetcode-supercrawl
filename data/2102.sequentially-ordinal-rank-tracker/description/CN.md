@@ -1,4 +1,4 @@
-## [2102.序列顺序查询]
+## [2102.序列顺序查询](https://leetcode.cn/problems/sequentially-ordinal-rank-tracker/)
 <p>一个观光景点由它的名字&nbsp;<code>name</code> 和景点评分&nbsp;<code>score</code>&nbsp;组成，其中&nbsp;<code>name</code>&nbsp;是所有观光景点中&nbsp;<strong>唯一</strong>&nbsp;的字符串，<code>score</code>&nbsp;是一个整数。景点按照最好到最坏排序。景点评分 <strong>越高</strong>&nbsp;，这个景点越好。如果有两个景点的评分一样，那么 <strong>字典序较小</strong>&nbsp;的景点更好。</p>
 
 <p>你需要搭建一个系统，查询景点的排名。初始时系统里没有任何景点。这个系统支持：</p>

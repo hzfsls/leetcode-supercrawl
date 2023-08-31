@@ -1,3 +1,4 @@
+## [1447.最简分数 中文官方题解](https://leetcode.cn/problems/simplified-fractions/solutions/100000/zui-jian-fen-shu-by-leetcode-solution-98zy)
 #### 方法一：数学
 
 由于要保证分数在 $(0,1)$ 范围内，我们可以枚举分母 $\textit{denominator}\in [2,n]$ 和分子 $\textit{numerator}\in [1,\textit{denominator})$，若分子分母的最大公约数为 $1$，则我们找到了一个最简分数。

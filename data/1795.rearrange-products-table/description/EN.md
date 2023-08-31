@@ -1,4 +1,4 @@
-## [1795.Rearrange Products Table]
+## [1795.Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
 <p>Table: <code>Products</code></p>
 
 <pre>

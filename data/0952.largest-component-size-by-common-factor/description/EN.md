@@ -1,4 +1,4 @@
-## [952.Largest Component Size by Common Factor]
+## [952.Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
 <p>You are given an integer array of unique positive integers <code>nums</code>. Consider the following graph:</p>
 
 <ul>

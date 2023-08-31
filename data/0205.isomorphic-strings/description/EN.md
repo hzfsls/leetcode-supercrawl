@@ -1,4 +1,4 @@
-## [205.Isomorphic Strings]
+## [205.Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 <p>Given two strings <code>s</code> and <code>t</code>, <em>determine if they are isomorphic</em>.</p>
 
 <p>Two strings <code>s</code> and <code>t</code> are isomorphic if the characters in <code>s</code> can be replaced to get <code>t</code>.</p>

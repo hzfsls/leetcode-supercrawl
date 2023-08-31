@@ -1,4 +1,4 @@
-## [2262.Total Appeal of A String]
+## [2262.Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)
 <p>The <b>appeal</b> of a string is the number of <strong>distinct</strong> characters found in the string.</p>
 
 <ul>

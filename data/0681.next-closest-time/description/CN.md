@@ -1,4 +1,4 @@
-## [681.最近时刻]
+## [681.最近时刻](https://leetcode.cn/problems/next-closest-time/)
 <p>给定一个形如<meta charset="UTF-8" />&nbsp;<code>"HH:MM"</code> 表示的时刻<meta charset="UTF-8" />&nbsp;<code>time</code>&nbsp;，利用当前出现过的数字构造下一个距离当前时间最近的时刻。每个出现数字都可以被无限次使用。</p>
 
 <p>你可以认为给定的字符串一定是合法的。例如，<meta charset="UTF-8" />&nbsp;<code>"01:34"</code> 和 <meta charset="UTF-8" />&nbsp;<code>"12:09"</code> 是合法的，<code>“1:34”</code> 和 <code>“12:9”</code> 是不合法的。</p>

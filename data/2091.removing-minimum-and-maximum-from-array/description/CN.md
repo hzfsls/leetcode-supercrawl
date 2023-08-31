@@ -1,4 +1,4 @@
-## [2091.从数组中移除最大值和最小值]
+## [2091.从数组中移除最大值和最小值](https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/)
 <p>给你一个下标从 <strong>0</strong> 开始的数组 <code>nums</code> ，数组由若干 <strong>互不相同</strong> 的整数组成。</p>
 
 <p><code>nums</code> 中有一个值最小的元素和一个值最大的元素。分别称为 <strong>最小值</strong> 和 <strong>最大值</strong> 。你的目标是从数组中移除这两个元素。</p>

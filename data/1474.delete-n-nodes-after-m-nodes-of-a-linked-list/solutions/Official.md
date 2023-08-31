@@ -1,3 +1,4 @@
+## [1474.删除链表 M 个节点之后的 N 个节点 中文官方题解](https://leetcode.cn/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/solutions/100000/shan-chu-lian-biao-m-ge-jie-dian-zhi-hou-93uk)
 [TOC]
 
 ## 解决方案

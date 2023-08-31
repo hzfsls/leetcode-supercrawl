@@ -1,4 +1,4 @@
-## [1126.Active Businesses]
+## [1126.Active Businesses](https://leetcode.com/problems/active-businesses/)
 <p>Table: <code>Events</code></p>
 
 <pre>

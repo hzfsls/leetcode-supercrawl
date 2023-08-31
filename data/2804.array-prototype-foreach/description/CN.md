@@ -1,4 +1,4 @@
-## [2804.数组原型的 forEach 方法]
+## [2804.数组原型的 forEach 方法](https://leetcode.cn/problems/array-prototype-foreach/)
 <p>编写一个数组方法 <code>forEach</code>，使其可以在任何数组上调用 <code>array.forEach(callback, context)</code> 方法，它将在数组的每个元素上执行回调函数。<code>forEach</code> 方法不应该返回任何内容。</p>
 
 <p>回调函数 <code>callback</code> 接受以下参数：</p>

@@ -1,4 +1,4 @@
-## [302.包含全部黑色像素的最小矩形]
+## [302.包含全部黑色像素的最小矩形](https://leetcode.cn/problems/smallest-rectangle-enclosing-black-pixels/)
 <p>图片在计算机处理中往往是使用二维矩阵来表示的。</p>
 
 <p>给你一个大小为 <code>m x n</code> 的二进制矩阵&nbsp;<code>image</code> 表示一张黑白图片，<code>0</code>&nbsp;代表白色像素，<code>1</code>&nbsp;代表黑色像素。</p>

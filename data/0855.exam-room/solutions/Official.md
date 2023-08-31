@@ -1,3 +1,4 @@
+## [855.考场就座 中文官方题解](https://leetcode.cn/problems/exam-room/solutions/100000/kao-chang-jiu-zuo-by-leetcode-solution-074y)
 #### 方法一：延迟删除 + 有序集合 + 优先队列
 
 假设有两个学生，他们的位置分别为 $s_1$ 和 $s_2$，我们用区间 $[s_1, s_2]$ 表示他们之间的空闲座位区间。如果固定某一个区间，那么座位选择该区间的中点 $s=s_1 + \lfloor \frac{s_2-s_1}{2} \rfloor$ 能够使新进入的学生与离他最近的人之间的距离达到最大化。

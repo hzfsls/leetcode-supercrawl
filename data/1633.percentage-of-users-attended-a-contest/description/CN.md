@@ -1,4 +1,4 @@
-## [1633.各赛事的用户注册率]
+## [1633.各赛事的用户注册率](https://leetcode.cn/problems/percentage-of-users-attended-a-contest/)
 <p>用户表：&nbsp;<code>Users</code></p>
 
 <pre>

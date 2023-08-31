@@ -1,3 +1,4 @@
+## [361.轰炸敌人 中文官方题解](https://leetcode.cn/problems/bomb-enemy/solutions/100000/hong-zha-di-ren-by-leetcode-solution)
 #### 方法一：暴力
 
 暴力枚举所有空位，统计答案，统计答案就是按题意朝 4 个方向延伸，直到碰到墙或者边界停止，统计这中间碰到的敌人数即可。

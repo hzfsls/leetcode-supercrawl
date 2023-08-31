@@ -1,4 +1,4 @@
-## [2474.购买量严格增加的客户]
+## [2474.购买量严格增加的客户](https://leetcode.cn/problems/customers-with-strictly-increasing-purchases/)
 <p>表: <code>Orders</code></p>
 
 <pre>

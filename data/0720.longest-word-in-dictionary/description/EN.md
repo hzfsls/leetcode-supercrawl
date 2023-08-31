@@ -1,4 +1,4 @@
-## [720.Longest Word in Dictionary]
+## [720.Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
 <p>Given an array of strings <code>words</code> representing an English Dictionary, return <em>the longest word in</em> <code>words</code> <em>that can be built one character at a time by other words in</em> <code>words</code>.</p>
 
 <p>If there is more than one possible answer, return the longest word with the smallest lexicographical order. If there is no answer, return the empty string.</p>

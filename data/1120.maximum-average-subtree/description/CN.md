@@ -1,4 +1,4 @@
-## [1120.子树的最大平均值]
+## [1120.子树的最大平均值](https://leetcode.cn/problems/maximum-average-subtree/)
 <p>给你一棵二叉树的根节点&nbsp;<code>root</code>，找出这棵树的 <strong>每一棵</strong> 子树的 <strong>平均值</strong> 中的 <strong>最大</strong> 值。</p>
 
 <p>子树是树中的任意节点和它的所有后代构成的集合。</p>

@@ -1,4 +1,4 @@
-## [1488.Avoid Flood in The City]
+## [1488.Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)
 <p>Your country has an infinite number of lakes. Initially, all the lakes are empty, but when it rains over the <code>nth</code> lake, the <code>nth</code> lake becomes full of water. If it rains over a lake that is <strong>full of water</strong>, there will be a <strong>flood</strong>. Your goal is to avoid floods in any lake.</p>
 
 <p>Given an integer array <code>rains</code> where:</p>

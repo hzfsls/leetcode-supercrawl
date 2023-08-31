@@ -1,3 +1,4 @@
+## [1840.最高建筑高度 中文官方题解](https://leetcode.cn/problems/maximum-building-height/solutions/100000/zui-gao-jian-zhu-gao-du-by-leetcode-solu-axbb)
 #### 方法一：限制的传递性
 
 **提示 $1$**

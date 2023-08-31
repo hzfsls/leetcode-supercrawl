@@ -1,4 +1,4 @@
-## [1756.设计最近使用（MRU）队列]
+## [1756.设计最近使用（MRU）队列](https://leetcode.cn/problems/design-most-recently-used-queue/)
 <p>设计一种类似队列的数据结构，该数据结构将最近使用的元素移到队列尾部。</p>
 
 <p>实现 <code>MRUQueue</code> 类：</p>

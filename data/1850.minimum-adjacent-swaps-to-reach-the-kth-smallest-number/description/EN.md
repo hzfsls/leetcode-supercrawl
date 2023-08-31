@@ -1,4 +1,4 @@
-## [1850.Minimum Adjacent Swaps to Reach the Kth Smallest Number]
+## [1850.Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)
 <p>You are given a string <code>num</code>, representing a large integer, and an integer <code>k</code>.</p>
 
 <p>We call some integer <strong>wonderful</strong> if it is a <strong>permutation</strong> of the digits in <code>num</code> and is <strong>greater in value</strong> than <code>num</code>. There can be many wonderful integers. However, we only care about the <strong>smallest-valued</strong> ones.</p>

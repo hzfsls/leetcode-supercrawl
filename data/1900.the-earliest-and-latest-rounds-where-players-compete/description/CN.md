@@ -1,4 +1,4 @@
-## [1900.最佳运动员的比拼回合]
+## [1900.最佳运动员的比拼回合](https://leetcode.cn/problems/the-earliest-and-latest-rounds-where-players-compete/)
 <p><code>n</code> 名运动员参与一场锦标赛，所有运动员站成一排，并根据 <strong>最开始的</strong> 站位从 <code>1</code> 到 <code>n</code> 编号（运动员 <code>1</code> 是这一排中的第一个运动员，运动员 <code>2</code> 是第二个运动员，依此类推）。</p>
 
 <p>锦标赛由多个回合组成（从回合 <code>1</code> 开始）。每一回合中，这一排从前往后数的第 <code>i</code> 名运动员需要与从后往前数的第 <code>i</code> 名运动员比拼，获胜者将会进入下一回合。如果当前回合中运动员数目为奇数，那么中间那位运动员将轮空晋级下一回合。</p>

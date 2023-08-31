@@ -1,4 +1,4 @@
-## [2291.最大股票收益]
+## [2291.最大股票收益](https://leetcode.cn/problems/maximum-profit-from-trading-stocks/)
 <p>给你两个下标从 <strong>0</strong>&nbsp;开始的数组 <code>present</code> 和 <code>future</code> ，<code>present[i]</code> 和 <code>future[i]</code> 分别代表第 <code>i</code> 支股票现在和将来的价格。每支股票你最多购买 <strong>一次</strong> ，你的预算为 <code>budget</code> 。</p>
 
 <p>求最大的收益。</p>

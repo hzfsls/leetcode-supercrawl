@@ -1,4 +1,4 @@
-## [139.单词拆分]
+## [139.单词拆分](https://leetcode.cn/problems/word-break/)
 <p>给你一个字符串 <code>s</code> 和一个字符串列表 <code>wordDict</code> 作为字典。请你判断是否可以利用字典中出现的单词拼接出 <code>s</code> 。</p>
 
 <p><strong>注意：</strong>不要求字典中出现的单词全部都使用，并且字典中的单词可以重复使用。</p>

@@ -1,3 +1,4 @@
+## [798.得分最高的最小轮调 中文官方题解](https://leetcode.cn/problems/smallest-rotation-with-highest-score/solutions/100000/de-fen-zui-gao-de-zui-xiao-lun-diao-by-l-hbtd)
 #### 方法一：差分数组
 
 **思路和算法**

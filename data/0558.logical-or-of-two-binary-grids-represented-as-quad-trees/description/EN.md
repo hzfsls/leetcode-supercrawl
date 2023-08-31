@@ -1,4 +1,4 @@
-## [558.Logical OR of Two Binary Grids Represented as Quad-Trees]
+## [558.Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
 <p>A Binary Matrix is a matrix in which all the elements are either <strong>0</strong> or <strong>1</strong>.</p>
 
 <p>Given <code>quadTree1</code> and <code>quadTree2</code>. <code>quadTree1</code> represents a <code>n * n</code> binary matrix and <code>quadTree2</code> represents another <code>n * n</code> binary matrix.</p>

@@ -1,4 +1,4 @@
-## [1666.Change the Root of a Binary Tree]
+## [1666.Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/)
 <p>Given the <code>root</code> of a binary tree and a <code>leaf</code> node, reroot the tree so that the <code>leaf</code> is the new root.</p>
 
 <p>You can reroot the tree with the following steps for each node <code>cur</code> on the path <strong>starting from the </strong><code>leaf</code> up to the <code>root</code>​​​ <strong>excluding the root</strong>:</p>

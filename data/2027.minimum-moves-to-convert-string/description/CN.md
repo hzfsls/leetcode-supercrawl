@@ -1,4 +1,4 @@
-## [2027.转换字符串的最少操作次数]
+## [2027.转换字符串的最少操作次数](https://leetcode.cn/problems/minimum-moves-to-convert-string/)
 <p>给你一个字符串 <code>s</code> ，由 <code>n</code> 个字符组成，每个字符不是 <code>'X'</code> 就是 <code>'O'</code> 。</p>
 
 <p>一次<strong> 操作</strong> 定义为从 <code>s</code> 中选出 <strong>三个连续字符 </strong>并将选中的每个字符都转换为 <code>'O'</code> 。注意，如果字符已经是 <code>'O'</code> ，只需要保持 <strong>不变</strong> 。</p>

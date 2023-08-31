@@ -1,3 +1,4 @@
+## [890.查找和替换模式 中文官方题解](https://leetcode.cn/problems/find-and-replace-pattern/solutions/100000/cha-zhao-he-ti-huan-mo-shi-by-leetcode-s-fyyg)
 #### 方法一：构造双射
 
 我们可以逐个判断 $\textit{words}$ 中的每个单词 $\textit{word}$ 是否与 $\textit{pattern}$ 匹配。

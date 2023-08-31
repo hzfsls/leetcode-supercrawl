@@ -1,4 +1,4 @@
-## [1196.最多可以买到的苹果数量]
+## [1196.最多可以买到的苹果数量](https://leetcode.cn/problems/how-many-apples-can-you-put-into-the-basket/)
 <p>你有一些苹果和一个可以承载 <code>5000</code> 单位重量的篮子。</p>
 
 <p>给定一个整数数组 <code>weight</code> ，其中 <code>weight[i]</code> 是第 <code>i</code> 个苹果的重量，返回 <em>你可以放入篮子的最大苹果数量</em> 。</p>

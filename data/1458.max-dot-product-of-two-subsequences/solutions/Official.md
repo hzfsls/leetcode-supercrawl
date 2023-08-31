@@ -1,3 +1,4 @@
+## [1458.两个子序列的最大点积 中文官方题解](https://leetcode.cn/problems/max-dot-product-of-two-subsequences/solutions/100000/liang-ge-zi-xu-lie-de-zui-da-dian-ji-by-jwqux)
 #### 方法一：动态规划
 
 我们用 $f[i][j]$ 表示只考虑数组 $\textit{nums}_1$ 的前 $i$ 个元素以及数组 $\textit{nums}_2$ 的前 $j$ 个元素时，可以得到的两个长度相同的**非空**子序列的最大点积。这里元素的下标从 $0$ 开始计数，与题目描述保持一致。

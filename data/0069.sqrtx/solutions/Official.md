@@ -1,3 +1,4 @@
+## [69.x 的平方根  中文官方题解](https://leetcode.cn/problems/sqrtx/solutions/100000/x-de-ping-fang-gen-by-leetcode-solution)
 ### 📺 视频题解  
 ![69 x的平方根 仲耀晖.mp4](6d3985c2-8ccf-4fc7-8eda-2b58b4d33362)
 

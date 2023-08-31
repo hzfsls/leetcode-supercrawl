@@ -1,4 +1,4 @@
-## [2688.Find Active Users]
+## [2688.Find Active Users](https://leetcode.com/problems/find-active-users/)
 <p>Table:<font face="monospace">&nbsp;<code>Users</code></font></p>
 
 <pre>

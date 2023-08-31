@@ -1,3 +1,4 @@
+## [592.分数加减运算 中文官方题解](https://leetcode.cn/problems/fraction-addition-and-subtraction/solutions/100000/fen-shu-jia-jian-yun-suan-by-leetcode-so-2mto)
 #### 方法一：模拟
 
 对于两个分数 $\dfrac{x_1}{y_1} 和 \dfrac{x_2}{y_2}$，它们相加的结果为：

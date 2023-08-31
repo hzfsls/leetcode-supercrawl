@@ -1,4 +1,4 @@
-## [1571.Warehouse Manager]
+## [1571.Warehouse Manager](https://leetcode.com/problems/warehouse-manager/)
 <p>Table: <code>Warehouse</code></p>
 
 <pre>

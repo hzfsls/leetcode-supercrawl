@@ -1,4 +1,4 @@
-## [2727.判断对象是否为空]
+## [2727.判断对象是否为空](https://leetcode.cn/problems/is-object-empty/)
 <p>给定一个对象或数组，判断它是否为空。</p>
 
 <ul>

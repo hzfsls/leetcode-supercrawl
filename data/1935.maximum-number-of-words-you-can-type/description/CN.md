@@ -1,4 +1,4 @@
-## [1935.可以输入的最大单词数]
+## [1935.可以输入的最大单词数](https://leetcode.cn/problems/maximum-number-of-words-you-can-type/)
 <p>键盘出现了一些故障，有些字母键无法正常工作。而键盘上所有其他键都能够正常工作。</p>
 
 <p>给你一个由若干单词组成的字符串 <code>text</code> ，单词间由单个空格组成（不含前导和尾随空格）；另有一个字符串 <code>brokenLetters</code> ，由所有已损坏的不同字母键组成，返回你可以使用此键盘完全输入的 <code>text</code> 中单词的数目。</p>

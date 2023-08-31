@@ -1,4 +1,4 @@
-## [521.Longest Uncommon Subsequence I]
+## [521.Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
 <p>Given two strings <code>a</code> and <code>b</code>, return <em>the length of the <strong>longest uncommon subsequence</strong> between </em><code>a</code> <em>and</em> <code>b</code>. If the longest uncommon subsequence does not exist, return <code>-1</code>.</p>
 
 <p>An <strong>uncommon subsequence</strong> between two strings is a string that is a <strong>subsequence of one but not the other</strong>.</p>

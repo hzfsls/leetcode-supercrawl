@@ -1,3 +1,4 @@
+## [874.模拟行走机器人 中文官方题解](https://leetcode.cn/problems/walking-robot-simulation/solutions/100000/mo-ni-xing-zou-ji-qi-ren-by-leetcode-sol-41b8)
 #### 方法一：哈希表
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [2827.Number of Beautiful Integers in the Range]
+## [2827.Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)
 <p>You are given positive integers <code>low</code>, <code>high</code>, and <code>k</code>.</p>
 
 <p>A number is <strong>beautiful</strong> if it meets both of the following conditions:</p>

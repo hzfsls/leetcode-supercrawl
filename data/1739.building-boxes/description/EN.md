@@ -1,4 +1,4 @@
-## [1739.Building Boxes]
+## [1739.Building Boxes](https://leetcode.com/problems/building-boxes/)
 <p>You have a cubic storeroom where the width, length, and height of the room are all equal to <code>n</code> units. You are asked to place <code>n</code> boxes in this room where each box is a cube of unit side length. There are however some rules to placing the boxes:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [165.比较版本号 中文官方题解](https://leetcode.cn/problems/compare-version-numbers/solutions/100000/bi-jiao-ban-ben-hao-by-leetcode-solution-k6wi)
 #### 方法一：字符串分割
 
 我们可以将版本号按照点号分割成修订号，然后从左到右比较两个版本号的相同下标的修订号。在比较修订号时，需要将字符串转换成整数进行比较。注意根据题目要求，如果版本号不存在某个下标处的修订号，则该修订号视为 $0$。

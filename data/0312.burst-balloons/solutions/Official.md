@@ -1,3 +1,4 @@
+## [312.戳气球 中文官方题解](https://leetcode.cn/problems/burst-balloons/solutions/100000/chuo-qi-qiu-by-leetcode-solution)
 #### 前言
 
 为了方便处理，我们对 $\textit{nums}$ 数组稍作处理，将其两边各加上题目中假设存在的 $\textit{nums}[-1]$ 和 $\textit{nums}[n]$ ，并保存在 $\textit{val}$ 数组中，即 $\textit{val}[i]=\textit{nums}[i-1]$ 。之所以这样处理是为了处理 $\textit{nums}[-1]$ ，防止下标越界。

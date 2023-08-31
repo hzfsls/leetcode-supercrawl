@@ -1,4 +1,4 @@
-## [1221.Split a String in Balanced Strings]
+## [1221.Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 <p><strong>Balanced</strong> strings are those that have an equal quantity of <code>&#39;L&#39;</code> and <code>&#39;R&#39;</code> characters.</p>
 
 <p>Given a <strong>balanced</strong> string <code>s</code>, split it into some number of substrings such that:</p>

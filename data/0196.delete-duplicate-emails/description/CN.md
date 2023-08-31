@@ -1,4 +1,4 @@
-## [196.删除重复的电子邮箱]
+## [196.删除重复的电子邮箱](https://leetcode.cn/problems/delete-duplicate-emails/)
 <p>表:&nbsp;<code>Person</code></p>
 
 <pre>

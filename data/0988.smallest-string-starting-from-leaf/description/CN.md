@@ -1,4 +1,4 @@
-## [988.从叶结点开始的最小字符串]
+## [988.从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)
 <p>给定一颗根结点为&nbsp;<code>root</code>&nbsp;的二叉树，树中的每一个结点都有一个&nbsp;<code>[0, 25]</code>&nbsp;范围内的值，分别代表字母&nbsp;<code>'a'</code> 到&nbsp;<code>'z'</code>。</p>
 
 <p>返回 <em><strong>按字典序最小</strong> 的字符串，该字符串从这棵树的一个叶结点开始，到根结点结束</em>。</p>

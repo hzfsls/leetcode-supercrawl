@@ -1,4 +1,4 @@
-## [970.Powerful Integers]
+## [970.Powerful Integers](https://leetcode.com/problems/powerful-integers/)
 <p>Given three integers <code>x</code>, <code>y</code>, and <code>bound</code>, return <em>a list of all the <strong>powerful integers</strong> that have a value less than or equal to</em> <code>bound</code>.</p>
 
 <p>An integer is <strong>powerful</strong> if it can be represented as <code>x<sup>i</sup> + y<sup>j</sup></code> for some integers <code>i &gt;= 0</code> and <code>j &gt;= 0</code>.</p>

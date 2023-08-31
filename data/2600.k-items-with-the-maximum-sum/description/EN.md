@@ -1,4 +1,4 @@
-## [2600.K Items With the Maximum Sum]
+## [2600.K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)
 <p>There is a bag that consists of items, each item&nbsp;has a number <code>1</code>, <code>0</code>, or <code>-1</code> written on it.</p>
 
 <p>You are given four <strong>non-negative </strong>integers <code>numOnes</code>, <code>numZeros</code>, <code>numNegOnes</code>, and <code>k</code>.</p>

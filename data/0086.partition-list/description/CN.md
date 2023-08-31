@@ -1,4 +1,4 @@
-## [86.分隔链表]
+## [86.分隔链表](https://leetcode.cn/problems/partition-list/)
 <p>给你一个链表的头节点 <code>head</code> 和一个特定值<em> </em><code>x</code> ，请你对链表进行分隔，使得所有 <strong>小于</strong> <code>x</code> 的节点都出现在 <strong>大于或等于</strong> <code>x</code> 的节点之前。</p>
 
 <p>你应当 <strong>保留</strong> 两个分区中每个节点的初始相对位置。</p>

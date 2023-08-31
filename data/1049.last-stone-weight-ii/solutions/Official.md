@@ -1,3 +1,4 @@
+## [1049.最后一块石头的重量 II 中文官方题解](https://leetcode.cn/problems/last-stone-weight-ii/solutions/100000/zui-hou-yi-kuai-shi-tou-de-zhong-liang-i-95p9)
 #### 前言：合法性证明
 
 为了便于讨论，若最终没有石头剩下，则视作最终剩下了一块重量为 $0$ 的石头。

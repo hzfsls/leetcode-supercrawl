@@ -1,3 +1,4 @@
+## [473.火柴拼正方形 中文官方题解](https://leetcode.cn/problems/matchsticks-to-square/solutions/100000/huo-chai-pin-zheng-fang-xing-by-leetcode-szdp)
 #### 方法一：回溯
 
 首先计算所有火柴的总长度 $\textit{totalLen}$，如果 $\textit{totalLen}$ 不是 $4$ 的倍数，那么不可能拼成正方形，返回 $\text{false}$。当 $\textit{totalLen}$ 是 $4$ 的倍数时，每条边的边长为 $\textit{len} = \dfrac{\textit{totalLen}}{4}$，用 $\textit{edges}$ 来记录 $4$ 条边已经放入的火柴总长度。对于第 $\textit{index}$ 火柴，尝试把它放入其中一条边内且满足放入后该边的火柴总长度不超过 $\textit{len}$，然后继续枚举第 $\textit{index} + 1$ 根火柴的放置情况，如果所有火柴都已经被放置，那么说明可以拼成正方形。

@@ -1,3 +1,4 @@
+## [2050.并行课程 III 中文官方题解](https://leetcode.cn/problems/parallel-courses-iii/solutions/100000/bing-xing-ke-cheng-iii-by-leetcode-solut-aw43)
 #### 方法一：记忆化搜索
 
 **思路**

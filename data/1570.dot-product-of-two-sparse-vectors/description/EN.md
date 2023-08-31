@@ -1,4 +1,4 @@
-## [1570.Dot Product of Two Sparse Vectors]
+## [1570.Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)
 <p>Given two sparse vectors, compute their dot product.</p>
 
 <p>Implement class <code>SparseVector</code>:</p>

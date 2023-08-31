@@ -1,3 +1,4 @@
+## [1801.积压订单中的订单总数 中文官方题解](https://leetcode.cn/problems/number-of-orders-in-the-backlog/solutions/100000/ji-ya-ding-dan-zhong-de-ding-dan-zong-sh-6g22)
 #### 方法一：优先队列模拟
 
 根据题意，需要遍历数组 $\textit{orders}$ 中的订单并依次处理。对于遍历到的每个订单，需要找到类型相反的积压订单，如果可以匹配则执行这两笔订单并将积压订单删除，否则将当前订单添加到积压订单中。

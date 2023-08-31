@@ -1,4 +1,4 @@
-## [1731.每位经理的下属员工数量]
+## [1731.每位经理的下属员工数量](https://leetcode.cn/problems/the-number-of-employees-which-report-to-each-employee/)
 <p>Table: <code>Employees</code></p>
 
 <pre>+-------------+----------+

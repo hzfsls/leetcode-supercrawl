@@ -1,3 +1,4 @@
+## [797.所有可能的路径 中文官方题解](https://leetcode.cn/problems/all-paths-from-source-to-target/solutions/100000/suo-you-ke-neng-de-lu-jing-by-leetcode-s-iyoh)
 ### 📺 视频题解
 ![32. leetcode 797.mp4](a14edc71-3368-4eaf-93de-1d1f59bdfe2a)
 

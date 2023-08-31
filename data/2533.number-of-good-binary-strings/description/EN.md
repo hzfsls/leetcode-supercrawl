@@ -1,4 +1,4 @@
-## [2533.Number of Good Binary Strings]
+## [2533.Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/)
 <p>You are given four integers <code>minLength</code>, <code>maxLength</code>, <code>oneGroup</code> and <code>zeroGroup</code>.</p>
 
 <p>A binary string is <strong>good</strong> if it satisfies the following conditions:</p>

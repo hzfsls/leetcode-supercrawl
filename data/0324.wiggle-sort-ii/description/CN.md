@@ -1,4 +1,4 @@
-## [324.摆动排序 II]
+## [324.摆动排序 II](https://leetcode.cn/problems/wiggle-sort-ii/)
 <p>给你一个整数数组 <code>nums</code>，将它重新排列成 <code>nums[0] < nums[1] > nums[2] < nums[3]...</code> 的顺序。</p>
 
 <p>你可以假设所有输入数组都可以得到满足题目要求的结果。</p>

@@ -1,3 +1,4 @@
+## [1866.恰有 K 根木棍可以看到的排列数目 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/solutions/100000/qia-you-k-gen-mu-gun-ke-yi-kan-dao-de-pa-0c3g)
 #### 方法一：动态规划
 
 **思路与算法**

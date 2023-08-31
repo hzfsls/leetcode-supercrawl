@@ -1,4 +1,4 @@
-## [2479.两个不重叠子树的最大异或值]
+## [2479.两个不重叠子树的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-non-overlapping-subtrees/)
 <p>有一个无向树，有 <code>n</code> 个节点，节点标记为从 <code>0</code> 到 <code>n - 1</code>。给定整数 <code>n</code> 和一个长度为 <code>n - 1</code> 的 2 维整数数组 <code>edges</code>，其中 <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> 表示在树中的节点 <code>a<sub>i</sub></code> 和 <code>b<sub>i</sub></code> 之间有一条边。树的根节点是标记为 <code>0</code> 的节点。</p>
 
 <p data-group="1-1">每个节点都有一个相关联的 <strong>值</strong>。给定一个长度为 n 的数组 <code>values</code>，其中 <code>values[i]</code> 是第 <code>i</code> 个节点的&nbsp;<strong>值</strong>。</p>

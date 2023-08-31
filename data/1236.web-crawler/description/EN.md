@@ -1,4 +1,4 @@
-## [1236.Web Crawler]
+## [1236.Web Crawler](https://leetcode.com/problems/web-crawler/)
 <p>Given a url <code>startUrl</code> and an interface <code>HtmlParser</code>, implement a web&nbsp;crawler to crawl all links that are under the&nbsp;<strong>same hostname</strong> as&nbsp;<code>startUrl</code>.&nbsp;</p>
 
 <p>Return&nbsp;all urls obtained by your web crawler in <strong>any</strong> order.</p>

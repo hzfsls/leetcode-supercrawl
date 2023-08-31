@@ -1,4 +1,4 @@
-## [22.Generate Parentheses]
+## [22.Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 <p>Given <code>n</code> pairs of parentheses, write a function to <em>generate all combinations of well-formed parentheses</em>.</p>
 
 <p>&nbsp;</p>

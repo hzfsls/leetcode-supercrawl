@@ -1,4 +1,4 @@
-## [2059.转化数字的最小运算数]
+## [2059.转化数字的最小运算数](https://leetcode.cn/problems/minimum-operations-to-convert-number/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> ，该数组由 <strong>互不相同</strong> 的数字组成。另给你两个整数 <code>start</code> 和 <code>goal</code> 。</p>
 
 <p>整数 <code>x</code> 的值最开始设为 <code>start</code> ，你打算执行一些运算使 <code>x</code> 转化为 <code>goal</code> 。你可以对数字 <code>x</code> 重复执行下述运算：</p>

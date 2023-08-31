@@ -1,4 +1,4 @@
-## [2625.Flatten Deeply Nested Array]
+## [2625.Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)
 <p>Given a&nbsp;<strong>multi-dimensional</strong> array&nbsp;<code>arr</code>&nbsp;and a depth <code>n</code>, return&nbsp;a&nbsp;<strong>flattened</strong>&nbsp;version of that array.</p>
 
 <p>A <strong>multi-dimensional</strong>&nbsp;array is a recursive data structure that contains integers or other&nbsp;<strong>multi-dimensional</strong>&nbsp;arrays.</p>

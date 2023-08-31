@@ -1,4 +1,4 @@
-## [170.两数之和 III - 数据结构设计]
+## [170.两数之和 III - 数据结构设计](https://leetcode.cn/problems/two-sum-iii-data-structure-design/)
 <p>设计一个接收整数流的数据结构，该数据结构支持检查是否存在两数之和等于特定值。</p>
 
 <p>实现 <code>TwoSum</code> 类：</p>

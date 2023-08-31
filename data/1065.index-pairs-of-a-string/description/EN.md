@@ -1,4 +1,4 @@
-## [1065.Index Pairs of a String]
+## [1065.Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)
 <p>Given a string <code>text</code> and an array of strings <code>words</code>, return <em>an array of all index pairs </em><code>[i, j]</code><em> so that the substring </em><code>text[i...j]</code><em> is in <code>words</code></em>.</p>
 
 <p>Return the pairs <code>[i, j]</code> in sorted order (i.e., sort them by their first coordinate, and in case of ties sort them by their second coordinate).</p>

@@ -1,4 +1,4 @@
-## [1376.通知所有员工所需的时间]
+## [1376.通知所有员工所需的时间](https://leetcode.cn/problems/time-needed-to-inform-all-employees/)
 <p>公司里有 <code>n</code> 名员工，每个员工的 ID 都是独一无二的，编号从 <code>0</code> 到 <code>n - 1</code>。公司的总负责人通过 <code>headID</code> 进行标识。</p>
 
 <p>在 <code>manager</code> 数组中，每个员工都有一个直属负责人，其中 <code>manager[i]</code> 是第 <code>i</code> 名员工的直属负责人。对于总负责人，<code>manager[headID] = -1</code>。题目保证从属关系可以用树结构显示。</p>

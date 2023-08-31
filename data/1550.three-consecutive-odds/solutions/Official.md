@@ -1,3 +1,4 @@
+## [1550.存在连续三个奇数的数组 中文官方题解](https://leetcode.cn/problems/three-consecutive-odds/solutions/100000/cun-zai-lian-xu-san-ge-qi-shu-de-shu-zu-by-leetcod)
 #### 方法一：枚举
 
 **思路与算法**

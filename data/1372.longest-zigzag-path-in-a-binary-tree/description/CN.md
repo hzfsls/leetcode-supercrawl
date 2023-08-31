@@ -1,4 +1,4 @@
-## [1372.二叉树中的最长交错路径]
+## [1372.二叉树中的最长交错路径](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/)
 <p>给你一棵以&nbsp;<code>root</code>&nbsp;为根的二叉树，二叉树中的交错路径定义如下：</p>
 
 <ul>

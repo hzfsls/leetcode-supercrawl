@@ -1,3 +1,4 @@
+## [1865.找出和为指定值的下标对 中文官方题解](https://leetcode.cn/problems/finding-pairs-with-a-certain-sum/solutions/100000/zhao-chu-he-wei-zhi-ding-zhi-de-xia-biao-m17s)
 #### 方法一：哈希表
 
 **提示 $1$**

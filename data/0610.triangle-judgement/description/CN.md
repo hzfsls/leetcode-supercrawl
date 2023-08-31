@@ -1,4 +1,4 @@
-## [610.判断三角形]
+## [610.判断三角形](https://leetcode.cn/problems/triangle-judgement/)
 <p>表:&nbsp;<code>Triangle</code></p>
 
 <pre>

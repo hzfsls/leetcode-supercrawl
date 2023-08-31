@@ -1,4 +1,4 @@
-## [1322.Ads Performance]
+## [1322.Ads Performance](https://leetcode.com/problems/ads-performance/)
 <p>Table: <code>Ads</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [1888.Minimum Number of Flips to Make the Binary String Alternating]
+## [1888.Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
 <p>You are given a binary string <code>s</code>. You are allowed to perform two types of operations on the string in any sequence:</p>
 
 <ul>

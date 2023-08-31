@@ -1,3 +1,4 @@
+## [1728.猫和老鼠 II 中文官方题解](https://leetcode.cn/problems/cat-and-mouse-ii/solutions/100000/mao-he-lao-shu-ii-by-leetcode-solution-e5io)
 #### 前言
 
 这道题是「[913. 猫和老鼠](https://leetcode.cn/problems/cat-and-mouse)」的进阶，建议读者在阅读本文之前首先阅读「[913. 猫和老鼠的官方题解](https://leetcode.cn/problems/cat-and-mouse/solution/mao-he-lao-shu-by-leetcode-solution-444x)」，了解博弈问题中的必胜状态、必败状态与必和状态的概念，以及最优策略。

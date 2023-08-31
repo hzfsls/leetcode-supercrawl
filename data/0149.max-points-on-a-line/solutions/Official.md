@@ -1,3 +1,4 @@
+## [149.直线上最多的点数 中文官方题解](https://leetcode.cn/problems/max-points-on-a-line/solutions/100000/zhi-xian-shang-zui-duo-de-dian-shu-by-le-tq8f)
 #### 方法一：哈希表
 
 **思路及解法**

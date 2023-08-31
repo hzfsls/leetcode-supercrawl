@@ -1,4 +1,4 @@
-## [262.Trips and Users]
+## [262.Trips and Users](https://leetcode.com/problems/trips-and-users/)
 <p>Table: <code>Trips</code></p>
 
 <pre>

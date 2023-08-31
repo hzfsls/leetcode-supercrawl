@@ -1,4 +1,4 @@
-## [258.Add Digits]
+## [258.Add Digits](https://leetcode.com/problems/add-digits/)
 <p>Given an integer <code>num</code>, repeatedly add all its digits until the result has only one digit, and return it.</p>
 
 <p>&nbsp;</p>

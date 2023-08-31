@@ -1,4 +1,4 @@
-## [1879.Minimum XOR Sum of Two Arrays]
+## [1879.Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)
 <p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> of length <code>n</code>.</p>
 
 <p>The <strong>XOR sum</strong> of the two integer arrays is <code>(nums1[0] XOR nums2[0]) + (nums1[1] XOR nums2[1]) + ... + (nums1[n - 1] XOR nums2[n - 1])</code> (<strong>0-indexed</strong>).</p>

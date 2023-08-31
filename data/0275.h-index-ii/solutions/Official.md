@@ -1,3 +1,4 @@
+## [275.H 指数 II 中文官方题解](https://leetcode.cn/problems/h-index-ii/solutions/100000/h-zhi-shu-ii-by-leetcode-solution-si7h)
 #### 前言
 
 这道题是「[274. H 指数](https://leetcode-cn.com/problems/h-index)」的延伸，和第 274 题相比，这道题中的输入数组 $\textit{citations}$ 已经按照升序排序。

@@ -1,4 +1,4 @@
-## [1265.逆序打印不可变链表]
+## [1265.逆序打印不可变链表](https://leetcode.cn/problems/print-immutable-linked-list-in-reverse/)
 <p>给您一个不可变的链表，使用下列接口逆序打印每个节点的值：</p>
 
 <ul>

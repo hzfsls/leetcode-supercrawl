@@ -1,4 +1,4 @@
-## [2373.Largest Local Values in a Matrix]
+## [2373.Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 <p>You are given an <code>n x n</code> integer matrix <code>grid</code>.</p>
 
 <p>Generate an integer matrix <code>maxLocal</code> of size <code>(n - 2) x (n - 2)</code> such that:</p>

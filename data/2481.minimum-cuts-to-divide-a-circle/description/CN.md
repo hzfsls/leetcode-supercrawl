@@ -1,4 +1,4 @@
-## [2481.分割圆的最少切割次数]
+## [2481.分割圆的最少切割次数](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/)
 <p>圆内一个 <strong>有效切割</strong>&nbsp;，符合以下二者之一：</p>
 
 <ul>

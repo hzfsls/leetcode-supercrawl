@@ -1,4 +1,4 @@
-## [2716.最小化字符串长度]
+## [2716.最小化字符串长度](https://leetcode.cn/problems/minimize-string-length/)
 <p>给你一个下标从 <strong>0</strong> 开始的字符串 <code>s</code> ，重复执行下述操作 <strong>任意</strong> 次：</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [1789.员工的直属部门]
+## [1789.员工的直属部门](https://leetcode.cn/problems/primary-department-for-each-employee/)
 <p>表：<code>Employee</code></p>
 
 <pre>

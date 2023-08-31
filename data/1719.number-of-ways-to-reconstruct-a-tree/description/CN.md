@@ -1,4 +1,4 @@
-## [1719.重构一棵树的方案数]
+## [1719.重构一棵树的方案数](https://leetcode.cn/problems/number-of-ways-to-reconstruct-a-tree/)
 <p>给你一个数组 <code>pairs</code> ，其中 <code>pairs[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> ，并且满足：</p>
 
 <ul>

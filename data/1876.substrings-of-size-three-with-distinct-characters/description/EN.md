@@ -1,4 +1,4 @@
-## [1876.Substrings of Size Three with Distinct Characters]
+## [1876.Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 <p>A string is <strong>good</strong> if there are no repeated characters.</p>
 
 <p>Given a string <code>s</code>​​​​​, return <em>the number of <strong>good substrings</strong> of length <strong>three </strong>in </em><code>s</code>​​​​​​.</p>

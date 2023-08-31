@@ -1,4 +1,4 @@
-## [2162.Minimum Cost to Set Cooking Time]
+## [2162.Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/)
 <p>A generic microwave supports cooking times for:</p>
 
 <ul>

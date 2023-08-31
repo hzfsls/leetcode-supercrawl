@@ -1,4 +1,4 @@
-## [979.在二叉树中分配硬币]
+## [979.在二叉树中分配硬币](https://leetcode.cn/problems/distribute-coins-in-binary-tree/)
 <p>给你一个有 <code>n</code> 个结点的二叉树的根结点 <code>root</code> ，其中树中每个结点 <code>node</code> 都对应有 <code>node.val</code> 枚硬币。整棵树上一共有 <code>n</code> 枚硬币。</p>
 
 <p>在一次移动中，我们可以选择两个相邻的结点，然后将一枚硬币从其中一个结点移动到另一个结点。移动可以是从父结点到子结点，或者从子结点移动到父结点。</p>

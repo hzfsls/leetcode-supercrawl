@@ -1,4 +1,4 @@
-## [831.Masking Personal Information]
+## [831.Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)
 <p>You are given a personal information string <code>s</code>, representing either an <strong>email address</strong> or a <strong>phone number</strong>. Return <em>the <strong>masked</strong> personal information using the below rules</em>.</p>
 
 <p><u><strong>Email address:</strong></u></p>

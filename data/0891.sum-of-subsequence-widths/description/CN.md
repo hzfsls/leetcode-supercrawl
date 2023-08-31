@@ -1,4 +1,4 @@
-## [891.子序列宽度之和]
+## [891.子序列宽度之和](https://leetcode.cn/problems/sum-of-subsequence-widths/)
 <p>一个序列的 <strong>宽度</strong> 定义为该序列中最大元素和最小元素的差值。</p>
 
 <p>给你一个整数数组 <code>nums</code> ，返回 <code>nums</code> 的所有非空 <strong>子序列</strong> 的 <strong>宽度之和</strong> 。由于答案可能非常大，请返回对 <code>10<sup>9</sup> + 7</code> <strong>取余</strong> 后的结果。</p>

@@ -1,4 +1,4 @@
-## [2778.Sum of Squares of Special Elements ]
+## [2778.Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
 <p>You are given a <strong>1-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>An element <code>nums[i]</code> of <code>nums</code> is called <strong>special</strong> if <code>i</code> divides <code>n</code>, i.e. <code>n % i == 0</code>.</p>

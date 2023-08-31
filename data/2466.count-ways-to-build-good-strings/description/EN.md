@@ -1,4 +1,4 @@
-## [2466.Count Ways To Build Good Strings]
+## [2466.Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)
 <p>Given the integers <code>zero</code>, <code>one</code>, <code>low</code>, and <code>high</code>, we can construct a string by starting with an empty string, and then at each step perform either of the following:</p>
 
 <ul>

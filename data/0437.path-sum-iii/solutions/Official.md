@@ -1,3 +1,4 @@
+## [437.路径总和 III 中文官方题解](https://leetcode.cn/problems/path-sum-iii/solutions/100000/lu-jing-zong-he-iii-by-leetcode-solution-z9td)
 #### 方法一：深度优先搜索
 
 **思路与算法**

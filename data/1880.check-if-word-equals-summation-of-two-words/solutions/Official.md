@@ -1,3 +1,4 @@
+## [1880.检查某单词是否等于两单词之和 中文官方题解](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/solutions/100000/jian-cha-mou-dan-ci-shi-fou-deng-yu-lian-3f75)
 #### 方法一：按要求处理
 
 **思路与算法**

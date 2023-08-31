@@ -1,4 +1,4 @@
-## [65.Valid Number]
+## [65.Valid Number](https://leetcode.com/problems/valid-number/)
 <p>A <strong>valid number</strong> can be split up into these components (in order):</p>
 
 <ol>

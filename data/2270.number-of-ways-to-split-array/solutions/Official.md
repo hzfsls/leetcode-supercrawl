@@ -1,3 +1,4 @@
+## [2270.分割数组的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-split-array/solutions/100000/fen-ge-shu-zu-de-fang-an-shu-by-leetcode-3ygv)
 #### 方法一：枚举 + 前缀和
 
 **思路与算法**

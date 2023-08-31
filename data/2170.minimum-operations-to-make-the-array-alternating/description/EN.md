@@ -1,4 +1,4 @@
-## [2170.Minimum Operations to Make the Array Alternating]
+## [2170.Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <code>n</code> positive integers.</p>
 
 <p>The array <code>nums</code> is called <strong>alternating</strong> if:</p>

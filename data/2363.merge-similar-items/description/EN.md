@@ -1,4 +1,4 @@
-## [2363.Merge Similar Items]
+## [2363.Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
 <p>You are given two 2D integer arrays, <code>items1</code> and <code>items2</code>, representing two sets of items. Each array <code>items</code> has the following properties:</p>
 
 <ul>

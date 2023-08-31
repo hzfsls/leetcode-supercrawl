@@ -1,4 +1,4 @@
-## [2189.建造纸牌屋的方法数]
+## [2189.建造纸牌屋的方法数](https://leetcode.cn/problems/number-of-ways-to-build-house-of-cards/)
 <p>给你一个整数 <code>n</code>，代表你拥有牌的数量。一个&nbsp;<strong>纸牌屋&nbsp;</strong>满足以下条件:</p>
 
 <ul>

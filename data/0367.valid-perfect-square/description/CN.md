@@ -1,4 +1,4 @@
-## [367.有效的完全平方数]
+## [367.有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
 <p>给你一个正整数 <code>num</code> 。如果 <code>num</code> 是一个完全平方数，则返回 <code>true</code> ，否则返回 <code>false</code> 。</p>
 
 <p><strong>完全平方数</strong> 是一个可以写成某个整数的平方的整数。换句话说，它可以写成某个整数和自身的乘积。</p>

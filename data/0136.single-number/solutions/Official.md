@@ -1,3 +1,4 @@
+## [136.只出现一次的数字 中文官方题解](https://leetcode.cn/problems/single-number/solutions/100000/zhi-chu-xian-yi-ci-de-shu-zi-by-leetcode-solution)
 ### 📺 视频题解  
 ![136. 只出现一次的数字.mp4](47a527e0-e01f-4ece-a158-140764b7c319)
 

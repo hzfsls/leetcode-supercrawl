@@ -1,4 +1,4 @@
-## [2567.修改两个元素的最小分数]
+## [2567.修改两个元素的最小分数](https://leetcode.cn/problems/minimum-score-by-changing-two-elements/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>nums</code>&nbsp;。</p>
 
 <ul>

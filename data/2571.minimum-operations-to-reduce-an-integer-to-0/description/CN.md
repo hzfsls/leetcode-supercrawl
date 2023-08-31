@@ -1,4 +1,4 @@
-## [2571.将整数减少到零需要的最少操作数]
+## [2571.将整数减少到零需要的最少操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-an-integer-to-0/)
 <p>给你一个正整数 <code>n</code> ，你可以执行下述操作 <strong>任意</strong> 次：</p>
 
 <ul>

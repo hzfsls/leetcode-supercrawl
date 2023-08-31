@@ -1,4 +1,4 @@
-## [1839.Longest Substring Of All Vowels in Order]
+## [1839.Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/)
 <p>A string is considered <strong>beautiful</strong> if it satisfies the following conditions:</p>
 
 <ul>

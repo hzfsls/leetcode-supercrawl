@@ -1,4 +1,4 @@
-## [817.Linked List Components]
+## [817.Linked List Components](https://leetcode.com/problems/linked-list-components/)
 <p>You are given the <code>head</code> of a linked list containing unique integer values and an integer array <code>nums</code> that is a subset of the linked list values.</p>
 
 <p>Return <em>the number of connected components in </em><code>nums</code><em> where two values are connected if they appear <strong>consecutively</strong> in the linked list</em>.</p>

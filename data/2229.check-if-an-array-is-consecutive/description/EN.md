@@ -1,4 +1,4 @@
-## [2229.Check if an Array Is Consecutive]
+## [2229.Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/)
 <p>Given an integer array <code>nums</code>, return <code>true</code> <em>if </em><code>nums</code><em> is <strong>consecutive</strong>, otherwise return </em><code>false</code><em>.</em></p>
 
 <p>An array is <strong>consecutive </strong>if it contains every number in the range <code>[x, x + n - 1]</code> (<strong>inclusive</strong>), where <code>x</code> is the minimum number in the array and <code>n</code> is the length of the array.</p>

@@ -1,3 +1,4 @@
+## [2496.数组中字符串的最大值 中文官方题解](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/solutions/100000/shu-zu-zhong-zi-fu-chuan-de-zui-da-zhi-b-erig)
 #### 方法一：字符串遍历
 
 遍历输入数组中的字符串，判断字符串每一个字符是否都是数字。如果字符串只包含数字，那么转换该字符串为十进制下的所表示的数字，否则值为字符串的长度。

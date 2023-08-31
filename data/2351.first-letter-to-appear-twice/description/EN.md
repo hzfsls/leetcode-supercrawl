@@ -1,4 +1,4 @@
-## [2351.First Letter to Appear Twice]
+## [2351.First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 <p>Given a string <code>s</code> consisting of lowercase English letters, return <em>the first letter to appear <strong>twice</strong></em>.</p>
 
 <p><strong>Note</strong>:</p>

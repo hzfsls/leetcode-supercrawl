@@ -1,3 +1,4 @@
+## [27.移除元素 中文官方题解](https://leetcode.cn/problems/remove-element/solutions/100000/yi-chu-yuan-su-by-leetcode-solution-svxi)
 #### 方法一：双指针
 
 **思路及算法**

@@ -1,4 +1,4 @@
-## [2523.Closest Prime Numbers in Range]
+## [2523.Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)
 <p>Given two positive integers <code>left</code> and <code>right</code>, find the two integers <code>num1</code> and <code>num2</code> such that:</p>
 
 <ul>

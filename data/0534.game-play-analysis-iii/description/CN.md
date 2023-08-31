@@ -1,4 +1,4 @@
-## [534.游戏玩法分析 III]
+## [534.游戏玩法分析 III](https://leetcode.cn/problems/game-play-analysis-iii/)
 <p>表：<code>Activity</code></p>
 
 <pre>

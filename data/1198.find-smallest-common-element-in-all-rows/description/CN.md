@@ -1,4 +1,4 @@
-## [1198.找出所有行中最小公共元素]
+## [1198.找出所有行中最小公共元素](https://leetcode.cn/problems/find-smallest-common-element-in-all-rows/)
 <p>给你一个&nbsp;<code>m x n</code>&nbsp;的矩阵&nbsp;<code>mat</code>，其中每一行的元素均符合&nbsp;<strong>严格递增</strong> 。请返回 <em>所有行中的&nbsp;<strong>最小公共元素</strong>&nbsp;</em>。</p>
 
 <p>如果矩阵中没有这样的公共元素，就请返回&nbsp;<code>-1</code>。</p>

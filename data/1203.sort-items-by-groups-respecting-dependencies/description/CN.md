@@ -1,4 +1,4 @@
-## [1203.项目管理]
+## [1203.项目管理](https://leetcode.cn/problems/sort-items-by-groups-respecting-dependencies/)
 <p>有 <code>n</code> 个项目，每个项目或者不属于任何小组，或者属于 <code>m</code> 个小组之一。<code>group[i]</code> 表示第 <code>i</code> 个项目所属的小组，如果第 <code>i</code> 个项目不属于任何小组，则 <code>group[i]</code> 等于 <code>-1</code>。项目和小组都是从零开始编号的。可能存在小组不负责任何项目，即没有任何项目属于这个小组。</p>
 
 <p>请你帮忙按要求安排这些项目的进度，并返回排序后的项目列表：</p>

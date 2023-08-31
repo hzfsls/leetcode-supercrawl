@@ -1,4 +1,4 @@
-## [1407.排名靠前的旅行者]
+## [1407.排名靠前的旅行者](https://leetcode.cn/problems/top-travellers/)
 <p>表：<code>Users</code></p>
 
 <pre>

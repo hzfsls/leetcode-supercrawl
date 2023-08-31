@@ -1,3 +1,4 @@
+## [1827.最少操作使数组递增 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/solutions/100000/zui-shao-cao-zuo-shi-shu-zu-di-zeng-by-l-sjr6)
 #### 方法一：贪心
 
 **思路与算法**

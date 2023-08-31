@@ -1,4 +1,4 @@
-## [2464.Minimum Subarrays in a Valid Split]
+## [2464.Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/)
 <p>You are given an integer array <code>nums</code>.</p>
 
 <p>Splitting of an integer array <code>nums</code> into <strong>subarrays</strong> is <strong>valid</strong> if:</p>

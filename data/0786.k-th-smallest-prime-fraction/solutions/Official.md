@@ -1,3 +1,4 @@
+## [786.第 K 个最小的素数分数 中文官方题解](https://leetcode.cn/problems/k-th-smallest-prime-fraction/solutions/100000/di-k-ge-zui-xiao-de-su-shu-fen-shu-by-le-argw)
 #### 方法一：自定义排序
 
 **思路与算法**

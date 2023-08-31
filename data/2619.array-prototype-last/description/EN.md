@@ -1,4 +1,4 @@
-## [2619.Array Prototype Last]
+## [2619.Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)
 <p>Write code that enhances all arrays such that you can call the&nbsp;<code>array.last()</code>&nbsp;method on any array and it will return the last element. If there are no elements in the array, it should return&nbsp;<code>-1</code>.</p>
 
 <p>You may assume the array is the output of&nbsp;<code>JSON.parse</code>.</p>

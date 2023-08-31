@@ -1,3 +1,4 @@
+## [380.O(1) 时间插入、删除和获取随机元素 中文官方题解](https://leetcode.cn/problems/insert-delete-getrandom-o1/solutions/100000/o1-shi-jian-cha-ru-shan-chu-he-huo-qu-su-rlz2)
 #### 方法一：变长数组 + 哈希表
 
 这道题要求实现一个类，满足插入、删除和获取随机元素操作的平均时间复杂度为 $O(1)$。

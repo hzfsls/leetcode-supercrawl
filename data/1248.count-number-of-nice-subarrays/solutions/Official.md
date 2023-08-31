@@ -1,3 +1,4 @@
+## [1248.统计「优美子数组」 中文官方题解](https://leetcode.cn/problems/count-number-of-nice-subarrays/solutions/100000/tong-ji-you-mei-zi-shu-zu-by-leetcode-solution)
 ### 📺 视频题解  
 ![1248.统计优美子数组.mp4](5103845f-f35e-445c-bd5a-38e180cc00d4)
 

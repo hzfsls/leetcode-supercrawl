@@ -1,4 +1,4 @@
-## [1229.Meeting Scheduler]
+## [1229.Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)
 <p>Given the availability time slots arrays <code>slots1</code> and <code>slots2</code> of two people and a meeting duration <code>duration</code>, return the <strong>earliest time slot</strong> that works for both of them and is of duration <code>duration</code>.</p>
 
 <p>If there is no common time slot that satisfies the requirements, return an <strong>empty array</strong>.</p>

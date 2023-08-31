@@ -1,4 +1,4 @@
-## [2506.Count Pairs Of Similar Strings]
+## [2506.Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/)
 <p>You are given a <strong>0-indexed</strong> string array <code>words</code>.</p>
 
 <p>Two strings are <strong>similar</strong> if they consist of the same characters.</p>

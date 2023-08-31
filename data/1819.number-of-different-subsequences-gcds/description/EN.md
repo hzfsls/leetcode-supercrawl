@@ -1,4 +1,4 @@
-## [1819.Number of Different Subsequences GCDs]
+## [1819.Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/)
 <p>You are given an array <code>nums</code> that consists of positive integers.</p>
 
 <p>The <strong>GCD</strong> of a sequence of numbers is defined as the greatest integer that divides <strong>all</strong> the numbers in the sequence evenly.</p>

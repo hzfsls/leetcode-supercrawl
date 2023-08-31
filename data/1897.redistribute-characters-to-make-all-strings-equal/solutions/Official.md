@@ -1,3 +1,4 @@
+## [1897.重新分配字符使所有字符串都相等 中文官方题解](https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/solutions/100000/zhong-xin-fen-pei-zi-fu-shi-suo-you-zi-f-r29g)
 #### 方法一：统计每种字符的频数
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [912.排序数组 中文官方题解](https://leetcode.cn/problems/sort-an-array/solutions/100000/pai-xu-shu-zu-by-leetcode-solution)
 #### 前言
 
 本题你可以选择直接调用库函数来对序列进行排序，但意义不大。由于排序算法有很多，本文只介绍三种常见的基于比较的复杂度较低的排序。

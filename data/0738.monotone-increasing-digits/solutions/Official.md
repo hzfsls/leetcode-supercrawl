@@ -1,3 +1,4 @@
+## [738.单调递增的数字 中文官方题解](https://leetcode.cn/problems/monotone-increasing-digits/solutions/100000/dan-diao-di-zeng-de-shu-zi-by-leetcode-s-5908)
 #### 方法一：贪心
 
 我们可以从高到低按位构造这个小于等于 $n$ 的最大单调递增的数字。假设不考虑 $n$ 的限制，那么对于一个长度为 $k$ 的数字，最大单调递增的数字一定是每一位都为 $9$ 的数字。

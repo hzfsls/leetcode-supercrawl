@@ -1,4 +1,4 @@
-## [2206.Divide Array Into Equal Pairs]
+## [2206.Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
 <p>You are given an integer array <code>nums</code> consisting of <code>2 * n</code> integers.</p>
 
 <p>You need to divide <code>nums</code> into <code>n</code> pairs such that:</p>

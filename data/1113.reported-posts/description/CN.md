@@ -1,4 +1,4 @@
-## [1113.报告的记录]
+## [1113.报告的记录](https://leetcode.cn/problems/reported-posts/)
 <p>动作表：<code>Actions</code></p>
 
 <pre>

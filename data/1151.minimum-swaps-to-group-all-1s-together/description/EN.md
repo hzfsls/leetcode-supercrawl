@@ -1,4 +1,4 @@
-## [1151.Minimum Swaps to Group All 1's Together]
+## [1151.Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)
 <p>Given a&nbsp;binary array <code>data</code>, return&nbsp;the minimum number of swaps required to group all <code>1</code>&rsquo;s present in the array together in <strong>any place</strong> in the array.</p>
 
 <p>&nbsp;</p>

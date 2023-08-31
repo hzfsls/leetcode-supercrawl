@@ -1,3 +1,4 @@
+## [346.数据流中的移动平均值 中文官方题解](https://leetcode.cn/problems/moving-average-from-data-stream/solutions/100000/shu-ju-liu-zhong-de-yi-dong-ping-jun-zhi-7oqj)
 #### 方法一：队列
 
 这道题要求根据给定的数据流计算滑动窗口中所有数字的平均值，滑动窗口的大小为给定的参数 $\textit{size}$。当数据流中的数字个数不超过滑动窗口的大小时，计算数据流中的所有数字的平均值；当数据流中的数字个数超过滑动窗口的大小时，只计算滑动窗口中的数字的平均值，数据流中更早的数字被移出滑动窗口。

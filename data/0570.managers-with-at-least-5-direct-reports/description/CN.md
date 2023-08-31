@@ -1,4 +1,4 @@
-## [570.至少有5名直接下属的经理]
+## [570.至少有5名直接下属的经理](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports/)
 <p>表:&nbsp;<code>Employee</code></p>
 
 <pre>

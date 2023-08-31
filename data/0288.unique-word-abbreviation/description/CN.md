@@ -1,4 +1,4 @@
-## [288.单词的唯一缩写]
+## [288.单词的唯一缩写](https://leetcode.cn/problems/unique-word-abbreviation/)
 <p>单词的 <strong>缩写</strong> 需要遵循 <起始字母><中间字母数><结尾字母> 这样的格式。如果单词只有两个字符，那么它就是它自身的 <strong>缩写</strong> 。</p>
 
 <p>以下是一些单词缩写的范例：</p>

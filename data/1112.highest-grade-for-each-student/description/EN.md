@@ -1,4 +1,4 @@
-## [1112.Highest Grade For Each Student]
+## [1112.Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/)
 <p>Table: <code>Enrollments</code></p>
 
 <pre>

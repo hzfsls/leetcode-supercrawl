@@ -1,4 +1,4 @@
-## [244.最短单词距离 II]
+## [244.最短单词距离 II](https://leetcode.cn/problems/shortest-word-distance-ii/)
 <p>请设计一个类，使该类的构造函数能够接收一个字符串数组。然后再实现一个方法，该方法能够分别接收两个单词<em>，</em>并返回列表中这两个单词之间的最短距离。</p>
 
 <p>实现&nbsp;<code>WordDistanc</code>&nbsp;类:</p>

@@ -1,4 +1,4 @@
-## [132.Palindrome Partitioning II]
+## [132.Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
 <p>Given a string <code>s</code>, partition <code>s</code> such that every <span data-keyword="substring-nonempty">substring</span> of the partition is a <span data-keyword="palindrome-string">palindrome</span>.</p>
 
 <p>Return <em>the <strong>minimum</strong> cuts needed for a palindrome partitioning of</em> <code>s</code>.</p>

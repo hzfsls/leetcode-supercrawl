@@ -1,4 +1,4 @@
-## [8.String to Integer (atoi)]
+## [8.String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 <p>Implement the <code>myAtoi(string s)</code> function, which converts a string to a 32-bit signed integer (similar to C/C++&#39;s <code>atoi</code> function).</p>
 
 <p>The algorithm for <code>myAtoi(string s)</code> is as follows:</p>

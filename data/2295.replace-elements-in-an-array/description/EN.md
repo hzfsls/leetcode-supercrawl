@@ -1,4 +1,4 @@
-## [2295.Replace Elements in an Array]
+## [2295.Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> that consists of <code>n</code> <strong>distinct</strong> positive integers. Apply <code>m</code> operations to this array, where in the <code>i<sup>th</sup></code> operation you replace the number <code>operations[i][0]</code> with <code>operations[i][1]</code>.</p>
 
 <p>It is guaranteed that in the <code>i<sup>th</sup></code> operation:</p>

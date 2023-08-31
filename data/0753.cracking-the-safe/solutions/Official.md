@@ -1,3 +1,4 @@
+## [753.破解保险箱 中文官方题解](https://leetcode.cn/problems/cracking-the-safe/solutions/100000/po-jie-bao-xian-xiang-by-leetcode-solution)
 #### 前言
 
 本题和「[332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)」类似，是力扣平台上为数不多的求解欧拉回路 / 欧拉通路的题目。读者可以配合着进行练习。

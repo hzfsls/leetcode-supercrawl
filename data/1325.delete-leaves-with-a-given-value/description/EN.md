@@ -1,4 +1,4 @@
-## [1325.Delete Leaves With a Given Value]
+## [1325.Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
 <p>Given a binary tree <code>root</code> and an integer <code>target</code>, delete all the <strong>leaf nodes</strong> with value <code>target</code>.</p>
 
 <p>Note that once you delete a leaf node with value <code>target</code><strong>, </strong>if its parent node becomes a leaf node and has the value <code>target</code>, it should also be deleted (you need to continue doing that until you cannot).</p>

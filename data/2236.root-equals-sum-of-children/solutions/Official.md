@@ -1,3 +1,4 @@
+## [2236.判断根结点是否等于子结点之和 中文官方题解](https://leetcode.cn/problems/root-equals-sum-of-children/solutions/100000/pan-duan-gen-jie-dian-shi-fou-deng-yu-zi-zr6q)
 #### 方法一：直接判断
 
 计算两个子结点值之和，判断是否等于根结点值即可。

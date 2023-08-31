@@ -1,4 +1,4 @@
-## [830.Positions of Large Groups]
+## [830.Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 <p>In a string <code><font face="monospace">s</font></code>&nbsp;of lowercase letters, these letters form consecutive groups of the same character.</p>
 
 <p>For example, a string like <code>s = &quot;abbxxxxzyy&quot;</code> has the groups <code>&quot;a&quot;</code>, <code>&quot;bb&quot;</code>, <code>&quot;xxxx&quot;</code>, <code>&quot;z&quot;</code>, and&nbsp;<code>&quot;yy&quot;</code>.</p>

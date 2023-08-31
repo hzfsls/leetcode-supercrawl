@@ -1,4 +1,4 @@
-## [2072.The Winner University]
+## [2072.The Winner University](https://leetcode.com/problems/the-winner-university/)
 <p>Table: <code>NewYork</code></p>
 
 <pre>

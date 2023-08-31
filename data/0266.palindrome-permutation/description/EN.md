@@ -1,4 +1,4 @@
-## [266.Palindrome Permutation]
+## [266.Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 <p>Given a string <code>s</code>, return <code>true</code> <em>if a permutation of the string could form a </em><span data-keyword="palindrome-string"><em><strong>palindrome</strong></em></span><em> and </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>

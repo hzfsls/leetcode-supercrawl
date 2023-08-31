@@ -1,3 +1,4 @@
+## [87.扰乱字符串 中文官方题解](https://leetcode.cn/problems/scramble-string/solutions/100000/rao-luan-zi-fu-chuan-by-leetcode-solutio-8r9t)
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [2573.找出对应 LCP 矩阵的字符串]
+## [2573.找出对应 LCP 矩阵的字符串](https://leetcode.cn/problems/find-the-string-with-lcp/)
 <p>对任一由 <code>n</code> 个小写英文字母组成的字符串 <code>word</code> ，我们可以定义一个 <code>n x n</code> 的矩阵，并满足：</p>
 
 <ul>

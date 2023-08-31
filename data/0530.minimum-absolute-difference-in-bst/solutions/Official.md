@@ -1,3 +1,4 @@
+## [530.二叉搜索树的最小绝对差 中文官方题解](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/solutions/100000/er-cha-sou-suo-shu-de-zui-xiao-jue-dui-chai-by-lee)
 #### 方法一：中序遍历
 
 **思路与算法**

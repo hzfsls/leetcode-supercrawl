@@ -1,4 +1,4 @@
-## [369.Plus One Linked List]
+## [369.Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)
 <p>Given a non-negative integer represented as a linked list of digits, <em>plus one to the integer</em>.</p>
 
 <p>The digits are stored such that the most significant digit is at the <code>head</code> of the list.</p>

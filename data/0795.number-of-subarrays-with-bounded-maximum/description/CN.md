@@ -1,4 +1,4 @@
-## [795.区间子数组个数]
+## [795.区间子数组个数](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum/)
 <p>给你一个整数数组 <code>nums</code> 和两个整数：<code>left</code> 及 <code>right</code> 。找出 <code>nums</code> 中连续、非空且其中最大元素在范围&nbsp;<code>[left, right]</code> 内的子数组，并返回满足条件的子数组的个数。</p>
 
 <p>生成的测试用例保证结果符合 <strong>32-bit</strong> 整数范围。</p>

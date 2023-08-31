@@ -1,4 +1,4 @@
-## [2714.找到最短路径的 K 次跨越]
+## [2714.找到最短路径的 K 次跨越](https://leetcode.cn/problems/find-shortest-path-with-k-hops/)
 <p>现给定一个正整数 n ，它表示一个<strong>&nbsp;索引从 0 开始的无向带权连接图</strong> 的节点数，以及一个&nbsp;<strong>索引从 0 开始的二维数组&nbsp;</strong><code>edges</code> ，其中 <code>edges[i] = [ui, vi, wi]</code> 表示节点 <code>ui</code> 和 <code>vi</code> 之间存在权重为 <code>wi</code> 的边。</p>
 
 <p>还给定两个节点 <code>s</code> 和 <code>d</code> ，以及一个正整数 <code>k</code> ，你的任务是找到从 s 到 d 的 <strong>最短 </strong>路径，但你可以 <strong>最多</strong> 跨越 <code>k</code> 条边。换句话说，将 <strong>最多</strong> <code>k</code> 条边的权重设为 <code>0</code>，然后找到从 <code>s</code> 到 <code>d</code> 的 <strong>最短</strong> 路径。</p>

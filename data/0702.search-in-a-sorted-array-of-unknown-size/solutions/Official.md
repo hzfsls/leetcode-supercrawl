@@ -1,3 +1,4 @@
+## [702.搜索长度未知的有序数组 中文官方题解](https://leetcode.cn/problems/search-in-a-sorted-array-of-unknown-size/solutions/100000/sou-suo-chang-du-wei-zhi-de-you-xu-shu-z-f7pr)
 [TOC]
 
 ## 解决方案

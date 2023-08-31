@@ -1,4 +1,4 @@
-## [386.字典序排数]
+## [386.字典序排数](https://leetcode.cn/problems/lexicographical-numbers/)
 <p>给你一个整数 <code>n</code> ，按字典序返回范围 <code>[1, n]</code> 内所有整数。</p>
 
 <p>你必须设计一个时间复杂度为 <code>O(n)</code> 且使用 <code>O(1)</code> 额外空间的算法。</p>

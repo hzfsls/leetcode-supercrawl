@@ -1,4 +1,4 @@
-## [1127.用户购买平台]
+## [1127.用户购买平台](https://leetcode.cn/problems/user-purchase-platform/)
 <p>支出表: <code>Spending</code></p>
 
 <pre>

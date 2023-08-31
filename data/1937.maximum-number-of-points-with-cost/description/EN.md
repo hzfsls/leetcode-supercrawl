@@ -1,4 +1,4 @@
-## [1937.Maximum Number of Points with Cost]
+## [1937.Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)
 <p>You are given an <code>m x n</code> integer matrix <code>points</code> (<strong>0-indexed</strong>). Starting with <code>0</code> points, you want to <strong>maximize</strong> the number of points you can get from the matrix.</p>
 
 <p>To gain points, you must pick one cell in <strong>each row</strong>. Picking the cell at coordinates <code>(r, c)</code> will <strong>add</strong> <code>points[r][c]</code> to your score.</p>

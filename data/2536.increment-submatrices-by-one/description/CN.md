@@ -1,4 +1,4 @@
-## [2536.子矩阵元素加 1]
+## [2536.子矩阵元素加 1](https://leetcode.cn/problems/increment-submatrices-by-one/)
 <p>给你一个正整数 <code>n</code> ，表示最初有一个 <code>n x n</code> 、下标从 <strong>0</strong> 开始的整数矩阵 <code>mat</code> ，矩阵中填满了 0 。</p>
 
 <p>另给你一个二维整数数组 <code>query</code> 。针对每个查询 <code>query[i] = [row1<sub>i</sub>, col1<sub>i</sub>, row2<sub>i</sub>, col2<sub>i</sub>]</code> ，请你执行下述操作：</p>

@@ -1,4 +1,4 @@
-## [2584.分割数组使乘积互质]
+## [2584.分割数组使乘积互质](https://leetcode.cn/problems/split-the-array-to-make-coprime-products/)
 <p>给你一个长度为 <code>n</code> 的整数数组 <code>nums</code> ，下标从 <strong>0</strong> 开始。</p>
 
 <p>如果在下标 <code>i</code> 处 <strong>分割</strong> 数组，其中 <code>0 &lt;= i &lt;= n - 2</code> ，使前 <code>i + 1</code> 个元素的乘积和剩余元素的乘积互质，则认为该分割 <strong>有效</strong> 。</p>

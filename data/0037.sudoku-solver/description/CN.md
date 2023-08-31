@@ -1,4 +1,4 @@
-## [37.解数独]
+## [37.解数独](https://leetcode.cn/problems/sudoku-solver/)
 <p>编写一个程序，通过填充空格来解决数独问题。</p>
 
 <p>数独的解法需<strong> 遵循如下规则</strong>：</p>

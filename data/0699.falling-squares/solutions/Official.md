@@ -1,3 +1,4 @@
+## [699.掉落的方块 中文官方题解](https://leetcode.cn/problems/falling-squares/solutions/100000/diao-luo-de-fang-kuai-by-leetcode-soluti-2dmw)
 #### 方法一：暴力枚举
 
 我们用数组 $\textit{heights}$ 记录各个方块掉落后的高度。对于第 $i$ 个掉落的方块，如果它的底部区间与第 $j$ 个掉落的方块有重叠，那么它掉落后的高度至少为 $\textit{heights}[j] + \textit{size}_i$，其中 $j \lt i$ 且 $\textit{size}_i$ 为第 $i$ 个掉落的方块的边长。因此对于第 $i$ 个掉落的方块，$\textit{heights}[i]$ 的初始值为 $\textit{size}_i$，我们暴力枚举所有之前已经掉落的方块，如果两者的底部区间有重叠，那么更新 $\textit{heights}[i] = \max(\textit{heights}[i], \textit{heights}[j] + \textit{size}_i)$。

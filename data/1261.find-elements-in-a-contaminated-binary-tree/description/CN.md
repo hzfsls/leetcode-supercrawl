@@ -1,4 +1,4 @@
-## [1261.在受污染的二叉树中查找元素]
+## [1261.在受污染的二叉树中查找元素](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/)
 <p>给出一个满足下述规则的二叉树：</p>
 
 <ol>

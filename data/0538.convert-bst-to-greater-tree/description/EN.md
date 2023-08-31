@@ -1,4 +1,4 @@
-## [538.Convert BST to Greater Tree]
+## [538.Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 <p>Given the <code>root</code> of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus the sum of all keys greater than the original key in BST.</p>
 
 <p>As a reminder, a <em>binary search tree</em> is a tree that satisfies these constraints:</p>

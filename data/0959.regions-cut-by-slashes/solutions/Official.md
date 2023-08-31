@@ -1,3 +1,4 @@
+## [959.由斜杠划分区域 中文官方题解](https://leetcode.cn/problems/regions-cut-by-slashes/solutions/100000/you-xie-gang-hua-fen-qu-yu-by-leetcode-s-ztob)
 #### 方法一：并查集
 
 **思路分析**

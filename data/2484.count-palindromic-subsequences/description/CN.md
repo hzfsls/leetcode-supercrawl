@@ -1,4 +1,4 @@
-## [2484.统计回文子序列数目]
+## [2484.统计回文子序列数目](https://leetcode.cn/problems/count-palindromic-subsequences/)
 <p>给你数字字符串&nbsp;<code>s</code>&nbsp;，请你返回&nbsp;<code>s</code>&nbsp;中长度为&nbsp;<code>5</code>&nbsp;的 <b>回文子序列</b>&nbsp;数目。由于答案可能很大，请你将答案对&nbsp;<code>10<sup>9</sup> + 7</code>&nbsp;<strong>取余</strong>&nbsp;后返回。</p>
 
 <p><strong>提示：</strong></p>

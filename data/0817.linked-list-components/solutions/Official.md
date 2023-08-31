@@ -1,3 +1,4 @@
+## [817.链表组件 中文官方题解](https://leetcode.cn/problems/linked-list-components/solutions/100000/lian-biao-zu-jian-by-leetcode-solution-5f91)
 #### 方法一：计算组件的起始位置
 
 **思路**

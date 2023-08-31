@@ -1,4 +1,4 @@
-## [2756.批处理查询]
+## [2756.批处理查询](https://leetcode.cn/problems/query-batching/)
 <p>将多个小查询批处理为单个大查询可以是一种有用的优化。请编写一个名为&nbsp;<code>QueryBatcher</code>&nbsp;的类来实现这个功能。</p>
 
 <p>它的构造函数应接受两个参数：</p>

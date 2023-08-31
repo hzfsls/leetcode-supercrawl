@@ -1,4 +1,4 @@
-## [716.Max Stack]
+## [716.Max Stack](https://leetcode.com/problems/max-stack/)
 <p>Design a max stack data structure that supports the stack operations and supports finding the stack&#39;s maximum element.</p>
 
 <p>Implement the <code>MaxStack</code> class:</p>

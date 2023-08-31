@@ -1,4 +1,4 @@
-## [166.Fraction to Recurring Decimal]
+## [166.Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 <p>Given two integers representing the <code>numerator</code> and <code>denominator</code> of a fraction, return <em>the fraction in string format</em>.</p>
 
 <p>If the fractional part is repeating, enclose the repeating part in parentheses.</p>

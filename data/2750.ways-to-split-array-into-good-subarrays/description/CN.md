@@ -1,4 +1,4 @@
-## [2750.将数组划分成若干好子数组的方式]
+## [2750.将数组划分成若干好子数组的方式](https://leetcode.cn/problems/ways-to-split-array-into-good-subarrays/)
 <p>给你一个二元数组 <code>nums</code> 。</p>
 
 <p>如果数组中的某个子数组 <strong>恰好</strong> 只存在 <strong>一</strong> 个值为 <code>1</code> 的元素，则认为该子数组是一个 <strong>好子数组</strong> 。</p>

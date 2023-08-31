@@ -1,4 +1,4 @@
-## [873.Length of Longest Fibonacci Subsequence]
+## [873.Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
 <p>A sequence <code>x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub></code> is <em>Fibonacci-like</em> if:</p>
 
 <ul>

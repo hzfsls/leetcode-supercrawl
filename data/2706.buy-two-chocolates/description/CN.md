@@ -1,4 +1,4 @@
-## [2706.购买两块巧克力]
+## [2706.购买两块巧克力](https://leetcode.cn/problems/buy-two-chocolates/)
 <p>给你一个整数数组&nbsp;<code>prices</code>&nbsp;，它表示一个商店里若干巧克力的价格。同时给你一个整数&nbsp;<code>money</code>&nbsp;，表示你一开始拥有的钱数。</p>
 
 <p>你必须购买 <strong>恰好&nbsp;</strong>两块巧克力，而且剩余的钱数必须是 <strong>非负数</strong>&nbsp;。同时你想最小化购买两块巧克力的总花费。</p>

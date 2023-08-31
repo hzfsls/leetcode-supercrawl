@@ -1,4 +1,4 @@
-## [647.回文子串]
+## [647.回文子串](https://leetcode.cn/problems/palindromic-substrings/)
 <p>给你一个字符串 <code>s</code> ，请你统计并返回这个字符串中 <strong>回文子串</strong> 的数目。</p>
 
 <p><strong>回文字符串</strong> 是正着读和倒过来读一样的字符串。</p>

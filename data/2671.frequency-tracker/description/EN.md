@@ -1,4 +1,4 @@
-## [2671.Frequency Tracker]
+## [2671.Frequency Tracker](https://leetcode.com/problems/frequency-tracker/)
 <p>Design a data structure that keeps track of the values in it and answers some queries regarding their frequencies.</p>
 
 <p>Implement the <code>FrequencyTracker</code> class.</p>

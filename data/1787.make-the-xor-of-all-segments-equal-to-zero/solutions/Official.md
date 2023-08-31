@@ -1,3 +1,4 @@
+## [1787.使所有区间的异或结果为零 中文官方题解](https://leetcode.cn/problems/make-the-xor-of-all-segments-equal-to-zero/solutions/100000/shi-suo-you-qu-jian-de-yi-huo-jie-guo-we-uds2)
 #### 方法一：动态规划
 
 **思路与算法**

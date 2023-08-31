@@ -1,3 +1,4 @@
+## [1720.解码异或后的数组 中文官方题解](https://leetcode.cn/problems/decode-xored-array/solutions/100000/jie-ma-yi-huo-hou-de-shu-zu-by-leetcode-yp0mg)
 #### 方法一：利用异或运算的性质
 
 原数组 $\textit{arr}$ 的长度为 $n$，对 $\textit{arr}$ 编码后得到长度为 $n-1$ 的数组 $\textit{encoded}$，编码规则为：$\textit{encoded}[i]=\textit{arr}[i] \oplus \textit{arr}[i+1]$，其中 $\oplus$ 是异或运算符，$0 \le i<n-1$。

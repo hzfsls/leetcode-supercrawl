@@ -1,4 +1,4 @@
-## [2776.转换回调函数为 Promise 函数]
+## [2776.转换回调函数为 Promise 函数](https://leetcode.cn/problems/convert-callback-based-function-to-promise-based-function/)
 <p>编写一个函数，接受另一个函数 <code>fn</code> ，并将基于回调函数的函数转换为基于 Promise 的函数。</p>
 
 <p><code>promisify</code> 函数接受一个函数 <code>fn</code> ，<code>fn</code> 将回调函数作为其第一个参数，并且还可以接受其他额外的参数。<code>promisfy</code> 返回一个新函数，新函数会返回一个 Promise 对象。当回调函数被成功调用时，新函数返回的 Promise 对象应该使用原始函数的结果进行解析；当回调函数被调用出现错误时，返回的 Promise 对象应该被拒绝并携带错误信息。最终返回的基于 Promise 的函数应该接受额外的参数作为输入。</p>

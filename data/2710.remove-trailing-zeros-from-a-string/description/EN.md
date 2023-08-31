@@ -1,4 +1,4 @@
-## [2710.Remove Trailing Zeros From a String]
+## [2710.Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
 <p>Given a <strong>positive</strong> integer <code>num</code> represented as a string, return <em>the integer </em><code>num</code><em> without trailing zeros as a string</em>.</p>
 
 <p>&nbsp;</p>

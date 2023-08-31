@@ -1,4 +1,4 @@
-## [2494.合并在同一个大厅重叠的活动]
+## [2494.合并在同一个大厅重叠的活动](https://leetcode.cn/problems/merge-overlapping-events-in-the-same-hall/)
 <p>表: <code>HallEvents</code></p>
 
 <pre>

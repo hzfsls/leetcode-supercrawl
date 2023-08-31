@@ -1,4 +1,4 @@
-## [2782.Number of Unique Categories]
+## [2782.Number of Unique Categories](https://leetcode.com/problems/number-of-unique-categories/)
 <p>You are given an integer <code>n</code> and an object <code>categoryHandler</code> of class <code>CategoryHandler</code>.</p>
 
 <p>There are <code>n</code>elements, numbered from <code>0</code> to <code>n - 1</code>. Each element has a category, and your task is to find the number of unique categories.</p>

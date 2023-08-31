@@ -1,4 +1,4 @@
-## [185.部门工资前三高的所有员工]
+## [185.部门工资前三高的所有员工](https://leetcode.cn/problems/department-top-three-salaries/)
 <p>表:&nbsp;<code>Employee</code></p>
 
 <pre>

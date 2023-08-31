@@ -1,4 +1,4 @@
-## [2788.Split Strings by Separator]
+## [2788.Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/)
 <p>Given an array of strings <code>words</code> and a character <code>separator</code>, <strong>split</strong> each string in <code>words</code> by <code>separator</code>.</p>
 
 <p>Return <em>an array of strings containing the new strings formed after the splits, <strong>excluding empty strings</strong>.</em></p>

@@ -1,4 +1,4 @@
-## [2514.Count Anagrams]
+## [2514.Count Anagrams](https://leetcode.com/problems/count-anagrams/)
 <p>You are given a string <code>s</code> containing one or more words. Every consecutive pair of words is separated by a single space <code>&#39; &#39;</code>.</p>
 
 <p>A string <code>t</code> is an <strong>anagram</strong> of string <code>s</code> if the <code>i<sup>th</sup></code> word of <code>t</code> is a <strong>permutation</strong> of the <code>i<sup>th</sup></code> word of <code>s</code>.</p>

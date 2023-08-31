@@ -1,4 +1,4 @@
-## [460.LFU 缓存]
+## [460.LFU 缓存](https://leetcode.cn/problems/lfu-cache/)
 <p>请你为 <a href="https://baike.baidu.com/item/%E7%BC%93%E5%AD%98%E7%AE%97%E6%B3%95">最不经常使用（LFU）</a>缓存算法设计并实现数据结构。</p>
 
 <p>实现 <code>LFUCache</code> 类：</p>

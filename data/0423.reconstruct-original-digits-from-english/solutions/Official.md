@@ -1,3 +1,4 @@
+## [423.从英文中重建数字 中文官方题解](https://leetcode.cn/problems/reconstruct-original-digits-from-english/solutions/100000/cong-ying-wen-zhong-zhong-jian-shu-zi-by-9g1r)
 #### 方法一：依次确定每一个数字的次数
 
 **思路与算法**

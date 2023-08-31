@@ -1,4 +1,4 @@
-## [1642.可以到达的最远建筑]
+## [1642.可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/)
 <p>给你一个整数数组 <code>heights</code> ，表示建筑物的高度。另有一些砖块 <code>bricks</code> 和梯子 <code>ladders</code> 。</p>
 
 <p>你从建筑物 <code>0</code> 开始旅程，不断向后面的建筑物移动，期间可能会用到砖块或梯子。</p>

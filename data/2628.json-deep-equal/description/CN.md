@@ -1,4 +1,4 @@
-## [2628.完全相等的 JSON 字符串]
+## [2628.完全相等的 JSON 字符串](https://leetcode.cn/problems/json-deep-equal/)
 <p>给定两个对象 <code>o1</code> 和 <code>o2</code> ，请你检查它们是否 <strong>完全相等</strong> 。</p>
 
 <p>对于两个 <strong>完全相等</strong> 的对象，它们必须包含相同的键，并且相关的值也必须 <strong>完全相等</strong> 。如果两个对象通过了 <code>===</code> 相等性检查，它们也被认为是 <strong>完全相等</strong> 的。</p>

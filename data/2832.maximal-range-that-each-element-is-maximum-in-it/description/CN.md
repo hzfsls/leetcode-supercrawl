@@ -1,4 +1,4 @@
-## [2832.每个元素为最大值的最大范围]
+## [2832.每个元素为最大值的最大范围](https://leetcode.cn/problems/maximal-range-that-each-element-is-maximum-in-it/)
 <p>现给定一个由 <strong>不同</strong> 整数构成的 <strong>0</strong> 索引数组 <code>nums</code> 。</p>
 
 <p>我们用以下方式定义与 <code>nums</code> 长度相同的 <strong>0</strong> 索引数组 <code>ans</code> ：</p>

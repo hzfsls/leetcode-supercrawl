@@ -1,4 +1,4 @@
-## [1421.净现值查询]
+## [1421.净现值查询](https://leetcode.cn/problems/npv-queries/)
 <p>表: <code>NPV</code></p>
 
 <pre>

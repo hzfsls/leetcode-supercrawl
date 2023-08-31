@@ -1,4 +1,4 @@
-## [1902.Depth of BST Given Insertion Order]
+## [1902.Depth of BST Given Insertion Order](https://leetcode.com/problems/depth-of-bst-given-insertion-order/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>order</code> of length <code>n</code>, a <strong>permutation</strong> of integers from <code>1</code> to <code>n</code> representing the <strong>order</strong> of insertion into a <strong>binary search tree</strong>.</p>
 
 <p>A binary search tree is defined as follows:</p>

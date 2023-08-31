@@ -1,4 +1,4 @@
-## [2522.Partition String Into Substrings With Values at Most K]
+## [2522.Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/)
 <p>You are given a string <code>s</code> consisting of digits from <code>1</code> to <code>9</code> and an integer <code>k</code>.</p>
 
 <p>A partition of a string <code>s</code> is called <strong>good</strong> if:</p>

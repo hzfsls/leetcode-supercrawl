@@ -1,4 +1,4 @@
-## [1756.Design Most Recently Used Queue]
+## [1756.Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/)
 <p>Design a queue-like data structure that moves the most recently used element to the end of the queue.</p>
 
 <p>Implement the <code>MRUQueue</code> class:</p>

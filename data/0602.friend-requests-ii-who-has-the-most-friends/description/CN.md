@@ -1,4 +1,4 @@
-## [602.好友申请 II ：谁有最多的好友]
+## [602.好友申请 II ：谁有最多的好友](https://leetcode.cn/problems/friend-requests-ii-who-has-the-most-friends/)
 <p><code>RequestAccepted</code> 表：</p>
 
 <div class="original__bRMd">

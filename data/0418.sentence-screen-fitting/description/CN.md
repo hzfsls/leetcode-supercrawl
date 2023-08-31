@@ -1,4 +1,4 @@
-## [418.屏幕可显示句子的数量]
+## [418.屏幕可显示句子的数量](https://leetcode.cn/problems/sentence-screen-fitting/)
 <p>给你一个 <code>rows x cols</code> 的屏幕和一个用 <strong>非空 </strong>的单词列表组成的句子，请你计算出给定句子可以在屏幕上完整显示的次数。</p>
 
 <p><strong>注意：</strong></p>

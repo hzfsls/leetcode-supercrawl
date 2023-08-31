@@ -1,4 +1,4 @@
-## [1949.Strong Friendship]
+## [1949.Strong Friendship](https://leetcode.com/problems/strong-friendship/)
 <p>Table: <code>Friendship</code></p>
 
 <pre>

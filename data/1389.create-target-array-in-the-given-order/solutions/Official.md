@@ -1,3 +1,4 @@
+## [1389.按既定顺序创建目标数组 中文官方题解](https://leetcode.cn/problems/create-target-array-in-the-given-order/solutions/100000/an-ji-ding-shun-xu-chuang-jian-mu-biao-shu-zu-by-l)
 #### 方法一：模拟
 
 **思路**

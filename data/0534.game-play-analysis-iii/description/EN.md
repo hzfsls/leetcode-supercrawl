@@ -1,4 +1,4 @@
-## [534.Game Play Analysis III]
+## [534.Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)
 <p>Table: <code>Activity</code></p>
 
 <pre>

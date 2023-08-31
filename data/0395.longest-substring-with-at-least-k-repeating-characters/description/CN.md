@@ -1,4 +1,4 @@
-## [395.至少有 K 个重复字符的最长子串]
+## [395.至少有 K 个重复字符的最长子串](https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/)
 <p>给你一个字符串 <code>s</code> 和一个整数 <code>k</code> ，请你找出 <code>s</code> 中的最长子串，&nbsp;要求该子串中的每一字符出现次数都不少于 <code>k</code> 。返回这一子串的长度。</p>
 
 <p data-pm-slice="1 1 []">如果不存在这样的子字符串，则返回 0。</p>

@@ -1,4 +1,4 @@
-## [1351.Count Negative Numbers in a Sorted Matrix]
+## [1351.Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 <p>Given a <code>m x n</code> matrix <code>grid</code> which is sorted in non-increasing order both row-wise and column-wise, return <em>the number of <strong>negative</strong> numbers in</em> <code>grid</code>.</p>
 
 <p>&nbsp;</p>

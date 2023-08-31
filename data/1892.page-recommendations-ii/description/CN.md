@@ -1,4 +1,4 @@
-## [1892.页面推荐Ⅱ]
+## [1892.页面推荐Ⅱ](https://leetcode.cn/problems/page-recommendations-ii/)
 <p>表：&nbsp;<code>Friendship</code></p>
 
 <pre>

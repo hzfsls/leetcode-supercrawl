@@ -1,3 +1,4 @@
+## [946.验证栈序列 中文官方题解](https://leetcode.cn/problems/validate-stack-sequences/solutions/100000/yan-zheng-zhan-xu-lie-by-leetcode-soluti-cql0)
 #### 方法一：栈模拟
 
 这道题需要利用给定的两个数组 $\textit{pushed}$ 和 $\textit{popped}$ 的如下性质：

@@ -1,4 +1,4 @@
-## [361.轰炸敌人]
+## [361.轰炸敌人](https://leetcode.cn/problems/bomb-enemy/)
 <p>给你一个大小为 <code>m x n</code> 的矩阵 <code>grid</code> ，其中每个单元格都放置有一个字符：</p>
 
 <ul>

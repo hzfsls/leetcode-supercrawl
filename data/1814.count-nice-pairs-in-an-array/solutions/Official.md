@@ -1,3 +1,4 @@
+## [1814.统计一个数组中好对子的数目 中文官方题解](https://leetcode.cn/problems/count-nice-pairs-in-an-array/solutions/100000/tong-ji-yi-ge-shu-zu-zhong-hao-dui-zi-de-ywux)
 #### 方法一：哈希表
 
 **思路与算法**

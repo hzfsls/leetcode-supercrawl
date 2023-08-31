@@ -1,3 +1,4 @@
+## [2103.环和杆 中文官方题解](https://leetcode.cn/problems/rings-and-rods/solutions/100000/huan-he-gan-by-leetcode-solution-88xj)
 #### 方法一：维护每根杆的状态
 
 **思路与算法**

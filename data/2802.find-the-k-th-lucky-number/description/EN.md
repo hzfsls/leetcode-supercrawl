@@ -1,4 +1,4 @@
-## [2802.Find The K-th Lucky Number]
+## [2802.Find The K-th Lucky Number](https://leetcode.com/problems/find-the-k-th-lucky-number/)
 <p>We know that <code>4</code> and <code>7</code> are <strong>lucky</strong> digits. Also, a number is called <strong>lucky</strong>&nbsp;if it contains <strong>only</strong> lucky digits.</p>
 
 <p>You are given an integer <code>k</code>, return<em> the </em><code>k<sup>th</sup></code><em>&nbsp;lucky number represented as a <strong>string</strong>.</em></p>

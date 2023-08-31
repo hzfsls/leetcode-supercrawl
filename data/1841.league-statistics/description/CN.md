@@ -1,4 +1,4 @@
-## [1841.联赛信息统计]
+## [1841.联赛信息统计](https://leetcode.cn/problems/league-statistics/)
 <p>表: <code>Teams</code></p>
 
 <pre>

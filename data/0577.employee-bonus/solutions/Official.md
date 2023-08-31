@@ -1,3 +1,4 @@
+## [577.员工奖金 中文官方题解](https://leetcode.cn/problems/employee-bonus/solutions/100000/yuan-gong-jiang-jin-by-leetcode-solution)
 #### 算法
 首先需要知道每个员工的奖金数量，因此需要首先将 `Employee` 表与 `Bonus` 表连接。注意需要使用外连接，以处理员工没有出现在 `Bonus` 表上的情况。这里因为不存在员工只出现在 `Bonus` 表中的情况，所以只需要使用左外连接（`left join` 或 `left outer join`）。
 ```MySQL [-MySQL]

@@ -1,4 +1,4 @@
-## [550.游戏玩法分析 IV]
+## [550.游戏玩法分析 IV](https://leetcode.cn/problems/game-play-analysis-iv/)
 <p>Table:&nbsp;<code>Activity</code></p>
 
 <pre>

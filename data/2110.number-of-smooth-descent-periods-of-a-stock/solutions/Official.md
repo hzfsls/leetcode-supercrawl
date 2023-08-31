@@ -1,3 +1,4 @@
+## [2110.股票平滑下跌阶段的数目 中文官方题解](https://leetcode.cn/problems/number-of-smooth-descent-periods-of-a-stock/solutions/100000/gu-piao-ping-hua-xia-die-jie-duan-de-shu-w3hi)
 #### 方法一：动态规划
 
 **思路与算法**

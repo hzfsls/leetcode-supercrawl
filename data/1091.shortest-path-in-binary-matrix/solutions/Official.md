@@ -1,3 +1,4 @@
+## [1091.二进制矩阵中的最短路径 中文官方题解](https://leetcode.cn/problems/shortest-path-in-binary-matrix/solutions/100000/er-jin-zhi-ju-zhen-zhong-de-zui-duan-lu-553kt)
 #### 方法一：广度优先搜索
 
 把单元格当成图的节点，如果两个相邻单元格的值都是 $0$，那么这两个相邻单元格代表的节点之间存在边，且边长为 $1$。因此问题可以转化为给定一个无权图，求两个节点的最短路径。求无权图的最短路径问题的解法是[广度优先搜索](https://oi-wiki.org/graph/bfs/)。

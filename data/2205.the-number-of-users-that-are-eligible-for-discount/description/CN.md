@@ -1,4 +1,4 @@
-## [2205.有资格享受折扣的用户数量]
+## [2205.有资格享受折扣的用户数量](https://leetcode.cn/problems/the-number-of-users-that-are-eligible-for-discount/)
 <p>表: <code>Purchases</code></p>
 
 <pre>

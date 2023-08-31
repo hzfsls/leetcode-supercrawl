@@ -1,3 +1,4 @@
+## [2227.加密解密字符串 中文官方题解](https://leetcode.cn/problems/encrypt-and-decrypt-strings/solutions/100000/jia-mi-jie-mi-zi-fu-chuan-by-leetcode-so-mqga)
 #### 方法一：直接加密 + 预处理解密
 
 **思路与算法**

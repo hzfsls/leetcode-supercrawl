@@ -1,4 +1,4 @@
-## [1288.删除被覆盖区间]
+## [1288.删除被覆盖区间](https://leetcode.cn/problems/remove-covered-intervals/)
 <p>给你一个区间列表，请你删除列表中被其他区间所覆盖的区间。</p>
 
 <p>只有当&nbsp;<code>c &lt;= a</code>&nbsp;且&nbsp;<code>b &lt;= d</code>&nbsp;时，我们才认为区间&nbsp;<code>[a,b)</code> 被区间&nbsp;<code>[c,d)</code> 覆盖。</p>

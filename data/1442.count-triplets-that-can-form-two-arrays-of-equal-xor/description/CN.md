@@ -1,4 +1,4 @@
-## [1442.形成两个异或相等数组的三元组数目]
+## [1442.形成两个异或相等数组的三元组数目](https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)
 <p>给你一个整数数组 <code>arr</code> 。</p>
 
 <p>现需要从数组中取三个下标 <code>i</code>、<code>j</code> 和 <code>k</code> ，其中 <code>(0 &lt;= i &lt; j &lt;= k &lt; arr.length)</code> 。</p>

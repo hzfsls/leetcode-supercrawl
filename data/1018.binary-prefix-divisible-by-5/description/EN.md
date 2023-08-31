@@ -1,4 +1,4 @@
-## [1018.Binary Prefix Divisible By 5]
+## [1018.Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)
 <p>You are given a binary array <code>nums</code> (<strong>0-indexed</strong>).</p>
 
 <p>We define <code>x<sub>i</sub></code> as the number whose binary representation is the subarray <code>nums[0..i]</code> (from most-significant-bit to least-significant-bit).</p>

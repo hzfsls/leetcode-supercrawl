@@ -1,3 +1,4 @@
+## [715.Range 模块 中文官方题解](https://leetcode.cn/problems/range-module/solutions/100000/range-mo-kuai-by-leetcode-solution-4utf)
 #### 方法一：有序集合 / 有序映射
 
 **思路与算法**

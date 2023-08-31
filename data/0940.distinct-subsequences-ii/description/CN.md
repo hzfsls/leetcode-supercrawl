@@ -1,4 +1,4 @@
-## [940.不同的子序列 II]
+## [940.不同的子序列 II](https://leetcode.cn/problems/distinct-subsequences-ii/)
 <p>给定一个字符串 <code>s</code>，计算 <code>s</code> 的 <strong>不同非空子序列</strong> 的个数。因为结果可能很大，所以返回答案需要对<strong> </strong><strong><code>10^9 + 7</code> 取余</strong> 。</p>
 
 <p>字符串的 <strong>子序列</strong> 是经由原字符串删除一些（也可能不删除）字符但不改变剩余字符相对位置的一个新字符串。</p>

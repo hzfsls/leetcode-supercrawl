@@ -1,3 +1,4 @@
+## [740.删除并获得点数 中文官方题解](https://leetcode.cn/problems/delete-and-earn/solutions/100000/shan-chu-bing-huo-de-dian-shu-by-leetcod-x1pu)
 #### 方法一：动态规划
 
 **思路**

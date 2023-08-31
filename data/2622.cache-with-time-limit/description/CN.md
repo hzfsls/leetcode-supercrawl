@@ -1,4 +1,4 @@
-## [2622.有时间限制的缓存]
+## [2622.有时间限制的缓存](https://leetcode.cn/problems/cache-with-time-limit/)
 <p>编写一个类，它允许获取和设置键-值对，并且每个键都有一个&nbsp;<strong>过期时间</strong>&nbsp;。</p>
 
 <p>该类有三个公共方法：</p>

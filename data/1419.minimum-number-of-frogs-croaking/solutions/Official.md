@@ -1,3 +1,4 @@
+## [1419.数青蛙 中文官方题解](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/solutions/100000/shu-qing-wa-by-leetcode-solution-o532)
 #### 方法一：计数
 
 **思路与算法**

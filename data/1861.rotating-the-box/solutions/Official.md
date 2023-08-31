@@ -1,3 +1,4 @@
+## [1861.旋转盒子 中文官方题解](https://leetcode.cn/problems/rotating-the-box/solutions/100000/xuan-zhuan-he-zi-by-leetcode-solution-us55)
 #### 方法一：用队列维护空位
 
 **提示 $1$**

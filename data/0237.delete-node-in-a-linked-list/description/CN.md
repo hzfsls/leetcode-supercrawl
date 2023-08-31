@@ -1,4 +1,4 @@
-## [237.删除链表中的节点]
+## [237.删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/)
 <p>有一个单链表的&nbsp;<code>head</code>，我们想删除它其中的一个节点&nbsp;<code>node</code>。</p>
 
 <p>给你一个需要删除的节点&nbsp;<code>node</code>&nbsp;。你将&nbsp;<strong>无法访问</strong>&nbsp;第一个节点&nbsp;&nbsp;<code>head</code>。</p>

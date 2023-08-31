@@ -1,4 +1,4 @@
-## [1679.K 和数对的最大数目]
+## [1679.K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs/)
 <p>给你一个整数数组 <code>nums</code> 和一个整数 <code>k</code> 。</p>
 
 <p>每一步操作中，你需要从数组中选出和为 <code>k</code> 的两个整数，并将它们移出数组。</p>

@@ -1,4 +1,4 @@
-## [2535.数组元素和与数字和的绝对差]
+## [2535.数组元素和与数字和的绝对差](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
 <p>给你一个正整数数组 <code>nums</code> 。</p>
 
 <ul>

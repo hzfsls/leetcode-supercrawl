@@ -1,3 +1,4 @@
+## [1095.山脉数组中查找目标值 中文官方题解](https://leetcode.cn/problems/find-in-mountain-array/solutions/100000/shan-mai-shu-zu-zhong-cha-zhao-mu-biao-zhi-by-leet)
 ### 📺 视频题解
 
 ![1095. 山脉数组中查找目标值.mp4](d7e78ecf-4b0a-458e-a6d6-cb95008ab63e)

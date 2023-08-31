@@ -1,4 +1,4 @@
-## [969.Pancake Sorting]
+## [969.Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
 <p>Given an array of integers <code>arr</code>, sort the array by performing a series of <strong>pancake flips</strong>.</p>
 
 <p>In one pancake flip we do the following steps:</p>

@@ -1,4 +1,4 @@
-## [2052.将句子分隔成行的最低成本]
+## [2052.将句子分隔成行的最低成本](https://leetcode.cn/problems/minimum-cost-to-separate-sentence-into-rows/)
 <p>给定一个由空格分隔的单词组成的字符串&nbsp;<code>sentence</code>&nbsp;和一个整数 <code>k</code>。你的任务是将&nbsp;<code>sentence</code> 分成<strong>多行</strong>，每行中的字符数<strong>最多</strong>为 <code>k</code>。你可以假设&nbsp;<code>sentence</code> 不以空格开头或结尾，并且&nbsp;<code>sentence</code> 中的单词由单个空格分隔。</p>
 
 <p>你可以通过在&nbsp;<code>sentence</code>&nbsp;中的单词间插入换行来分隔&nbsp;<code>sentence</code> 。一个单词<strong>不能</strong>被分成两行。每个单词只能使用一次，并且单词顺序不能重排。同一行中的相邻单词应该由单个空格分隔，并且每行都不应该以空格开头或结尾。</p>

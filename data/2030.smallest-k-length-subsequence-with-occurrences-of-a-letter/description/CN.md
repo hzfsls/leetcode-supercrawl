@@ -1,4 +1,4 @@
-## [2030.含特定字母的最小子序列]
+## [2030.含特定字母的最小子序列](https://leetcode.cn/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)
 <p>给你一个字符串 <code>s</code> ，一个整数 <code>k</code> ，一个字母 <code>letter</code> 以及另一个整数 <code>repetition</code> 。</p>
 
 <p>返回 <code>s</code> 中长度为 <code>k</code> 且 <strong>字典序最小</strong> 的子序列，该子序列同时应满足字母 <code>letter</code> 出现<strong> 至少</strong> <code>repetition</code> 次。生成的测试用例满足 <code>letter</code> 在 <code>s</code> 中出现 <strong>至少</strong> <code>repetition</code> 次。</p>

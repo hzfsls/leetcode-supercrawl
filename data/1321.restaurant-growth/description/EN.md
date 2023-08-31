@@ -1,4 +1,4 @@
-## [1321.Restaurant Growth]
+## [1321.Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)
 <p>Table: <code>Customer</code></p>
 
 <pre>

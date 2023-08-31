@@ -1,4 +1,4 @@
-## [2544.Alternating Digit Sum]
+## [2544.Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)
 <p>You are given a positive integer <code>n</code>. Each digit of <code>n</code> has a sign according to the following rules:</p>
 
 <ul>

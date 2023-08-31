@@ -1,3 +1,4 @@
+## [374.猜数字大小 中文官方题解](https://leetcode.cn/problems/guess-number-higher-or-lower/solutions/100000/cai-shu-zi-da-xiao-by-leetcode-solution-qdzu)
 #### 方法一：二分查找
 
 记选出的数字为 $\textit{pick}$，猜测的数字为 $x$。根据题目描述，若 $\texttt{guess}(x)\le 0$ 则说明 $x\ge\textit{pick}$，否则 $x<\textit{pick}$。

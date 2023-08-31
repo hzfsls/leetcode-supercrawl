@@ -1,4 +1,4 @@
-## [87.Scramble String]
+## [87.Scramble String](https://leetcode.com/problems/scramble-string/)
 <p>We can scramble a string s to get a string t using the following algorithm:</p>
 
 <ol>

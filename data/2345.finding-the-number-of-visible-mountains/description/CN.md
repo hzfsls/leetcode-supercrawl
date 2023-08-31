@@ -1,4 +1,4 @@
-## [2345.寻找可见山的数量]
+## [2345.寻找可见山的数量](https://leetcode.cn/problems/finding-the-number-of-visible-mountains/)
 <p>给定一个 <strong>下标从 0 开始&nbsp;</strong>的二维整数数组 <code>peaks</code>，其中 <code>peaks[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> 表示山 <code>i</code> 在坐标 <code>(x<sub>i</sub>, y<sub>i</sub>)</code>&nbsp;处有一个峰值。山可以被描述为一个直角等腰三角形，它的底部沿着 <code>x</code>&nbsp;轴，山峰处有一个直角。更正式地说，上山和下山的&nbsp;<strong>梯度&nbsp;</strong>分别为 <code>1</code>&nbsp;和 <code>-1</code>。</p>
 
 <p>一座山如果它的顶峰不在另一座山 (包括其他山的边界) 之内，那么它被认为是&nbsp;<strong>可见&nbsp;</strong>的。</p>

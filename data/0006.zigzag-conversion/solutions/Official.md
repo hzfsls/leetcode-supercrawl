@@ -1,3 +1,4 @@
+## [6.N 字形变换 中文官方题解](https://leetcode.cn/problems/zigzag-conversion/solutions/100000/z-zi-xing-bian-huan-by-leetcode-solution-4n3u)
 #### 方法一：利用二维矩阵模拟
 
 设 $n$ 为字符串 $s$ 的长度，$r=\textit{numRows}$。对于 $r=1$（只有一行）或者 $r\ge n$（只有一列）的情况，答案与 $s$ 相同，我们可以直接返回 $s$。对于其余情况，考虑创建一个二维矩阵，然后在矩阵上按 Z 字形填写字符串 $s$，最后逐行扫描矩阵中的非空字符，组成答案。

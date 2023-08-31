@@ -1,3 +1,4 @@
+## [1297.子串的最大出现次数 中文官方题解](https://leetcode.cn/problems/maximum-number-of-occurrences-of-a-substring/solutions/100000/zi-chuan-de-zui-da-chu-xian-ci-shu-by-leetcode-sol)
 #### 方法一：枚举
 
 由于 `minSize` 和 `maxSize` 都不超过 `26`，因此我们可以枚举所有长度在 `minSize` 与 `maxSize` 之间的字符串，选出其中字母数量小于等于的 `maxLetters` 的字符串并进行频数统计。

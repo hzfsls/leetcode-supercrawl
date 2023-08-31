@@ -1,4 +1,4 @@
-## [2520.统计能整除数字的位数]
+## [2520.统计能整除数字的位数](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/)
 <p>给你一个整数 <code>num</code> ，返回 <code>num</code> 中能整除 <code>num</code> 的数位的数目。</p>
 
 <p>如果满足&nbsp;<code>nums % val == 0</code> ，则认为整数 <code>val</code> 可以整除 <code>nums</code> 。</p>

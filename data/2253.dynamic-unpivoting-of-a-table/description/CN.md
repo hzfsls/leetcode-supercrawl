@@ -1,4 +1,4 @@
-## [2253.动态取消表的旋转]
+## [2253.动态取消表的旋转](https://leetcode.cn/problems/dynamic-unpivoting-of-a-table/)
 <p>表: <code>Products</code></p>
 
 <pre>

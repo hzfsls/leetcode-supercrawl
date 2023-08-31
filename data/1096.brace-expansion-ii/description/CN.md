@@ -1,4 +1,4 @@
-## [1096.花括号展开 II]
+## [1096.花括号展开 II](https://leetcode.cn/problems/brace-expansion-ii/)
 <p>如果你熟悉 Shell 编程，那么一定了解过花括号展开，它可以用来生成任意字符串。</p>
 
 <p>花括号展开的表达式可以看作一个由 <strong>花括号</strong>、<strong>逗号</strong> 和 <strong>小写英文字母</strong> 组成的字符串，定义下面几条语法规则：</p>

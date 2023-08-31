@@ -1,4 +1,4 @@
-## [2829.Determine the Minimum Sum of a k-avoiding Array]
+## [2829.Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)
 <p>You are given two integers,&nbsp;<code>n</code> and <code>k</code>.</p>
 
 <p>An array of <strong>distinct</strong> positive integers is called a <b>k-avoiding</b> array if there does not exist any pair of distinct elements that sum to <code>k</code>.</p>

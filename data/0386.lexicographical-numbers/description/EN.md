@@ -1,4 +1,4 @@
-## [386.Lexicographical Numbers]
+## [386.Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 <p>Given an integer <code>n</code>, return all the numbers in the range <code>[1, n]</code> sorted in lexicographical order.</p>
 
 <p>You must write an algorithm that runs in&nbsp;<code>O(n)</code>&nbsp;time and uses <code>O(1)</code> extra space.&nbsp;</p>

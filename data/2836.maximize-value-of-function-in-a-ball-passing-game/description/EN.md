@@ -1,4 +1,4 @@
-## [2836.Maximize Value of Function in a Ball Passing Game]
+## [2836.Maximize Value of Function in a Ball Passing Game](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>receiver</code> of length <code>n</code> and an integer <code>k</code>.</p>
 
 <p>There are <code>n</code> players having a <strong>unique id</strong> in the range <code>[0, n - 1]</code> who will play a ball passing game, and <code>receiver[i]</code> is the id of the player who receives passes from the player with id <code>i</code>. Players can pass to themselves, <strong>i.e.</strong> <code>receiver[i]</code> may be equal to <code>i</code>.</p>

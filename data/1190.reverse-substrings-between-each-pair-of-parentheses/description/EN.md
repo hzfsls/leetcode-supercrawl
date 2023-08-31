@@ -1,4 +1,4 @@
-## [1190.Reverse Substrings Between Each Pair of Parentheses]
+## [1190.Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 <p>You are given a string <code>s</code> that consists of lower case English letters and brackets.</p>
 
 <p>Reverse the strings in each pair of matching parentheses, starting from the innermost one.</p>

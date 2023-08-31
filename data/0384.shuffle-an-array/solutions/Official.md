@@ -1,3 +1,4 @@
+## [384.打乱数组 中文官方题解](https://leetcode.cn/problems/shuffle-an-array/solutions/100000/da-luan-shu-zu-by-leetcode-solution-og5u)
 #### 方法一：暴力
 
 **思路**

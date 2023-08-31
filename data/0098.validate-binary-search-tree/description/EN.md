@@ -1,4 +1,4 @@
-## [98.Validate Binary Search Tree]
+## [98.Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 <p>Given the <code>root</code> of a binary tree, <em>determine if it is a valid binary search tree (BST)</em>.</p>
 
 <p>A <strong>valid BST</strong> is defined as follows:</p>

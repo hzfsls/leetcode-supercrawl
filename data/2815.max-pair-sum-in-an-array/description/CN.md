@@ -1,4 +1,4 @@
-## [2815.数组中的最大数对和]
+## [2815.数组中的最大数对和](https://leetcode.cn/problems/max-pair-sum-in-an-array/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 。请你从 <code>nums</code> 中找出和 <strong>最大</strong> 的一对数，且这两个数数位上最大的数字相等。</p>
 
 <p>返回最大和，如果不存在满足题意的数字对，返回 <code>-1</code><em> 。</em></p>

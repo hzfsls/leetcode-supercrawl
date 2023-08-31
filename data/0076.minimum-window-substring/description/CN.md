@@ -1,4 +1,4 @@
-## [76.最小覆盖子串]
+## [76.最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
 <p>给你一个字符串 <code>s</code> 、一个字符串 <code>t</code> 。返回 <code>s</code> 中涵盖 <code>t</code> 所有字符的最小子串。如果 <code>s</code> 中不存在涵盖 <code>t</code> 所有字符的子串，则返回空字符串 <code>""</code> 。</p>
 
 <p>&nbsp;</p>

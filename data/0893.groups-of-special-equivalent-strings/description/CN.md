@@ -1,4 +1,4 @@
-## [893.特殊等价字符串组]
+## [893.特殊等价字符串组](https://leetcode.cn/problems/groups-of-special-equivalent-strings/)
 <p>给你一个字符串数组 <code>words</code>。</p>
 
 <p>一步操作中，你可以交换字符串 <code>words[i]</code> 的任意两个偶数下标对应的字符或任意两个奇数下标对应的字符。</p>

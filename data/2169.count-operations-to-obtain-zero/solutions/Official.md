@@ -1,3 +1,4 @@
+## [2169.得到 0 的操作数 中文官方题解](https://leetcode.cn/problems/count-operations-to-obtain-zero/solutions/100000/de-dao-0-de-cao-zuo-shu-by-leetcode-solu-d8kh)
 #### 方法一：辗转相除
 
 **思路与算法**

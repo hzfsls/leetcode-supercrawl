@@ -1,4 +1,4 @@
-## [1204.最后一个能进入巴士的人]
+## [1204.最后一个能进入巴士的人](https://leetcode.cn/problems/last-person-to-fit-in-the-bus/)
 <p>表: <code>Queue</code></p>
 
 <pre>

@@ -1,3 +1,4 @@
+## [1187.使数组严格递增 中文官方题解](https://leetcode.cn/problems/make-array-strictly-increasing/solutions/100000/shi-shu-zu-yan-ge-di-zeng-by-leetcode-so-6p94)
 #### 方法一：动态规划
 
 **思路与算法**

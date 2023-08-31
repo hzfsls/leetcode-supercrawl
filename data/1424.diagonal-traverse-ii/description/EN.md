@@ -1,4 +1,4 @@
-## [1424.Diagonal Traverse II]
+## [1424.Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)
 <p>Given a 2D integer array <code>nums</code>, return <em>all elements of </em><code>nums</code><em> in diagonal order as shown in the below images</em>.</p>
 
 <p>&nbsp;</p>

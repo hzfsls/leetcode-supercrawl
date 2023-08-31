@@ -1,4 +1,4 @@
-## [2380.Time Needed to Rearrange a Binary String]
+## [2380.Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/)
 <p>You are given a binary string <code>s</code>. In one second, <strong>all</strong> occurrences of <code>&quot;01&quot;</code> are <strong>simultaneously</strong> replaced with <code>&quot;10&quot;</code>. This process <strong>repeats</strong> until no occurrences of <code>&quot;01&quot;</code> exist.</p>
 
 <p>Return<em> the number of seconds needed to complete this process.</em></p>

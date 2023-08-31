@@ -1,4 +1,4 @@
-## [1387.Sort Integers by The Power Value]
+## [1387.Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)
 <p>The power of an integer <code>x</code> is defined as the number of steps needed to transform <code>x</code> into <code>1</code> using the following steps:</p>
 
 <ul>

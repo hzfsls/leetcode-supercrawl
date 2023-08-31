@@ -1,4 +1,4 @@
-## [1049.最后一块石头的重量 II]
+## [1049.最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/)
 <p>有一堆石头，用整数数组&nbsp;<code>stones</code> 表示。其中&nbsp;<code>stones[i]</code> 表示第 <code>i</code> 块石头的重量。</p>
 
 <p>每一回合，从中选出<strong>任意两块石头</strong>，然后将它们一起粉碎。假设石头的重量分别为&nbsp;<code>x</code> 和&nbsp;<code>y</code>，且&nbsp;<code>x &lt;= y</code>。那么粉碎的可能结果如下：</p>

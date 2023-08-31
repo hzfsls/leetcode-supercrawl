@@ -1,3 +1,4 @@
+## [637.二叉树的层平均值 中文官方题解](https://leetcode.cn/problems/average-of-levels-in-binary-tree/solutions/100000/er-cha-shu-de-ceng-ping-jun-zhi-by-leetcode-soluti)
 #### 方法一：深度优先搜索
 
 使用深度优先搜索计算二叉树的层平均值，需要维护两个数组，$\textit{counts}$ 用于存储二叉树的每一层的节点数，$\textit{sums}$ 用于存储二叉树的每一层的节点值之和。搜索过程中需要记录当前节点所在层，如果访问到的节点在第 $i$ 层，则将 $\textit{counts}[i]$ 的值加 $1$，并将该节点的值加到 $\textit{sums}[i]$。

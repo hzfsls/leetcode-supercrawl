@@ -1,3 +1,4 @@
+## [2363.合并相似的物品 中文官方题解](https://leetcode.cn/problems/merge-similar-items/solutions/100000/he-bing-xiang-si-de-wu-pin-by-leetcode-s-ywx0)
 #### 方法一：哈希表
 
 **思路与算法**

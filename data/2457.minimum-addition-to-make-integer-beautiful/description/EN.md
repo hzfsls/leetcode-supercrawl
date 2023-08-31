@@ -1,4 +1,4 @@
-## [2457.Minimum Addition to Make Integer Beautiful]
+## [2457.Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/)
 <p>You are given two positive integers <code>n</code> and <code>target</code>.</p>
 
 <p>An integer is considered <strong>beautiful</strong> if the sum of its digits is less than or equal to <code>target</code>.</p>

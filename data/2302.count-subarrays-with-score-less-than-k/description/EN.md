@@ -1,4 +1,4 @@
-## [2302.Count Subarrays With Score Less Than K]
+## [2302.Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)
 <p>The <strong>score</strong> of an array is defined as the <strong>product</strong> of its sum and its length.</p>
 
 <ul>

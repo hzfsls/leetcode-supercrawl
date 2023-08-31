@@ -1,4 +1,4 @@
-## [512.游戏玩法分析 II]
+## [512.游戏玩法分析 II](https://leetcode.cn/problems/game-play-analysis-ii/)
 <p>Table:&nbsp;<code>Activity</code></p>
 
 <pre>

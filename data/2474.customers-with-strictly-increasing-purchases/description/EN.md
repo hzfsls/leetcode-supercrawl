@@ -1,4 +1,4 @@
-## [2474.Customers With Strictly Increasing Purchases]
+## [2474.Customers With Strictly Increasing Purchases](https://leetcode.com/problems/customers-with-strictly-increasing-purchases/)
 <p>Table: <code>Orders</code></p>
 
 <pre>

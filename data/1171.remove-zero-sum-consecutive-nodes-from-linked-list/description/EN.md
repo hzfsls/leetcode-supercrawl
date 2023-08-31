@@ -1,4 +1,4 @@
-## [1171.Remove Zero Sum Consecutive Nodes from Linked List]
+## [1171.Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
 <p>Given the <code>head</code> of a linked list, we repeatedly delete consecutive sequences of nodes that sum to <code>0</code> until there are no such sequences.</p>
 
 <p>After doing so, return the head of the final linked list.&nbsp; You may return any such answer.</p>

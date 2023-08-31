@@ -1,3 +1,4 @@
+## [2636.Promise 对象池 中文官方题解](https://leetcode.cn/problems/promise-pool/solutions/100000/promise-dui-xiang-chi-by-leetcode-soluti-5v7u)
 [TOC] 
 
  ## 解决方案

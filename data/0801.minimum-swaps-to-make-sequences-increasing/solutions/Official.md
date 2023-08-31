@@ -1,3 +1,4 @@
+## [801.使序列递增的最小交换次数 中文官方题解](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/solutions/100000/shi-xu-lie-di-zeng-de-zui-xiao-jiao-huan-ux2y)
 #### 方法一：动态规划
 
 **思路与算法**

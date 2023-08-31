@@ -1,3 +1,4 @@
+## [1851.包含每个查询的最小区间 中文官方题解](https://leetcode.cn/problems/minimum-interval-to-include-each-query/solutions/100000/bao-han-mei-ge-cha-xun-de-zui-xiao-qu-ji-e21j)
 #### 方法一：离线算法 + 优先队列
 
 首先我们对问题进行分析，对于第 $j$ 个查询，可以遍历 $\textit{intervals}$，找到满足 $\textit{left}_i \le \textit{queries}_j \le \textit{right}_i$ 的长度最小区间 $i$ 的长度。以上思路对于每个查询，都需要重新遍历 $\textit{intervals}$。

@@ -1,4 +1,4 @@
-## [1252.Cells with Odd Values in a Matrix]
+## [1252.Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 <p>There is an <code>m x n</code> matrix that is initialized to all <code>0</code>&#39;s. There is also a 2D array <code>indices</code> where each <code>indices[i] = [r<sub>i</sub>, c<sub>i</sub>]</code> represents a <strong>0-indexed location</strong> to perform some increment operations on the matrix.</p>
 
 <p>For each location <code>indices[i]</code>, do <strong>both</strong> of the following:</p>

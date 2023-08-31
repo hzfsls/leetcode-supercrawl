@@ -1,4 +1,4 @@
-## [306.Additive Number]
+## [306.Additive Number](https://leetcode.com/problems/additive-number/)
 <p>An <strong>additive number</strong> is a string whose digits can form an <strong>additive sequence</strong>.</p>
 
 <p>A valid <strong>additive sequence</strong> should contain <strong>at least</strong> three numbers. Except for the first two numbers, each subsequent number in the sequence must be the sum of the preceding two.</p>

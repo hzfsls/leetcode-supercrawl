@@ -1,3 +1,4 @@
+## [937.重新排列日志文件 中文官方题解](https://leetcode.cn/problems/reorder-data-in-log-files/solutions/100000/zhong-xin-pai-lie-ri-zhi-wen-jian-by-lee-egtm)
 #### 方法一：自定义排序
 
 **思路**

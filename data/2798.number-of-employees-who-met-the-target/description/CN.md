@@ -1,4 +1,4 @@
-## [2798.满足目标工作时长的员工数目]
+## [2798.满足目标工作时长的员工数目](https://leetcode.cn/problems/number-of-employees-who-met-the-target/)
 <p>公司里共有 <code>n</code> 名员工，按从 <code>0</code> 到 <code>n - 1</code> 编号。每个员工 <code>i</code> 已经在公司工作了 <code>hours[i]</code> 小时。</p>
 
 <p>公司要求每位员工工作&nbsp;<strong>至少</strong> <code>target</code> 小时。</p>

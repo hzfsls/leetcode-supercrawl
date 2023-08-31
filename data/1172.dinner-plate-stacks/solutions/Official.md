@@ -1,3 +1,4 @@
+## [1172.餐盘栈 中文官方题解](https://leetcode.cn/problems/dinner-plate-stacks/solutions/100000/can-pan-zhan-by-leetcode-solution-afsw)
 #### 方法一：数组 + 有序集合模拟
 
 **思路**

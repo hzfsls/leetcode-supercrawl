@@ -1,4 +1,4 @@
-## [1412.查找成绩处于中游的学生]
+## [1412.查找成绩处于中游的学生](https://leetcode.cn/problems/find-the-quiet-students-in-all-exams/)
 <p>表: <code>Student</code></p>
 
 <pre>

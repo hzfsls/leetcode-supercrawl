@@ -1,4 +1,4 @@
-## [2377.整理奥运表]
+## [2377.整理奥运表](https://leetcode.cn/problems/sort-the-olympic-table/)
 <p>表: <code>Olympic</code></p>
 
 <pre>

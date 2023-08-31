@@ -1,4 +1,4 @@
-## [2732.找到矩阵中的好子集]
+## [2732.找到矩阵中的好子集](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始大小为&nbsp;<code>m x n</code>&nbsp;的二进制矩阵&nbsp;<code>grid</code>&nbsp;。</p>
 
 <p>从原矩阵中选出若干行构成一个行的 <strong>非空&nbsp;</strong>子集，如果子集中任何一列的和至多为子集大小的一半，那么我们称这个子集是 <strong>好子集</strong>。</p>

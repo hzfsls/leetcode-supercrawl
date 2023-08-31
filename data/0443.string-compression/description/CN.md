@@ -1,4 +1,4 @@
-## [443.压缩字符串]
+## [443.压缩字符串](https://leetcode.cn/problems/string-compression/)
 <p>给你一个字符数组 <code>chars</code> ，请使用下述算法压缩：</p>
 
 <p>从一个空字符串 <code>s</code> 开始。对于 <code>chars</code> 中的每组 <strong>连续重复字符</strong> ：</p>

@@ -1,3 +1,4 @@
+## [714.买卖股票的最佳时机含手续费 中文官方题解](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/100000/mai-mai-gu-piao-de-zui-jia-shi-ji-han-sh-rzlz)
 #### 前言
 
 本题和 [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) 是非常类似的题，唯一的区别就在于本题有「手续费」而第 122 题没有。

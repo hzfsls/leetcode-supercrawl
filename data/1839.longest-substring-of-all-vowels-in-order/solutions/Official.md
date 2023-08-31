@@ -1,3 +1,4 @@
+## [1839.所有元音按顺序排布的最长子字符串 中文官方题解](https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/solutions/100000/suo-you-yuan-yin-an-shun-xu-pai-bu-de-zu-9wqg)
 #### 方法一：状态机
 
 **提示 $1$**

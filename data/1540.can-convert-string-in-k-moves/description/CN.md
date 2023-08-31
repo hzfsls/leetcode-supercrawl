@@ -1,4 +1,4 @@
-## [1540.K 次操作转变字符串]
+## [1540.K 次操作转变字符串](https://leetcode.cn/problems/can-convert-string-in-k-moves/)
 <p>给你两个字符串&nbsp;<code>s</code>&nbsp;和&nbsp;<code>t</code>&nbsp;，你的目标是在 <code>k</code>&nbsp;次操作以内把字符串&nbsp;<code>s</code>&nbsp;转变成&nbsp;<code>t</code>&nbsp;。</p>
 
 <p>在第 <code>i</code>&nbsp;次操作时（<code>1 &lt;= i &lt;= k</code>），你可以选择进行如下操作：</p>

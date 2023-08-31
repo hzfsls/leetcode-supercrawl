@@ -1,3 +1,4 @@
+## [256.粉刷房子 中文官方题解](https://leetcode.cn/problems/paint-house/solutions/100000/fen-shua-fang-zi-by-leetcode-solution-a2qn)
 ## 解决方案
 
 对那些已经熟悉记忆化和动态规划的人来说，这道题可能很简单。对于那些 Leetcoding 新手来说，它可能看上去是中等，甚至困难难度。_**对于那些正在开始学习记忆化和动态规划的人来说，非常适合从这道题开始**_！

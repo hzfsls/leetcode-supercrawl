@@ -1,3 +1,4 @@
+## [370.区间加法 中文官方题解](https://leetcode.cn/problems/range-addition/solutions/100000/qu-jian-jia-fa-by-leetcode-solution)
 #### 方法一：差分数组
 
 如果我们知道每一个元素比前一个元素大多少，以及第一元素的值，我们就可以 $O(n)$ 遍历数组求出所有数的值。举个例子，我们已知 $a_1=3$ ，$a_2$ 比 $a_1$ 大 5，则我们可以知道 $a_2=a_1+5=8$ 。

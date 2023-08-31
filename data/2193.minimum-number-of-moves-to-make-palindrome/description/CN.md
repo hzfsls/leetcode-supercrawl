@@ -1,4 +1,4 @@
-## [2193.得到回文串的最少操作次数]
+## [2193.得到回文串的最少操作次数](https://leetcode.cn/problems/minimum-number-of-moves-to-make-palindrome/)
 <p>给你一个只包含小写英文字母的字符串&nbsp;<code>s</code>&nbsp;。</p>
 
 <p>每一次 <strong>操作</strong>&nbsp;，你可以选择 <code>s</code>&nbsp;中两个 <strong>相邻</strong>&nbsp;的字符，并将它们交换。</p>

@@ -1,4 +1,4 @@
-## [2610.Convert an Array Into a 2D Array With Conditions]
+## [2610.Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
 <p>You are given an integer array <code>nums</code>. You need to create a 2D array from <code>nums</code> satisfying the following conditions:</p>
 
 <ul>

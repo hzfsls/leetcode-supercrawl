@@ -1,4 +1,4 @@
-## [1675.Minimize Deviation in Array]
+## [1675.Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
 <p>You are given an array <code>nums</code> of <code>n</code> positive integers.</p>
 
 <p>You can perform two types of operations on any element of the array any number of times:</p>

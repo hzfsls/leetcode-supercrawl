@@ -1,4 +1,4 @@
-## [1287.Element Appearing More Than 25% In Sorted Array]
+## [1287.Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
 <p>Given an integer array <strong>sorted</strong> in non-decreasing order, there is exactly one integer in the array that occurs more than 25% of the time, return that integer.</p>
 
 <p>&nbsp;</p>

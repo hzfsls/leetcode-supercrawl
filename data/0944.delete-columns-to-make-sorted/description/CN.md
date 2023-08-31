@@ -1,4 +1,4 @@
-## [944.删列造序]
+## [944.删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)
 <p>给你由 <code>n</code> 个小写字母字符串组成的数组 <code>strs</code>，其中每个字符串长度相等。</p>
 
 <p>这些字符串可以每个一行，排成一个网格。例如，<code>strs = ["abc", "bce", "cae"]</code> 可以排列为：</p>

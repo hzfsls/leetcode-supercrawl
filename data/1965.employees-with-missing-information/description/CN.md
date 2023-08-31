@@ -1,4 +1,4 @@
-## [1965.丢失信息的雇员]
+## [1965.丢失信息的雇员](https://leetcode.cn/problems/employees-with-missing-information/)
 <p>表: <code>Employees</code></p>
 
 <pre>

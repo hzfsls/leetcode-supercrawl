@@ -1,3 +1,4 @@
+## [806.写字符串需要的行数 中文官方题解](https://leetcode.cn/problems/number-of-lines-to-write-string/solutions/100000/xie-zi-fu-chuan-xu-yao-de-xing-shu-by-le-9bj5)
 #### 方法一: 直接遍历
 
 **思路与算法**

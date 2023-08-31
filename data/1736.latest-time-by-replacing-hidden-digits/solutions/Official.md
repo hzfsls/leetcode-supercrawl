@@ -1,3 +1,4 @@
+## [1736.替换隐藏数字得到的最晚时间 中文官方题解](https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/solutions/100000/ti-huan-yin-cang-shu-zi-de-dao-de-zui-wa-0s7r)
 #### 方法一：贪心
 
 **思路与算法**

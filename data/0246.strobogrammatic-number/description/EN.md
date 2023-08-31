@@ -1,4 +1,4 @@
-## [246.Strobogrammatic Number]
+## [246.Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
 <p>Given a string <code>num</code> which represents an integer, return <code>true</code> <em>if</em> <code>num</code> <em>is a <strong>strobogrammatic number</strong></em>.</p>
 
 <p>A <strong>strobogrammatic number</strong> is a number that looks the same when rotated <code>180</code> degrees (looked at upside down).</p>

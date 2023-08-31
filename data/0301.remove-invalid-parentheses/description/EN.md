@@ -1,4 +1,4 @@
-## [301.Remove Invalid Parentheses]
+## [301.Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 <p>Given a string <code>s</code> that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.</p>
 
 <p>Return <em>a list of <strong>unique strings</strong> that are valid with the minimum number of removals</em>. You may return the answer in <strong>any order</strong>.</p>

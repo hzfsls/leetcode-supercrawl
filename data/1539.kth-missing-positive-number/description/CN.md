@@ -1,4 +1,4 @@
-## [1539.第 k 个缺失的正整数]
+## [1539.第 k 个缺失的正整数](https://leetcode.cn/problems/kth-missing-positive-number/)
 <p>给你一个 <strong>严格升序排列</strong>&nbsp;的正整数数组 <code>arr</code>&nbsp;和一个整数&nbsp;<code>k</code>&nbsp;。</p>
 
 <p>请你找到这个数组里第&nbsp;<code>k</code>&nbsp;个缺失的正整数。</p>

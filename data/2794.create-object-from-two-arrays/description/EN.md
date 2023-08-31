@@ -1,4 +1,4 @@
-## [2794.Create Object from Two Arrays]
+## [2794.Create Object from Two Arrays](https://leetcode.com/problems/create-object-from-two-arrays/)
 <p>Given two arrays <code>keysArr</code> and <code>valuesArr</code>, return a new object <code>obj</code>. Each key-value pair in&nbsp;<code>obj</code>&nbsp;should come from&nbsp;<code>keysArr[i]</code>&nbsp;and&nbsp;<code>valuesArr[i]</code>.</p>
 
 <p>If a duplicate key exists at a previous index, that key-value should be excluded. In other words, only the first key should be added to the object.</p>

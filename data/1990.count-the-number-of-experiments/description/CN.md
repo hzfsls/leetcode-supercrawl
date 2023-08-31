@@ -1,4 +1,4 @@
-## [1990.统计实验的数量]
+## [1990.统计实验的数量](https://leetcode.cn/problems/count-the-number-of-experiments/)
 <p>表: <code>Experiments</code></p>
 
 <pre>

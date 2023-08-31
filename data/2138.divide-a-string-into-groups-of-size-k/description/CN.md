@@ -1,4 +1,4 @@
-## [2138.将字符串拆分为若干长度为 k 的组]
+## [2138.将字符串拆分为若干长度为 k 的组](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/)
 <p>字符串 <code>s</code> 可以按下述步骤划分为若干长度为 <code>k</code> 的组：</p>
 
 <ul>

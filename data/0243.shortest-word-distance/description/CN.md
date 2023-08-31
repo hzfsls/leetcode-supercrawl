@@ -1,4 +1,4 @@
-## [243.最短单词距离]
+## [243.最短单词距离](https://leetcode.cn/problems/shortest-word-distance/)
 <p>给定一个字符串数组&nbsp;<code>wordDict</code>&nbsp;和两个已经存在于该数组中的不同的字符串&nbsp;<code>word1</code> 和 <code>word2</code> 。返回列表中这两个单词之间的最短距离。</p>
 
 <p>&nbsp;</p>

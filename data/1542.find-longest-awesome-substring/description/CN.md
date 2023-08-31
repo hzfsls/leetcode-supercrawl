@@ -1,4 +1,4 @@
-## [1542.找出最长的超赞子字符串]
+## [1542.找出最长的超赞子字符串](https://leetcode.cn/problems/find-longest-awesome-substring/)
 <p>给你一个字符串 <code>s</code> 。请返回 <code>s</code> 中最长的 <strong>超赞子字符串</strong> 的长度。</p>
 
 <p>「超赞子字符串」需满足满足下述两个条件：</p>

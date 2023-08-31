@@ -1,3 +1,4 @@
+## [713.乘积小于 K 的子数组 中文官方题解](https://leetcode.cn/problems/subarray-product-less-than-k/solutions/100000/cheng-ji-xiao-yu-k-de-zi-shu-zu-by-leetc-92wl)
 #### 方法一：二分查找
 
 **思路与算法**

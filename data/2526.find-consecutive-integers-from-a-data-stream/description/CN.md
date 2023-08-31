@@ -1,4 +1,4 @@
-## [2526.找到数据流中的连续整数]
+## [2526.找到数据流中的连续整数](https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/)
 <p>给你一个整数数据流，请你实现一个数据结构，检查数据流中最后&nbsp;<code>k</code>&nbsp;个整数是否 <strong>等于</strong> 给定值&nbsp;<code>value</code>&nbsp;。</p>
 
 <p>请你实现&nbsp;<strong>DataStream</strong>&nbsp;类：</p>

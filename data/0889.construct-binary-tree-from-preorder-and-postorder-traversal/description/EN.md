@@ -1,4 +1,4 @@
-## [889.Construct Binary Tree from Preorder and Postorder Traversal]
+## [889.Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 <p>Given two integer arrays, <code>preorder</code> and <code>postorder</code> where <code>preorder</code> is the preorder traversal of a binary tree of <strong>distinct</strong> values and <code>postorder</code> is the postorder traversal of the same tree, reconstruct and return <em>the binary tree</em>.</p>
 
 <p>If there exist multiple answers, you can <strong>return any</strong> of them.</p>

@@ -1,4 +1,4 @@
-## [2749.Minimum Operations to Make the Integer Zero]
+## [2749.Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/)
 <p>You are given two integers <code>num1</code> and <code>num2</code>.</p>
 
 <p>In one operation, you can choose integer <code>i</code> in the range <code>[0, 60]</code> and subtract <code>2<sup>i</sup> + num2</code> from <code>num1</code>.</p>

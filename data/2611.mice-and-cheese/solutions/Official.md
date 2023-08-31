@@ -1,3 +1,4 @@
+## [2611.老鼠和奶酪 中文官方题解](https://leetcode.cn/problems/mice-and-cheese/solutions/100000/lao-shu-he-nai-luo-by-leetcode-solution-6ia1)
 #### 方法一：贪心 + 排序
 
 有 $n$ 块不同类型的奶酪，分别位于下标 $0$ 到 $n - 1$。下标 $i$ 处的奶酪被第一只老鼠吃掉的得分为 $\textit{reward}_1[i]$，被第二只老鼠吃掉的得分为 $\textit{reward}_2[i]$。

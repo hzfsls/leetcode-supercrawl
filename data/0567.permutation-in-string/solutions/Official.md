@@ -1,3 +1,4 @@
+## [567.字符串的排列 中文官方题解](https://leetcode.cn/problems/permutation-in-string/solutions/100000/zi-fu-chuan-de-pai-lie-by-leetcode-solut-7k7u)
 #### 方法一：滑动窗口
 
 由于排列不会改变字符串中每个字符的个数，所以只有当两个字符串每个字符的个数均相等时，一个字符串才是另一个字符串的排列。

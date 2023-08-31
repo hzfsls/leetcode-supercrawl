@@ -1,3 +1,4 @@
+## [32.最长有效括号 中文官方题解](https://leetcode.cn/problems/longest-valid-parentheses/solutions/100000/zui-chang-you-xiao-gua-hao-by-leetcode-solution)
 ### 📺视频题解  
 ![32.最长有效括号.mp4](0a7923be-03e4-4682-9851-1136a30387ae)
 

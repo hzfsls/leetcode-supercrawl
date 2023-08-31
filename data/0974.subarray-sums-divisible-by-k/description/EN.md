@@ -1,4 +1,4 @@
-## [974.Subarray Sums Divisible by K]
+## [974.Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 <p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of non-empty <strong>subarrays</strong> that have a sum divisible by </em><code>k</code>.</p>
 
 <p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>

@@ -1,4 +1,4 @@
-## [1191.K 次串联后最大子数组之和]
+## [1191.K 次串联后最大子数组之和](https://leetcode.cn/problems/k-concatenation-maximum-sum/)
 <p>给定一个整数数组&nbsp;<code>arr</code>&nbsp;和一个整数&nbsp;<code>k</code>&nbsp;，通过重复&nbsp;<code>k</code>&nbsp;次来修改数组。</p>
 
 <p>例如，如果&nbsp;<code>arr = [1, 2]</code>&nbsp;，<meta charset="UTF-8" />&nbsp;<code>k = 3</code>&nbsp;，那么修改后的数组将是 <code>[1, 2, 1, 2, 1, 2]</code> 。</p>

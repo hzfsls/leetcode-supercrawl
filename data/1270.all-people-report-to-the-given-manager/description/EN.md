@@ -1,4 +1,4 @@
-## [1270.All People Report to the Given Manager]
+## [1270.All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)
 <p>Table: <code>Employees</code></p>
 
 <pre>

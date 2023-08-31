@@ -1,4 +1,4 @@
-## [955.删列造序 II]
+## [955.删列造序 II](https://leetcode.cn/problems/delete-columns-to-make-sorted-ii/)
 <p>给定由 <code>n</code> 个字符串组成的数组 <code>strs</code>，其中每个字符串长度相等。</p>
 
 <p>选取一个删除索引序列，对于 <code>strs</code> 中的每个字符串，删除对应每个索引处的字符。</p>

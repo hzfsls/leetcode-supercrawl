@@ -1,4 +1,4 @@
-## [1107.每日新用户统计]
+## [1107.每日新用户统计](https://leetcode.cn/problems/new-users-daily-count/)
 <p><code>Traffic</code>&nbsp;表：</p>
 
 <pre>

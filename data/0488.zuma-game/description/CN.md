@@ -1,4 +1,4 @@
-## [488.祖玛游戏]
+## [488.祖玛游戏](https://leetcode.cn/problems/zuma-game/)
 <p>你正在参与祖玛游戏的一个变种。</p>
 
 <p>在这个祖玛游戏变体中，桌面上有 <strong>一排</strong> 彩球，每个球的颜色可能是：红色 <code>'R'</code>、黄色 <code>'Y'</code>、蓝色 <code>'B'</code>、绿色 <code>'G'</code> 或白色 <code>'W'</code> 。你的手中也有一些彩球。</p>

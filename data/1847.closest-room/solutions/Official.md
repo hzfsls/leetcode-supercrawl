@@ -1,3 +1,4 @@
+## [1847.最近的房间 中文官方题解](https://leetcode.cn/problems/closest-room/solutions/100000/zui-jin-de-fang-jian-by-leetcode-solutio-9ylf)
 #### 方法一：离线算法
 
 **提示 $1$**

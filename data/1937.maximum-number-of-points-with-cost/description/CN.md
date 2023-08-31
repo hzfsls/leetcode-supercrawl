@@ -1,4 +1,4 @@
-## [1937.扣分后的最大得分]
+## [1937.扣分后的最大得分](https://leetcode.cn/problems/maximum-number-of-points-with-cost/)
 <p>给你一个 <code>m x n</code> 的整数矩阵 <code>points</code> （下标从 <strong>0</strong> 开始）。一开始你的得分为 <code>0</code> ，你想最大化从矩阵中得到的分数。</p>
 
 <p>你的得分方式为：<strong>每一行</strong> 中选取一个格子，选中坐标为 <code>(r, c)</code> 的格子会给你的总得分 <strong>增加</strong> <code>points[r][c]</code> 。</p>

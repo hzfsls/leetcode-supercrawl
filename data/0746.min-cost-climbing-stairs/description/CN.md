@@ -1,4 +1,4 @@
-## [746.使用最小花费爬楼梯]
+## [746.使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)
 <p>给你一个整数数组 <code>cost</code> ，其中 <code>cost[i]</code> 是从楼梯第 <code>i</code> 个台阶向上爬需要支付的费用。一旦你支付此费用，即可选择向上爬一个或者两个台阶。</p>
 
 <p>你可以选择从下标为 <code>0</code> 或下标为 <code>1</code> 的台阶开始爬楼梯。</p>

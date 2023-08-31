@@ -1,4 +1,4 @@
-## [2617.Minimum Number of Visited Cells in a Grid]
+## [2617.Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/)
 <p>You are given a <strong>0-indexed</strong> <code>m x n</code> integer matrix <code>grid</code>. Your initial position is at the <strong>top-left</strong> cell <code>(0, 0)</code>.</p>
 
 <p>Starting from the cell <code>(i, j)</code>, you can move to one of the following cells:</p>

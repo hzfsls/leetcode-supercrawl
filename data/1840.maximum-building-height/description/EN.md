@@ -1,4 +1,4 @@
-## [1840.Maximum Building Height]
+## [1840.Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
 <p>You want to build <code>n</code> new buildings in a city. The new buildings will be built in a line and are labeled from <code>1</code> to <code>n</code>.</p>
 
 <p>However, there are city restrictions on the heights of the new buildings:</p>

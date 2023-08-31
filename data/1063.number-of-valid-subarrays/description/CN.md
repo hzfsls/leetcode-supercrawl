@@ -1,4 +1,4 @@
-## [1063.有效子数组的数目]
+## [1063.有效子数组的数目](https://leetcode.cn/problems/number-of-valid-subarrays/)
 <p>给定一个整数数组&nbsp;<code>nums</code>&nbsp;，返回满足下面条件的&nbsp;<em>非空、连续</em><strong>&nbsp;子数组</strong>的数目：</p>
 
 <ul>

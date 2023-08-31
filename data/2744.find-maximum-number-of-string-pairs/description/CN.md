@@ -1,4 +1,4 @@
-## [2744.最大字符串配对数目]
+## [2744.最大字符串配对数目](https://leetcode.cn/problems/find-maximum-number-of-string-pairs/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的数组&nbsp;<code>words</code>&nbsp;，数组中包含 <strong>互不相同</strong>&nbsp;的字符串。</p>
 
 <p>如果字符串&nbsp;<code>words[i]</code>&nbsp;与字符串 <code>words[j]</code>&nbsp;满足以下条件，我们称它们可以匹配：</p>

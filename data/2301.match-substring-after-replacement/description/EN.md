@@ -1,4 +1,4 @@
-## [2301.Match Substring After Replacement]
+## [2301.Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/)
 <p>You are given two strings <code>s</code> and <code>sub</code>. You are also given a 2D character array <code>mappings</code> where <code>mappings[i] = [old<sub>i</sub>, new<sub>i</sub>]</code> indicates that you may perform the following operation <strong>any</strong> number of times:</p>
 
 <ul>

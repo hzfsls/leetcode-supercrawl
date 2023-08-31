@@ -1,4 +1,4 @@
-## [1249.移除无效的括号]
+## [1249.移除无效的括号](https://leetcode.cn/problems/minimum-remove-to-make-valid-parentheses/)
 <p>给你一个由 <code>'('</code>、<code>')'</code> 和小写字母组成的字符串 <code>s</code>。</p>
 
 <p>你需要从字符串中删除最少数目的 <code>'('</code> 或者 <code>')'</code>&nbsp;（可以删除任意位置的括号)，使得剩下的「括号字符串」有效。</p>

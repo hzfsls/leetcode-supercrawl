@@ -1,4 +1,4 @@
-## [656.金币路径]
+## [656.金币路径](https://leetcode.cn/problems/coin-path/)
 <p>给定一个数组 <code>A</code>（下标从 <code>1</code> 开始）包含 N 个整数：A<sub>1</sub>，A<sub>2</sub>，&hellip;&hellip;，A<sub>N</sub>&nbsp;和一个整数 <code>B</code>。你可以从数组 <code>A</code> 中的任何一个位置（下标为 <code>i</code>）跳到下标&nbsp;<code>i+1</code>，<code>i+2</code>，&hellip;&hellip;，<code>i+B</code>&nbsp;的任意一个可以跳到的位置上。如果你在下标为 <code>i</code> 的位置上，你需要支付 A<sub>i</sub> 个金币。如果 A<sub>i</sub> 是 -1，意味着下标为 <code>i</code> 的位置是不可以跳到的。</p>
 
 <p>现在，你希望花费最少的金币从数组 <code>A</code> 的 <code>1</code> 位置跳到&nbsp;<code>N</code> 位置，你需要输出花费最少的路径，依次输出所有经过的下标（从 1 到 N）。</p>

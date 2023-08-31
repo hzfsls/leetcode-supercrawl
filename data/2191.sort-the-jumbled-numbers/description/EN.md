@@ -1,4 +1,4 @@
-## [2191.Sort the Jumbled Numbers]
+## [2191.Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>mapping</code> which represents the mapping rule of a shuffled decimal system. <code>mapping[i] = j</code> means digit <code>i</code> should be mapped to digit <code>j</code> in this system.</p>
 
 <p>The <strong>mapped value</strong> of an integer is the new integer obtained by replacing each occurrence of digit <code>i</code> in the integer with <code>mapping[i]</code> for all <code>0 &lt;= i &lt;= 9</code>.</p>

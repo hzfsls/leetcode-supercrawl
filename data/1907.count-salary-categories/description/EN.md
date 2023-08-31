@@ -1,4 +1,4 @@
-## [1907.Count Salary Categories]
+## [1907.Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)
 <p>Table: <code>Accounts</code></p>
 
 <pre>

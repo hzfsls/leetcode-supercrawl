@@ -1,4 +1,4 @@
-## [2632.柯里化]
+## [2632.柯里化](https://leetcode.cn/problems/curry/)
 <p>请你编写一个函数，它接收一个其他的函数，并返回该函数的&nbsp;<strong>柯里化&nbsp;</strong>后的形式。</p>
 
 <p><strong>柯里化&nbsp;</strong>函数的定义是接受与原函数相同数量或更少数量的参数，并返回另一个 <strong>柯里化</strong> 后的函数或与原函数相同的值。</p>

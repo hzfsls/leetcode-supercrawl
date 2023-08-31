@@ -1,4 +1,4 @@
-## [792.匹配子序列的单词数]
+## [792.匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences/)
 <p>给定字符串 <code>s</code>&nbsp;和字符串数组&nbsp;<code>words</code>, 返回&nbsp;&nbsp;<em><code>words[i]</code>&nbsp;中是<code>s</code>的子序列的单词个数</em>&nbsp;。</p>
 
 <p>字符串的 <strong>子序列</strong> 是从原始字符串中生成的新字符串，可以从中删去一些字符(可以是none)，而不改变其余字符的相对顺序。</p>

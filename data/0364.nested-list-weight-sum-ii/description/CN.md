@@ -1,4 +1,4 @@
-## [364.加权嵌套序列和 II]
+## [364.加权嵌套序列和 II](https://leetcode.cn/problems/nested-list-weight-sum-ii/)
 <p>给你一个整数嵌套列表&nbsp;<code>nestedList</code> ，每一个元素要么是一个整数，要么是一个列表（这个列表中的每个元素也同样是整数或列表）。</p>
 
 <p>整数的 <strong>深度</strong> 取决于它位于多少个列表内部。例如，嵌套列表 <code>[1,[2,2],[[3],2],1]</code> 的每个整数的值都等于它的 <strong>深度</strong> 。令 <code>maxDepth</code> 是任意整数的 <strong>最大深度</strong> 。</p>

@@ -1,3 +1,4 @@
+## [1478.安排邮筒 中文官方题解](https://leetcode.cn/problems/allocate-mailboxes/solutions/100000/an-pai-you-tong-by-leetcode-solution-t4oz)
 #### 方法一：动态规划
 
 **思路与算法**

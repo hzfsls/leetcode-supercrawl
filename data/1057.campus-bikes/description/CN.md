@@ -1,4 +1,4 @@
-## [1057.校园自行车分配]
+## [1057.校园自行车分配](https://leetcode.cn/problems/campus-bikes/)
 <p>在 X-Y 平面上表示的校园中，有 <code>n</code> 名工人和 <code>m</code> 辆自行车，其中 <code>n &lt;= m</code>。</p>
 
 <p>给定一个长度为 <code>n</code> 的数组&nbsp;<code>workers</code>&nbsp;，其中 <code>worker [i] = [xi, yi]</code>&nbsp;表示第 <code>i</code>&nbsp;个工人的位置。你也得到一个长度为 <code>m</code> 的自行车数组 <code>bikers</code> ，其中 <code>bikes[j] = [x<sub>j</sub>, y<sub>j</sub>]</code>&nbsp;是第 <code>j</code> 辆自行车的位置。所有给定的位置都是 <strong>唯一</strong> 的。</p>

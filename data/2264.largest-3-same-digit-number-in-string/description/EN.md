@@ -1,4 +1,4 @@
-## [2264.Largest 3-Same-Digit Number in String]
+## [2264.Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
 <p>You are given a string <code>num</code> representing a large integer. An integer is <strong>good</strong> if it meets the following conditions:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2258.Escape the Spreading Fire]
+## [2258.Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
 <p>You are given a <strong>0-indexed</strong> 2D integer array <code>grid</code> of size <code>m x n</code> which represents a field. Each cell has one of three values:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2606.找到最大开销的子字符串]
+## [2606.找到最大开销的子字符串](https://leetcode.cn/problems/find-the-substring-with-maximum-cost/)
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;，一个字符&nbsp;<strong>互不相同</strong>&nbsp;的字符串&nbsp;<code>chars</code>&nbsp;和一个长度与 <code>chars</code>&nbsp;相同的整数数组&nbsp;<code>vals</code>&nbsp;。</p>
 
 <p><strong>子字符串的开销</strong>&nbsp;是一个子字符串中所有字符对应价值之和。空字符串的开销是 <code>0</code>&nbsp;。</p>

@@ -1,4 +1,4 @@
-## [2832.Maximal Range That Each Element Is Maximum in It]
+## [2832.Maximal Range That Each Element Is Maximum in It](https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> of <b>distinct </b>integers.</p>
 
 <p>Let us define a <strong>0-indexed </strong>array <code>ans</code> of the same length as <code>nums</code> in the following way:</p>

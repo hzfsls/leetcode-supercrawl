@@ -1,4 +1,4 @@
-## [2521.数组乘积中的不同质因数数目]
+## [2521.数组乘积中的不同质因数数目](https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array/)
 <p>给你一个正整数数组 <code>nums</code> ，对 <code>nums</code> 所有元素求积之后，找出并返回乘积中 <strong>不同质因数</strong> 的数目。</p>
 
 <p><strong>注意：</strong></p>

@@ -1,3 +1,4 @@
+## [302.包含全部黑色像素的最小矩形 中文官方题解](https://leetcode.cn/problems/smallest-rectangle-enclosing-black-pixels/solutions/100000/bao-han-quan-bu-hei-se-xiang-su-de-zui-x-z215)
 [TOC]
 
 ## 概述

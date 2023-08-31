@@ -1,4 +1,4 @@
-## [921.Minimum Add to Make Parentheses Valid]
+## [921.Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 <p>A parentheses string is valid if and only if:</p>
 
 <ul>

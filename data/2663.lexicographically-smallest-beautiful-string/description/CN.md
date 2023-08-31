@@ -1,4 +1,4 @@
-## [2663.字典序最小的美丽字符串]
+## [2663.字典序最小的美丽字符串](https://leetcode.cn/problems/lexicographically-smallest-beautiful-string/)
 <p>如果一个字符串满足以下条件，则称其为 <strong>美丽字符串</strong> ：</p>
 
 <ul>

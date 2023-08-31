@@ -1,4 +1,4 @@
-## [1935.Maximum Number of Words You Can Type]
+## [1935.Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)
 <p>There is a malfunctioning keyboard where some letter keys do not work. All other keys on the keyboard work properly.</p>
 
 <p>Given a string <code>text</code> of words separated by a single space (no leading or trailing spaces) and a string <code>brokenLetters</code> of all <strong>distinct</strong> letter keys that are broken, return <em>the <strong>number of words</strong> in</em> <code>text</code> <em>you can fully type using this keyboard</em>.</p>

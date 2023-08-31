@@ -1,4 +1,4 @@
-## [1267.统计参与通信的服务器]
+## [1267.统计参与通信的服务器](https://leetcode.cn/problems/count-servers-that-communicate/)
 <p>这里有一幅服务器分布图，服务器的位置标识在&nbsp;<code>m * n</code>&nbsp;的整数矩阵网格&nbsp;<code>grid</code>&nbsp;中，1 表示单元格上有服务器，0 表示没有。</p>
 
 <p>如果两台服务器位于同一行或者同一列，我们就认为它们之间可以进行通信。</p>

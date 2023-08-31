@@ -1,3 +1,4 @@
+## [882.细分图中的可到达节点 中文官方题解](https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph/solutions/100000/xi-fen-tu-zhong-de-ke-dao-da-jie-dian-by-u8m1)
 #### 方法一：Dijkstra 算法
 
 **思路**

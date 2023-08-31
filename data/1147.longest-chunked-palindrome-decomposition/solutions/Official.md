@@ -1,3 +1,4 @@
+## [1147.段式回文 中文官方题解](https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/solutions/100000/duan-shi-hui-wen-by-leetcode-solution-vanl)
 #### 前言
 
 本题解涉及到「滚动哈希」，关于「滚动哈希」或「Rabin-Karp 算法」的知识具体可以参考 [官方题解](https://leetcode.cn/problems/longest-happy-prefix/solutions/172436/zui-chang-kuai-le-qian-zhui-by-leetcode-solution/) 或者使用搜索引擎，本文将不再赘述。简单的讲就是通过字符串哈希后，我们可以通过 $O(1)$ 的时间开销得到某一段子字符的哈希值，并且若两段字符串的哈希值相同则我们假定两段字符串相同。

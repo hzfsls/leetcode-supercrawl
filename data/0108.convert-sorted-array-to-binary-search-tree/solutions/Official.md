@@ -1,3 +1,4 @@
+## [108.将有序数组转换为二叉搜索树 中文官方题解](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/solutions/100000/jiang-you-xu-shu-zu-zhuan-huan-wei-er-cha-sou-s-33)
 ### 📺 视频题解  
 ![...8. 将有序数组转换为二叉搜索树.mp4](3bb6b351-fc89-4699-ac25-23cc5b18672a)
 

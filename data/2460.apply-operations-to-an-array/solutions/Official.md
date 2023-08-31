@@ -1,3 +1,4 @@
+## [2460.对数组执行操作 中文官方题解](https://leetcode.cn/problems/apply-operations-to-an-array/solutions/100000/dui-shu-zu-zhi-xing-cao-zuo-by-leetcode-vz70b)
 #### 方法一：直接模拟
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1025.Divisor Game]
+## [1025.Divisor Game](https://leetcode.com/problems/divisor-game/)
 <p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
 <p>Initially, there is a number <code>n</code> on the chalkboard. On each player&#39;s turn, that player makes a move consisting of:</p>

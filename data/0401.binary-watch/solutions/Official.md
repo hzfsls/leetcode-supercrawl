@@ -1,3 +1,4 @@
+## [401.二进制手表 中文官方题解](https://leetcode.cn/problems/binary-watch/solutions/100000/er-jin-zhi-shou-biao-by-leetcode-solutio-3559)
 #### 方法一：枚举时分
 
 由题意可知，小时由 $4$ 个比特表示，分钟由 $6$ 个比特表示，比特位值为 $0$ 表示灯灭，为 $1$ 表示灯亮。

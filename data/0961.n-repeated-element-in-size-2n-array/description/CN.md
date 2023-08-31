@@ -1,4 +1,4 @@
-## [961.在长度 2N 的数组中找出重复 N 次的元素]
+## [961.在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)
 <p>给你一个整数数组 <code>nums</code> ，该数组具有以下属性：</p>
 
 <div class="original__bRMd">

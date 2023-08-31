@@ -1,3 +1,4 @@
+## [1224.最大相等频率 中文官方题解](https://leetcode.cn/problems/maximum-equal-frequency/solutions/100000/zui-da-xiang-deng-pin-lu-by-leetcode-sol-5y2m)
 #### 方法一：哈希表
 
 使用哈希表 $\textit{count}$ 记录数 $x$ 出现的次数 $\textit{count}[x]$，$\textit{freq}$ 记录出现次数为 $f$ 的数的数目为 $\textit{freq}[f]$，$\textit{maxFreq}$ 表示最大出现次数。

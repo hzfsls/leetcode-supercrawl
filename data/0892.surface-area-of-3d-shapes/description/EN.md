@@ -1,4 +1,4 @@
-## [892.Surface Area of 3D Shapes]
+## [892.Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
 <p>You are given an <code>n x n</code> <code>grid</code> where you have placed some <code>1 x 1 x 1</code> cubes. Each value <code>v = grid[i][j]</code> represents a tower of <code>v</code> cubes placed on top of cell <code>(i, j)</code>.</p>
 
 <p>After placing these cubes, you have decided to glue any directly adjacent cubes to each other, forming several irregular 3D shapes.</p>

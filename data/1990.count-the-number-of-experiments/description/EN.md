@@ -1,4 +1,4 @@
-## [1990.Count the Number of Experiments]
+## [1990.Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/)
 <p>Table: <code>Experiments</code></p>
 
 <pre>

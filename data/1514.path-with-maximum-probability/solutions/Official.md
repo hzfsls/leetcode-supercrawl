@@ -1,3 +1,4 @@
+## [1514.概率最大的路径 中文官方题解](https://leetcode.cn/problems/path-with-maximum-probability/solutions/100000/gai-lu-zui-da-de-lu-jing-by-leetcode-solution)
 #### 写在前面
 
 本题需要用到单源最短路径算法 `Dijkstra`，现在让我们回顾该算法，其主要思想是贪心，具体地说：

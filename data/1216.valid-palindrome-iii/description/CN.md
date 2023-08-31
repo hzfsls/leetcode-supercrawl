@@ -1,4 +1,4 @@
-## [1216.验证回文字符串 III]
+## [1216.验证回文字符串 III](https://leetcode.cn/problems/valid-palindrome-iii/)
 <p>给出一个字符串&nbsp;<code>s</code>&nbsp;和一个整数&nbsp;<code>k</code>，若这个字符串是一个「k&nbsp;<strong>回文</strong>&nbsp;」，则返回 <code>true</code> 。</p>
 
 <p>如果可以通过从字符串中删去最多 <code>k</code> 个字符将其转换为回文，那么这个字符串就是一个「<strong>k</strong>&nbsp;<strong>回文</strong>&nbsp;」。</p>

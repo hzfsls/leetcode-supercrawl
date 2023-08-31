@@ -1,3 +1,4 @@
+## [896.单调数列 中文官方题解](https://leetcode.cn/problems/monotonic-array/solutions/100000/dan-diao-shu-lie-by-leetcode-solution-ysex)
 #### 方法一：两次遍历
 
 遍历两次数组，分别判断其是否为单调递增或单调递减。

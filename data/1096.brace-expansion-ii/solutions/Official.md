@@ -1,3 +1,4 @@
+## [1096.花括号展开 II 中文官方题解](https://leetcode.cn/problems/brace-expansion-ii/solutions/100000/hua-gua-hao-zhan-kai-ii-by-leetcode-solu-1s1y)
 #### 方法一：递归解析
 
 **思路与算法**

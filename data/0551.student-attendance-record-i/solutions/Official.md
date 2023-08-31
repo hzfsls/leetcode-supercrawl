@@ -1,3 +1,4 @@
+## [551.学生出勤记录 I 中文官方题解](https://leetcode.cn/problems/student-attendance-record-i/solutions/100000/xue-sheng-chu-qin-ji-lu-i-by-leetcode-so-fcol)
 #### 方法一：一次遍历
 
 可奖励的出勤记录要求缺勤次数少于 $2$ 和连续迟到次数少于 $3$。判断出勤记录是否可奖励，只需要遍历出勤记录，判断这两个条件是否同时满足即可。

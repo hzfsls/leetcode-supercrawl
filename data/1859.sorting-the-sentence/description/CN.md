@@ -1,4 +1,4 @@
-## [1859.将句子排序]
+## [1859.将句子排序](https://leetcode.cn/problems/sorting-the-sentence/)
 <p>一个 <strong>句子</strong> 指的是一个序列的单词用单个空格连接起来，且开头和结尾没有任何空格。每个单词都只包含小写或大写英文字母。</p>
 
 <p>我们可以给一个句子添加 <strong>从 1 开始的单词位置索引 </strong>，并且将句子中所有单词 <strong>打乱顺序</strong> 。</p>

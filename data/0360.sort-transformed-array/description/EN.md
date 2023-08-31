@@ -1,4 +1,4 @@
-## [360.Sort Transformed Array]
+## [360.Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)
 <p>Given a <strong>sorted</strong> integer array <code>nums</code> and three integers <code>a</code>, <code>b</code> and <code>c</code>, apply a quadratic function of the form <code>f(x) = ax<sup>2</sup> + bx + c</code> to each element <code>nums[i]</code> in the array, and return <em>the array in a sorted order</em>.</p>
 
 <p>&nbsp;</p>

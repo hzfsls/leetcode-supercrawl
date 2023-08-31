@@ -1,4 +1,4 @@
-## [627.Swap Salary]
+## [627.Swap Salary](https://leetcode.com/problems/swap-salary/)
 <p>Table: <code>Salary</code></p>
 
 <pre>

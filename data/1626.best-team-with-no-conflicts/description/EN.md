@@ -1,4 +1,4 @@
-## [1626.Best Team With No Conflicts]
+## [1626.Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 <p>You are the manager of a basketball team. For the upcoming tournament, you want to choose the team with the highest overall score. The score of the team is the <strong>sum</strong> of scores of all the players in the team.</p>
 
 <p>However, the basketball team is not allowed to have <strong>conflicts</strong>. A <strong>conflict</strong> exists if a younger player has a <strong>strictly higher</strong> score than an older player. A conflict does <strong>not</strong> occur between players of the same age.</p>

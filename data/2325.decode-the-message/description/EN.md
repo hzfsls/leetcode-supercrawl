@@ -1,4 +1,4 @@
-## [2325.Decode the Message]
+## [2325.Decode the Message](https://leetcode.com/problems/decode-the-message/)
 <p>You are given the strings <code>key</code> and <code>message</code>, which represent a cipher key and a secret message, respectively. The steps to decode <code>message</code> are as follows:</p>
 
 <ol>

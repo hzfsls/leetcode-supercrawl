@@ -1,4 +1,4 @@
-## [2640.Find the Score of All Prefixes of an Array]
+## [2640.Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/)
 <p>We define the <strong>conversion array</strong> <code>conver</code> of an array <code>arr</code> as follows:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2444.统计定界子数组的数目]
+## [2444.统计定界子数组的数目](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/)
 <p>给你一个整数数组 <code>nums</code> 和两个整数 <code>minK</code> 以及 <code>maxK</code> 。</p>
 
 <p><code>nums</code> 的定界子数组是满足下述条件的一个子数组：</p>

@@ -1,4 +1,4 @@
-## [442.Find All Duplicates in an Array]
+## [442.Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 <p>Given an integer array <code>nums</code> of length <code>n</code> where all the integers of <code>nums</code> are in the range <code>[1, n]</code> and each integer appears <strong>once</strong> or <strong>twice</strong>, return <em>an array of all the integers that appears <strong>twice</strong></em>.</p>
 
 <p>You must write an algorithm that runs in&nbsp;<code>O(n)&nbsp;</code>time and uses only constant extra space.</p>

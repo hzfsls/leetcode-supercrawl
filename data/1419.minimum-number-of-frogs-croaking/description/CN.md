@@ -1,4 +1,4 @@
-## [1419.数青蛙]
+## [1419.数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/)
 <p>给你一个字符串 <code>croakOfFrogs</code>，它表示不同青蛙发出的蛙鸣声（字符串 <code>"croak"</code> ）的组合。由于同一时间可以有多只青蛙呱呱作响，所以&nbsp;<code>croakOfFrogs</code> 中会混合多个 <code>“croak”</code> <em>。</em></p>
 
 <p>请你返回模拟字符串中所有蛙鸣所需不同青蛙的最少数目。</p>

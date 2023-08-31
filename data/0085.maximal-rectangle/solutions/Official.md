@@ -1,3 +1,4 @@
+## [85.最大矩形 中文官方题解](https://leetcode.cn/problems/maximal-rectangle/solutions/100000/zui-da-ju-xing-by-leetcode-solution-bjlu)
 #### 方法一: 使用柱状图的优化暴力方法
 
 **思路与算法**

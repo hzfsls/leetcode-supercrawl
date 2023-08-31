@@ -1,4 +1,4 @@
-## [1611.使整数变为 0 的最少操作次数]
+## [1611.使整数变为 0 的最少操作次数](https://leetcode.cn/problems/minimum-one-bit-operations-to-make-integers-zero/)
 <p>给你一个整数 <code>n</code>，你需要重复执行多次下述操作将其转换为 <code>0</code> ：</p>
 
 <ul>

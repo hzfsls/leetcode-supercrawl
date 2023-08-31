@@ -1,3 +1,4 @@
+## [588.设计内存文件系统 中文官方题解](https://leetcode.cn/problems/design-in-memory-file-system/solutions/100000/she-ji-nei-cun-wen-jian-xi-tong-by-leetc-0wia)
 [TOC] 
 
  ## 解决方案 

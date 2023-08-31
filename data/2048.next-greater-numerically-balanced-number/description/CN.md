@@ -1,4 +1,4 @@
-## [2048.下一个更大的数值平衡数]
+## [2048.下一个更大的数值平衡数](https://leetcode.cn/problems/next-greater-numerically-balanced-number/)
 <p>如果整数&nbsp; <code>x</code> 满足：对于每个数位&nbsp;<code>d</code> ，这个数位&nbsp;<strong>恰好</strong> 在 <code>x</code> 中出现 <code>d</code> 次。那么整数 <code>x</code> 就是一个 <strong>数值平衡数</strong> 。</p>
 
 <p>给你一个整数 <code>n</code> ，请你返回 <strong>严格大于</strong> <code>n</code> 的 <strong>最小数值平衡数</strong> 。</p>

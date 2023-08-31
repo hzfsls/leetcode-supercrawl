@@ -1,3 +1,4 @@
+## [915.分割数组 中文官方题解](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/solutions/100000/fen-ge-shu-zu-by-leetcode-solution-t4pm)
 #### 方法一：两次遍历
 
 **思路和算法**

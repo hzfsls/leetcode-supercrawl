@@ -1,4 +1,4 @@
-## [1242.多线程网页爬虫]
+## [1242.多线程网页爬虫](https://leetcode.cn/problems/web-crawler-multithreaded/)
 <p>给你一个初始地址&nbsp;<code>startUrl</code>&nbsp;和一个 HTML 解析器接口&nbsp;<code>HtmlParser</code>，请你实现一个&nbsp;<strong>多线程的网页爬虫</strong>，用于获取与&nbsp;<code>startUrl</code>&nbsp;有&nbsp;<strong>相同主机名&nbsp;</strong>的所有链接。&nbsp;</p>
 
 <p>以&nbsp;<strong>任意&nbsp;</strong>顺序返回爬虫获取的路径。</p>

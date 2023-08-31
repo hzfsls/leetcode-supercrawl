@@ -1,4 +1,4 @@
-## [2651.计算列车到站时间]
+## [2651.计算列车到站时间](https://leetcode.cn/problems/calculate-delayed-arrival-time/)
 <p>给你一个正整数 <code>arrivalTime</code> 表示列车正点到站的时间（单位：小时），另给你一个正整数 <code>delayedTime</code> 表示列车延误的小时数。</p>
 
 <p>返回列车实际到站的时间。</p>

@@ -1,4 +1,4 @@
-## [1251.平均售价]
+## [1251.平均售价](https://leetcode.cn/problems/average-selling-price/)
 <p>Table: <code>Prices</code></p>
 
 <pre>

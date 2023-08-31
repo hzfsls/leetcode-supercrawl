@@ -1,4 +1,4 @@
-## [1630.等差子数组]
+## [1630.等差子数组](https://leetcode.cn/problems/arithmetic-subarrays/)
 <p>如果一个数列由至少两个元素组成，且每两个连续元素之间的差值都相同，那么这个序列就是 <strong>等差数列</strong> 。更正式地，数列 <code>s</code> 是等差数列，只需要满足：对于每个有效的 <code>i</code> ， <code>s[i+1] - s[i] == s[1] - s[0]</code> 都成立。</p>
 
 <p>例如，下面这些都是 <strong>等差数列</strong> ：</p>

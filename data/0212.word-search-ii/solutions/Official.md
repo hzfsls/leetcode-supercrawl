@@ -1,3 +1,4 @@
+## [212.单词搜索 II 中文官方题解](https://leetcode.cn/problems/word-search-ii/solutions/100000/dan-ci-sou-suo-ii-by-leetcode-solution-7494)
 #### 方法一：回溯 + 字典树
 
 **预备知识**

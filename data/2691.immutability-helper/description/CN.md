@@ -1,4 +1,4 @@
-## [2691.不可变辅助工具]
+## [2691.不可变辅助工具](https://leetcode.cn/problems/immutability-helper/)
 <p>创建带有微小修改的不可变对象的克隆副本是一个繁琐的过程。请你编写一个名为 <code>ImmutableHelper</code> 的类，作为满足这一要求的工具。构造函数接受一个不可变对象 <code>obj</code> ，该对象将是一个 JSON 对象或数组。</p>
 
 <p>该类有一个名为 <code>produce</code> 的方法，它接受一个名为 <code>mutator</code> 的函数。该函数返回一个新的对象，它与原始对象相似，但应用了这些变化。</p>

@@ -1,4 +1,4 @@
-## [98.验证二叉搜索树]
+## [98.验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)
 <p>给你一个二叉树的根节点 <code>root</code> ，判断其是否是一个有效的二叉搜索树。</p>
 
 <p><strong>有效</strong> 二叉搜索树定义如下：</p>

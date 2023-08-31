@@ -1,3 +1,4 @@
+## [754.到达终点数字 中文官方题解](https://leetcode.cn/problems/reach-a-number/solutions/100000/dao-da-zhong-dian-shu-zi-by-leetcode-sol-ak90)
 #### 方法一：分析 + 数学
 
 **思路**

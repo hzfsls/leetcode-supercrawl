@@ -1,3 +1,4 @@
+## [1899.合并若干三元组以形成目标三元组 中文官方题解](https://leetcode.cn/problems/merge-triplets-to-form-target-triplet/solutions/100000/he-bing-ruo-gan-san-yuan-zu-yi-xing-chen-8ypf)
 #### 方法一：合并尽可能多的三元组
 
 **提示 $1$**

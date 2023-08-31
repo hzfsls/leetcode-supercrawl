@@ -1,4 +1,4 @@
-## [934.最短的桥]
+## [934.最短的桥](https://leetcode.cn/problems/shortest-bridge/)
 <p>给你一个大小为 <code>n x n</code> 的二元矩阵 <code>grid</code> ，其中 <code>1</code> 表示陆地，<code>0</code> 表示水域。</p>
 
 <p><strong>岛</strong> 是由四面相连的 <code>1</code> 形成的一个最大组，即不会与非组内的任何其他 <code>1</code> 相连。<code>grid</code> 中 <strong>恰好存在两座岛</strong> 。</p>

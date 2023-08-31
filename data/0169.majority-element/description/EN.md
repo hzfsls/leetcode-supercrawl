@@ -1,4 +1,4 @@
-## [169.Majority Element]
+## [169.Majority Element](https://leetcode.com/problems/majority-element/)
 <p>Given an array <code>nums</code> of size <code>n</code>, return <em>the majority element</em>.</p>
 
 <p>The majority element is the element that appears more than <code>&lfloor;n / 2&rfloor;</code> times. You may assume that the majority element always exists in the array.</p>

@@ -1,4 +1,4 @@
-## [666.路径总和 IV]
+## [666.路径总和 IV](https://leetcode.cn/problems/path-sum-iv/)
 <p>对于一棵深度小于&nbsp;<code>5</code>&nbsp;的树，可以用一组三位十进制整数来表示。对于每个整数：</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [908.Smallest Range I]
+## [908.Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>In one operation, you can choose any index <code>i</code> where <code>0 &lt;= i &lt; nums.length</code> and change <code>nums[i]</code> to <code>nums[i] + x</code> where <code>x</code> is an integer from the range <code>[-k, k]</code>. You can apply this operation <strong>at most once</strong> for each index <code>i</code>.</p>

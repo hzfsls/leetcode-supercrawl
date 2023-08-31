@@ -1,4 +1,4 @@
-## [1833.雪糕的最大数量]
+## [1833.雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars/)
 <p>夏日炎炎，小男孩 Tony 想买一些雪糕消消暑。</p>
 
 <p>商店中新到 <code>n</code> 支雪糕，用长度为 <code>n</code> 的数组 <code>costs</code> 表示雪糕的定价，其中 <code>costs[i]</code> 表示第 <code>i</code> 支雪糕的现金价格。Tony 一共有 <code>coins</code> 现金可以用于消费，他想要买尽可能多的雪糕。</p>

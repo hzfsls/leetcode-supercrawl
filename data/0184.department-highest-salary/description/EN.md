@@ -1,4 +1,4 @@
-## [184.Department Highest Salary]
+## [184.Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
 <p>Table: <code>Employee</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [1933.Check if String Is Decomposable Into Value-Equal Substrings]
+## [1933.Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/)
 <p>A <strong>value-equal</strong> string is a string where <strong>all</strong> characters are the same.</p>
 
 <ul>

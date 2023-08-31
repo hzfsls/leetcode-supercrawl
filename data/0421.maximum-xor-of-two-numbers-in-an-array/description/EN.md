@@ -1,4 +1,4 @@
-## [421.Maximum XOR of Two Numbers in an Array]
+## [421.Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 <p>Given an integer array <code>nums</code>, return <em>the maximum result of </em><code>nums[i] XOR nums[j]</code>, where <code>0 &lt;= i &lt;= j &lt; n</code>.</p>
 
 <p>&nbsp;</p>

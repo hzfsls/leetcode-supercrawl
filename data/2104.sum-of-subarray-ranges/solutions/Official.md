@@ -1,3 +1,4 @@
+## [2104.子数组范围和 中文官方题解](https://leetcode.cn/problems/sum-of-subarray-ranges/solutions/100000/zi-shu-zu-fan-wei-he-by-leetcode-solutio-lamr)
 #### 方法一：遍历子数组
 
 **思路与算法**

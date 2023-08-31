@@ -1,4 +1,4 @@
-## [775.Global and Local Inversions]
+## [775.Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
 <p>You are given an integer array <code>nums</code> of length <code>n</code> which represents a permutation of all the integers in the range <code>[0, n - 1]</code>.</p>
 
 <p>The number of <strong>global inversions</strong> is the number of the different pairs <code>(i, j)</code> where:</p>

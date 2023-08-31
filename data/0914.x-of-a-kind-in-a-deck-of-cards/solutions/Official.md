@@ -1,3 +1,4 @@
+## [914.卡牌分组 中文官方题解](https://leetcode.cn/problems/x-of-a-kind-in-a-deck-of-cards/solutions/100000/qia-pai-fen-zu-by-leetcode-solution)
 #### 方法一：暴力
 
 **思路**

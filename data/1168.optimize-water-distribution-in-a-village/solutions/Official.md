@@ -1,3 +1,4 @@
+## [1168.水资源分配优化 中文官方题解](https://leetcode.cn/problems/optimize-water-distribution-in-a-village/solutions/100000/shui-zi-yuan-fen-pei-you-hua-by-leetcode-solution)
 [TOC]
 
 ## 解决方案

@@ -1,4 +1,4 @@
-## [1119.删去字符串中的元音]
+## [1119.删去字符串中的元音](https://leetcode.cn/problems/remove-vowels-from-a-string/)
 <p>给你一个字符串 <code>s</code>&nbsp;，请你删去其中的所有元音字母&nbsp;<code>'a'</code>，<code>'e'</code>，<code>'i'</code>，<code>'o'</code>，<code>'u'</code>，并返回这个新字符串。</p>
 
 <p>&nbsp;</p>

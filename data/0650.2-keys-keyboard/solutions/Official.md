@@ -1,3 +1,4 @@
+## [650.只有两个键的键盘 中文官方题解](https://leetcode.cn/problems/2-keys-keyboard/solutions/100000/zhi-you-liang-ge-jian-de-jian-pan-by-lee-ussa)
 #### 方法一：动态规划
 
 **思路与算法**

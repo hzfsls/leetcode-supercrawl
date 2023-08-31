@@ -1,3 +1,4 @@
+## [1646.获取生成数组中的最大值 中文官方题解](https://leetcode.cn/problems/get-maximum-in-generated-array/solutions/100000/huo-qu-sheng-cheng-shu-zu-zhong-de-zui-d-0z2l)
 #### 方法一：模拟
 
 我们可以直接根据题目中描述的规则来计算出 $\textit{nums}$ 数组，并返回其最大元素。

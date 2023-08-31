@@ -1,4 +1,4 @@
-## [2308.Arrange Table by Gender]
+## [2308.Arrange Table by Gender](https://leetcode.com/problems/arrange-table-by-gender/)
 <p>Table: <code>Genders</code></p>
 
 <pre>

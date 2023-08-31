@@ -1,4 +1,4 @@
-## [2833.距离原点最远的点]
+## [2833.距离原点最远的点](https://leetcode.cn/problems/furthest-point-from-origin/)
 <p>给你一个长度为 <code>n</code> 的字符串 <code>moves</code> ，该字符串仅由字符 <code>'L'</code>、<code>'R'</code> 和 <code>'_'</code> 组成。字符串表示你在一条原点为 <code>0</code> 的数轴上的若干次移动。</p>
 
 <p>你的初始位置就在原点（<code>0</code>），第 <code>i</code> 次移动过程中，你可以根据对应字符选择移动方向：</p>

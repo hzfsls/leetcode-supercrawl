@@ -1,4 +1,4 @@
-## [530.Minimum Absolute Difference in BST]
+## [530.Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 <p>Given the <code>root</code> of a Binary Search Tree (BST), return <em>the minimum absolute difference between the values of any two different nodes in the tree</em>.</p>
 
 <p>&nbsp;</p>

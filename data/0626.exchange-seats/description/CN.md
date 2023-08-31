@@ -1,4 +1,4 @@
-## [626.换座位]
+## [626.换座位](https://leetcode.cn/problems/exchange-seats/)
 <p>表:&nbsp;<code>Seat</code></p>
 
 <pre>

@@ -1,3 +1,4 @@
+## [1400.构造 K 个回文字符串 中文官方题解](https://leetcode.cn/problems/construct-k-palindrome-strings/solutions/100000/gou-zao-k-ge-hui-wen-zi-fu-chuan-by-leetcode-solut)
 #### 方法一：找出可行的回文串个数
 
 由于我们需要根据给定的字符串 $s$ 构造出 $k$ 个非空的回文串，那么一种容易想到的步骤是：

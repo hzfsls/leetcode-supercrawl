@@ -1,4 +1,4 @@
-## [991.坏了的计算器]
+## [991.坏了的计算器](https://leetcode.cn/problems/broken-calculator/)
 <p>在显示着数字&nbsp;<code>startValue</code>&nbsp;的坏计算器上，我们可以执行以下两种操作：</p>
 
 <ul>

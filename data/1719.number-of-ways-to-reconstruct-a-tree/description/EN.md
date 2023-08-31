@@ -1,4 +1,4 @@
-## [1719.Number Of Ways To Reconstruct A Tree]
+## [1719.Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/)
 <p>You are given an array <code>pairs</code>, where <code>pairs[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>, and:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2243.Calculate Digit Sum of a String]
+## [2243.Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)
 <p>You are given a string <code>s</code> consisting of digits and an integer <code>k</code>.</p>
 
 <p>A <strong>round</strong> can be completed if the length of <code>s</code> is greater than <code>k</code>. In one round, do the following:</p>

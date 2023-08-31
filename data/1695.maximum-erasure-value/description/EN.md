@@ -1,4 +1,4 @@
-## [1695.Maximum Erasure Value]
+## [1695.Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 <p>You are given an array of positive integers <code>nums</code> and want to erase a subarray containing&nbsp;<strong>unique elements</strong>. The <strong>score</strong> you get by erasing the subarray is equal to the <strong>sum</strong> of its elements.</p>
 
 <p>Return <em>the <strong>maximum score</strong> you can get by erasing <strong>exactly one</strong> subarray.</em></p>

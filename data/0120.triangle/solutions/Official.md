@@ -1,3 +1,4 @@
+## [120.三角形最小路径和 中文官方题解](https://leetcode.cn/problems/triangle/solutions/100000/san-jiao-xing-zui-xiao-lu-jing-he-by-leetcode-solu)
 #### 前言
 
 本题是一道非常经典且历史悠久的动态规划题，其作为算法题出现，最早可以追溯到 1994 年的 IOI（国际信息学奥林匹克竞赛）的 [The Triangle](https://ioinformatics.org/files/ioi1994problem1.pdf)。时光飞逝，经过 20 多年的沉淀，往日的国际竞赛题如今已经变成了动态规划的入门必做题，不断督促着我们学习和巩固算法。

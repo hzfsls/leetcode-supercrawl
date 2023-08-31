@@ -1,4 +1,4 @@
-## [647.Palindromic Substrings]
+## [647.Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 <p>Given a string <code>s</code>, return <em>the number of <strong>palindromic substrings</strong> in it</em>.</p>
 
 <p>A string is a <strong>palindrome</strong> when it reads the same backward as forward.</p>

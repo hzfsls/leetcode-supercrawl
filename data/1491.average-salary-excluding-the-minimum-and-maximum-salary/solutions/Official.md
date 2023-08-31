@@ -1,3 +1,4 @@
+## [1491.去掉最低工资和最高工资后的工资平均值 中文官方题解](https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary/solutions/100000/qu-diao-zui-di-gong-zi-he-zui-gao-gong-zi-hou-de-4)
 #### 方法一：模拟
 
 **思路**

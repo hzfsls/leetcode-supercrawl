@@ -1,4 +1,4 @@
-## [1412.Find the Quiet Students in All Exams]
+## [1412.Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/)
 <p>Table: <code>Student</code></p>
 
 <pre>

@@ -1,3 +1,4 @@
+## [2293.极大极小游戏 中文官方题解](https://leetcode.cn/problems/min-max-game/solutions/100000/ji-da-ji-xiao-you-xi-by-leetcode-solutio-ucpt)
 #### 方法一：递归
 
 **思路与算法**

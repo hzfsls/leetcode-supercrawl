@@ -1,4 +1,4 @@
-## [1829.Maximum XOR for Each Query]
+## [1829.Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)
 <p>You are given a <strong>sorted</strong> array <code>nums</code> of <code>n</code> non-negative integers and an integer <code>maximumBit</code>. You want to perform the following query <code>n</code> <strong>times</strong>:</p>
 
 <ol>

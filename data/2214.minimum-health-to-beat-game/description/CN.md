@@ -1,4 +1,4 @@
-## [2214.通关游戏所需的最低生命值]
+## [2214.通关游戏所需的最低生命值](https://leetcode.cn/problems/minimum-health-to-beat-game/)
 <p>你正在玩一个有 <code>n</code> 个关卡的游戏，从 <code>0</code> 到 <code>n - 1</code>。给你一个&nbsp;<strong>下标从 0&nbsp;开始&nbsp;</strong>的整数数组 <code>damage</code>，其中 <code>damage[i]</code> 是你完成第 <code>i</code> 个关卡所损失的生命值。</p>
 
 <p>你也会得到一个整数 <code>armor</code>。你最多只能在&nbsp;<strong>任何&nbsp;</strong>等级使用&nbsp;<strong>一次&nbsp;</strong>护甲技能，这将保护你免受 <strong>最多</strong>&nbsp;<code>armor</code> 伤害。</p>

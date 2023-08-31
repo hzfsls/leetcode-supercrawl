@@ -1,4 +1,4 @@
-## [2818.Apply Operations to Maximize Score]
+## [2818.Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/)
 <p>You are given an array <code>nums</code> of <code>n</code> positive integers and an integer <code>k</code>.</p>
 
 <p>Initially, you start with a score of <code>1</code>. You have to maximize your score by applying the following operation at most <code>k</code> times:</p>

@@ -1,4 +1,4 @@
-## [932.漂亮数组]
+## [932.漂亮数组](https://leetcode.cn/problems/beautiful-array/)
 <p>如果长度为 <code>n</code> 的数组 <code>nums</code> 满足下述条件，则认为该数组是一个 <strong>漂亮数组</strong> ：</p>
 
 <ul>

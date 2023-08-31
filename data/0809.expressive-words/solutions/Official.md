@@ -1,3 +1,4 @@
+## [809.情感丰富的文字 中文官方题解](https://leetcode.cn/problems/expressive-words/solutions/100000/qing-gan-feng-fu-de-wen-zi-by-leetcode-s-vmnm)
 #### 方法一：双指针
 
 **思路与算法**

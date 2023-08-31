@@ -1,4 +1,4 @@
-## [2566.Maximum Difference by Remapping a Digit]
+## [2566.Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)
 <p>You are given an integer <code>num</code>. You know that Danny Mittal will sneakily <strong>remap</strong> one of the <code>10</code> possible digits (<code>0</code> to <code>9</code>) to another digit.</p>
 
 <p>Return <em>the difference between the maximum and minimum</em><em>&nbsp;values Danny can make by remapping&nbsp;<strong>exactly</strong> <strong>one</strong> digit</em><em> in </em><code>num</code>.</p>

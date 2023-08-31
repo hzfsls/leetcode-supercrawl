@@ -1,4 +1,4 @@
-## [501.二叉搜索树中的众数]
+## [501.二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/)
 <p>给你一个含重复值的二叉搜索树（BST）的根节点 <code>root</code> ，找出并返回 BST 中的所有 <a href="https://baike.baidu.com/item/%E4%BC%97%E6%95%B0/44796" target="_blank">众数</a>（即，出现频率最高的元素）。</p>
 
 <p>如果树中有不止一个众数，可以按 <strong>任意顺序</strong> 返回。</p>

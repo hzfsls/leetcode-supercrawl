@@ -1,4 +1,4 @@
-## [2637.有时间限制的 Promise 对象]
+## [2637.有时间限制的 Promise 对象](https://leetcode.cn/problems/promise-time-limit/)
 <p>请你编写一个函数，它接受一个异步函数 <code>fn</code>&nbsp;和一个以毫秒为单位的时间 <code>t</code>。它应根据限时函数返回一个有 <strong>限时</strong> 效果的函数。函数 <code>fn</code> 接受提供给 <strong>限时</strong> 函数的参数。</p>
 
 <p><strong>限时</strong> 函数应遵循以下规则：</p>

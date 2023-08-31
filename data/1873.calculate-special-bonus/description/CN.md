@@ -1,4 +1,4 @@
-## [1873.计算特殊奖金]
+## [1873.计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/)
 <p>表: <code>Employees</code></p>
 
 <pre>

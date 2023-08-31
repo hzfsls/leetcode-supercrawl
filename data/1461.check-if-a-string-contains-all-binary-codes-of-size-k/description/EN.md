@@ -1,4 +1,4 @@
-## [1461.Check If a String Contains All Binary Codes of Size K]
+## [1461.Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 <p>Given a binary string <code>s</code> and an integer <code>k</code>, return <code>true</code> <em>if every binary code of length</em> <code>k</code> <em>is a substring of</em> <code>s</code>. Otherwise, return <code>false</code>.</p>
 
 <p>&nbsp;</p>

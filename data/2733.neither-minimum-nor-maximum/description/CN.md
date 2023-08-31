@@ -1,4 +1,4 @@
-## [2733.既不是最小值也不是最大值]
+## [2733.既不是最小值也不是最大值](https://leetcode.cn/problems/neither-minimum-nor-maximum/)
 <p>给你一个整数数组 <code>nums</code> ，数组由 <strong>不同正整数</strong> 组成，请你找出并返回数组中 <strong>任一</strong> 既不是 <strong>最小值</strong> 也不是 <strong>最大值</strong> 的数字，如果不存在这样的数字，返回 <strong><code>-1</code></strong> 。</p>
 
 <p>返回所选整数。</p>

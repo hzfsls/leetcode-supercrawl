@@ -1,4 +1,4 @@
-## [462.Minimum Moves to Equal Array Elements II]
+## [462.Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 <p>Given an integer array <code>nums</code> of size <code>n</code>, return <em>the minimum number of moves required to make all array elements equal</em>.</p>
 
 <p>In one move, you can increment or decrement an element of the array by <code>1</code>.</p>

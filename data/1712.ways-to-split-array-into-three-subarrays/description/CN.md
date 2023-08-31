@@ -1,4 +1,4 @@
-## [1712.将数组分成三个子数组的方案数]
+## [1712.将数组分成三个子数组的方案数](https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/)
 <p>我们称一个分割整数数组的方案是 <strong>好的</strong> ，当它满足：</p>
 
 <ul>

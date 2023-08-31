@@ -1,4 +1,4 @@
-## [893.Groups of Special-Equivalent Strings]
+## [893.Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
 <p>You are given an array of strings of the same length <code>words</code>.</p>
 
 <p>In one <strong>move</strong>, you can swap any two even indexed characters or any two odd indexed characters of a string <code>words[i]</code>.</p>

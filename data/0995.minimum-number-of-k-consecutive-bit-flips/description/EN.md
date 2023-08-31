@@ -1,4 +1,4 @@
-## [995.Minimum Number of K Consecutive Bit Flips]
+## [995.Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
 <p>You are given a binary array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>A <strong>k-bit flip</strong> is choosing a <strong>subarray</strong> of length <code>k</code> from <code>nums</code> and simultaneously changing every <code>0</code> in the subarray to <code>1</code>, and every <code>1</code> in the subarray to <code>0</code>.</p>

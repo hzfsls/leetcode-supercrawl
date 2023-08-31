@@ -1,4 +1,4 @@
-## [1272.删除区间]
+## [1272.删除区间](https://leetcode.cn/problems/remove-interval/)
 <p>实数集合可以表示为若干不相交区间的并集，其中每个区间的形式为 <code>[a, b)</code>（左闭右开），表示满足&nbsp;<code>a &lt;= x &lt; b</code> 的所有实数&nbsp; <code>x</code>&nbsp;的集合。如果某个区间&nbsp;<code>[a, b)</code> 中包含实数 <code>x</code> ，则称实数 <code>x</code> 在集合中。</p>
 
 <p>给你一个 <strong>有序的</strong> 不相交区间列表 <code>intervals</code>&nbsp;。<code>intervals</code> 表示一个实数集合，其中每一项 <code>intervals[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> 都表示一个区间 <code>[a<sub>i</sub>, b<sub>i</sub>)</code> 。再给你一个要删除的区间 <code>toBeRemoved</code> 。</p>

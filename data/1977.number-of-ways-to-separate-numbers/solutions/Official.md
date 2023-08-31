@@ -1,3 +1,4 @@
+## [1977.划分数字的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-separate-numbers/solutions/100000/hua-fen-shu-zi-de-fang-an-shu-by-leetcod-env6)
 #### 前言
 
 本题思维难度较大，需要一些动态规划的预处理和优化技巧，并且细节很多。

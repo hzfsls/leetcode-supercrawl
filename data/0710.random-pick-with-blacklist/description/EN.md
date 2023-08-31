@@ -1,4 +1,4 @@
-## [710.Random Pick with Blacklist]
+## [710.Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
 <p>You are given an integer <code>n</code> and an array of <strong>unique</strong> integers <code>blacklist</code>. Design an algorithm to pick a random integer in the range <code>[0, n - 1]</code> that is <strong>not</strong> in <code>blacklist</code>. Any integer that is in the mentioned range and not in <code>blacklist</code> should be <strong>equally likely</strong> to be returned.</p>
 
 <p>Optimize your algorithm such that it minimizes the number of calls to the <strong>built-in</strong> random function of your language.</p>

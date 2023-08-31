@@ -1,4 +1,4 @@
-## [1654.Minimum Jumps to Reach Home]
+## [1654.Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
 <p>A certain bug&#39;s home is on the x-axis at position <code>x</code>. Help them get there from position <code>0</code>.</p>
 
 <p>The bug jumps according to the following rules:</p>

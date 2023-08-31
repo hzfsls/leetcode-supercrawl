@@ -1,4 +1,4 @@
-## [596.超过5名学生的课]
+## [596.超过5名学生的课](https://leetcode.cn/problems/classes-more-than-5-students/)
 <p>表:&nbsp;<code>Courses</code></p>
 
 <pre>

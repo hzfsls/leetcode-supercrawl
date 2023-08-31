@@ -1,4 +1,4 @@
-## [1832.判断句子是否为全字母句]
+## [1832.判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)
 <p><strong>全字母句</strong> 指包含英语字母表中每个字母至少一次的句子。</p>
 
 <p>给你一个仅由小写英文字母组成的字符串 <code>sentence</code> ，请你判断 <code>sentence</code> 是否为 <strong>全字母句</strong> 。</p>

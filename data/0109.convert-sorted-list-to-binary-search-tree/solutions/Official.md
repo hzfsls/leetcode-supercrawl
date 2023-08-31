@@ -1,3 +1,4 @@
+## [109.有序链表转换二叉搜索树 中文官方题解](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree/solutions/100000/you-xu-lian-biao-zhuan-huan-er-cha-sou-suo-shu-1-3)
 #### 前言
 
 将给定的有序链表转换为二叉搜索树的第一步是确定根节点。由于我们需要构造出**平衡**的二叉树，因此比较直观的想法是让根节点左子树中的节点个数与右子树中的节点个数尽可能接近。这样一来，左右子树的高度也会非常接近，可以达到高度差绝对值不超过 $1$ 的题目要求。

@@ -1,3 +1,4 @@
+## [919.完全二叉树插入器 中文官方题解](https://leetcode.cn/problems/complete-binary-tree-inserter/solutions/100000/wan-quan-er-cha-shu-cha-ru-qi-by-leetcod-lf8t)
 #### 方法一：队列
 
 **思路与算法**

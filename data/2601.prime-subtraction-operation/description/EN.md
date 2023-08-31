@@ -1,4 +1,4 @@
-## [2601.Prime Subtraction Operation]
+## [2601.Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>You can perform the following operation as many times as you want:</p>

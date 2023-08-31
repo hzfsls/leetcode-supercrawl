@@ -1,4 +1,4 @@
-## [2340.Minimum Adjacent Swaps to Make a Valid Array]
+## [2340.Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
 
 <p><strong>Swaps</strong> of <strong>adjacent</strong> elements are able to be performed on <code>nums</code>.</p>

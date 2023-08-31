@@ -1,4 +1,4 @@
-## [588.Design In-Memory File System]
+## [588.Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 <p>Design a data structure that simulates an in-memory file system.</p>
 
 <p>Implement the FileSystem class:</p>

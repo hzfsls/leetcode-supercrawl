@@ -1,3 +1,4 @@
+## [1320.二指输入的的最小距离 中文官方题解](https://leetcode.cn/problems/minimum-distance-to-type-a-word-using-two-fingers/solutions/100000/er-zhi-shu-ru-de-de-zui-xiao-ju-chi-by-leetcode-so)
 #### 方法一：动态规划
 
 我们用 `dp[i][l][r]` 表示在输入了字符串 `word` 的第 `i` 个字母后，左手的位置为 `l`，右手的位置为 `r`，达到该状态的最小移动距离。这里的位置为指向的字母编号，例如 `A` 对应 `0`，`B` 对应 `1`，以此类推，而非字母在键盘上的位置。这样做的好处是将字母的位置映射成一个整数而非二维的坐标，使得我们更加方便地进行状态转移。

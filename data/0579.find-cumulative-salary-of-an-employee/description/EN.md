@@ -1,4 +1,4 @@
-## [579.Find Cumulative Salary of an Employee]
+## [579.Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/)
 <p>Table: <code>Employee</code></p>
 
 <pre>

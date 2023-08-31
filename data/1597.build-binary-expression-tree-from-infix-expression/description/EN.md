@@ -1,4 +1,4 @@
-## [1597.Build Binary Expression Tree From Infix Expression]
+## [1597.Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/)
 <p>A <strong><a href="https://en.wikipedia.org/wiki/Binary_expression_tree" target="_blank">binary expression tree</a></strong> is a kind of binary tree used to represent arithmetic expressions. Each node of a binary expression tree has either zero or two children. Leaf nodes (nodes with 0 children) correspond to operands (numbers), and internal nodes (nodes with 2 children) correspond to the operators <code>&#39;+&#39;</code> (addition), <code>&#39;-&#39;</code> (subtraction), <code>&#39;*&#39;</code> (multiplication), and <code>&#39;/&#39;</code> (division).</p>
 
 <p>For each internal node with operator <code>o</code>, the <a href="https://en.wikipedia.org/wiki/Infix_notation" target="_blank"><strong>infix expression</strong></a> it represents is <code>(A o B)</code>, where <code>A</code> is the expression the left subtree represents and <code>B</code> is the expression the right subtree represents.</p>

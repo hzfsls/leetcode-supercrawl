@@ -1,4 +1,4 @@
-## [2539.Count the Number of Good Subsequences]
+## [2539.Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)
 <p>A <strong>subsequence</strong> of a string is&nbsp;good if it is not empty and the frequency of each one of its characters is the same.</p>
 
 <p>Given a string <code>s</code>, return <em>the number of good subsequences of</em> <code>s</code>. Since the answer may be too large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>

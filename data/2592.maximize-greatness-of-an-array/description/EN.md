@@ -1,4 +1,4 @@
-## [2592.Maximize Greatness of an Array]
+## [2592.Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)
 <p>You are given a 0-indexed integer array <code>nums</code>. You are allowed to permute <code>nums</code> into a new array <code>perm</code> of your choosing.</p>
 
 <p>We define the <strong>greatness</strong> of <code>nums</code> be the number of indices <code>0 &lt;= i &lt; nums.length</code> for which <code>perm[i] &gt; nums[i]</code>.</p>

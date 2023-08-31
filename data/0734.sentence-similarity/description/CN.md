@@ -1,4 +1,4 @@
-## [734.句子相似性]
+## [734.句子相似性](https://leetcode.cn/problems/sentence-similarity/)
 <p>我们可以将一个句子表示为一个单词数组，例如，句子 <code>"I am happy with leetcode"</code> 可以表示为 <code>arr = ["I","am",happy","with","leetcode"]</code></p>
 
 <p>给定两个句子 <code>sentence1</code> 和 <code>sentence2</code> 分别表示为一个字符串数组，并给定一个字符串对 <code>similarPairs</code> ，其中&nbsp;<code>similarPairs[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>&nbsp;表示两个单词&nbsp;<code>x<sub>i</sub></code>&nbsp;and&nbsp;<code>y<sub>i</sub></code>&nbsp;是相似的。</p>

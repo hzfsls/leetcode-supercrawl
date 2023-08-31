@@ -1,3 +1,4 @@
+## [1894.找到需要补充粉笔的学生编号 中文官方题解](https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/solutions/100000/zhao-dao-xu-yao-bu-chong-fen-bi-de-xue-s-qrn1)
 #### 方法一：优化的模拟
 
 **思路与算法**

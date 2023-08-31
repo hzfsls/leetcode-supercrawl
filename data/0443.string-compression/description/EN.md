@@ -1,4 +1,4 @@
-## [443.String Compression]
+## [443.String Compression](https://leetcode.com/problems/string-compression/)
 <p>Given an array of characters <code>chars</code>, compress it using the following algorithm:</p>
 
 <p>Begin with an empty string <code>s</code>. For each group of <strong>consecutive repeating characters</strong> in <code>chars</code>:</p>

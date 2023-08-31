@@ -1,3 +1,4 @@
+## [1502.判断能否形成等差数列 中文官方题解](https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/solutions/100000/pan-duan-neng-fou-xing-cheng-deng-chai-shu-lie-by-)
 #### 方法一：模拟
 
 **思路与算法**

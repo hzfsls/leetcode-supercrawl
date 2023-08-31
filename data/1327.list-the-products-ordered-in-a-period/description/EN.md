@@ -1,4 +1,4 @@
-## [1327.List the Products Ordered in a Period]
+## [1327.List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)
 <p>Table: <code>Products</code></p>
 
 <pre>

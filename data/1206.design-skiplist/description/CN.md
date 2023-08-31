@@ -1,4 +1,4 @@
-## [1206.设计跳表]
+## [1206.设计跳表](https://leetcode.cn/problems/design-skiplist/)
 <p>不使用任何库函数，设计一个 <strong>跳表</strong> 。</p>
 
 <p><strong>跳表</strong> 是在 <code>O(log(n))</code> 时间内完成增加、删除、搜索操作的数据结构。跳表相比于树堆与红黑树，其功能与性能相当，并且跳表的代码长度相较下更短，其设计思想与链表相似。</p>

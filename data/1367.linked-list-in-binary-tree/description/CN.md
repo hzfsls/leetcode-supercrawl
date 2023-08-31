@@ -1,4 +1,4 @@
-## [1367.二叉树中的链表]
+## [1367.二叉树中的链表](https://leetcode.cn/problems/linked-list-in-binary-tree/)
 <p>给你一棵以&nbsp;<code>root</code>&nbsp;为根的二叉树和一个&nbsp;<code>head</code>&nbsp;为第一个节点的链表。</p>
 
 <p>如果在二叉树中，存在一条一直向下的路径，且每个点的数值恰好一一对应以&nbsp;<code>head</code>&nbsp;为首的链表中每个节点的值，那么请你返回 <code>True</code> ，否则返回 <code>False</code> 。</p>

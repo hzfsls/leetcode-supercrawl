@@ -1,4 +1,4 @@
-## [2795.并行执行 Promise 以获取独有的结果]
+## [2795.并行执行 Promise 以获取独有的结果](https://leetcode.cn/problems/parallel-execution-of-promises-for-individual-results-retrieval/)
 <p>给定一个数组 <code>functions</code>，返回一个 promise 对象 <code>promise</code>。<code>functions</code> 是一个返回多个 promise&nbsp;对象 <code>fnPromise</code> 的函数数组。每个 <code>fnPromise</code> 可以被解析（resolved）或拒绝（rejected）。</p>
 
 <p>如果 <code>fnPromise</code> 被解析：</p>

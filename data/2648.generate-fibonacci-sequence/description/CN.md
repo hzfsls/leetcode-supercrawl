@@ -1,4 +1,4 @@
-## [2648.生成斐波那契数列]
+## [2648.生成斐波那契数列](https://leetcode.cn/problems/generate-fibonacci-sequence/)
 <p>请你编写一个生成器函数，并返回一个可以生成 <strong>斐波那契数列</strong> 的生成器对象。</p>
 
 <p><strong>斐波那契数列</strong> 的递推公式为 <code>X<sub>n</sub>&nbsp;= X<sub>n-1</sub>&nbsp;+ X<sub>n-2</sub></code> 。</p>

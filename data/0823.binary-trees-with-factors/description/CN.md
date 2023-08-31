@@ -1,4 +1,4 @@
-## [823.带因子的二叉树]
+## [823.带因子的二叉树](https://leetcode.cn/problems/binary-trees-with-factors/)
 <p>给出一个含有不重复整数元素的数组 <code>arr</code> ，每个整数 <code>arr[i]</code> 均大于 1。</p>
 
 <p>用这些整数来构建二叉树，每个整数可以使用任意次数。其中：每个非叶结点的值应等于它的两个子结点的值的乘积。</p>

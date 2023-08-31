@@ -1,3 +1,4 @@
+## [1552.两球之间的磁力 中文官方题解](https://leetcode.cn/problems/magnetic-force-between-two-balls/solutions/100000/liang-qiu-zhi-jian-de-ci-li-by-leetcode-solution)
 #### 方法一：二分查找
 
 **思路与算法**

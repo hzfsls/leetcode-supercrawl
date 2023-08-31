@@ -1,3 +1,4 @@
+## [1859.将句子排序 中文官方题解](https://leetcode.cn/problems/sorting-the-sentence/solutions/100000/jiang-ju-zi-pai-xu-by-leetcode-solution-wnts)
 #### 方法一：维护有序的单词数组
 
 **思路与算法**

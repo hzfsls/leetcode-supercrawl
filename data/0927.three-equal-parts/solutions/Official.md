@@ -1,3 +1,4 @@
+## [927.三等分 中文官方题解](https://leetcode.cn/problems/three-equal-parts/solutions/100000/san-deng-fen-by-leetcode-solution-3l2y)
 #### 方法一：将 $1$ 的数量三等分
 
 **思路与算法**

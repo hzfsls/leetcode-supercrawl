@@ -1,4 +1,4 @@
-## [2148.元素计数]
+## [2148.元素计数](https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/)
 <p>给你一个整数数组 <code>nums</code> ，统计并返回在 <code>nums</code> 中同时至少具有一个严格较小元素和一个严格较大元素的元素数目。</p>
 
 <p>&nbsp;</p>

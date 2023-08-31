@@ -1,3 +1,4 @@
+## [1779.找到最近的有相同 X 或 Y 坐标的点 中文官方题解](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/solutions/100000/zhao-dao-zui-jin-de-you-xiang-tong-x-huo-x900)
 #### 方法一：枚举所有的点
 
 **思路与算法**

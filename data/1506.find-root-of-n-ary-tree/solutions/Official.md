@@ -1,3 +1,4 @@
+## [1506.找到 N 叉树的根节点 中文官方题解](https://leetcode.cn/problems/find-root-of-n-ary-tree/solutions/100000/zhao-dao-n-cha-shu-de-gen-jie-dian-by-le-2nb1)
 [TOC]
 
 ## 解答方案

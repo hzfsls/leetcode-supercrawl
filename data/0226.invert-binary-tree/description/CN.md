@@ -1,4 +1,4 @@
-## [226.翻转二叉树]
+## [226.翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
 <p>给你一棵二叉树的根节点 <code>root</code> ，翻转这棵二叉树，并返回其根节点。</p>
 
 <p>&nbsp;</p>

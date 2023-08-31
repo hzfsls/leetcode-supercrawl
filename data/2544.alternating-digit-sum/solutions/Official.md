@@ -1,3 +1,4 @@
+## [2544.交替数字和 中文官方题解](https://leetcode.cn/problems/alternating-digit-sum/solutions/100000/jiao-ti-shu-zi-he-by-leetcode-solution-uz50)
 #### 方法一：数学
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [603.连续空余座位]
+## [603.连续空余座位](https://leetcode.cn/problems/consecutive-available-seats/)
 <p>表:&nbsp;<code>Cinema</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [2591.Distribute Money to Maximum Children]
+## [2591.Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)
 <p>You are given an integer <code>money</code> denoting the amount of money (in dollars) that you have and another integer <code>children</code> denoting the number of children that you must distribute the money to.</p>
 
 <p>You have to distribute the money according to the following rules:</p>

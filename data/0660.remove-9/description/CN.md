@@ -1,4 +1,4 @@
-## [660.移除 9]
+## [660.移除 9](https://leetcode.cn/problems/remove-9/)
 <p>从 <code>1</code> 开始，移除包含数字 <code>9</code> 的所有整数，例如 <code>9</code>，<code>19</code>，<code>29</code>，……</p>
 
 <p>这样就获得了一个新的整数数列：<code>1</code>，<code>2</code>，<code>3</code>，<code>4</code>，<code>5</code>，<code>6</code>，<code>7</code>，<code>8</code>，<code>10</code>，<code>11</code>，……</p>

@@ -1,3 +1,4 @@
+## [1652.拆炸弹 中文官方题解](https://leetcode.cn/problems/defuse-the-bomb/solutions/100000/chai-zha-dan-by-leetcode-solution-01x3)
 #### 方法一：滑动窗口
 
 **思路与算法**

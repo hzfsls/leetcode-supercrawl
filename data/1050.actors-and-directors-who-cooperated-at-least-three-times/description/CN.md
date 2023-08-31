@@ -1,4 +1,4 @@
-## [1050.合作过至少三次的演员和导演]
+## [1050.合作过至少三次的演员和导演](https://leetcode.cn/problems/actors-and-directors-who-cooperated-at-least-three-times/)
 <p><code>ActorDirector</code>&nbsp;表：</p>
 
 <pre>

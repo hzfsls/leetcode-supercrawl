@@ -1,3 +1,4 @@
+## [2331.计算布尔二叉树的值 中文官方题解](https://leetcode.cn/problems/evaluate-boolean-binary-tree/solutions/100000/ji-suan-bu-er-er-cha-shu-de-zhi-by-leetc-4g8f)
 #### 方法一：递归
 
 **思路与算法**

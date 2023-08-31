@@ -1,4 +1,4 @@
-## [2726.使用方法链的计算器]
+## [2726.使用方法链的计算器](https://leetcode.cn/problems/calculator-with-method-chaining/)
 <p>设计一个类 <code>Calculator</code> 。该类应提供加法、减法、乘法、除法和乘方等数学运算功能。同时，它还应支持连续操作的方法链式调用。<code>Calculator</code> 类的构造函数应接受一个数字作为 <code>result</code> 的初始值。</p>
 
 <p>你的 <code>Calculator</code> 类应包含以下方法：</p>

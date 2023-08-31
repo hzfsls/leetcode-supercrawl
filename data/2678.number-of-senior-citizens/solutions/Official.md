@@ -1,3 +1,4 @@
+## [2678.老人的数目 中文官方题解](https://leetcode.cn/problems/number-of-senior-citizens/solutions/100000/lao-ren-de-shu-mu-by-leetcode-solution-6msk)
 #### 方法一：枚举
 
 **思路与算法**

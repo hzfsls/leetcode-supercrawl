@@ -1,4 +1,4 @@
-## [255.Verify Preorder Sequence in Binary Search Tree]
+## [255.Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
 <p>Given an array of <strong>unique</strong> integers <code>preorder</code>, return <code>true</code> <em>if it is the correct preorder traversal sequence of a binary search tree</em>.</p>
 
 <p>&nbsp;</p>

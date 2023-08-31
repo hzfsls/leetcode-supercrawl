@@ -1,4 +1,4 @@
-## [587.Erect the Fence]
+## [587.Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 <p>You are given an array <code>trees</code> where <code>trees[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents the location of a tree in the garden.</p>
 
 <p>Fence the entire garden using the minimum length of rope, as it is expensive. The garden is well-fenced only if <strong>all the trees are enclosed</strong>.</p>

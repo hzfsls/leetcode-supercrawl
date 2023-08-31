@@ -1,4 +1,4 @@
-## [408.有效单词缩写]
+## [408.有效单词缩写](https://leetcode.cn/problems/valid-word-abbreviation/)
 <p>字符串可以用 <strong>缩写</strong> 进行表示，<strong>缩写</strong> 的方法是将任意数量的 <strong>不相邻</strong> 的子字符串替换为相应子串的长度。例如，字符串 <code>"substitution"</code> 可以缩写为（不止这几种方法）：</p>
 
 <ul>

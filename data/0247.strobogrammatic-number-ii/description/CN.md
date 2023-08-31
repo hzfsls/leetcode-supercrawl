@@ -1,4 +1,4 @@
-## [247.中心对称数 II]
+## [247.中心对称数 II](https://leetcode.cn/problems/strobogrammatic-number-ii/)
 <p>给定一个整数&nbsp;<code>n</code>&nbsp;，返回所有长度为&nbsp;<code>n</code>&nbsp;的 <strong>中心对称数</strong>&nbsp;。你可以以 <strong>任何顺序</strong> 返回答案。</p>
 
 <p><strong>中心对称数&nbsp;</strong>是一个数字在旋转了&nbsp;<code>180</code> 度之后看起来依旧相同的数字（或者上下颠倒地看）。</p>

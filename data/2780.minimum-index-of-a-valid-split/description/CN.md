@@ -1,4 +1,4 @@
-## [2780.合法分割的最小下标]
+## [2780.合法分割的最小下标](https://leetcode.cn/problems/minimum-index-of-a-valid-split/)
 <p>如果元素 <code>x</code>&nbsp;在长度为 <code>m</code>&nbsp;的整数数组 <code>arr</code>&nbsp;中满足 <code>freq(x) * 2 &gt; m</code>&nbsp;，那么我们称 <code>x</code>&nbsp;是 <strong>支配元素</strong>&nbsp;。其中&nbsp;<code>freq(x)</code>&nbsp;是 <code>x</code>&nbsp;在数组 <code>arr</code>&nbsp;中出现的次数。注意，根据这个定义，数组 <code>arr</code>&nbsp;<strong>最多</strong>&nbsp;只会有 <strong>一个</strong>&nbsp;支配元素。</p>
 
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始长度为 <code>n</code>&nbsp;的整数数组&nbsp;<code>nums</code>&nbsp;，数据保证它含有一个支配元素。</p>

@@ -1,4 +1,4 @@
-## [1836.Remove Duplicates From an Unsorted Linked List]
+## [1836.Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)
 <p>Given the <code>head</code> of a linked list, find all the values that appear <strong>more than once</strong> in the list and delete the nodes that have any of those values.</p>
 
 <p>Return <em>the linked list after the deletions.</em></p>

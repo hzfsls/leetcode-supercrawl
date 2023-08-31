@@ -1,4 +1,4 @@
-## [1465.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]
+## [1465.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
 <p>You are given a rectangular cake of size <code>h x w</code> and two arrays of integers <code>horizontalCuts</code> and <code>verticalCuts</code> where:</p>
 
 <ul>

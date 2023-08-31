@@ -1,3 +1,4 @@
+## [1610.可见点的最大数目 中文官方题解](https://leetcode.cn/problems/maximum-number-of-visible-points/solutions/100000/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz)
 #### 方法一：二分查找
 
 **思路**

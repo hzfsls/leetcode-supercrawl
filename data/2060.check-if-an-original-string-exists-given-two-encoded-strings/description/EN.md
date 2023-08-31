@@ -1,4 +1,4 @@
-## [2060.Check if an Original String Exists Given Two Encoded Strings]
+## [2060.Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/)
 <p>An original string, consisting of lowercase English letters, can be encoded by the following steps:</p>
 
 <ul>

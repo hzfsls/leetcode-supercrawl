@@ -1,4 +1,4 @@
-## [284.Peeking Iterator]
+## [284.Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
 <p>Design an iterator that supports the <code>peek</code> operation on an existing iterator in addition to the <code>hasNext</code> and the <code>next</code> operations.</p>
 
 <p>Implement the <code>PeekingIterator</code> class:</p>

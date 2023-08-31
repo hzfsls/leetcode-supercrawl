@@ -1,3 +1,4 @@
+## [632.最小区间 中文官方题解](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/solutions/100000/zui-xiao-qu-jian-by-leetcode-solution)
 #### 方法一：贪心 + 最小堆
 
 给定 $k$ 个列表，需要找到最小区间，使得每个列表都至少有一个数在该区间中。该问题可以转化为，从 $k$ 个列表中各取一个数，使得这 $k$ 个数中的最大值与最小值的差最小。

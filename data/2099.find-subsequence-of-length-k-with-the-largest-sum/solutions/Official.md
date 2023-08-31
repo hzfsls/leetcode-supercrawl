@@ -1,3 +1,4 @@
+## [2099.找到和最大的长度为 K 的子序列 中文官方题解](https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/solutions/100000/zhao-dao-he-zui-da-de-chang-du-wei-k-de-01ike)
 #### 方法一：排序
 
 **思路与算法**

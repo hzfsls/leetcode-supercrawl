@@ -1,4 +1,4 @@
-## [740.Delete and Earn]
+## [740.Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 <p>You are given an integer array <code>nums</code>. You want to maximize the number of points you get by performing the following operation any number of times:</p>
 
 <ul>

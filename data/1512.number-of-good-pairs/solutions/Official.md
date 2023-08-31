@@ -1,3 +1,4 @@
+## [1512.好数对的数目 中文官方题解](https://leetcode.cn/problems/number-of-good-pairs/solutions/100000/hao-shu-dui-de-shu-mu-by-leetcode-solution)
 #### 方法一：暴力统计
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [2700.Differences Between Two Objects]
+## [2700.Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)
 <p>Write a function that accepts two deeply nested objects or arrays&nbsp;<code>obj1</code> and&nbsp;<code>obj2</code>&nbsp;and returns a new&nbsp;object representing their differences.</p>
 
 <p>The function should compare the properties of the two objects and identify any changes.&nbsp;The returned object should only contains keys where the value is different from&nbsp;<code>obj1</code> to&nbsp;<code>obj2</code>. For each changed key, the value should be represented as an&nbsp;array <code>[obj1 value, obj2&nbsp;value]</code>. Keys that exist in one object but not in the other should not be included in the returned object. When comparing two arrays, the indices of the arrays are considered to be their keys.&nbsp;The end result should be a deeply nested object where each leaf value is a difference array.</p>

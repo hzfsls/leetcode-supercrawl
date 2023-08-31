@@ -1,4 +1,4 @@
-## [536.Construct Binary Tree from String]
+## [536.Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
 <p>You need to construct a binary tree from a string consisting of parenthesis and integers.</p>
 
 <p>The whole input represents a binary tree. It contains an integer followed by zero, one or two pairs of parenthesis. The integer represents the root&#39;s value and a pair of parenthesis contains a child binary tree with the same structure.</p>

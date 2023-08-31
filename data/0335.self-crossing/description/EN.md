@@ -1,4 +1,4 @@
-## [335.Self Crossing]
+## [335.Self Crossing](https://leetcode.com/problems/self-crossing/)
 <p>You are given an array of integers <code>distance</code>.</p>
 
 <p>You start at the point <code>(0, 0)</code> on an <strong>X-Y plane,</strong> and you move <code>distance[0]</code> meters to the north, then <code>distance[1]</code> meters to the west, <code>distance[2]</code> meters to the south, <code>distance[3]</code> meters to the east, and so on. In other words, after each move, your direction changes counter-clockwise.</p>

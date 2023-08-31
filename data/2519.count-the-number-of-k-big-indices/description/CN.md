@@ -1,4 +1,4 @@
-## [2519.统计 K-Big 索引的数量]
+## [2519.统计 K-Big 索引的数量](https://leetcode.cn/problems/count-the-number-of-k-big-indices/)
 <p>给定一个 <strong>下标从0开始</strong> 的整数数组 <code>nums</code> 和一个正整数 <code>k</code> 。</p>
 
 <p>如果满足以下条件，我们称下标 <code>i</code> 为 <strong>k-big</strong> ：</p>

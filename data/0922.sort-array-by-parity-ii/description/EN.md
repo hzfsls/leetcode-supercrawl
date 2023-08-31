@@ -1,4 +1,4 @@
-## [922.Sort Array By Parity II]
+## [922.Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 <p>Given an array of integers <code>nums</code>, half of the integers in <code>nums</code> are <strong>odd</strong>, and the other half are <strong>even</strong>.</p>
 
 <p>Sort the array so that whenever <code>nums[i]</code> is odd, <code>i</code> is <strong>odd</strong>, and whenever <code>nums[i]</code> is even, <code>i</code> is <strong>even</strong>.</p>

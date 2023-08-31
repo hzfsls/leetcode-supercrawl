@@ -1,3 +1,4 @@
+## [527.单词缩写 中文官方题解](https://leetcode.cn/problems/word-abbreviation/solutions/100000/dan-ci-suo-xie-by-leetcode-solution-oxaq)
 [TOC]
 
 #### 方法 1：贪心

@@ -1,3 +1,4 @@
+## [1381.设计一个支持增量操作的栈 中文官方题解](https://leetcode.cn/problems/design-a-stack-with-increment-operation/solutions/100000/she-ji-yi-ge-zhi-chi-zeng-liang-cao-zuo-de-zhan-by)
 #### 分析
 
 可以发现题目要求我们实现的 `push`、`pop` 和 `inc` 三个功能中，前两个功能就是普通的栈所具有的功能，为什么普通的栈没有 `inc` 功能呢？因为普通的栈只有栈顶元素是「可见」的，所以要实现的这个功能，我们就要让栈中的所有元素「可见」。

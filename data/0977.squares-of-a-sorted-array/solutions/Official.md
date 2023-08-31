@@ -1,3 +1,4 @@
+## [977.有序数组的平方 中文官方题解](https://leetcode.cn/problems/squares-of-a-sorted-array/solutions/100000/you-xu-shu-zu-de-ping-fang-by-leetcode-solution)
 #### 方法一：直接排序
 
 **思路与算法**

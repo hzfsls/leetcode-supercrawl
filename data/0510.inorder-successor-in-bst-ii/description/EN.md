@@ -1,4 +1,4 @@
-## [510.Inorder Successor in BST II]
+## [510.Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)
 <p>Given a <code>node</code> in a binary search tree, return <em>the in-order successor of that node in the BST</em>. If that node has no in-order successor, return <code>null</code>.</p>
 
 <p>The successor of a <code>node</code> is the node with the smallest key greater than <code>node.val</code>.</p>

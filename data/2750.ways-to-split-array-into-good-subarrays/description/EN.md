@@ -1,4 +1,4 @@
-## [2750.Ways to Split Array Into Good Subarrays]
+## [2750.Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/)
 <p>You are given a binary array <code>nums</code>.</p>
 
 <p>A subarray of an array is <strong>good</strong> if it contains <strong>exactly</strong> <strong>one</strong> element with the value <code>1</code>.</p>

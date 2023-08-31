@@ -1,4 +1,4 @@
-## [1836.从未排序的链表中移除重复元素]
+## [1836.从未排序的链表中移除重复元素](https://leetcode.cn/problems/remove-duplicates-from-an-unsorted-linked-list/)
 <p>给定一个链表的第一个节点 <code>head</code> ，找到链表中所有出现<strong>多于一次</strong>的元素，并删除这些元素所在的节点。</p>
 
 <p>返回删除后的链表。</p>

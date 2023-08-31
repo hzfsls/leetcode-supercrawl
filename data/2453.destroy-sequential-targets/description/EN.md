@@ -1,4 +1,4 @@
-## [2453.Destroy Sequential Targets]
+## [2453.Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of positive integers, representing targets on a number line. You are also given an integer <code>space</code>.</p>
 
 <p>You have a machine which can destroy targets. <strong>Seeding</strong> the machine with some <code>nums[i]</code> allows it to destroy all targets with values that can be represented as <code>nums[i] + c * space</code>, where <code>c</code> is any non-negative integer. You want to destroy the <strong>maximum</strong> number of targets in <code>nums</code>.</p>

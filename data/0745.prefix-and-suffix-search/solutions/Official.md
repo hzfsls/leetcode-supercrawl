@@ -1,3 +1,4 @@
+## [745.前缀和后缀搜索 中文官方题解](https://leetcode.cn/problems/prefix-and-suffix-search/solutions/100000/qian-zhui-he-hou-zhui-sou-suo-by-leetcod-i3ec)
 #### 方法一：计算每个单词的前缀后缀组合可能性
 
 **思路**

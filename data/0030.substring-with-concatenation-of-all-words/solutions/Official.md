@@ -1,3 +1,4 @@
+## [30.串联所有单词的子串 中文官方题解](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/solutions/100000/chuan-lian-suo-you-dan-ci-de-zi-chuan-by-244a)
 #### 方法一：滑动窗口
 
 **思路**

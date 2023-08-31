@@ -1,3 +1,4 @@
+## [1864.构成交替字符串需要的最小交换次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/solutions/100000/minimum-number-of-swaps-to-make-the-bina-z0qy)
 #### 方法一：枚举目标字符串的形式
 
 **提示 $1$**

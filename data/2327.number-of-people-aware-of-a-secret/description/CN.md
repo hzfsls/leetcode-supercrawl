@@ -1,4 +1,4 @@
-## [2327.知道秘密的人数]
+## [2327.知道秘密的人数](https://leetcode.cn/problems/number-of-people-aware-of-a-secret/)
 <p>在第 <code>1</code>&nbsp;天，有一个人发现了一个秘密。</p>
 
 <p>给你一个整数&nbsp;<code>delay</code>&nbsp;，表示每个人会在发现秘密后的 <code>delay</code>&nbsp;天之后，<strong>每天</strong>&nbsp;给一个新的人&nbsp;<strong>分享</strong>&nbsp;秘密。同时给你一个整数&nbsp;<code>forget</code>&nbsp;，表示每个人在发现秘密&nbsp;<code>forget</code>&nbsp;天之后会&nbsp;<strong>忘记</strong>&nbsp;这个秘密。一个人&nbsp;<strong>不能</strong>&nbsp;在忘记秘密那一天及之后的日子里分享秘密。</p>

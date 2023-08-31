@@ -1,4 +1,4 @@
-## [2562.找出数组的串联值]
+## [2562.找出数组的串联值](https://leetcode.cn/problems/find-the-array-concatenation-value/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组&nbsp;<code>nums</code> 。</p>
 
 <p>现定义两个数字的 <strong>串联</strong>&nbsp;是由这两个数值串联起来形成的新数字。</p>

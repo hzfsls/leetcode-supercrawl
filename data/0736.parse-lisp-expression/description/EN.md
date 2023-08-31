@@ -1,4 +1,4 @@
-## [736.Parse Lisp Expression]
+## [736.Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)
 <p>You are given a string expression representing a Lisp-like expression to return the integer value of.</p>
 
 <p>The syntax for these expressions is given as follows.</p>

@@ -1,3 +1,4 @@
+## [1592.重新排列单词间的空格 中文官方题解](https://leetcode.cn/problems/rearrange-spaces-between-words/solutions/100000/zhong-xin-pai-lie-dan-ci-jian-de-kong-ge-5kln)
 #### 方法一：模拟
 
 **思路与算法**

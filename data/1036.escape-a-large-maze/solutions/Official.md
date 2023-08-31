@@ -1,3 +1,4 @@
+## [1036.逃离大迷宫 中文官方题解](https://leetcode.cn/problems/escape-a-large-maze/solutions/100000/tao-chi-da-mi-gong-by-leetcode-solution-qxhz)
 #### 方法一：有限步数的广度优先搜索
 
 **思路**

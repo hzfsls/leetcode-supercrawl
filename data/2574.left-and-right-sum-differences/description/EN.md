@@ -1,4 +1,4 @@
-## [2574.Left and Right Sum Differences]
+## [2574.Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 <p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a <strong>0-indexed </strong>integer array <code>answer</code> where:</p>
 
 <ul>

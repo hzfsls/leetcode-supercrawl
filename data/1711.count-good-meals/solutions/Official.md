@@ -1,3 +1,4 @@
+## [1711.大餐计数 中文官方题解](https://leetcode.cn/problems/count-good-meals/solutions/100000/da-can-ji-shu-by-leetcode-solution-fvg9)
 #### 方法一：哈希表
 
 朴素的解法是遍历数组 $\textit{deliciousness}$ 中的每对元素，对于每对元素，计算两个元素之和是否等于 $2$ 的幂。该解法的时间复杂度为 $O(n^2)$，会超出时间限制。

@@ -1,3 +1,4 @@
+## [973.最接近原点的 K 个点 中文官方题解](https://leetcode.cn/problems/k-closest-points-to-origin/solutions/100000/zui-jie-jin-yuan-dian-de-k-ge-dian-by-leetcode-sol)
 #### 前言
 
 当我们计算出每个点到原点的欧几里得距离的平方后，本题和「[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)」是完全一样的题。

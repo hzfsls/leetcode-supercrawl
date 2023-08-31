@@ -1,4 +1,4 @@
-## [2362.Generate the Invoice]
+## [2362.Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/)
 <p>Table: <code>Products</code></p>
 
 <pre>

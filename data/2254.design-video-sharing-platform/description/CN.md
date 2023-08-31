@@ -1,4 +1,4 @@
-## [2254.设计视频共享平台]
+## [2254.设计视频共享平台](https://leetcode.cn/problems/design-video-sharing-platform/)
 <p>你有一个视频分享平台，用户可以上传和删除视频。每个 <code>video</code> 都是&nbsp;<strong>字符串&nbsp;</strong>类型的数字，其中字符串的第 <code>i</code> 位表示视频中第 <code>i</code> 分钟的内容。例如，第一个数字表示视频中第 <code>0</code> 分钟的内容，第二个数字表示视频中第 <code>1</code> 分钟的内容，以此类推。视频的观众也可以喜欢和不喜欢视频。该平台会跟踪每个视频的&nbsp;<strong>观看次数</strong>、<strong>点赞次数&nbsp;</strong>和 <strong>不喜欢次数</strong>。</p>
 
 <p>当视频上传时，它与最小可用整数 <code>videoId</code> 相关联，<code>videoId</code> 从 <code>0</code> 开始的。一旦一个视频被删除，与该视频关联的 <code>videoId</code> 就可以用于另一个视频。</p>

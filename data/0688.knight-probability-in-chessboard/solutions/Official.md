@@ -1,3 +1,4 @@
+## [688.骑士在棋盘上的概率 中文官方题解](https://leetcode.cn/problems/knight-probability-in-chessboard/solutions/100000/qi-shi-zai-qi-pan-shang-de-gai-lu-by-lee-2qhk)
 #### 方法一：动态规划
 
 **思路**

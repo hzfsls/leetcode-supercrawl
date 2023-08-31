@@ -1,4 +1,4 @@
-## [1211.查询结果的质量和占比]
+## [1211.查询结果的质量和占比](https://leetcode.cn/problems/queries-quality-and-percentage/)
 <p>查询表 <code>Queries</code>：&nbsp;</p>
 
 <pre>

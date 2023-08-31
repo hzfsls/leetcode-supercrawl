@@ -1,3 +1,4 @@
+## [1126.查询活跃业务 中文官方题解](https://leetcode.cn/problems/active-businesses/solutions/100000/cha-xun-huo-yue-ye-wu-by-leetcode-solution)
 ### 方法一：`JOIN` 和 `GROUP BY`
 
 #### 思路

@@ -1,4 +1,4 @@
-## [2797.Partial Function with Placeholders]
+## [2797.Partial Function with Placeholders](https://leetcode.com/problems/partial-function-with-placeholders/)
 <p>Given a function <code>fn</code>&nbsp;and an array <code>args</code>, return a function <code>partialFn</code>.&nbsp;</p>
 
 <p>Placeholders <code>&quot;_&quot;</code> in the&nbsp;<code>args</code>&nbsp;should be replaced with values from <code>restArgs</code> starting from index <code>0</code>. Any remaining values in the <code>restArgs</code>&nbsp;should be added at the end of the <code>args</code>.</p>

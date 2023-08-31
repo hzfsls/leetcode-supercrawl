@@ -1,4 +1,4 @@
-## [1280.学生们参加各科测试的次数]
+## [1280.学生们参加各科测试的次数](https://leetcode.cn/problems/students-and-examinations/)
 <p>学生表: <code>Students</code></p>
 
 <pre>

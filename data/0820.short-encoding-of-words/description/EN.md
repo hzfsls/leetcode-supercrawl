@@ -1,4 +1,4 @@
-## [820.Short Encoding of Words]
+## [820.Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
 <p>A <strong>valid encoding</strong> of an array of <code>words</code> is any reference string <code>s</code> and array of indices <code>indices</code> such that:</p>
 
 <ul>

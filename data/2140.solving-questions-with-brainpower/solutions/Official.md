@@ -1,3 +1,4 @@
+## [2140.解决智力问题 中文官方题解](https://leetcode.cn/problems/solving-questions-with-brainpower/solutions/100000/jie-jue-zhi-li-wen-ti-by-leetcode-soluti-ieuq)
 #### 方法一：动态规划
 
 **提示 $1$**

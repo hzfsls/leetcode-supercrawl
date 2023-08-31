@@ -1,3 +1,4 @@
+## [941.有效的山脉数组 中文官方题解](https://leetcode.cn/problems/valid-mountain-array/solutions/100000/you-xiao-de-shan-mai-shu-zu-by-leetcode-solution)
 #### 方法一：线性扫描
 
 按题意模拟即可。我们从数组的最左侧开始向右扫描，直到找到第一个不满足 $\textit{arr}[i] < \textit{arr}[i + 1]$ 的下标 $i$，那么 $i$ 就是这个数组的最高点的下标。如果 $i = 0$ 或者不存在这样的 $i$（即整个数组都是单调递增的），那么就返回 $\text{false}$。否则从 $i$ 开始继续向右扫描，判断接下来的的下标 $j$ 是否都满足 $\textit{arr}[j] > \textit{arr}[j + 1]$，若都满足就返回 $\text{true}$，否则返回 $\text{false}$。

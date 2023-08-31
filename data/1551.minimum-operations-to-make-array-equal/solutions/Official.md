@@ -1,3 +1,4 @@
+## [1551.使数组中所有元素相等的最小操作数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-make-array-equal/solutions/100000/shi-shu-zu-zhong-suo-you-yuan-su-xiang-deng-de-z-4)
 #### 写在前面
 
 注意到本题给定的操作并不会使数组中所有元素之和变化，且题目要求让所有元素相等，那么数组中所有元素的平均值即为最后数组中每一个元素的值。

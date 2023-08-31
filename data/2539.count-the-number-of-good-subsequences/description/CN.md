@@ -1,4 +1,4 @@
-## [2539.好子序列的个数]
+## [2539.好子序列的个数](https://leetcode.cn/problems/count-the-number-of-good-subsequences/)
 <p>如果字符串的某个 <strong>子序列</strong> 不为空，且其中每一个字符出现的频率都相同，就认为该子序列是一个好子序列。</p>
 
 <p>给你一个字符串&nbsp;<code>s</code> ，请你统计并返回它的好子序列的个数。由于答案的值可能非常大，请返回对 <code>10<sup>9</sup> + 7</code> 取余的结果作为答案。</p>

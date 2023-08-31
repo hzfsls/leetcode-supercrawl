@@ -1,4 +1,4 @@
-## [1591.奇怪的打印机 II]
+## [1591.奇怪的打印机 II](https://leetcode.cn/problems/strange-printer-ii/)
 <p>给你一个奇怪的打印机，它有如下两个特殊的打印规则：</p>
 
 <ul>

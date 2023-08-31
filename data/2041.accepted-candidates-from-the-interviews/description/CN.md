@@ -1,4 +1,4 @@
-## [2041.面试中被录取的候选人]
+## [2041.面试中被录取的候选人](https://leetcode.cn/problems/accepted-candidates-from-the-interviews/)
 <p>表：<code>Candidates</code></p>
 
 <pre>

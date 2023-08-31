@@ -1,4 +1,4 @@
-## [2197.替换数组中的非互质数]
+## [2197.替换数组中的非互质数](https://leetcode.cn/problems/replace-non-coprime-numbers-in-array/)
 <p>给你一个整数数组 <code>nums</code> 。请你对数组执行下述操作：</p>
 
 <ol>

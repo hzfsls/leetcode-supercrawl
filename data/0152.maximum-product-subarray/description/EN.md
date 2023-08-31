@@ -1,4 +1,4 @@
-## [152.Maximum Product Subarray]
+## [152.Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 <p>Given an integer array <code>nums</code>, find a <span data-keyword="subarray-nonempty">subarray</span> that has the largest product, and return <em>the product</em>.</p>
 
 <p>The test cases are generated so that the answer will fit in a <strong>32-bit</strong> integer.</p>

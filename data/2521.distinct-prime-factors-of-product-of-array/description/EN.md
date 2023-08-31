@@ -1,4 +1,4 @@
-## [2521.Distinct Prime Factors of Product of Array]
+## [2521.Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/)
 <p>Given an array of positive integers <code>nums</code>, return <em>the number of <strong>distinct prime factors</strong> in the product of the elements of</em> <code>nums</code>.</p>
 
 <p><strong>Note</strong> that:</p>

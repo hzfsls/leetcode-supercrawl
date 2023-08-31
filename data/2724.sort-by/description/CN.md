@@ -1,4 +1,4 @@
-## [2724.排序方式]
+## [2724.排序方式](https://leetcode.cn/problems/sort-by/)
 <p>给定一个数组 <code>arr</code> 和一个函数 <code>fn</code>，返回一个排序后的数组 <code>sortedArr</code>。你可以假设 <code>fn</code> 只返回数字，并且这些数字决定了 <code>sortedArr</code> 的排序顺序。<code>sortedArr</code> 必须按照 <code>fn</code> 的输出值&nbsp;<strong>升序</strong> 排序。</p>
 
 <p>你可以假设对于给定的数组，<code>fn</code> 不会返回重复的数字。</p>

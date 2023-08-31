@@ -1,4 +1,4 @@
-## [1079.Letter Tile Possibilities]
+## [1079.Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
 <p>You have <code>n</code>&nbsp;&nbsp;<code>tiles</code>, where each tile has one letter <code>tiles[i]</code> printed on it.</p>
 
 <p>Return <em>the number of possible non-empty sequences of letters</em> you can make using the letters printed on those <code>tiles</code>.</p>

@@ -1,4 +1,4 @@
-## [1623.三人国家代表队]
+## [1623.三人国家代表队](https://leetcode.cn/problems/all-valid-triplets-that-can-represent-a-country/)
 <p>表: <code>SchoolA</code></p>
 
 <pre>

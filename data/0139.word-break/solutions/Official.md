@@ -1,3 +1,4 @@
+## [139.单词拆分 中文官方题解](https://leetcode.cn/problems/word-break/solutions/100000/dan-ci-chai-fen-by-leetcode-solution)
 #### 方法一：动态规划
 
 **思路和算法**

@@ -1,4 +1,4 @@
-## [1570.两个稀疏向量的点积]
+## [1570.两个稀疏向量的点积](https://leetcode.cn/problems/dot-product-of-two-sparse-vectors/)
 <p>给定两个稀疏向量，计算它们的点积（数量积）。</p>
 
 <p>实现类 <code>SparseVector</code>：</p>

@@ -1,4 +1,4 @@
-## [2625.扁平化嵌套数组]
+## [2625.扁平化嵌套数组](https://leetcode.cn/problems/flatten-deeply-nested-array/)
 <p>请你编写一个函数，它接收一个&nbsp;<strong>多维数组&nbsp;</strong><code>arr</code> 和它的深度 <code>n</code> ，并返回该数组的&nbsp;<strong>扁平化&nbsp;</strong>后的结果。</p>
 
 <p><strong>多维数组&nbsp;</strong>是一种包含整数或其他&nbsp;<strong>多维数组&nbsp;</strong>的递归数据结构。</p>

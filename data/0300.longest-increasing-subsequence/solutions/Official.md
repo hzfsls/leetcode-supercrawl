@@ -1,3 +1,4 @@
+## [300.最长递增子序列 中文官方题解](https://leetcode.cn/problems/longest-increasing-subsequence/solutions/100000/zui-chang-shang-sheng-zi-xu-lie-by-leetcode-soluti)
 #### 方法一：动态规划 
 
 **思路与算法**

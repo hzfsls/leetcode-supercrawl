@@ -1,4 +1,4 @@
-## [1498.满足条件的子序列数目]
+## [1498.满足条件的子序列数目](https://leetcode.cn/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 <p>给你一个整数数组 <code>nums</code> 和一个整数 <code>target</code> 。</p>
 
 <p>请你统计并返回 <code>nums</code> 中能满足其最小元素与最大元素的 <strong>和</strong> 小于或等于 <code>target</code> 的 <strong>非空</strong> 子序列的数目。</p>

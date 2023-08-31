@@ -1,3 +1,4 @@
+## [1171.从链表中删去总和值为零的连续节点 中文官方题解](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list/solutions/100000/cong-lian-biao-zhong-shan-qu-zong-he-zhi-h18o)
 #### 方法一：哈希表
 
 给你一个链表的头节点 $\textit{head}$，反复删去链表中总和值为 $0$ 的连续节点组成的序列。

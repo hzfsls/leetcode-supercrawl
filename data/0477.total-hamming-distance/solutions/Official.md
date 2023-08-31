@@ -1,3 +1,4 @@
+## [477.汉明距离总和 中文官方题解](https://leetcode.cn/problems/total-hamming-distance/solutions/100000/yi-ming-ju-chi-zong-he-by-leetcode-solut-t0ev)
 #### 方法一：逐位统计
 
 在计算汉明距离时，我们考虑的是同一比特位上的值是否不同，而不同比特位之间是互不影响的。

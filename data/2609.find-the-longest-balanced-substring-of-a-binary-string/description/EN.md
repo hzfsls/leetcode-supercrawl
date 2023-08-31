@@ -1,4 +1,4 @@
-## [2609.Find the Longest Balanced Substring of a Binary String]
+## [2609.Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)
 <p>You are given a binary string <code>s</code> consisting only of zeroes and ones.</p>
 
 <p>A substring of <code>s</code> is considered balanced if<strong> all zeroes are before ones</strong> and the number of zeroes is equal to the number of ones inside the substring. Notice that the empty substring is considered a balanced substring.</p>

@@ -1,3 +1,4 @@
+## [743.网络延迟时间 中文官方题解](https://leetcode.cn/problems/network-delay-time/solutions/100000/wang-luo-yan-chi-shi-jian-by-leetcode-so-6phc)
 #### 前言
 
 本题需要用到单源最短路径算法 $\text{Dijkstra}$，现在让我们回顾该算法，其主要思想是贪心。

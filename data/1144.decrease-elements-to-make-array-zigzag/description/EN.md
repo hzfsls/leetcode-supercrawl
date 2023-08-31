@@ -1,4 +1,4 @@
-## [1144.Decrease Elements To Make Array Zigzag]
+## [1144.Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)
 <p>Given an array <code>nums</code> of integers, a <em>move</em>&nbsp;consists of choosing any element and <strong>decreasing it by 1</strong>.</p>
 
 <p>An array <code>A</code> is a&nbsp;<em>zigzag array</em>&nbsp;if either:</p>

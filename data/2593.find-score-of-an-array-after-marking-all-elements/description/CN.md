@@ -1,4 +1,4 @@
-## [2593.标记所有元素后数组的分数]
+## [2593.标记所有元素后数组的分数](https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/)
 <p>给你一个数组&nbsp;<code>nums</code>&nbsp;，它包含若干正整数。</p>
 
 <p>一开始分数&nbsp;<code>score = 0</code>&nbsp;，请你按照下面算法求出最后分数：</p>

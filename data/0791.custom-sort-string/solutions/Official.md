@@ -1,3 +1,4 @@
+## [791.自定义字符串排序 中文官方题解](https://leetcode.cn/problems/custom-sort-string/solutions/100000/zi-ding-yi-zi-fu-chuan-pai-xu-by-leetcod-1qvf)
 #### 方法一：自定义排序
 
 **思路与算法**

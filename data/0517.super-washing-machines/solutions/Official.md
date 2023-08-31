@@ -1,3 +1,4 @@
+## [517.超级洗衣机 中文官方题解](https://leetcode.cn/problems/super-washing-machines/solutions/100000/chao-ji-xi-yi-ji-by-leetcode-solution-yhej)
 #### 方法一：贪心
 
 设所有洗衣机内的衣服个数之和为 $\textit{tot}$，要使最终所有洗衣机内的衣服个数相同，那么 $\textit{tot}$ 必须是 $n$ 的倍数，否则我们直接返回 $-1$。

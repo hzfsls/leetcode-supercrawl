@@ -1,4 +1,4 @@
-## [2781.Length of the Longest Valid Substring]
+## [2781.Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/)
 <p>You are given a string <code>word</code> and an array of strings <code>forbidden</code>.</p>
 
 <p>A string is called <strong>valid</strong> if none of its substrings are present in <code>forbidden</code>.</p>

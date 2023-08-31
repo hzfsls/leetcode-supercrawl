@@ -1,4 +1,4 @@
-## [2169.得到 0 的操作数]
+## [2169.得到 0 的操作数](https://leetcode.cn/problems/count-operations-to-obtain-zero/)
 <p>给你两个 <strong>非负</strong> 整数 <code>num1</code> 和 <code>num2</code> 。</p>
 
 <p>每一步 <strong>操作</strong>&nbsp;中，如果 <code>num1 &gt;= num2</code> ，你必须用 <code>num1</code> 减 <code>num2</code> ；否则，你必须用 <code>num2</code> 减 <code>num1</code> 。</p>

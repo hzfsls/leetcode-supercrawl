@@ -1,4 +1,4 @@
-## [1505.Minimum Possible Integer After at Most K Adjacent Swaps On Digits]
+## [1505.Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/)
 <p>You are given a string <code>num</code> representing <strong>the digits</strong> of a very large integer and an integer <code>k</code>. You are allowed to swap any two adjacent digits of the integer <strong>at most</strong> <code>k</code> times.</p>
 
 <p>Return <em>the minimum integer you can obtain also as a string</em>.</p>

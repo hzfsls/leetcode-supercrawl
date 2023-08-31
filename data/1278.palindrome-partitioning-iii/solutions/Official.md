@@ -1,3 +1,4 @@
+## [1278.分割回文串 III 中文官方题解](https://leetcode.cn/problems/palindrome-partitioning-iii/solutions/100000/fen-ge-hui-wen-chuan-iii-by-leetcode-solution)
 ### 方法一：动态规划
 
 我们用 `f[i][j]` 表示对于字符串 `S` 的前 `i` 个字符，将它分割成 `j` 个非空且不相交的回文串，最少需要修改的字符数。在进行状态转移时，我们可以枚举第 `j` 个回文串的起始位置 `i0`，那么就有如下的状态转移方程：

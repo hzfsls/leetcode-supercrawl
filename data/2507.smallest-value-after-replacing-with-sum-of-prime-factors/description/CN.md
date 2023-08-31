@@ -1,4 +1,4 @@
-## [2507.使用质因数之和替换后可以取到的最小值]
+## [2507.使用质因数之和替换后可以取到的最小值](https://leetcode.cn/problems/smallest-value-after-replacing-with-sum-of-prime-factors/)
 <p>给你一个正整数 <code>n</code> 。</p>
 
 <p>请你将 <code>n</code> 的值替换为 <code>n</code> 的 <strong>质因数</strong> 之和，重复这一过程。</p>

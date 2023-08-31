@@ -1,4 +1,4 @@
-## [1636.Sort Array by Increasing Frequency]
+## [1636.Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 <p>Given an array of integers <code>nums</code>, sort the array in <strong>increasing</strong> order based on the frequency of the values. If multiple values have the same frequency, sort them in <strong>decreasing</strong> order.</p>
 
 <p>Return the <em>sorted array</em>.</p>

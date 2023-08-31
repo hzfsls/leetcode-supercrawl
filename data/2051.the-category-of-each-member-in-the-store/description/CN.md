@@ -1,4 +1,4 @@
-## [2051.商店中每个成员的级别]
+## [2051.商店中每个成员的级别](https://leetcode.cn/problems/the-category-of-each-member-in-the-store/)
 <p>表: <code>Members</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [1643.Kth Smallest Instructions]
+## [1643.Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/)
 <p>Bob is standing at cell <code>(0, 0)</code>, and he wants to reach <code>destination</code>: <code>(row, column)</code>. He can only travel <strong>right</strong> and <strong>down</strong>. You are going to help Bob by providing <strong>instructions</strong> for him to reach <code>destination</code>.</p>
 
 <p>The <strong>instructions</strong> are represented as a string, where each character is either:</p>

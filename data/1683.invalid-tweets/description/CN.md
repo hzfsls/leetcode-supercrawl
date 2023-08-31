@@ -1,4 +1,4 @@
-## [1683.无效的推文]
+## [1683.无效的推文](https://leetcode.cn/problems/invalid-tweets/)
 <p>表：<code>Tweets</code></p>
 
 <pre>

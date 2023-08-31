@@ -1,4 +1,4 @@
-## [874.模拟行走机器人]
+## [874.模拟行走机器人](https://leetcode.cn/problems/walking-robot-simulation/)
 <p>机器人在一个无限大小的 XY 网格平面上行走，从点&nbsp;<code>(0, 0)</code> 处开始出发，面向北方。该机器人可以接收以下三种类型的命令 <code>commands</code> ：</p>
 
 <ul>

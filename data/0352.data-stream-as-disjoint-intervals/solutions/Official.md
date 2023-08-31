@@ -1,3 +1,4 @@
+## [352.将数据流变为多个不相交区间 中文官方题解](https://leetcode.cn/problems/data-stream-as-disjoint-intervals/solutions/100000/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r)
 #### 方法一：使用有序映射维护区间
 
 **思路与算法**

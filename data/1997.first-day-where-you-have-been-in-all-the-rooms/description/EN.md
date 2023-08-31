@@ -1,4 +1,4 @@
-## [1997.First Day Where You Have Been in All the Rooms]
+## [1997.First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)
 <p>There are <code>n</code> rooms you need to visit, labeled from <code>0</code> to <code>n - 1</code>. Each day is labeled, starting from <code>0</code>. You will go in and visit one room a day.</p>
 
 <p>Initially on day <code>0</code>, you visit room <code>0</code>. The <strong>order</strong> you visit the rooms for the coming days is determined by the following <strong>rules</strong> and a given <strong>0-indexed</strong> array <code>nextVisit</code> of length <code>n</code>:</p>

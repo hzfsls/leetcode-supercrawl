@@ -1,4 +1,4 @@
-## [2085.Count Common Words With One Occurrence]
+## [2085.Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
 <p>Given two string arrays <code>words1</code> and <code>words2</code>, return <em>the number of strings that appear <strong>exactly once</strong> in <b>each</b>&nbsp;of the two arrays.</em></p>
 
 <p>&nbsp;</p>

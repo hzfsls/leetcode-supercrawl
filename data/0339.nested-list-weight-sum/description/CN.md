@@ -1,4 +1,4 @@
-## [339.嵌套列表权重和]
+## [339.嵌套列表权重和](https://leetcode.cn/problems/nested-list-weight-sum/)
 <p>给定一个嵌套的整数列表 <code>nestedList</code> ，每个元素要么是整数，要么是列表。同时，列表中元素同样也可以是整数或者是另一个列表。</p>
 
 <p>整数的 <strong>深度</strong> 是其在列表内部的嵌套层数。例如，嵌套列表 <code>[1,[2,2],[[3],2],1]</code> 中每个整数的值就是其深度。</p>

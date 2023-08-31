@@ -1,3 +1,4 @@
+## [479.最大回文数乘积 中文官方题解](https://leetcode.cn/problems/largest-palindrome-product/solutions/100000/zui-da-hui-wen-shu-cheng-ji-by-leetcode-rcihq)
 #### 方法一：枚举
 
 我们可以从大到小枚举回文数，由于确定了回文数的左半部分，其右半部分也就确定了，因此我们只需要枚举左半部分，同时由于两个 $n$ 位整数的乘积至多是个 $2n$ 位数，我们可以从 $10^n-1$ 开始枚举回文数的左半部分。

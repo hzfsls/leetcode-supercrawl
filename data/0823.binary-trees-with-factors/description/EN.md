@@ -1,4 +1,4 @@
-## [823.Binary Trees With Factors]
+## [823.Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 <p>Given an array of unique integers, <code>arr</code>, where each integer <code>arr[i]</code> is strictly greater than <code>1</code>.</p>
 
 <p>We make a binary tree using these integers, and each number may be used for any number of times. Each non-leaf node&#39;s value should be equal to the product of the values of its children.</p>

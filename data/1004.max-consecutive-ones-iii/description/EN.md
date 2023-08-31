@@ -1,4 +1,4 @@
-## [1004.Max Consecutive Ones III]
+## [1004.Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 <p>Given a binary array <code>nums</code> and an integer <code>k</code>, return <em>the maximum number of consecutive </em><code>1</code><em>&#39;s in the array if you can flip at most</em> <code>k</code> <code>0</code>&#39;s.</p>
 
 <p>&nbsp;</p>

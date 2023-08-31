@@ -1,4 +1,4 @@
-## [1042.Flower Planting With No Adjacent]
+## [1042.Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)
 <p>You have <code>n</code> gardens, labeled from <code>1</code> to <code>n</code>, and an array <code>paths</code> where <code>paths[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> describes a bidirectional path between garden <code>x<sub>i</sub></code> to garden <code>y<sub>i</sub></code>. In each garden, you want to plant one of 4 types of flowers.</p>
 
 <p>All gardens have <strong>at most 3</strong> paths coming into or leaving it.</p>

@@ -1,3 +1,4 @@
+## [933.最近的请求次数 中文官方题解](https://leetcode.cn/problems/number-of-recent-calls/solutions/100000/zui-jin-de-qing-qiu-ci-shu-by-leetcode-s-ncm1)
 #### 方法一：队列
 
 我们可以用一个队列维护发生请求的时间，当在时间 $t$ 收到请求时，将时间 $t$ 入队。

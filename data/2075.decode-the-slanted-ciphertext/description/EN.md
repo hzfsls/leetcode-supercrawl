@@ -1,4 +1,4 @@
-## [2075.Decode the Slanted Ciphertext]
+## [2075.Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)
 <p>A string <code>originalText</code> is encoded using a <strong>slanted transposition cipher</strong> to a string <code>encodedText</code> with the help of a matrix having a <strong>fixed number of rows</strong> <code>rows</code>.</p>
 
 <p><code>originalText</code> is placed first in a top-left to bottom-right manner.</p>

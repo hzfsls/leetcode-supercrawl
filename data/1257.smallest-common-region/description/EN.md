@@ -1,4 +1,4 @@
-## [1257.Smallest Common Region]
+## [1257.Smallest Common Region](https://leetcode.com/problems/smallest-common-region/)
 <p>You are given some lists of <code>regions</code> where the first region of each list includes all other regions in that list.</p>
 
 <p>Naturally, if a region <code>x</code> contains another region <code>y</code> then <code>x</code> is bigger than <code>y</code>. Also, by definition, a region <code>x</code> contains itself.</p>

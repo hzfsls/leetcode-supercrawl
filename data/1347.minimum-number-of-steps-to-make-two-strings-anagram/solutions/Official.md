@@ -1,3 +1,4 @@
+## [1347.制造字母异位词的最小步骤数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram/solutions/100000/zhi-zao-zi-mu-yi-wei-ci-de-zui-xiao-bu-zou-shu-by-)
 #### 方法一：两次哈希计数
 
 题目要求制造字母异位词，所以字母的位置不需要考虑，只需要考虑每种字母的数量。使用哈希表对字母进行计数。计数结束后，检查字符串 $s$ 的哪些字母比字符串 $t$ 中的少，那么 $s$ 需要通过变换补齐这些字母来构造 $t$ 的字母异位词。$s$ 需要补的字母的数量即为需要的步数。

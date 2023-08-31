@@ -1,3 +1,4 @@
+## [1026.节点与其祖先之间的最大差值 中文官方题解](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/solutions/100000/jie-dian-yu-qi-zu-xian-zhi-jian-de-zui-d-2ykj)
 #### 方法一：深度优先搜索
 
 题目要求找出所有祖先节点与它的子孙节点的绝对差值的最大值。按照枚举的思路，我们可以枚举子孙节点，然后找出它的所有祖先节点，计算绝对差值。同样地，我们也可以枚举祖先节点，然后找出它的所有子孙节点，计算绝对差值。

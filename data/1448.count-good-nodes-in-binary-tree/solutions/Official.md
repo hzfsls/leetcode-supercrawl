@@ -1,3 +1,4 @@
+## [1448.统计二叉树中好节点的数目 中文官方题解](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/solutions/100000/tong-ji-er-cha-shu-zhong-hao-jie-dian-de-dqtl)
 #### 方法一：深度优先遍历
 
 **思路与算法**

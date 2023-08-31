@@ -1,4 +1,4 @@
-## [828.Count Unique Characters of All Substrings of a Given String]
+## [828.Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
 <p>Let&#39;s define a function <code>countUniqueChars(s)</code> that returns the number of unique characters in&nbsp;<code>s</code>.</p>
 
 <ul>

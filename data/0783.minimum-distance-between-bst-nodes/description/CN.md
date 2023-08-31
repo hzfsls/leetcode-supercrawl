@@ -1,4 +1,4 @@
-## [783.二叉搜索树节点最小距离]
+## [783.二叉搜索树节点最小距离](https://leetcode.cn/problems/minimum-distance-between-bst-nodes/)
 <p>给你一个二叉搜索树的根节点 <code>root</code> ，返回 <strong>树中任意两不同节点值之间的最小差值</strong> 。</p>
 
 <p>差值是一个正数，其数值等于两值之差的绝对值。</p>

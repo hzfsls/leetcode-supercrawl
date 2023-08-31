@@ -1,3 +1,4 @@
+## [1837.K 进制表示下的各位数字总和 中文官方题解](https://leetcode.cn/problems/sum-of-digits-in-base-k/solutions/100000/k-jin-zhi-biao-shi-xia-de-ge-wei-shu-zi-4ltwc)
 #### 方法一：模拟
 
 **提示 $1$**

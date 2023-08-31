@@ -1,4 +1,4 @@
-## [1258.Synonymous Sentences]
+## [1258.Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/)
 <p>You are given a list of equivalent string pairs <code>synonyms</code> where <code>synonyms[i] = [s<sub>i</sub>, t<sub>i</sub>]</code> indicates that <code>s<sub>i</sub></code> and <code>t<sub>i</sub></code> are equivalent strings. You are also given a sentence <code>text</code>.</p>
 
 <p>Return <em>all possible synonymous sentences <strong>sorted lexicographically</strong></em>.</p>

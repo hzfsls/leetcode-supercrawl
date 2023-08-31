@@ -1,4 +1,4 @@
-## [2390.Removing Stars From a String]
+## [2390.Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 <p>You are given a string <code>s</code>, which contains stars <code>*</code>.</p>
 
 <p>In one operation, you can:</p>

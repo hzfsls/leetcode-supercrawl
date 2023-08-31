@@ -1,3 +1,4 @@
+## [402.移掉 K 位数字 中文官方题解](https://leetcode.cn/problems/remove-k-digits/solutions/100000/yi-diao-kwei-shu-zi-by-leetcode-solution)
 ####  方法一：贪心 + 单调栈
 
 对于两个相同长度的数字序列，最左边不同的数字决定了这两个数字的大小，例如，对于 $A = 1axxx$，$B = 1bxxx$，如果 $a > b$ 则 $A > B$。

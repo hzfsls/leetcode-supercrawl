@@ -1,3 +1,4 @@
+## [1247.交换字符使得字符串相同 中文官方题解](https://leetcode.cn/problems/minimum-swaps-to-make-strings-equal/solutions/100000/jiao-huan-zi-fu-shi-de-zi-fu-chuan-xiang-6b1u)
 #### 方法一：贪心
 
 **思路**

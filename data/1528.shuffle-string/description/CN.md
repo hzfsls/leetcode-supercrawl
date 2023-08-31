@@ -1,4 +1,4 @@
-## [1528.重新排列字符串]
+## [1528.重新排列字符串](https://leetcode.cn/problems/shuffle-string/)
 <p>给你一个字符串 <code>s</code> 和一个 <strong>长度相同</strong> 的整数数组 <code>indices</code> 。</p>
 
 <p>请你重新排列字符串 <code>s</code> ，其中第 <code>i</code> 个字符需要移动到 <code>indices[i]</code> 指示的位置。</p>

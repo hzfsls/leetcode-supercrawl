@@ -1,4 +1,4 @@
-## [766.Toeplitz Matrix]
+## [766.Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
 <p>Given an <code>m x n</code> <code>matrix</code>, return&nbsp;<em><code>true</code>&nbsp;if the matrix is Toeplitz. Otherwise, return <code>false</code>.</em></p>
 
 <p>A matrix is <strong>Toeplitz</strong> if every diagonal from top-left to bottom-right has the same elements.</p>

@@ -1,4 +1,4 @@
-## [385.Mini Parser]
+## [385.Mini Parser](https://leetcode.com/problems/mini-parser/)
 <p>Given a string s represents the serialization of a nested list, implement a parser to deserialize it and return <em>the deserialized</em> <code>NestedInteger</code>.</p>
 
 <p>Each element is either an integer or a list whose elements may also be integers or other lists.</p>

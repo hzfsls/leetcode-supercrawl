@@ -1,4 +1,4 @@
-## [1496.判断路径是否相交]
+## [1496.判断路径是否相交](https://leetcode.cn/problems/path-crossing/)
 <p>给你一个字符串 <code>path</code>，其中 <code>path[i]</code> 的值可以是 <code>'N'</code>、<code>'S'</code>、<code>'E'</code> 或者 <code>'W'</code>，分别表示向北、向南、向东、向西移动一个单位。</p>
 
 <p>你从二维平面上的原点 <code>(0, 0)</code> 处开始出发，按 <code>path</code> 所指示的路径行走。</p>

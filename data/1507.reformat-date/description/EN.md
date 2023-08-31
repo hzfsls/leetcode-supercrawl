@@ -1,4 +1,4 @@
-## [1507.Reformat Date]
+## [1507.Reformat Date](https://leetcode.com/problems/reformat-date/)
 <p>Given a <code>date</code> string in the form&nbsp;<code>Day Month Year</code>, where:</p>
 
 <ul>

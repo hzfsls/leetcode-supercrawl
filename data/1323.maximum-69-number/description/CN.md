@@ -1,4 +1,4 @@
-## [1323.6 和 9 组成的最大数字]
+## [1323.6 和 9 组成的最大数字](https://leetcode.cn/problems/maximum-69-number/)
 <p>给你一个仅由数字 6 和 9 组成的正整数&nbsp;<code>num</code>。</p>
 
 <p>你最多只能翻转一位数字，将 6 变成&nbsp;9，或者把&nbsp;9 变成&nbsp;6 。</p>

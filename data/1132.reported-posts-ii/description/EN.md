@@ -1,4 +1,4 @@
-## [1132.Reported Posts II]
+## [1132.Reported Posts II](https://leetcode.com/problems/reported-posts-ii/)
 <p>Table: <code>Actions</code></p>
 
 <pre>

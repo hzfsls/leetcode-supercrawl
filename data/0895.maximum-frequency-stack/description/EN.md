@@ -1,4 +1,4 @@
-## [895.Maximum Frequency Stack]
+## [895.Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 <p>Design a stack-like data structure to push elements to the stack and pop the most frequent element from the stack.</p>
 
 <p>Implement the <code>FreqStack</code> class:</p>

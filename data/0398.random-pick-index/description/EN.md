@@ -1,4 +1,4 @@
-## [398.Random Pick Index]
+## [398.Random Pick Index](https://leetcode.com/problems/random-pick-index/)
 <p>Given an integer array <code>nums</code> with possible <strong>duplicates</strong>, randomly output the index of a given <code>target</code> number. You can assume that the given target number must exist in the array.</p>
 
 <p>Implement the <code>Solution</code> class:</p>

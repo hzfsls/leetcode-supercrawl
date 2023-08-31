@@ -1,4 +1,4 @@
-## [832.Flipping an Image]
+## [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 <p>Given an <code>n x n</code> binary matrix <code>image</code>, flip the image <strong>horizontally</strong>, then invert it, and return <em>the resulting image</em>.</p>
 
 <p>To flip an image horizontally means that each row of the image is reversed.</p>

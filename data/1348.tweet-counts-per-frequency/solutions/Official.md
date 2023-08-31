@@ -1,3 +1,4 @@
+## [1348.推文计数 中文官方题解](https://leetcode.cn/problems/tweet-counts-per-frequency/solutions/100000/tui-wen-ji-shu-by-leetcode-solution)
 #### 方法一：线性表暴力
 
 使用字典保存用户，按照用户名使用线性表存储其相应的所有推文，查询时遍历该用户的所有推文判断是否在要求的时间区间内。

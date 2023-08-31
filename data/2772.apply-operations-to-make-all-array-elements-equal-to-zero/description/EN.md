@@ -1,4 +1,4 @@
-## [2772.Apply Operations to Make All Array Elements Equal to Zero]
+## [2772.Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a positive integer <code>k</code>.</p>
 
 <p>You can apply the following operation on the array <strong>any</strong> number of times:</p>

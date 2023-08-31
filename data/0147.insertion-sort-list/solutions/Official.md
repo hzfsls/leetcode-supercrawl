@@ -1,3 +1,4 @@
+## [147.对链表进行插入排序 中文官方题解](https://leetcode.cn/problems/insertion-sort-list/solutions/100000/dui-lian-biao-jin-xing-cha-ru-pai-xu-by-leetcode-s)
 #### 方法一：从前往后找插入点
 
 插入排序的基本思想是，维护一个有序序列，初始时有序序列只有一个元素，每次将一个新的元素插入到有序序列中，将有序序列的长度增加 $1$，直到全部元素都加入到有序序列中。

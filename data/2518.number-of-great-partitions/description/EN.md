@@ -1,4 +1,4 @@
-## [2518.Number of Great Partitions]
+## [2518.Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/)
 <p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers and an integer <code>k</code>.</p>
 
 <p><strong>Partition</strong> the array into two ordered <strong>groups</strong> such that each element is in exactly <strong>one</strong> group. A partition is called great if the <strong>sum</strong> of elements of each group is greater than or equal to <code>k</code>.</p>

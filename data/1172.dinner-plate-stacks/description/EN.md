@@ -1,4 +1,4 @@
-## [1172.Dinner Plate Stacks]
+## [1172.Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
 <p>You have an infinite number of stacks arranged in a row and numbered (left to right) from <code>0</code>, each of the stacks has the same maximum capacity.</p>
 
 <p>Implement the <code>DinnerPlates</code> class:</p>

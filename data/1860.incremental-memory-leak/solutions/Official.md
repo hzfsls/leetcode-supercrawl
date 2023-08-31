@@ -1,3 +1,4 @@
+## [1860.增长的内存泄露 中文官方题解](https://leetcode.cn/problems/incremental-memory-leak/solutions/100000/zeng-chang-de-nei-cun-xie-lu-by-leetcode-qqjd)
 #### 方法一：模拟
 
 **提示 $1$**

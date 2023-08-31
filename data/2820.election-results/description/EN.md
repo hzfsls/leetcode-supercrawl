@@ -1,4 +1,4 @@
-## [2820.Election Results]
+## [2820.Election Results](https://leetcode.com/problems/election-results/)
 <p>Table: <code><font face="monospace">Votes</font></code></p>
 
 <pre>

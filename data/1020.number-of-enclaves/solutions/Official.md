@@ -1,3 +1,4 @@
+## [1020.飞地的数量 中文官方题解](https://leetcode.cn/problems/number-of-enclaves/solutions/100000/fei-di-de-shu-liang-by-leetcode-solution-nzs3)
 #### 方法一：深度优先搜索
 
 根据飞地的定义，如果从一个陆地单元格出发无法移动到网格边界，则这个陆地单元格是飞地。因此可以将所有陆地单元格分成两类：第一类陆地单元格和网格边界相连，这些陆地单元格不是飞地；第二类陆地单元格不和网格边界相连，这些陆地单元格是飞地。

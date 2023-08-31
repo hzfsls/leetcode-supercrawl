@@ -1,4 +1,4 @@
-## [2796.重复字符串]
+## [2796.重复字符串](https://leetcode.cn/problems/repeat-string/)
 <p>编写代码实现字符串方法 <code>string.replicate(x)</code> ，它将返回重复的字符串 <code>x</code> 次。</p>
 
 <p>请尝试在不使用内置方法 <code>string.repeat</code> 的情况下实现它。</p>

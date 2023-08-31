@@ -1,3 +1,4 @@
+## [1765.地图中的最高点 中文官方题解](https://leetcode.cn/problems/map-of-highest-peak/solutions/100000/di-tu-zhong-de-zui-gao-dian-by-leetcode-jdkzr)
 #### 方法一：多源广度优先搜索
 
 题目要求让矩阵中的最高高度最大，我们可以通过最大化每个格子的高度来做到这一点。由于任意相邻的格子高度差至多为 $1$，这意味着对于每个格子，其高度至多比其相邻格子中的最小高度多 $1$。

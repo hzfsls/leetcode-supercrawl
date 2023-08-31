@@ -1,4 +1,4 @@
-## [2500.Delete Greatest Value in Each Row]
+## [2500.Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/)
 <p>You are given an <code>m x n</code> matrix <code>grid</code> consisting of positive integers.</p>
 
 <p>Perform the following operation until <code>grid</code> becomes empty:</p>

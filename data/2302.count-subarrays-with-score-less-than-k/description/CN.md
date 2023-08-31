@@ -1,4 +1,4 @@
-## [2302.统计得分小于 K 的子数组数目]
+## [2302.统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/)
 <p>一个数组的 <strong>分数</strong>&nbsp;定义为数组之和 <strong>乘以</strong>&nbsp;数组的长度。</p>
 
 <ul>

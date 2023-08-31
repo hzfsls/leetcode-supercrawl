@@ -1,4 +1,4 @@
-## [248.Strobogrammatic Number III]
+## [248.Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)
 <p>Given two strings low and high that represent two integers <code>low</code> and <code>high</code> where <code>low &lt;= high</code>, return <em>the number of <strong>strobogrammatic numbers</strong> in the range</em> <code>[low, high]</code>.</p>
 
 <p>A <strong>strobogrammatic number</strong> is a number that looks the same when rotated <code>180</code> degrees (looked at upside down).</p>

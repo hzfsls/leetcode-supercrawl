@@ -1,4 +1,4 @@
-## [2721.Execute Asynchronous Functions in Parallel]
+## [2721.Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/)
 <p>Given an array of asynchronous&nbsp;functions&nbsp;<code>functions</code>, return a new promise <code>promise</code>. Each function in the array accepts no arguments&nbsp;and returns a promise.</p>
 
 <p><code>promise</code> resolves:</p>

@@ -1,3 +1,4 @@
+## [171.Excel 表列序号 中文官方题解](https://leetcode.cn/problems/excel-sheet-column-number/solutions/100000/excelbiao-lie-xu-hao-by-leetcode-solutio-r29l)
 #### 方法一：进制转换
 
 这道题要求将 $\text{Excel}$ 表中的列名称转换成相对应的列序号。由于 $\text{Excel}$ 表的列名称由大写字母组成，大写字母共有 $26$ 个，因此列名称的表示实质是 $26$ 进制，需要将 $26$ 进制转换成十进制。

@@ -1,4 +1,4 @@
-## [249.Group Shifted Strings]
+## [249.Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 <p>We can shift a string by shifting each of its letters to its successive letter.</p>
 
 <ul>

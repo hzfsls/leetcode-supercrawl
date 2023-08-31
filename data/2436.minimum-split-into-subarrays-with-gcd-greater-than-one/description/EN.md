@@ -1,4 +1,4 @@
-## [2436.Minimum Split Into Subarrays With GCD Greater Than One]
+## [2436.Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/)
 <p>You are given an array <code>nums</code> consisting of positive integers.</p>
 
 <p>Split the array into <strong>one or more</strong> disjoint subarrays such that:</p>

@@ -1,3 +1,4 @@
+## [1734.解码异或后的排列 中文官方题解](https://leetcode.cn/problems/decode-xored-permutation/solutions/100000/jie-ma-yi-huo-hou-de-pai-lie-by-leetcode-9gw4)
 #### 方法一：利用异或运算解码
 
 这道题规定了数组 $\textit{perm}$ 是前 $n$ 个正整数的排列，其中 $n$ 是**奇数**，只有充分利用给定的条件，才能得到答案。

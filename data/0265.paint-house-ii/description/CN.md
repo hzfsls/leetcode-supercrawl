@@ -1,4 +1,4 @@
-## [265.粉刷房子 II]
+## [265.粉刷房子 II](https://leetcode.cn/problems/paint-house-ii/)
 <p>假如有一排房子共有&nbsp;<code>n</code>&nbsp;幢，每个房子可以被粉刷成 <code>k</code>&nbsp;种颜色中的一种。房子粉刷成不同颜色的花费成本也是不同的。你需要粉刷所有的房子并且使其相邻的两个房子颜色不能相同。</p>
 
 <p>每个房子粉刷成不同颜色的花费以一个 <code>n x k</code> 的矩阵表示。</p>

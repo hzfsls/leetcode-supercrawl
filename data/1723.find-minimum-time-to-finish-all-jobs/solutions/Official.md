@@ -1,3 +1,4 @@
+## [1723.完成所有工作的最短时间 中文官方题解](https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs/solutions/100000/wan-cheng-suo-you-gong-zuo-de-zui-duan-s-hrhu)
 #### 方法一：二分查找 + 回溯 + 剪枝
 
 **思路及算法**

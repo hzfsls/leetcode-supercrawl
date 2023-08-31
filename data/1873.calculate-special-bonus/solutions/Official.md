@@ -1,3 +1,4 @@
+## [1873.计算特殊奖金 中文官方题解](https://leetcode.cn/problems/calculate-special-bonus/solutions/100000/ji-suan-te-shu-jiang-jin-by-leetcode-sol-ipj4)
 [TOC]
 
 ## 解决方案

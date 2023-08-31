@@ -1,4 +1,4 @@
-## [2695.包装数组]
+## [2695.包装数组](https://leetcode.cn/problems/array-wrapper/)
 <p>创建一个名为 <code>ArrayWrapper</code> 的类，它在其构造函数中接受一个整数数组作为参数。该类应具有以下两个特性：</p>
 
 <ul>

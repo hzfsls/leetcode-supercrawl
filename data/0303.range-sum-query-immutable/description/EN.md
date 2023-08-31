@@ -1,4 +1,4 @@
-## [303.Range Sum Query - Immutable]
+## [303.Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 <p>Given an integer array <code>nums</code>, handle multiple queries of the following type:</p>
 
 <ol>

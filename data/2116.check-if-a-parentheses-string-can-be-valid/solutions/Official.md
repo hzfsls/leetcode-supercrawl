@@ -1,3 +1,4 @@
+## [2116.判断一个括号字符串是否有效 中文官方题解](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/solutions/100000/pan-duan-yi-ge-gua-hao-zi-fu-chuan-shi-f-0s47)
 #### 方法一：数学
 
 **思路与算法**

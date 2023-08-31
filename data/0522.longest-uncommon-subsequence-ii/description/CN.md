@@ -1,4 +1,4 @@
-## [522.最长特殊序列 II]
+## [522.最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)
 <p>给定字符串列表&nbsp;<code>strs</code> ，返回其中 <strong>最长的特殊序列</strong>&nbsp;的长度。如果最长特殊序列不存在，返回 <code>-1</code> 。</p>
 
 <p><strong>特殊序列</strong> 定义如下：该序列为某字符串 <strong>独有的子序列（即不能是其他字符串的子序列）</strong>。</p>

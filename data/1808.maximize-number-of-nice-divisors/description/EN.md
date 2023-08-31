@@ -1,4 +1,4 @@
-## [1808.Maximize Number of Nice Divisors]
+## [1808.Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)
 <p>You are given a positive integer <code>primeFactors</code>. You are asked to construct a positive integer <code>n</code> that satisfies the following conditions:</p>
 
 <ul>

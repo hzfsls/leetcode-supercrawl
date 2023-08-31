@@ -1,3 +1,4 @@
+## [805.数组的均值分割 中文官方题解](https://leetcode.cn/problems/split-array-with-same-average/solutions/100000/shu-zu-de-jun-zhi-fen-ge-by-leetcode-sol-f630)
 #### 方法一：折半搜索
 
 **思路与算法**

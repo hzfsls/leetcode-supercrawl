@@ -1,4 +1,4 @@
-## [262.行程和用户]
+## [262.行程和用户](https://leetcode.cn/problems/trips-and-users/)
 表：<code>Trips</code>
 <div class="original__bRMd">
 <div>

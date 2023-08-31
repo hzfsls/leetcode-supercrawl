@@ -1,4 +1,4 @@
-## [1424.对角线遍历 II]
+## [1424.对角线遍历 II](https://leetcode.cn/problems/diagonal-traverse-ii/)
 <p>给你一个列表&nbsp;<code>nums</code>&nbsp;，里面每一个元素都是一个整数列表。请你依照下面各图的规则，按顺序返回&nbsp;<code>nums</code>&nbsp;中对角线上的整数。</p>
 
 <p>&nbsp;</p>

@@ -1,3 +1,4 @@
+## [1003.检查替换后的词是否有效 中文官方题解](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/solutions/100000/jian-cha-ti-huan-hou-de-ci-shi-fou-you-x-0247)
 #### 方法一：栈
 
 遍历字符串 $s$，将当前访问到的字符 $c$ 压入栈 $\textit{stk}$ 中，如果栈元素数目大于等于 $3$ 且栈顶的 $3$ 个元素依次等于 $\text{`a'}$、$\text{`b'}$ 和 $\text{`c'}$，那么将这三个元素出栈。如果最后栈为空，则字符串 $s$ 有效。

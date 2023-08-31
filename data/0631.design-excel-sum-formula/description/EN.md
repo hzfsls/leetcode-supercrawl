@@ -1,4 +1,4 @@
-## [631.Design Excel Sum Formula]
+## [631.Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/)
 <p>Design the basic function of <strong>Excel</strong> and implement the function of the sum formula.</p>
 
 <p>Implement the <code>Excel</code> class:</p>

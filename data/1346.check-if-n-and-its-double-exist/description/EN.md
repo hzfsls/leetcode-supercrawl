@@ -1,4 +1,4 @@
-## [1346.Check If N and Its Double Exist]
+## [1346.Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 <p>Given an array <code>arr</code> of integers, check if there exist two indices <code>i</code> and <code>j</code> such that :</p>
 
 <ul>

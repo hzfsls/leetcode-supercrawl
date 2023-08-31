@@ -1,3 +1,4 @@
+## [1768.交替合并字符串 中文官方题解](https://leetcode.cn/problems/merge-strings-alternately/solutions/100000/jiao-ti-he-bing-zi-fu-chuan-by-leetcode-ac4ih)
 #### 方法一：双指针
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [2436.使子数组最大公约数大于一的最小分割数]
+## [2436.使子数组最大公约数大于一的最小分割数](https://leetcode.cn/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/)
 <p>给定一个由正整数组成的数组 <code>nums</code>。</p>
 
 <p>将数组拆分为&nbsp;<strong>一个或多个&nbsp;</strong>不相连的子数组，如下所示:</p>

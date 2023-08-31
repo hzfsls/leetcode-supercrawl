@@ -1,3 +1,4 @@
+## [1362.最接近的因数 中文官方题解](https://leetcode.cn/problems/closest-divisors/solutions/100000/zui-jie-jin-de-yin-shu-by-leetcode-solution)
 #### 方法一：暴力遍历因数[超出时间限制]
 
 对于想要分解的数字，暴力遍历所有比它小的数字，尝试分解。

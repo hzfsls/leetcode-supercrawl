@@ -1,3 +1,4 @@
+## [1576.替换所有的问号 中文官方题解](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solutions/100000/ti-huan-suo-you-de-wen-hao-by-leetcode-s-f7mp)
 #### 方法一：遍历扫描
 
 题目要求将字符串 $s$ 中的 $\texttt{`?'}$ 转换为若干小写字母，转换后的字母与该字母的前后字母均不相同。遍历字符串 $s$，如果遇到第 $i$ 个字符 $s[i]$ 为 $\texttt{`?'}$ 时，此时直接在英文字母 $\texttt{`a'-`z'}$ 中找到一个与 $s[i-1]$ 和 $s[i+1]$ 均不相同的字母进行替换即可。

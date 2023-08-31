@@ -1,3 +1,4 @@
+## [1371.每个元音包含偶数次的最长子字符串 中文官方题解](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/solutions/100000/mei-ge-yuan-yin-bao-han-ou-shu-ci-de-zui-chang-z-2)
 #### 方法一：前缀和 + 状态压缩
 
 **思路和算法**

@@ -1,3 +1,4 @@
+## [1984.学生分数的最小差值 中文官方题解](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/solutions/100000/xue-sheng-fen-shu-de-zui-xiao-chai-zhi-b-oodu)
 #### 方法一：排序
 
 **思路与算法**

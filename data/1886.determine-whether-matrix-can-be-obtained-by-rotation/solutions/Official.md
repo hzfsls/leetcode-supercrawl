@@ -1,3 +1,4 @@
+## [1886.判断矩阵经轮转后是否一致 中文官方题解](https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/solutions/100000/pan-duan-ju-zhen-jing-lun-zhuan-hou-shi-qa9d0)
 #### 方法一：模拟轮转操作
 
 **提示 $1$**

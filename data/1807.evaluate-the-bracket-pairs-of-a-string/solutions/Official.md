@@ -1,3 +1,4 @@
+## [1807.替换字符串中的括号内容 中文官方题解](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/solutions/100000/ti-huan-zi-fu-chuan-zhong-de-gua-hao-nei-y8d3)
 #### 方法一：哈希表
 
 为了方便查找，我们将 $\textit{knowledge}$ 保存到哈希表 $\textit{dict}$ 中。字符串 $s$ 中有四种类型的字符：

@@ -1,3 +1,4 @@
+## [559.N 叉树的最大深度 中文官方题解](https://leetcode.cn/problems/maximum-depth-of-n-ary-tree/solutions/100000/n-cha-shu-de-zui-da-shen-du-by-leetcode-n7qtv)
 #### 前言
 
 「[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)」要求计算二叉树的最大深度，这道题是第 104 题的推广，从二叉树推广到 $N$ 叉树。

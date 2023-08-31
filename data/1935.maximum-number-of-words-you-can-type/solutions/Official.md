@@ -1,3 +1,4 @@
+## [1935.可以输入的最大单词数 中文官方题解](https://leetcode.cn/problems/maximum-number-of-words-you-can-type/solutions/100000/ke-yi-shu-ru-de-zui-da-dan-ci-shu-by-lee-5dpc)
 #### 方法一：遍历 + 哈希表
 
 **思路与算法**

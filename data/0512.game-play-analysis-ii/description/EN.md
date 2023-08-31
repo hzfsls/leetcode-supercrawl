@@ -1,4 +1,4 @@
-## [512.Game Play Analysis II]
+## [512.Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
 <p>Table: <code>Activity</code></p>
 
 <pre>

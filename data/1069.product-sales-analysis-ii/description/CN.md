@@ -1,4 +1,4 @@
-## [1069.产品销售分析 II]
+## [1069.产品销售分析 II](https://leetcode.cn/problems/product-sales-analysis-ii/)
 <p>销售表：<code>Sales</code></p>
 
 <pre>

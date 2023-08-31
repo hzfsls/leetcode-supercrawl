@@ -1,3 +1,4 @@
+## [537.复数乘法 中文官方题解](https://leetcode.cn/problems/complex-number-multiplication/solutions/100000/fu-shu-cheng-fa-by-leetcode-solution-163i)
 #### 方法一：模拟
 
 复数可以写成 $a + b\mathrm{i}$ 的形式，其中 $a,b \in \mathbb{R}$，$a$ 是实部，$b$ 是虚部，$\mathrm{i}$ 是虚数单位，$\mathrm{i}^2 = -1$。

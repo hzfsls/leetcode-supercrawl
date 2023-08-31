@@ -1,4 +1,4 @@
-## [852.山脉数组的峰顶索引]
+## [852.山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/)
 符合下列属性的数组 <code>arr</code> 称为 <strong>山脉数组</strong> ：
 <ul>
 	<li><code>arr.length &gt;= 3</code></li>

@@ -1,4 +1,4 @@
-## [548.Split Array with Equal Sum]
+## [548.Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/)
 <p>Given an integer array <code>nums</code> of length <code>n</code>, return <code>true</code> if there is a triplet <code>(i, j, k)</code> which satisfies the following conditions:</p>
 
 <ul>

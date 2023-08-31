@@ -1,4 +1,4 @@
-## [1332.删除回文子序列]
+## [1332.删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/)
 <p>给你一个字符串&nbsp;<code>s</code>，它仅由字母&nbsp;<code>'a'</code> 和 <code>'b'</code>&nbsp;组成。每一次删除操作都可以从 <code>s</code> 中删除一个回文 <strong>子序列</strong>。</p>
 
 <p>返回删除给定字符串中所有字符（字符串为空）的最小删除次数。</p>

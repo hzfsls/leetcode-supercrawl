@@ -1,4 +1,4 @@
-## [1733.需要教语言的最少人数]
+## [1733.需要教语言的最少人数](https://leetcode.cn/problems/minimum-number-of-people-to-teach/)
 <p>在一个由 <code>m</code> 个用户组成的社交网络里，我们获取到一些用户之间的好友关系。两个用户之间可以相互沟通的条件是他们都掌握同一门语言。</p>
 
 <p>给你一个整数 <code>n</code> ，数组 <code>languages</code> 和数组 <code>friendships</code> ，它们的含义如下：</p>

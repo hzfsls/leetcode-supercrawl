@@ -1,4 +1,4 @@
-## [504.Base 7]
+## [504.Base 7](https://leetcode.com/problems/base-7/)
 <p>Given an integer <code>num</code>, return <em>a string of its <strong>base 7</strong> representation</em>.</p>
 
 <p>&nbsp;</p>

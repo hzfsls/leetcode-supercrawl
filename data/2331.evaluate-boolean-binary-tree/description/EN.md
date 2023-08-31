@@ -1,4 +1,4 @@
-## [2331.Evaluate Boolean Binary Tree]
+## [2331.Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
 <p>You are given the <code>root</code> of a <strong>full binary tree</strong> with the following properties:</p>
 
 <ul>

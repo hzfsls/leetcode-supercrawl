@@ -1,4 +1,4 @@
-## [1660.纠正二叉树]
+## [1660.纠正二叉树](https://leetcode.cn/problems/correct-a-binary-tree/)
 <p>你有一棵二叉树，这棵二叉树有个小问题，其中<strong>有且只有一个</strong>无效节点，它的右子节点错误地指向了与其在<strong>同一层</strong>且在其<strong>右侧</strong>的一个其他节点。</p>
 
 <p>给定一棵这样的问题二叉树的根节点 <code>root</code> ，将该无效节点<strong>及其所有子节点移除</strong>（除被错误指向的节点外），然后返回新二叉树的根结点。</p>

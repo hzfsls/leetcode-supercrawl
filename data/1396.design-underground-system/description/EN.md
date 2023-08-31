@@ -1,4 +1,4 @@
-## [1396.Design Underground System]
+## [1396.Design Underground System](https://leetcode.com/problems/design-underground-system/)
 <p>An underground railway system is keeping track of customer travel times between different stations. They are using this data to calculate the average time it takes to travel from one station to another.</p>
 
 <p>Implement the <code>UndergroundSystem</code> class:</p>

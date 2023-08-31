@@ -1,4 +1,4 @@
-## [1291.Sequential Digits]
+## [1291.Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 <p>An&nbsp;integer has <em>sequential digits</em> if and only if each digit in the number is one more than the previous digit.</p>
 
 <p>Return a <strong>sorted</strong> list of all the integers&nbsp;in the range <code>[low, high]</code>&nbsp;inclusive that have sequential digits.</p>

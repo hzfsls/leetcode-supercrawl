@@ -1,4 +1,4 @@
-## [1202.Smallest String With Swaps]
+## [1202.Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 <p>You are given a string <code>s</code>, and an array of pairs of indices in the string&nbsp;<code>pairs</code>&nbsp;where&nbsp;<code>pairs[i] =&nbsp;[a, b]</code>&nbsp;indicates 2 indices(0-indexed) of the string.</p>
 
 <p>You can&nbsp;swap the characters at any pair of indices in the given&nbsp;<code>pairs</code>&nbsp;<strong>any number of times</strong>.</p>

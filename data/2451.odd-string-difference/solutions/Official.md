@@ -1,3 +1,4 @@
+## [2451.差值数组不同的字符串 中文官方题解](https://leetcode.cn/problems/odd-string-difference/solutions/100000/chai-zhi-shu-zu-bu-tong-de-zi-fu-chuan-b-3rhg)
 #### 方法一：遍历
 
 **思路与算法**

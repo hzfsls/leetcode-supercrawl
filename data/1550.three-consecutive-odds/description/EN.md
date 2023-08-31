@@ -1,4 +1,4 @@
-## [1550.Three Consecutive Odds]
+## [1550.Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)
 Given an integer array <code>arr</code>, return <code>true</code>&nbsp;if there are three consecutive odd numbers in the array. Otherwise, return&nbsp;<code>false</code>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

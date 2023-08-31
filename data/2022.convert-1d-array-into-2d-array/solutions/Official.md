@@ -1,3 +1,4 @@
+## [2022.将一维数组转变成二维数组 中文官方题解](https://leetcode.cn/problems/convert-1d-array-into-2d-array/solutions/100000/jiang-yi-wei-shu-zu-zhuan-bian-cheng-er-zt47o)
 #### 方法一：模拟
 
 设 $\textit{original}$ 的长度为 $k$，根据题意，如果 $k\ne mn$ 则无法构成二维数组，此时返回空数组。否则我们可以遍历 $\textit{original}$，每 $n$ 个元素创建一个一维数组，放入二维数组中。

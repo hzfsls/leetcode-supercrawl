@@ -1,4 +1,4 @@
-## [1924.Erect the Fence II]
+## [1924.Erect the Fence II](https://leetcode.com/problems/erect-the-fence-ii/)
 <p>You are given a 2D integer array <code>trees</code> where <code>trees[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents the location of the <code>i<sup>th</sup></code> tree in the garden.</p>
 
 <p>You are asked to fence the entire garden using the minimum length of rope possible. The garden is well-fenced only if <strong>all the trees are enclosed</strong> and the rope used <strong>forms a perfect circle</strong>. A tree is considered enclosed if it is inside or on the border of the circle.</p>

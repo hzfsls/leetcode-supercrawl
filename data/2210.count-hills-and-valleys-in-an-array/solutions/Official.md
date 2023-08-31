@@ -1,3 +1,4 @@
+## [2210.统计数组中峰和谷的数量 中文官方题解](https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/solutions/100000/tong-ji-shu-zu-zhong-feng-he-gu-de-shu-l-ca7e)
 #### 方法一：逐个判断
 
 **思路与算法**

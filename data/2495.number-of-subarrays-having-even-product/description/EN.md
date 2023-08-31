@@ -1,4 +1,4 @@
-## [2495.Number of Subarrays Having Even Product]
+## [2495.Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/)
 <p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, return <em>the number of <span data-keyword="subarray-nonempty">subarrays</span> of </em><code>nums</code><em> having an even product</em>.</p>
 
 <p>&nbsp;</p>

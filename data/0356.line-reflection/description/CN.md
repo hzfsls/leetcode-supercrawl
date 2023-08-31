@@ -1,4 +1,4 @@
-## [356.直线镜像]
+## [356.直线镜像](https://leetcode.cn/problems/line-reflection/)
 <p>在一个二维平面空间中，给你 n&nbsp;个点的坐标。问，是否能找出一条平行于 y<strong>&nbsp;</strong>轴的直线，让这些点关于这条直线成镜像排布？</p>
 
 <p><strong>注意</strong>：题目数据中可能有重复的点。</p>

@@ -1,4 +1,4 @@
-## [1686.Stone Game VI]
+## [1686.Stone Game VI](https://leetcode.com/problems/stone-game-vi/)
 <p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
 <p>There are <code>n</code> stones in a pile. On each player&#39;s turn, they can <strong>remove</strong> a stone from the pile and receive points based on the stone&#39;s value. Alice and Bob may <strong>value the stones differently</strong>.</p>

@@ -1,3 +1,4 @@
+## [62.不同路径 中文官方题解](https://leetcode.cn/problems/unique-paths/solutions/100000/bu-tong-lu-jing-by-leetcode-solution-hzjf)
 ### 📺 视频题解  
 ![62. 不同路径.mp4](48ac43ed-52de-41d2-88f7-a6d88792e243)
 

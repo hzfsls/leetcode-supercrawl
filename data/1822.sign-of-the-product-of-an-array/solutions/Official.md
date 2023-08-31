@@ -1,3 +1,4 @@
+## [1822.数组元素积的符号 中文官方题解](https://leetcode.cn/problems/sign-of-the-product-of-an-array/solutions/100000/shu-zu-yuan-su-ji-de-fu-hao-by-leetcode-f4uuj)
 #### 方法一：遍历
 
 如果数组中有一个元素 $0$，那么所有元素值的乘积肯定为 $0$，我们直接返回 $0$。使用 $\textit{sign}$ 记录元素值乘积的符号，$1$ 为表示正，$-1$ 表示为负，初始时 $\textit{sign} = 1$。遍历整个数组，如果元素为正，那么 $\textit{sign}$ 不变，否则令 $\textit{sign} = -\textit{sign}$，最后返回 $\textit{sign}$。

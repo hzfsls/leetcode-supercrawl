@@ -1,4 +1,4 @@
-## [790.多米诺和托米诺平铺]
+## [790.多米诺和托米诺平铺](https://leetcode.cn/problems/domino-and-tromino-tiling/)
 <p>有两种形状的瓷砖：一种是&nbsp;<code>2 x 1</code> 的多米诺形，另一种是形如&nbsp;"L" 的托米诺形。两种形状都可以旋转。</p>
 
 <p><img src="https://assets.leetcode.com/uploads/2021/07/15/lc-domino.jpg" style="height: 195px; width: 362px;" /></p>

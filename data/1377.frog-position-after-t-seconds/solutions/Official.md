@@ -1,3 +1,4 @@
+## [1377.T 秒后青蛙的位置 中文官方题解](https://leetcode.cn/problems/frog-position-after-t-seconds/solutions/100000/t-miao-hou-qing-wa-de-wei-zhi-by-leetcod-fea8)
 #### 方法一：深度优先搜索
 
 首先我们根据 $\textit{edges}$ 求出树的邻接表，方便我们对图进行搜索。并且定义数组 $\textit{seen}$ 用来记录已经遍历过的顶点。此外 $\textit{dfs}$ 的参数还包括当前遍历的顶点序号，和剩余时间 $t$。青蛙从顶点1开始起跳，所以我们从定点 $1$ 开始进行搜索，初始剩余时间为 $t$。

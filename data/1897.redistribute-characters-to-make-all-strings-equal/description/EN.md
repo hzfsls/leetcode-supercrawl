@@ -1,4 +1,4 @@
-## [1897.Redistribute Characters to Make All Strings Equal]
+## [1897.Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)
 <p>You are given an array of strings <code>words</code> (<strong>0-indexed</strong>).</p>
 
 <p>In one operation, pick two <strong>distinct</strong> indices <code>i</code> and <code>j</code>, where <code>words[i]</code> is a non-empty string, and move <strong>any</strong> character from <code>words[i]</code> to <strong>any</strong> position in <code>words[j]</code>.</p>

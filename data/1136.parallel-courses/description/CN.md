@@ -1,4 +1,4 @@
-## [1136.并行课程]
+## [1136.并行课程](https://leetcode.cn/problems/parallel-courses/)
 <p>给你一个整数 <code>n</code> ，表示编号从 <code>1</code> 到 <code>n</code> 的 <code>n</code> 门课程。另给你一个数组 <code>relations</code> ，其中 <code>relations[i] = [prevCourse<sub>i</sub>, nextCourse<sub>i</sub>]</code> ，表示课程 <code>prevCourse<sub>i</sub></code> 和课程 <code>nextCourse<sub>i</sub></code> 之间存在先修关系：课程 <code>prevCourse<sub>i</sub></code> 必须在 <code>nextCourse<sub>i</sub></code> 之前修读完成。</p>
 
 <p>在一个学期内，你可以学习 <strong>任意数量</strong> 的课程，但前提是你已经在上一学期修读完待学习课程的所有先修课程。</p>

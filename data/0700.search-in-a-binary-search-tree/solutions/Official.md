@@ -1,3 +1,4 @@
+## [700.二叉搜索树中的搜索 中文官方题解](https://leetcode.cn/problems/search-in-a-binary-search-tree/solutions/100000/er-cha-sou-suo-shu-zhong-de-sou-suo-by-l-d8zi)
 #### 方法一：递归
 
 二叉搜索树满足如下性质：

@@ -1,3 +1,4 @@
+## [1876.长度为三且各字符不同的子字符串 中文官方题解](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/solutions/100000/chang-du-wei-san-qie-ge-zi-fu-bu-tong-de-pr6h)
 #### 方法一：遍历起始下标
 
 **思路与算法**

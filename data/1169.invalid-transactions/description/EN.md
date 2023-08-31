@@ -1,4 +1,4 @@
-## [1169.Invalid Transactions]
+## [1169.Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)
 <p>A transaction is possibly invalid if:</p>
 
 <ul>

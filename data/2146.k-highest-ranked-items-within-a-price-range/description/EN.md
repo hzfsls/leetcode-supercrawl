@@ -1,4 +1,4 @@
-## [2146.K Highest Ranked Items Within a Price Range]
+## [2146.K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/)
 <p>You are given a <strong>0-indexed</strong> 2D integer array <code>grid</code> of size <code>m x n</code> that represents a map of the items in a shop. The integers in the grid represent the following:</p>
 
 <ul>

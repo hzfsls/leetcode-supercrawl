@@ -1,4 +1,4 @@
-## [2606.Find the Substring With Maximum Cost]
+## [2606.Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)
 <p>You are given a string <code>s</code>, a string <code>chars</code> of <strong>distinct</strong> characters and an integer array <code>vals</code> of the same length as <code>chars</code>.</p>
 
 <p>The <strong>cost of the substring </strong>is the sum of the values of each character in the substring. The cost of an empty string is considered <code>0</code>.</p>

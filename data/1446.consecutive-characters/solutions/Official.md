@@ -1,3 +1,4 @@
+## [1446.连续字符 中文官方题解](https://leetcode.cn/problems/consecutive-characters/solutions/100000/lian-xu-zi-fu-by-leetcode-solution-lctm)
 #### 方法一：一次遍历
 
 题目中的「只包含一种字符的最长非空子字符串的长度」，即为某个字符连续出现次数的最大值。据此可以设计如下算法来求解：

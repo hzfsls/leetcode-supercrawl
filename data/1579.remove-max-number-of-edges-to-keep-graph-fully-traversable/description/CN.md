@@ -1,4 +1,4 @@
-## [1579.保证图可完全遍历]
+## [1579.保证图可完全遍历](https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
 <p>Alice 和 Bob 共有一个无向图，其中包含 n 个节点和 3&nbsp; 种类型的边：</p>
 
 <ul>

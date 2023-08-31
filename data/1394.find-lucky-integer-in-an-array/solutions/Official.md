@@ -1,3 +1,4 @@
+## [1394.找出数组中的幸运数 中文官方题解](https://leetcode.cn/problems/find-lucky-integer-in-an-array/solutions/100000/zhao-chu-shu-zu-zhong-de-xing-yun-shu-by-leetcode-)
 #### 方法一：哈希映射
 
 **思路**

@@ -1,4 +1,4 @@
-## [2755.深度合并两个对象]
+## [2755.深度合并两个对象](https://leetcode.cn/problems/deep-merge-of-two-objects/)
 <p>给定两个值 <code>obj1</code> 和 <code>obj2</code>，返回一个 <strong>深度合并</strong> 的值。</p>
 
 <p>你应该遵循以下规则进行值的 <strong>深度合并</strong>：</p>

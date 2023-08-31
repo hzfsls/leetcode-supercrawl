@@ -1,4 +1,4 @@
-## [2057.Smallest Index With Equal Value]
+## [2057.Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 <p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, return <em>the <strong>smallest</strong> index </em><code>i</code><em> of </em><code>nums</code><em> such that </em><code>i mod 10 == nums[i]</code><em>, or </em><code>-1</code><em> if such index does not exist</em>.</p>
 
 <p><code>x mod y</code> denotes the <strong>remainder</strong> when <code>x</code> is divided by <code>y</code>.</p>

@@ -1,4 +1,4 @@
-## [2014.重复 K 次的最长子序列]
+## [2014.重复 K 次的最长子序列](https://leetcode.cn/problems/longest-subsequence-repeated-k-times/)
 <p>给你一个长度为 <code>n</code> 的字符串 <code>s</code> ，和一个整数 <code>k</code> 。请你找出字符串 <code>s</code> 中 <strong>重复</strong> <code>k</code> 次的 <strong>最长子序列</strong> 。</p>
 
 <p><strong>子序列</strong> 是由其他字符串删除某些（或不删除）字符派生而来的一个字符串。</p>

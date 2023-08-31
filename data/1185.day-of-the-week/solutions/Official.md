@@ -1,3 +1,4 @@
+## [1185.一周中的第几天 中文官方题解](https://leetcode.cn/problems/day-of-the-week/solutions/100000/yi-zhou-zhong-de-di-ji-tian-by-leetcode-w43iw)
 #### 方法一：模拟
 
 **思路及解法**

@@ -1,3 +1,4 @@
+## [947.移除最多的同行或同列石头 中文官方题解](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/solutions/100000/yi-chu-zui-duo-de-tong-xing-huo-tong-lie-m50r)
 #### 方法一：深度优先搜索
 
 **思路及解法**

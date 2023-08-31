@@ -1,3 +1,4 @@
+## [831.隐藏个人信息 中文官方题解](https://leetcode.cn/problems/masking-personal-information/solutions/100000/yin-cang-ge-ren-xin-xi-by-leetcode-solut-2enf)
 #### 方法一：模拟
 
 我们首先判断 $s$ 是邮箱还是电话号码。显然，如果 $s$ 中有字符 $\text{`@'}$，那么它是邮箱，否则它是电话号码。

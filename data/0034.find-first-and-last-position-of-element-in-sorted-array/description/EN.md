@@ -1,4 +1,4 @@
-## [34.Find First and Last Position of Element in Sorted Array]
+## [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 <p>Given an array of integers <code>nums</code> sorted in non-decreasing order, find the starting and ending position of a given <code>target</code> value.</p>
 
 <p>If <code>target</code> is not found in the array, return <code>[-1, -1]</code>.</p>

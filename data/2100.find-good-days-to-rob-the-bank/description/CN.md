@@ -1,4 +1,4 @@
-## [2100.适合打劫银行的日子]
+## [2100.适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/)
 <p>你和一群强盗准备打劫银行。给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>security</code>&nbsp;，其中&nbsp;<code>security[i]</code>&nbsp;是第 <code>i</code>&nbsp;天执勤警卫的数量。日子从 <code>0</code>&nbsp;开始编号。同时给你一个整数&nbsp;<code>time</code>&nbsp;。</p>
 
 <p>如果第 <code>i</code>&nbsp;天满足以下所有条件，我们称它为一个适合打劫银行的日子：</p>

@@ -1,4 +1,4 @@
-## [1537.Get the Maximum Score]
+## [1537.Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
 <p>You are given two <strong>sorted</strong> arrays of distinct integers <code>nums1</code> and <code>nums2.</code></p>
 
 <p>A <strong>valid<strong><em> </em></strong>path</strong> is defined as follows:</p>

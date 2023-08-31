@@ -1,3 +1,4 @@
+## [2699.修改图中的边权 中文官方题解](https://leetcode.cn/problems/modify-graph-edge-weights/solutions/100000/xiu-gai-tu-zhong-de-bian-quan-by-leetcod-66bg)
 #### 前言
 
 本题难度较大。读者需要首先掌握朴素的 [Dijkstra 算法](https://oi-wiki.org/graph/shortest-path/#dijkstra-%E7%AE%97%E6%B3%95)，时间复杂度为 $O(n^2)$，其中 $n$ 是图中的节点数量。如果使用优先队列进行优化，时间复杂度为 $O(m \log m)$，其中 $m$ 是图中的边的数量，而本题中 $m$ 的范围可以达到 $O(n^2)$ 的级别，因此使用朴素的版本，时间复杂度更低。

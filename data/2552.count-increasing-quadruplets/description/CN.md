@@ -1,4 +1,4 @@
-## [2552.统计上升四元组]
+## [2552.统计上升四元组](https://leetcode.cn/problems/count-increasing-quadruplets/)
 <p>给你一个长度为 <code>n</code>&nbsp;下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>nums</code>&nbsp;，它包含&nbsp;<code>1</code>&nbsp;到&nbsp;<code>n</code>&nbsp;的所有数字，请你返回上升四元组的数目。</p>
 
 <p>如果一个四元组&nbsp;<code>(i, j, k, l)</code>&nbsp;满足以下条件，我们称它是上升的：</p>

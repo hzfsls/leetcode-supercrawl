@@ -1,4 +1,4 @@
-## [2729.判断一个数是否迷人]
+## [2729.判断一个数是否迷人](https://leetcode.cn/problems/check-if-the-number-is-fascinating/)
 <p>给你一个三位数整数 <code>n</code>&nbsp;。</p>
 
 <p>如果经过以下修改得到的数字 <strong>恰好</strong>&nbsp;包含数字 <code>1</code>&nbsp;到 <code>9</code>&nbsp;各一次且不包含任何 <code>0</code>&nbsp;，那么我们称数字 <code>n</code>&nbsp;是 <strong>迷人的</strong>&nbsp;：</p>

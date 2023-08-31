@@ -1,3 +1,4 @@
+## [2092.找出知晓秘密的所有专家 中文官方题解](https://leetcode.cn/problems/find-all-people-with-secret/solutions/100000/zhao-chu-zhi-xiao-mi-mi-de-suo-you-zhuan-fzxf)
 #### 方法一：广度优先搜索
 
 **思路与算法**

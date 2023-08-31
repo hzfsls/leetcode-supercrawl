@@ -1,4 +1,4 @@
-## [1151.最少交换次数来组合所有的 1]
+## [1151.最少交换次数来组合所有的 1](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together/)
 <p>给出一个二进制数组&nbsp;<code>data</code>，你需要通过交换位置，将数组中 <strong>任何位置</strong> 上的 1 组合到一起，并返回所有可能中所需&nbsp;<strong>最少的交换次数</strong>。</p>
 
 <p>&nbsp;</p>

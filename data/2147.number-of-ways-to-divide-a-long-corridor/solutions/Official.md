@@ -1,3 +1,4 @@
+## [2147.分隔长廊的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-divide-a-long-corridor/solutions/100000/fen-ge-chang-lang-de-fang-an-shu-by-leet-p9wr)
 #### 方法一：乘法原理
 
 **思路与算法**

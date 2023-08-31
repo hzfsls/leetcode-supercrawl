@@ -1,4 +1,4 @@
-## [804.Unique Morse Code Words]
+## [804.Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 <p>International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows:</p>
 
 <ul>

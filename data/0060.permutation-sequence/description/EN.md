@@ -1,4 +1,4 @@
-## [60.Permutation Sequence]
+## [60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 <p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>
 
 <p>By listing and labeling all of the permutations in order, we get the following sequence for <code>n = 3</code>:</p>

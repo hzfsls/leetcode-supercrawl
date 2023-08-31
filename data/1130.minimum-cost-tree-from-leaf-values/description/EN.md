@@ -1,4 +1,4 @@
-## [1130.Minimum Cost Tree From Leaf Values]
+## [1130.Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
 <p>Given an array <code>arr</code> of positive integers, consider all binary trees such that:</p>
 
 <ul>

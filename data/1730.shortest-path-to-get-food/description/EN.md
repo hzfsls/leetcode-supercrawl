@@ -1,4 +1,4 @@
-## [1730.Shortest Path to Get Food]
+## [1730.Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/)
 <p>You are starving and you want to eat food as quickly as possible. You want to find the shortest path to arrive at any food cell.</p>
 
 <p>You are given an <code>m x n</code> character matrix, <code>grid</code>, of these different types of cells:</p>

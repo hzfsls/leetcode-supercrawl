@@ -1,4 +1,4 @@
-## [2230.查找可享受优惠的用户]
+## [2230.查找可享受优惠的用户](https://leetcode.cn/problems/the-users-that-are-eligible-for-discount/)
 <p>Table: <code>Purchases</code></p>
 
 <pre>+-------------+----------+

@@ -1,4 +1,4 @@
-## [2173.Longest Winning Streak]
+## [2173.Longest Winning Streak](https://leetcode.com/problems/longest-winning-streak/)
 <p>Table: <code>Matches</code></p>
 
 <pre>

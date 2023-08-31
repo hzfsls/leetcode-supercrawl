@@ -1,4 +1,4 @@
-## [1887.Reduction Operations to Make the Array Elements Equal]
+## [1887.Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)
 <p>Given an integer array <code>nums</code>, your goal is to make all elements in <code>nums</code> equal. To complete one operation, follow these steps:</p>
 
 <ol>

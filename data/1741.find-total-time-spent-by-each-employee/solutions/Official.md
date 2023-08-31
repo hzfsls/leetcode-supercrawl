@@ -1,3 +1,4 @@
+## [1741.查找每个员工花费的总时间 中文官方题解](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/solutions/100000/cha-zhao-mei-ge-yuan-gong-hua-fei-de-zon-kyvs)
 [TOC]
 
 ## 解决方案

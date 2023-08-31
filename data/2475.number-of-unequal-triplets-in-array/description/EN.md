@@ -1,4 +1,4 @@
-## [2475.Number of Unequal Triplets in Array]
+## [2475.Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
 <p>You are given a <strong>0-indexed</strong> array of positive integers <code>nums</code>. Find the number of triplets <code>(i, j, k)</code> that meet the following conditions:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2498.Frog Jump II]
+## [2498.Frog Jump II](https://leetcode.com/problems/frog-jump-ii/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>stones</code> sorted in <strong>strictly increasing order</strong> representing the positions of stones in a river.</p>
 
 <p>A frog, initially on the first stone, wants to travel to the last stone and then return to the first stone. However, it can jump to any stone <strong>at most once</strong>.</p>

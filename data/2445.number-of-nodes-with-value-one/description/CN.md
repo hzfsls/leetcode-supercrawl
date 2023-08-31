@@ -1,4 +1,4 @@
-## [2445.值为 1 的节点数]
+## [2445.值为 1 的节点数](https://leetcode.cn/problems/number-of-nodes-with-value-one/)
 <p>有一个&nbsp;<strong>无向&nbsp;</strong>树，有 <code>n</code> 个节点，节点标记为从 <code>1</code> 到 <code>n</code>&nbsp;，还有&nbsp;<code>n - 1</code> 条边。给定整数 <code>n</code>。标记为 <code>v</code> 的节点的父节点是标记为&nbsp;<code>floor (v / 2)</code>&nbsp;的节点。树的根节点是标记为 <code>1</code> 的节点。</p>
 
 <ul>

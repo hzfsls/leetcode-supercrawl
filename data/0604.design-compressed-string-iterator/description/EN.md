@@ -1,4 +1,4 @@
-## [604.Design Compressed String Iterator]
+## [604.Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/)
 <p>Design and implement a data structure for a compressed string iterator. The given compressed string will be in the form of each letter followed by a positive integer representing the number of this letter existing in the original uncompressed string.</p>
 
 <p>Implement the&nbsp;StringIterator class:</p>

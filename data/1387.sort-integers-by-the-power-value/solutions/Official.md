@@ -1,3 +1,4 @@
+## [1387.将整数按权重排序 中文官方题解](https://leetcode.cn/problems/sort-integers-by-the-power-value/solutions/100000/jiang-zheng-shu-an-quan-zhong-pai-xu-by-leetcode-s)
 #### 题目分析
 
 我们要按照权重为第一关键字，原值为第二关键字对区间 `[lo, hi]` 进行排序，关键在于我们怎么求权重。

@@ -1,3 +1,4 @@
+## [2024.考试的最大困扰度 中文官方题解](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/solutions/100000/kao-shi-de-zui-da-kun-rao-du-by-leetcode-qub5)
 #### 方法一：滑动窗口
 
 **思路和算法**

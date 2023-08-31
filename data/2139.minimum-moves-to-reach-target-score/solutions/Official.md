@@ -1,3 +1,4 @@
+## [2139.得到目标值的最少行动次数 中文官方题解](https://leetcode.cn/problems/minimum-moves-to-reach-target-score/solutions/100000/de-dao-mu-biao-zhi-de-zui-shao-xing-dong-39rh)
 #### 方法一：反向操作 + 贪心
 
 **思路与算法**

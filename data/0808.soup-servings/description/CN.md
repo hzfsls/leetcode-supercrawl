@@ -1,4 +1,4 @@
-## [808.分汤]
+## [808.分汤](https://leetcode.cn/problems/soup-servings/)
 <p>有&nbsp;<strong>A&nbsp;和&nbsp;B 两种类型&nbsp;</strong>的汤。一开始每种类型的汤有&nbsp;<code>n</code>&nbsp;毫升。有四种分配操作：</p>
 
 <ol>

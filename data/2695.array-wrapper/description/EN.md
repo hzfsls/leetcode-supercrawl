@@ -1,4 +1,4 @@
-## [2695.Array Wrapper]
+## [2695.Array Wrapper](https://leetcode.com/problems/array-wrapper/)
 <p>Create a class&nbsp;<code>ArrayWrapper</code> that accepts&nbsp;an array of integers in its constructor. This class should have two features:</p>
 
 <ul>

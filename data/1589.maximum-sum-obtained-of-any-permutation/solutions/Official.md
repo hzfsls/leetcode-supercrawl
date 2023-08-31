@@ -1,3 +1,4 @@
+## [1589.所有排列中的最大和 中文官方题解](https://leetcode.cn/problems/maximum-sum-obtained-of-any-permutation/solutions/100000/suo-you-pai-lie-zhong-de-zui-da-he-by-leetcode-sol)
 #### 预备知识：前缀和与差分
 
 **问题引入**

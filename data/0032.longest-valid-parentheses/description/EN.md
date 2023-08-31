@@ -1,4 +1,4 @@
-## [32.Longest Valid Parentheses]
+## [32.Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 <p>Given a string containing just the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>, return <em>the length of the longest valid (well-formed) parentheses </em><span data-keyword="substring-nonempty"><em>substring</em></span>.</p>
 
 <p>&nbsp;</p>

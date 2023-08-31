@@ -1,3 +1,4 @@
+## [863.二叉树中所有距离为 K 的结点 中文官方题解](https://leetcode.cn/problems/all-nodes-distance-k-in-binary-tree/solutions/100000/er-cha-shu-zhong-suo-you-ju-chi-wei-k-de-qbla)
 #### 方法一：深度优先搜索 + 哈希表
 
 若将 $\textit{target}$ 当作树的根结点，我们就能从 $\textit{target}$ 出发，使用深度优先搜索去寻找与 $\textit{target}$ 距离为 $k$ 的所有结点，即深度为 $k$ 的所有结点。

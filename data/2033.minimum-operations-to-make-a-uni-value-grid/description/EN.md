@@ -1,4 +1,4 @@
-## [2033.Minimum Operations to Make a Uni-Value Grid]
+## [2033.Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)
 <p>You are given a 2D integer <code>grid</code> of size <code>m x n</code> and an integer <code>x</code>. In one operation, you can <strong>add</strong> <code>x</code> to or <strong>subtract</strong> <code>x</code> from any element in the <code>grid</code>.</p>
 
 <p>A <strong>uni-value grid</strong> is a grid where all the elements of it are equal.</p>

@@ -1,4 +1,4 @@
-## [2785.将字符串中的元音字母排序]
+## [2785.将字符串中的元音字母排序](https://leetcode.cn/problems/sort-vowels-in-a-string/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的字符串&nbsp;<code>s</code>&nbsp;，将&nbsp;<code>s</code>&nbsp;中的元素重新 <b>排列</b>&nbsp;得到新的字符串&nbsp;<code>t</code>&nbsp;，它满足：</p>
 
 <ul>

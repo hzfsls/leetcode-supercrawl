@@ -1,4 +1,4 @@
-## [2569.更新数组后处理求和查询]
+## [2569.更新数组后处理求和查询](https://leetcode.cn/problems/handling-sum-queries-after-update/)
 <p>给你两个下标从 <strong>0</strong>&nbsp;开始的数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>&nbsp;，和一个二维数组&nbsp;<code>queries</code>&nbsp;表示一些操作。总共有 3 种类型的操作：</p>
 
 <ol>

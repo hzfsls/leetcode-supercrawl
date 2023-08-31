@@ -1,3 +1,4 @@
+## [112.路径总和 中文官方题解](https://leetcode.cn/problems/path-sum/solutions/100000/lu-jing-zong-he-by-leetcode-solution)
 ### 📺 视频题解 
 ![112. 路径总和.mp4](fa34574c-0a90-48e9-8487-01d91349aade)
 

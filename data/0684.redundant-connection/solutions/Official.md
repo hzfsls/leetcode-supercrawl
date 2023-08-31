@@ -1,3 +1,4 @@
+## [684.冗余连接 中文官方题解](https://leetcode.cn/problems/redundant-connection/solutions/100000/rong-yu-lian-jie-by-leetcode-solution-pks2)
 #### 方法一：并查集
 
 在一棵树中，边的数量比节点的数量少 $1$。如果一棵树有 $n$ 个节点，则这棵树有 $n-1$ 条边。这道题中的图在树的基础上多了一条附加的边，因此边的数量也是 $n$。

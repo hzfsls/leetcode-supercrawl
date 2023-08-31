@@ -1,3 +1,4 @@
+## [1298.你能从盒子里获得的最大糖果数 中文官方题解](https://leetcode.cn/problems/maximum-candies-you-can-get-from-boxes/solutions/100000/ni-neng-cong-he-zi-li-huo-de-de-zui-da-tang-guo-2)
 #### 方法一：广度优先搜索
 
 我们可以使用广度优先搜索 + 队列的方法解决这个问题。

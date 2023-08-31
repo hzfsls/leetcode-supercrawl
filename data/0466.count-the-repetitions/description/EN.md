@@ -1,4 +1,4 @@
-## [466.Count The Repetitions]
+## [466.Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
 <p>We define <code>str = [s, n]</code> as the string <code>str</code> which consists of the string <code>s</code> concatenated <code>n</code> times.</p>
 
 <ul>

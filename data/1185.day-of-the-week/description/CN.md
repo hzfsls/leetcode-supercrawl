@@ -1,4 +1,4 @@
-## [1185.一周中的第几天]
+## [1185.一周中的第几天](https://leetcode.cn/problems/day-of-the-week/)
 <p>给你一个日期，请你设计一个算法来判断它是对应一周中的哪一天。</p>
 
 <p>输入为三个整数：<code>day</code>、<code>month</code> 和&nbsp;<code>year</code>，分别表示日、月、年。</p>

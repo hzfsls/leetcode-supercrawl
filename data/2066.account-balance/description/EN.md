@@ -1,4 +1,4 @@
-## [2066.Account Balance]
+## [2066.Account Balance](https://leetcode.com/problems/account-balance/)
 <p>Table: <code>Transactions</code></p>
 
 <pre>

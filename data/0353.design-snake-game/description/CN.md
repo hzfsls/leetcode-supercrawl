@@ -1,4 +1,4 @@
-## [353.贪吃蛇]
+## [353.贪吃蛇](https://leetcode.cn/problems/design-snake-game/)
 <p>请你设计一个 <a href="https://baike.baidu.com/item/%E8%B4%AA%E5%90%83%E8%9B%87/9510203?fr=aladdin" target="_blank">贪吃蛇游戏</a>，该游戏将会在一个 <strong>屏幕尺寸 = 宽度 x 高度 </strong>的屏幕上运行。如果你不熟悉这个游戏，可以 <a href="http://patorjk.com/games/snake/">点击这里</a> 在线试玩。</p>
 
 <p>起初时，蛇在左上角的 <code>(0, 0)</code><strong> </strong>位置，身体长度为 <code>1</code> 个单位。</p>

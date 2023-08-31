@@ -1,4 +1,4 @@
-## [216.Combination Sum III]
+## [216.Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 <p>Find all valid combinations of <code>k</code> numbers that sum up to <code>n</code> such that the following conditions are true:</p>
 
 <ul>

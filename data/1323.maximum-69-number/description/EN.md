@@ -1,4 +1,4 @@
-## [1323.Maximum 69 Number]
+## [1323.Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 <p>You are given a positive integer <code>num</code> consisting only of digits <code>6</code> and <code>9</code>.</p>
 
 <p>Return <em>the maximum number you can get by changing <strong>at most</strong> one digit (</em><code>6</code><em> becomes </em><code>9</code><em>, and </em><code>9</code><em> becomes </em><code>6</code><em>)</em>.</p>

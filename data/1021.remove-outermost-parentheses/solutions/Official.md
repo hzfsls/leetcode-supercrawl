@@ -1,3 +1,4 @@
+## [1021.删除最外层的括号 中文官方题解](https://leetcode.cn/problems/remove-outermost-parentheses/solutions/100000/shan-chu-zui-wai-ceng-de-gua-hao-by-leet-sux0)
 #### 方法一：栈
 
 **思路**

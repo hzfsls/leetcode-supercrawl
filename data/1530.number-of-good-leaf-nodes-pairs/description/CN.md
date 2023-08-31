@@ -1,4 +1,4 @@
-## [1530.好叶子节点对的数量]
+## [1530.好叶子节点对的数量](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/)
 <p>给你二叉树的根节点 <code>root</code> 和一个整数 <code>distance</code> 。</p>
 
 <p>如果二叉树中两个 <strong>叶</strong> 节点之间的 <strong>最短路径长度</strong> 小于或者等于 <code>distance</code> ，那它们就可以构成一组 <strong>好叶子节点对</strong> 。</p>

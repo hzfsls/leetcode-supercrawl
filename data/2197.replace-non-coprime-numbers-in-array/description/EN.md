@@ -1,4 +1,4 @@
-## [2197.Replace Non-Coprime Numbers in Array]
+## [2197.Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
 <p>You are given an array of integers <code>nums</code>. Perform the following steps:</p>
 
 <ol>

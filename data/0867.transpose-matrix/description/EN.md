@@ -1,4 +1,4 @@
-## [867.Transpose Matrix]
+## [867.Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 <p>Given a 2D integer array <code>matrix</code>, return <em>the <strong>transpose</strong> of</em> <code>matrix</code>.</p>
 
 <p>The <strong>transpose</strong> of a matrix is the matrix flipped over its main diagonal, switching the matrix&#39;s row and column indices.</p>

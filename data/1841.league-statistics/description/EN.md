@@ -1,4 +1,4 @@
-## [1841.League Statistics]
+## [1841.League Statistics](https://leetcode.com/problems/league-statistics/)
 <p>Table: <code>Teams</code></p>
 
 <pre>

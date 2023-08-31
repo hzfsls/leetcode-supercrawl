@@ -1,4 +1,4 @@
-## [2202.K 次操作后最大化顶端元素]
+## [2202.K 次操作后最大化顶端元素](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>nums</code>&nbsp;，它表示一个 <strong>栈</strong> ，其中 <code>nums[0]</code>&nbsp;是栈顶的元素。</p>
 
 <p>每一次操作中，你可以执行以下操作 <strong>之一</strong>&nbsp;：</p>

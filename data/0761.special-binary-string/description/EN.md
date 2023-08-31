@@ -1,4 +1,4 @@
-## [761.Special Binary String]
+## [761.Special Binary String](https://leetcode.com/problems/special-binary-string/)
 <p><strong>Special binary strings</strong> are binary strings with the following two properties:</p>
 
 <ul>

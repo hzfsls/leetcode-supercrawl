@@ -1,4 +1,4 @@
-## [1082.销售分析 I ]
+## [1082.销售分析 I ](https://leetcode.cn/problems/sales-analysis-i/)
 <p>产品表：<code>Product</code></p>
 
 <pre>

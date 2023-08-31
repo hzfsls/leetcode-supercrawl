@@ -1,4 +1,4 @@
-## [339.Nested List Weight Sum]
+## [339.Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 <p>You are given a nested list of integers <code>nestedList</code>. Each element is either an integer or a list whose elements may also be integers or other lists.</p>
 
 <p>The <strong>depth</strong> of an integer is the number of lists that it is inside of. For example, the nested list <code>[1,[2,2],[[3],2],1]</code> has each integer&#39;s value set to its <strong>depth</strong>.</p>

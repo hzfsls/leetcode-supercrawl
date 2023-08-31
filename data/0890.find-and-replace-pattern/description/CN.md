@@ -1,4 +1,4 @@
-## [890.查找和替换模式]
+## [890.查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern/)
 <p>你有一个单词列表&nbsp;<code>words</code>&nbsp;和一个模式&nbsp;&nbsp;<code>pattern</code>，你想知道 <code>words</code> 中的哪些单词与模式匹配。</p>
 
 <p>如果存在字母的排列 <code>p</code>&nbsp;，使得将模式中的每个字母 <code>x</code> 替换为 <code>p(x)</code> 之后，我们就得到了所需的单词，那么单词与模式是匹配的。</p>

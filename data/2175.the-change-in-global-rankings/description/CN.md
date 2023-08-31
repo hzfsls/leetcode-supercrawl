@@ -1,4 +1,4 @@
-## [2175.世界排名的变化]
+## [2175.世界排名的变化](https://leetcode.cn/problems/the-change-in-global-rankings/)
 <p>表：<code>TeamPoints</code></p>
 
 <pre>

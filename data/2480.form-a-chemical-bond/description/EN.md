@@ -1,4 +1,4 @@
-## [2480.Form a Chemical Bond]
+## [2480.Form a Chemical Bond](https://leetcode.com/problems/form-a-chemical-bond/)
 <p>Table: <code>Elements</code></p>
 
 <pre>

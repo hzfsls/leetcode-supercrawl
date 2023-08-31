@@ -1,4 +1,4 @@
-## [1988.Find Cutoff Score for Each School]
+## [1988.Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school/)
 <p>Table: <code>Schools</code></p>
 
 <pre>

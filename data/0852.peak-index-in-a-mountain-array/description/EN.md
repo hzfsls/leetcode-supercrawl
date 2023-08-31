@@ -1,4 +1,4 @@
-## [852.Peak Index in a Mountain Array]
+## [852.Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 <p>An array <code>arr</code> is a <strong>mountain</strong> if the following properties hold:</p>
 
 <ul>

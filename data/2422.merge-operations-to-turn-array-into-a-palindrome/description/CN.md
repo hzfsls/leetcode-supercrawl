@@ -1,4 +1,4 @@
-## [2422.使用合并操作将数组转换为回文序列]
+## [2422.使用合并操作将数组转换为回文序列](https://leetcode.cn/problems/merge-operations-to-turn-array-into-a-palindrome/)
 <p>给定一个由&nbsp;<strong>正整数&nbsp;</strong>组成的数组 <code>nums</code>。</p>
 
 <p>可以对阵列执行如下操作，<strong>次数不限</strong>:</p>

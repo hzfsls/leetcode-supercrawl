@@ -1,4 +1,4 @@
-## [1477.Find Two Non-overlapping Sub-arrays Each With Target Sum]
+## [1477.Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
 <p>You are given an array of integers <code>arr</code> and an integer <code>target</code>.</p>
 
 <p>You have to find <strong>two non-overlapping sub-arrays</strong> of <code>arr</code> each with a sum equal <code>target</code>. There can be multiple answers so you have to find an answer where the sum of the lengths of the two sub-arrays is <strong>minimum</strong>.</p>

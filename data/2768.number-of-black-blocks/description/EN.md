@@ -1,4 +1,4 @@
-## [2768.Number of Black Blocks]
+## [2768.Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/)
 <p>You are given two integers <code>m</code> and <code>n</code> representing the dimensions of a&nbsp;<strong>0-indexed</strong>&nbsp;<code>m x n</code> grid.</p>
 
 <p>You are also given a <strong>0-indexed</strong> 2D integer matrix <code>coordinates</code>, where <code>coordinates[i] = [x, y]</code> indicates that the cell with coordinates <code>[x, y]</code> is colored <strong>black</strong>. All cells in the grid that do not appear in <code>coordinates</code> are <strong>white</strong>.</p>

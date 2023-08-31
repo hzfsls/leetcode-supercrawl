@@ -1,3 +1,4 @@
+## [2156.查找给定哈希值的子串 中文官方题解](https://leetcode.cn/problems/find-substring-with-given-hash-value/solutions/100000/cha-zhao-gei-ding-ha-xi-zhi-de-zi-chuan-fi8jd)
 #### 方法一：数学
 
 **思路与算法**

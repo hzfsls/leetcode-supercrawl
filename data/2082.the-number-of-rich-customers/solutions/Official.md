@@ -1,3 +1,4 @@
+## [2082.富有客户的数量 中文官方题解](https://leetcode.cn/problems/the-number-of-rich-customers/solutions/100000/fu-you-ke-hu-de-shu-liang-by-leetcode-so-ac3n)
 [TOC]
 
 ## 解决方案

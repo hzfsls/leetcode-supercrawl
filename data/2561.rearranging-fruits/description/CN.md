@@ -1,4 +1,4 @@
-## [2561.重排水果]
+## [2561.重排水果](https://leetcode.cn/problems/rearranging-fruits/)
 <p>你有两个果篮，每个果篮中有 <code>n</code> 个水果。给你两个下标从 <strong>0</strong> 开始的整数数组 <code>basket1</code> 和 <code>basket2</code> ，用以表示两个果篮中每个水果的成本。</p>
 
 <p>你希望两个果篮相等。为此，可以根据需要多次执行下述操作：</p>

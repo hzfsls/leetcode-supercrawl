@@ -1,4 +1,4 @@
-## [163.缺失的区间]
+## [163.缺失的区间](https://leetcode.cn/problems/missing-ranges/)
 <p>给你一个闭区间&nbsp;<code>[lower, upper]</code> 和一个 <strong>按从小到大排序</strong> 的整数数组 <code>nums</code><em><strong>&nbsp;</strong></em>，其中元素的范围在闭区间&nbsp;<code>[lower, upper]</code>&nbsp;当中。</p>
 
 <p>如果一个数字 <code>x</code> 在 <code>[lower, upper]</code>&nbsp;区间内，并且 <code>x</code> 不在 <code>nums</code> 中，则认为 <code>x</code> <strong>缺失</strong>。</p>

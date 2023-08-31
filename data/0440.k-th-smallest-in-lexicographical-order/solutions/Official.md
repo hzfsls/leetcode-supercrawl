@@ -1,3 +1,4 @@
+## [440.字典序的第K小数字 中文官方题解](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/solutions/100000/zi-dian-xu-de-di-kxiao-shu-zi-by-leetcod-bfy0)
 #### 方法一：字典树思想
 
 **思路**

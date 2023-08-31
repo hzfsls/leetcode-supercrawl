@@ -1,3 +1,4 @@
+## [89.格雷编码 中文官方题解](https://leetcode.cn/problems/gray-code/solutions/100000/ge-lei-bian-ma-by-leetcode-solution-cqi7)
 #### 前言
 
 关于格雷编码的知识，读者可以查阅百度百科「[格雷码](https://baike.baidu.com/item/%E6%A0%BC%E9%9B%B7%E7%A0%81)」。

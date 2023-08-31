@@ -1,4 +1,4 @@
-## [620.有趣的电影]
+## [620.有趣的电影](https://leetcode.cn/problems/not-boring-movies/)
 <p>表：<code>cinema</code></p>
 
 <pre>

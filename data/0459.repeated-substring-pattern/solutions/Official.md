@@ -1,3 +1,4 @@
+## [459.重复的子字符串 中文官方题解](https://leetcode.cn/problems/repeated-substring-pattern/solutions/100000/zhong-fu-de-zi-zi-fu-chuan-by-leetcode-solution)
 #### 方法一：枚举
 
 **思路与算法**

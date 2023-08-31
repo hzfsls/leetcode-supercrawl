@@ -1,3 +1,4 @@
+## [907.子数组的最小值之和 中文官方题解](https://leetcode.cn/problems/sum-of-subarray-minimums/solutions/100000/zi-shu-zu-de-zui-xiao-zhi-zhi-he-by-leet-bp3k)
 #### 方法一：单调栈
 
 考虑所有满足以数组 $\textit{arr}$ 中的某个元素 $\textit{arr}[i]$ 为最右且最小的元素的子序列个数 $C[i]$，那么题目要求求连续子数组的最小值之和即为 $\sum_{i=0}^{n-1} \limits \textit{arr}[i] \times C[i]$，其中数组 $\textit{arr}$ 的长度为 $n$。我们必须假设当前元素为最右边且最小的元素，这样才可以构造互不相交的子序列，否则会出现多次计算，因为一个数组的最小值可能不唯一。

@@ -1,3 +1,4 @@
+## [2274.不含特殊楼层的最大连续楼层数 中文官方题解](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/solutions/100000/bu-han-te-shu-lou-ceng-de-zui-da-lian-xu-ktg1)
 #### 方法一：排序
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [191.位1的个数]
+## [191.位1的个数](https://leetcode.cn/problems/number-of-1-bits/)
 <p>编写一个函数，输入是一个无符号整数（以二进制串的形式），返回其二进制表达式中数字位数为 '1' 的个数（也被称为<a href="https://baike.baidu.com/item/%E6%B1%89%E6%98%8E%E9%87%8D%E9%87%8F" target="_blank">汉明重量</a>）。</p>
 
 <p>&nbsp;</p>

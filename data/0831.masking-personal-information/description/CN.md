@@ -1,4 +1,4 @@
-## [831.隐藏个人信息]
+## [831.隐藏个人信息](https://leetcode.cn/problems/masking-personal-information/)
 <p>给你一条个人信息字符串 <code>s</code> ，可能表示一个 <strong>邮箱地址</strong> ，也可能表示一串 <strong>电话号码</strong> 。返回按如下规则 <strong>隐藏</strong> 个人信息后的结果：</p>
 
 <p><em><strong>电子邮件地址：</strong></em></p>

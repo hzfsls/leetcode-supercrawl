@@ -1,4 +1,4 @@
-## [1512.Number of Good Pairs]
+## [1512.Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 <p>Given an array of integers <code>nums</code>, return <em>the number of <strong>good pairs</strong></em>.</p>
 
 <p>A pair <code>(i, j)</code> is called <em>good</em> if <code>nums[i] == nums[j]</code> and <code>i</code> &lt; <code>j</code>.</p>

@@ -1,3 +1,4 @@
+## [373.查找和最小的 K 对数字 中文官方题解](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/solutions/100000/cha-zhao-he-zui-xiao-de-kdui-shu-zi-by-l-z526)
 #### 方法一：优先队列
 
 **思路**

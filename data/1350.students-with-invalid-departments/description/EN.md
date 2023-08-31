@@ -1,4 +1,4 @@
-## [1350.Students With Invalid Departments]
+## [1350.Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)
 <p>Table: <code>Departments</code></p>
 
 <pre>

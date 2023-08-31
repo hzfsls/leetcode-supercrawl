@@ -1,4 +1,4 @@
-## [1176.健身计划评估]
+## [1176.健身计划评估](https://leetcode.cn/problems/diet-plan-performance/)
 <p>你的好友是一位健身爱好者。前段日子，他给自己制定了一份健身计划。现在想请你帮他评估一下这份计划是否合理。</p>
 
 <p>他会有一份计划消耗的卡路里表，其中&nbsp;<code>calories[i]</code>&nbsp;给出了你的这位好友在第&nbsp;<code>i</code>&nbsp;天需要消耗的卡路里总量。</p>

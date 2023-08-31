@@ -1,3 +1,4 @@
+## [220.存在重复元素 III 中文官方题解](https://leetcode.cn/problems/contains-duplicate-iii/solutions/100000/cun-zai-zhong-fu-yuan-su-iii-by-leetcode-bbkt)
 #### 方法一：滑动窗口 + 有序集合
 
 **思路及算法**

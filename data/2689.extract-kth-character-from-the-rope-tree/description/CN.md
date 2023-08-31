@@ -1,4 +1,4 @@
-## [2689.从 Rope 树中提取第 K 个字符]
+## [2689.从 Rope 树中提取第 K 个字符](https://leetcode.cn/problems/extract-kth-character-from-the-rope-tree/)
 <p>给定一个二叉树的根节点 <code>root</code> 和整数 <code>k</code>。除了左右孩子之外，该树的每个节点还有另外两个属性：一个仅包含小写英文字母（可能为空）的 <strong>字符串</strong> <code>node.val</code> 和一个非负整数 <code>node.len</code>。这棵树中有两种类型的节点：</p>
 
 <ul>

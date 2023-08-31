@@ -1,4 +1,4 @@
-## [2375.Construct Smallest Number From DI String]
+## [2375.Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)
 <p>You are given a <strong>0-indexed</strong> string <code>pattern</code> of length <code>n</code> consisting of the characters <code>&#39;I&#39;</code> meaning <strong>increasing</strong> and <code>&#39;D&#39;</code> meaning <strong>decreasing</strong>.</p>
 
 <p>A <strong>0-indexed</strong> string <code>num</code> of length <code>n + 1</code> is created using the following conditions:</p>

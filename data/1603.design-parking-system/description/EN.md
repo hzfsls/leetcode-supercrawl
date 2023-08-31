@@ -1,4 +1,4 @@
-## [1603.Design Parking System]
+## [1603.Design Parking System](https://leetcode.com/problems/design-parking-system/)
 <p>Design a parking system for a parking lot. The parking lot has three kinds of parking spaces: big, medium, and small, with a fixed number of slots for each size.</p>
 
 <p>Implement the <code>ParkingSystem</code> class:</p>

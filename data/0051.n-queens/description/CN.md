@@ -1,4 +1,4 @@
-## [51.N 皇后]
+## [51.N 皇后](https://leetcode.cn/problems/n-queens/)
 <p>按照国际象棋的规则，皇后可以攻击与之处在同一行或同一列或同一斜线上的棋子。</p>
 
 <p><strong>n&nbsp;皇后问题</strong> 研究的是如何将 <code>n</code>&nbsp;个皇后放置在 <code>n×n</code> 的棋盘上，并且使皇后彼此之间不能相互攻击。</p>

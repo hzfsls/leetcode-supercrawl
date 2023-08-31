@@ -1,4 +1,4 @@
-## [1256.Encode Number]
+## [1256.Encode Number](https://leetcode.com/problems/encode-number/)
 <p>Given a non-negative integer <code>num</code>, Return its <em>encoding</em> string.</p>
 
 <p>The encoding is done by converting the integer to a string using a secret function that you should deduce from the following table:</p>

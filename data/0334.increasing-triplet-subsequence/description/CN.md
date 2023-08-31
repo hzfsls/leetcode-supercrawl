@@ -1,4 +1,4 @@
-## [334.递增的三元子序列]
+## [334.递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/)
 <p>给你一个整数数组&nbsp;<code>nums</code> ，判断这个数组中是否存在长度为 <code>3</code> 的递增子序列。</p>
 
 <p>如果存在这样的三元组下标 <code>(i, j, k)</code>&nbsp;且满足 <code>i &lt; j &lt; k</code> ，使得&nbsp;<code>nums[i] &lt; nums[j] &lt; nums[k]</code> ，返回 <code>true</code> ；否则，返回 <code>false</code> 。</p>

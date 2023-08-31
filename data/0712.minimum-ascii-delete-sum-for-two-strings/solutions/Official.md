@@ -1,3 +1,4 @@
+## [712.两个字符串的最小ASCII删除和 中文官方题解](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/solutions/100000/liang-ge-zi-fu-chuan-de-zui-xiao-asciish-xllf)
 #### 方法一：动态规划
 
 假设字符串 $s_1$ 和 $s_2$ 的长度分别为 $m$ 和 $n$，创建 $m+1$ 行 $n+1$ 列的二维数组 $\textit{dp}$，其中 $\textit{dp}[i][j]$ 表示使 $s_1[0:i]$ 和 $s_2[0:j]$ 相同的最小 $\text{ASCII}$ 删除和。

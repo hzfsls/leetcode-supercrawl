@@ -1,3 +1,4 @@
+## [1798.你能构造出连续值的最大数目 中文官方题解](https://leetcode.cn/problems/maximum-number-of-consecutive-values-you-can-make/solutions/100000/ni-neng-gou-zao-chu-lian-xu-zhi-de-zui-d-wci4)
 #### 方法一：贪心
 
 **思路与算法**

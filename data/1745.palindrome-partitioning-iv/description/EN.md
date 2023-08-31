@@ -1,4 +1,4 @@
-## [1745.Palindrome Partitioning IV]
+## [1745.Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/)
 <p>Given a string <code>s</code>, return <code>true</code> <em>if it is possible to split the string</em> <code>s</code> <em>into three <strong>non-empty</strong> palindromic substrings. Otherwise, return </em><code>false</code>.​​​​​</p>
 
 <p>A string is said to be palindrome if it the same string when reversed.</p>

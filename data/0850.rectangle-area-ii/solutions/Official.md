@@ -1,3 +1,4 @@
+## [850.矩形面积 II 中文官方题解](https://leetcode.cn/problems/rectangle-area-ii/solutions/100000/ju-xing-mian-ji-ii-by-leetcode-solution-ulqz)
 #### 方法一：离散化 + 扫描线 + 使用简单数组实时维护
 
 **思路与算法**

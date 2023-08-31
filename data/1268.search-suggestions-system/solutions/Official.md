@@ -1,3 +1,4 @@
+## [1268.搜索推荐系统 中文官方题解](https://leetcode.cn/problems/search-suggestions-system/solutions/100000/suo-tui-jian-xi-tong-by-leetcode-solution)
 ### 方法一：字典树
 
 由于我们需要将 `searchWord` 的前缀与 `products` 中的字符串进行匹配，因此我们可以使用字典树（Trie）来存储 `products` 中的所有字符串。这样以来，当我们依次输入 `searchWord` 中的每个字母时，我们可以从字典树的根节点开始向下查找，判断是否存在以当前的输入为前缀的字符串，并找出字典序最小的三个（若存在）字符串。

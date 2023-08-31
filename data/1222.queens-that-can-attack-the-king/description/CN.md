@@ -1,4 +1,4 @@
-## [1222.可以攻击国王的皇后]
+## [1222.可以攻击国王的皇后](https://leetcode.cn/problems/queens-that-can-attack-the-king/)
 <p>在一个&nbsp;<strong>8x8</strong>&nbsp;的棋盘上，放置着若干「黑皇后」和一个「白国王」。</p>
 
 <p>给定一个由整数坐标组成的数组&nbsp;<code>queens</code>&nbsp;，表示黑皇后的位置；以及一对坐标&nbsp;<code>king</code> ，表示白国王的位置，返回所有可以攻击国王的皇后的坐标(任意顺序)。</p>

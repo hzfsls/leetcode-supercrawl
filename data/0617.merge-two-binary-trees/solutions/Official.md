@@ -1,3 +1,4 @@
+## [617.合并二叉树 中文官方题解](https://leetcode.cn/problems/merge-two-binary-trees/solutions/100000/he-bing-er-cha-shu-by-leetcode-solution)
 #### 方法一：深度优先搜索
 
 可以使用深度优先搜索合并两个二叉树。从根节点开始同时遍历两个二叉树，并将对应的节点进行合并。

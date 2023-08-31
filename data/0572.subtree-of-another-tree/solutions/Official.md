@@ -1,3 +1,4 @@
+## [572.另一棵树的子树 中文官方题解](https://leetcode.cn/problems/subtree-of-another-tree/solutions/100000/ling-yi-ge-shu-de-zi-shu-by-leetcode-solution)
 ### 📺 视频题解  
 ![572. 另一个树的子树 仲耀晖.mp4](5283b7d4-d346-4570-bbdb-fa07221139e9)
 

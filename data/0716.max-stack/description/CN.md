@@ -1,4 +1,4 @@
-## [716.最大栈]
+## [716.最大栈](https://leetcode.cn/problems/max-stack/)
 <p>设计一个最大栈数据结构，既支持栈操作，又支持查找栈中最大元素。</p>
 
 <p>实现 <code>MaxStack</code> 类：</p>

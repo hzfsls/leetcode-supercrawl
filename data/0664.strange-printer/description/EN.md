@@ -1,4 +1,4 @@
-## [664.Strange Printer]
+## [664.Strange Printer](https://leetcode.com/problems/strange-printer/)
 <p>There is a strange printer with the following two special properties:</p>
 
 <ul>

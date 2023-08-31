@@ -1,3 +1,4 @@
+## [2299.强密码检验器 II 中文官方题解](https://leetcode.cn/problems/strong-password-checker-ii/solutions/100000/qiang-mi-ma-jian-yan-qi-ii-by-leetcode-s-p7ru)
 #### 方法一：模拟
 
 **思路与算法**

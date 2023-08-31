@@ -1,4 +1,4 @@
-## [574.Winning Candidate]
+## [574.Winning Candidate](https://leetcode.com/problems/winning-candidate/)
 <p>Table: <code>Candidate</code></p>
 
 <pre>

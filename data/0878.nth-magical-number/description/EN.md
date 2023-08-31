@@ -1,4 +1,4 @@
-## [878.Nth Magical Number]
+## [878.Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
 <p>A positive integer is <em>magical</em> if it is divisible by either <code>a</code> or <code>b</code>.</p>
 
 <p>Given the three integers <code>n</code>, <code>a</code>, and <code>b</code>, return the <code>n<sup>th</sup></code> magical number. Since the answer may be very large, <strong>return it modulo </strong><code>10<sup>9</sup> + 7</code>.</p>

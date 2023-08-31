@@ -1,4 +1,4 @@
-## [824.山羊拉丁文]
+## [824.山羊拉丁文](https://leetcode.cn/problems/goat-latin/)
 <p>给你一个由若干单词组成的句子&nbsp;<code>sentence</code> ，单词间由空格分隔。每个单词仅由大写和小写英文字母组成。</p>
 
 <p>请你将句子转换为 <em>“</em>山羊拉丁文（<em>Goat Latin</em>）<em>”</em>（一种类似于 猪拉丁文&nbsp;- Pig Latin 的虚构语言）。山羊拉丁文的规则如下：</p>

@@ -1,4 +1,4 @@
-## [1919.兴趣相同的朋友]
+## [1919.兴趣相同的朋友](https://leetcode.cn/problems/leetcodify-similar-friends/)
 <p>表: <code>Listens</code></p>
 
 <pre>

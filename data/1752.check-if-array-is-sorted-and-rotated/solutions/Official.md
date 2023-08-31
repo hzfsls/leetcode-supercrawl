@@ -1,3 +1,4 @@
+## [1752.检查数组是否经排序和轮转得到 中文官方题解](https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated/solutions/100000/jian-cha-shu-zu-shi-fou-jing-pai-xu-he-l-cbqk)
 #### 方法一：直接遍历
 
 **思路与算法**

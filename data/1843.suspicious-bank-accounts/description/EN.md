@@ -1,4 +1,4 @@
-## [1843.Suspicious Bank Accounts]
+## [1843.Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/)
 <p>Table: <code>Accounts</code></p>
 
 <pre>

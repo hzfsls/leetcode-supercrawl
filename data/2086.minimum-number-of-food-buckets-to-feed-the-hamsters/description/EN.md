@@ -1,4 +1,4 @@
-## [2086.Minimum Number of Food Buckets to Feed the Hamsters]
+## [2086.Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/)
 <p>You are given a <strong>0-indexed</strong> string <code>hamsters</code> where <code>hamsters[i]</code> is either:</p>
 
 <ul>

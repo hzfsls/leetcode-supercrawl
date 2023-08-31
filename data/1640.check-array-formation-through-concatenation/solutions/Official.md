@@ -1,3 +1,4 @@
+## [1640.能否连接形成数组 中文官方题解](https://leetcode.cn/problems/check-array-formation-through-concatenation/solutions/100000/neng-fou-lian-jie-xing-cheng-shu-zu-by-l-rnkn)
 #### 方法一：哈希表
 
 因为数组 $\textit{arr}$ 每个整数互不相同，且 $\textit{pieces}$ 的整数也互不相同，所以我们可以通过 $\textit{arr}$ 固定 $\textit{pieces}$ 的放置。使用哈希表 $\textit{index}$ 记录 $\textit{pieces}$ 各个数组的**首元素**与数组下标的对应关系。

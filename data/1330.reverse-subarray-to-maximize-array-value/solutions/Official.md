@@ -1,3 +1,4 @@
+## [1330.翻转子数组得到最大的数组值 中文官方题解](https://leetcode.cn/problems/reverse-subarray-to-maximize-array-value/solutions/100000/fan-zhuan-zi-shu-zu-de-dao-zui-da-de-shu-t9jv)
 #### 方法一：枚举所有可能性
 
 **思路**

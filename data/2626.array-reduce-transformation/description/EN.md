@@ -1,4 +1,4 @@
-## [2626.Array Reduce Transformation]
+## [2626.Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)
 <p>Given an integer array&nbsp;<code>nums</code>, a reducer function&nbsp;<code>fn</code>, and an initial value&nbsp;<code>init</code>, return a&nbsp;<strong>reduced</strong>&nbsp;array.</p>
 
 <p>A&nbsp;<strong>reduced</strong>&nbsp;array is created by applying the following operation:&nbsp;<code>val = fn(init, nums[0])</code>, <code>val&nbsp;= fn(val, nums[1])</code>,&nbsp;<code>val&nbsp;= fn(val, nums[2])</code>,&nbsp;<code>...</code>&nbsp;until every element in the array has been processed. The final value of&nbsp;<code>val</code>&nbsp;is returned.</p>

@@ -1,4 +1,4 @@
-## [1977.Number of Ways to Separate Numbers]
+## [1977.Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)
 <p>You wrote down many <strong>positive</strong> integers in a string called <code>num</code>. However, you realized that you forgot to add commas to seperate the different numbers. You remember that the list of integers was <strong>non-decreasing</strong> and that <strong>no</strong> integer had leading zeros.</p>
 
 <p>Return <em>the <strong>number of possible lists of integers</strong> that you could have written down to get the string </em><code>num</code>. Since the answer may be large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>

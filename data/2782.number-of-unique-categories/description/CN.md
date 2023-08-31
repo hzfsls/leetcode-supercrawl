@@ -1,4 +1,4 @@
-## [2782.唯一类别的数量]
+## [2782.唯一类别的数量](https://leetcode.cn/problems/number-of-unique-categories/)
 <p>现给定一个整数 <code>n</code> 和一个 <code>CategoryHandler</code> 类的对象 <code>categoryHandler</code> 。</p>
 
 <p>有 <code>n</code> 个元素，编号从 <code>0</code> 到 <code>n - 1</code>。每个元素都有一个类别，你的任务是找出唯一类别的数量。</p>

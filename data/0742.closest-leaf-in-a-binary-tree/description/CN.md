@@ -1,4 +1,4 @@
-## [742.二叉树最近的叶节点]
+## [742.二叉树最近的叶节点](https://leetcode.cn/problems/closest-leaf-in-a-binary-tree/)
 <p>给定一个 <strong>每个结点的值互不相同</strong>&nbsp;的二叉树，和一个目标整数值 <code>k</code>，返回 <em>树中与目标值 <code>k</code>&nbsp; <strong>最近的叶结点</strong></em> 。&nbsp;</p>
 
 <p><strong>与叶结点最近</strong><em> </em>表示在二叉树中到达该叶节点需要行进的边数与到达其它叶结点相比最少。而且，当一个结点没有孩子结点时称其为叶结点。</p>

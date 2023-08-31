@@ -1,4 +1,4 @@
-## [919.Complete Binary Tree Inserter]
+## [919.Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)
 <p>A <strong>complete binary tree</strong> is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.</p>
 
 <p>Design an algorithm to insert a new node to a complete binary tree keeping it complete after the insertion.</p>

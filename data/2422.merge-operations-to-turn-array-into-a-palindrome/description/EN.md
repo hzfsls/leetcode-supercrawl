@@ -1,4 +1,4 @@
-## [2422.Merge Operations to Turn Array Into a Palindrome]
+## [2422.Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)
 <p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>You can perform the following operation on the array <strong>any</strong> number of times:</p>

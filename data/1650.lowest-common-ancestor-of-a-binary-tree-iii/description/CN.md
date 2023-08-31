@@ -1,4 +1,4 @@
-## [1650.二叉树的最近公共祖先 III]
+## [1650.二叉树的最近公共祖先 III](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree-iii/)
 <p>给定一棵二叉树中的两个节点 <code>p</code> 和 <code>q</code>，返回它们的最近公共祖先节点（LCA）。</p>
 
 <p>每个节点都包含其父节点的引用（指针）。<code>Node</code> 的定义如下：</p>

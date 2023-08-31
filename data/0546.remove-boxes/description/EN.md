@@ -1,4 +1,4 @@
-## [546.Remove Boxes]
+## [546.Remove Boxes](https://leetcode.com/problems/remove-boxes/)
 <p>You are given several <code>boxes</code> with different colors represented by different positive numbers.</p>
 
 <p>You may experience several rounds to remove boxes until there is no box left. Each time you can choose some continuous boxes with the same color (i.e., composed of <code>k</code> boxes, <code>k &gt;= 1</code>), remove them and get <code>k * k</code> points.</p>

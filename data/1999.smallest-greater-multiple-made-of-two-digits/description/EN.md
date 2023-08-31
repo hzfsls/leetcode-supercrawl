@@ -1,4 +1,4 @@
-## [1999.Smallest Greater Multiple Made of Two Digits]
+## [1999.Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/)
 <p>Given three integers, <code>k</code>, <code>digit1</code>, and <code>digit2</code>, you want to find the <strong>smallest</strong> integer that is:</p>
 
 <ul>

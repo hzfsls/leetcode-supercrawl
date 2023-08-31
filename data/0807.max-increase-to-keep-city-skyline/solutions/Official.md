@@ -1,3 +1,4 @@
+## [807.保持城市天际线 中文官方题解](https://leetcode.cn/problems/max-increase-to-keep-city-skyline/solutions/100000/bao-chi-cheng-shi-tian-ji-xian-by-leetco-n2lu)
 #### 方法一：贪心
 
 从左侧和右侧看，城市天际线等于矩阵 $\textit{grid}$ 的每一行的建筑物高度最大值；从顶部和底部看，城市天际线等于矩阵 $\textit{grid}$ 的每一列的建筑物高度最大值。只要不改变每一行和每一列的建筑物高度最大值，就能保持城市天际线，因此可以使用贪心的思想计算建筑物高度可以增加的最大总和。

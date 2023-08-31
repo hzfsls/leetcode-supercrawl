@@ -1,4 +1,4 @@
-## [1421.NPV Queries]
+## [1421.NPV Queries](https://leetcode.com/problems/npv-queries/)
 <p>Table: <code>NPV</code></p>
 
 <pre>

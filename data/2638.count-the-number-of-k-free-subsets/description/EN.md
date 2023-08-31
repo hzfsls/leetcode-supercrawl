@@ -1,4 +1,4 @@
-## [2638.Count the Number of K-Free Subsets]
+## [2638.Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/)
 <p>You are given an integer array <code>nums</code>,&nbsp;which contains <strong>distinct</strong> elements and an integer <code>k</code>.</p>
 
 <p>A subset is called a <strong>k-Free</strong> subset if it contains <strong>no</strong> two elements with an absolute difference equal to <code>k</code>. Notice that the empty set is a <strong>k-Free</strong> subset.</p>

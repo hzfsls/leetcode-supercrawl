@@ -1,4 +1,4 @@
-## [424.Longest Repeating Character Replacement]
+## [424.Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 <p>You are given a string <code>s</code> and an integer <code>k</code>. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most <code>k</code> times.</p>
 
 <p>Return <em>the length of the longest substring containing the same letter you can get after performing the above operations</em>.</p>

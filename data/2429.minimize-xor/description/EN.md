@@ -1,4 +1,4 @@
-## [2429.Minimize XOR]
+## [2429.Minimize XOR](https://leetcode.com/problems/minimize-xor/)
 <p>Given two positive integers <code>num1</code> and <code>num2</code>, find the positive integer <code>x</code> such that:</p>
 
 <ul>

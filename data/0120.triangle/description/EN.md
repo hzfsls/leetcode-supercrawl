@@ -1,4 +1,4 @@
-## [120.Triangle]
+## [120.Triangle](https://leetcode.com/problems/triangle/)
 <p>Given a <code>triangle</code> array, return <em>the minimum path sum from top to bottom</em>.</p>
 
 <p>For each step, you may move to an adjacent number of the row below. More formally, if you are on index <code>i</code> on the current row, you may move to either index <code>i</code> or index <code>i + 1</code> on the next row.</p>

@@ -1,4 +1,4 @@
-## [511.游戏玩法分析 I]
+## [511.游戏玩法分析 I](https://leetcode.cn/problems/game-play-analysis-i/)
 <p>活动表&nbsp;<code>Activity</code>：</p>
 
 <pre>

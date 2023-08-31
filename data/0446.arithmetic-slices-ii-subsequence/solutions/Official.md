@@ -1,3 +1,4 @@
+## [446.等差数列划分 II - 子序列 中文官方题解](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/solutions/100000/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl)
 #### 方法一：动态规划 + 哈希表
 
 我们首先考虑至少有两个元素的等差子序列，下文将其称作**弱等差子序列**。

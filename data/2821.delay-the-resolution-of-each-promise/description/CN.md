@@ -1,4 +1,4 @@
-## [2821.延迟每个 Promise 对象的解析]
+## [2821.延迟每个 Promise 对象的解析](https://leetcode.cn/problems/delay-the-resolution-of-each-promise/)
 <p>给定一个函数数组 <code>functions</code> 和一个数字 <code>ms</code>，返回一个新的函数数组。</p>
 
 <ul>

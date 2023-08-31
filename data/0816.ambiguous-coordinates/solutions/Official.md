@@ -1,3 +1,4 @@
+## [816.模糊坐标 中文官方题解](https://leetcode.cn/problems/ambiguous-coordinates/solutions/100000/mo-hu-zuo-biao-by-leetcode-solution-y1yz)
 #### 方法一：枚举
 
 **思路与算法**

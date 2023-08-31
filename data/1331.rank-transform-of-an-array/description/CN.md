@@ -1,4 +1,4 @@
-## [1331.数组序号转换]
+## [1331.数组序号转换](https://leetcode.cn/problems/rank-transform-of-an-array/)
 <p>给你一个整数数组&nbsp;<code>arr</code> ，请你将数组中的每个元素替换为它们排序后的序号。</p>
 
 <p>序号代表了一个元素有多大。序号编号的规则如下：</p>

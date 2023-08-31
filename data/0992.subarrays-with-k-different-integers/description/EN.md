@@ -1,4 +1,4 @@
-## [992.Subarrays with K Different Integers]
+## [992.Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 <p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of <strong>good subarrays</strong> of </em><code>nums</code>.</p>
 
 <p>A <strong>good array</strong> is an array where the number of different integers in that array is exactly <code>k</code>.</p>

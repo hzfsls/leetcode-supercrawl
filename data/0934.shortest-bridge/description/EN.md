@@ -1,4 +1,4 @@
-## [934.Shortest Bridge]
+## [934.Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 <p>You are given an <code>n x n</code> binary matrix <code>grid</code> where <code>1</code> represents land and <code>0</code> represents water.</p>
 
 <p>An <strong>island</strong> is a 4-directionally connected group of <code>1</code>&#39;s not connected to any other <code>1</code>&#39;s. There are <strong>exactly two islands</strong> in <code>grid</code>.</p>

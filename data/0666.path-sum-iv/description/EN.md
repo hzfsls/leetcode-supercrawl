@@ -1,4 +1,4 @@
-## [666.Path Sum IV]
+## [666.Path Sum IV](https://leetcode.com/problems/path-sum-iv/)
 <p>If the depth of a tree is smaller than <code>5</code>, then this tree can be represented by an array of three-digit integers. For each integer in this array:</p>
 
 <ul>

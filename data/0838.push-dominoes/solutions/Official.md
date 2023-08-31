@@ -1,3 +1,4 @@
+## [838.推多米诺 中文官方题解](https://leetcode.cn/problems/push-dominoes/solutions/100000/tui-duo-mi-nuo-by-leetcode-solution-dwgm)
 #### 方法一：广度优先搜索
 
 **思路**

@@ -1,4 +1,4 @@
-## [1972.First and Last Call On the Same Day]
+## [1972.First and Last Call On the Same Day](https://leetcode.com/problems/first-and-last-call-on-the-same-day/)
 <p>Table: <code>Calls</code></p>
 
 <pre>

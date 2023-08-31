@@ -1,4 +1,4 @@
-## [726.Number of Atoms]
+## [726.Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
 <p>Given a string <code>formula</code> representing a chemical formula, return <em>the count of each atom</em>.</p>
 
 <p>The atomic element always starts with an uppercase character, then zero or more lowercase letters, representing the name.</p>

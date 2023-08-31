@@ -1,3 +1,4 @@
+## [2136.全部开花的最早一天 中文官方题解](https://leetcode.cn/problems/earliest-possible-day-of-full-bloom/solutions/100000/quan-bu-kai-hua-de-zui-zao-yi-tian-by-le-ocxg)
 #### 方法一：自定义排序
 
 **思路与算法**

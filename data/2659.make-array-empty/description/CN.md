@@ -1,4 +1,4 @@
-## [2659.将数组清空]
+## [2659.将数组清空](https://leetcode.cn/problems/make-array-empty/)
 <p>给你一个包含若干 <strong>互不相同</strong>&nbsp;整数的数组&nbsp;<code>nums</code>&nbsp;，你需要执行以下操作 <strong>直到</strong><strong>数组为空</strong>&nbsp;：</p>
 
 <ul>

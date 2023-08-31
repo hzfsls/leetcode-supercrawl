@@ -1,3 +1,4 @@
+## [944.删列造序 中文官方题解](https://leetcode.cn/problems/delete-columns-to-make-sorted/solutions/100000/shan-lie-zao-xu-by-leetcode-solution-bqyy)
 #### 方法一：直接遍历
 
 **思路与算法**

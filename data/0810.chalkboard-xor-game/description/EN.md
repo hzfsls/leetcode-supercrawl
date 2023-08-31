@@ -1,4 +1,4 @@
-## [810.Chalkboard XOR Game]
+## [810.Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
 <p>You are given an array of integers <code>nums</code> represents the numbers written on a chalkboard.</p>
 
 <p>Alice and Bob take turns erasing exactly one number from the chalkboard, with Alice starting first. If erasing a number causes the bitwise XOR of all the elements of the chalkboard to become <code>0</code>, then that player loses. The bitwise XOR of one element is that element itself, and the bitwise XOR of no elements is <code>0</code>.</p>

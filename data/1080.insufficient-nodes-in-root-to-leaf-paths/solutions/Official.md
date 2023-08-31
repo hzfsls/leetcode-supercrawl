@@ -1,3 +1,4 @@
+## [1080.根到叶路径上的不足节点 中文官方题解](https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/solutions/100000/gen-dao-xie-lu-jing-shang-de-bu-zu-jie-d-f4vz)
 #### 方法一：深度优先搜索
 
 **思路与算法**

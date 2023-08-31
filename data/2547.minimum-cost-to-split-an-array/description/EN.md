@@ -1,4 +1,4 @@
-## [2547.Minimum Cost to Split an Array]
+## [2547.Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/)
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Split the array into some number of non-empty subarrays. The <strong>cost</strong> of a split is the sum of the <strong>importance value</strong> of each subarray in the split.</p>

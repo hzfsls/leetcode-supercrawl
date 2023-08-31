@@ -1,3 +1,4 @@
+## [543.二叉树的直径 中文官方题解](https://leetcode.cn/problems/diameter-of-binary-tree/solutions/100000/er-cha-shu-de-zhi-jing-by-leetcode-solution)
 ### 📺 视频题解  
 
 ![543.二叉树大直径.mp4](4b8a128c-41d0-4605-9dc5-fe5f740cc03b)

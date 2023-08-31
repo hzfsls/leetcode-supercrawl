@@ -1,3 +1,4 @@
+## [873.最长的斐波那契子序列的长度 中文官方题解](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/solutions/100000/zui-chang-de-fei-bo-na-qi-zi-xu-lie-de-c-8trz)
 #### 方法一：动态规划
 
 如果数组 $\textit{arr}$ 中存在三个下标 $i$、$j$、$k$ 满足 $\textit{arr}[i] > \textit{arr}[j] > \textit{arr}[k]$ 且 $\textit{arr}[k] + \textit{arr}[j] = \textit{arr}[i]$，则 $\textit{arr}[k]$、$\textit{arr}[j]$ 和 $\textit{arr}[i]$ 三个元素组成一个斐波那契子序列。由于数组 $\textit{arr}$ 严格递增，因此 $\textit{arr}[i] > \textit{arr}[j] > \textit{arr}[k]$ 等价于 $i > j > k$。

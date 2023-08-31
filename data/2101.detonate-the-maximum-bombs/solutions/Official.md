@@ -1,3 +1,4 @@
+## [2101.引爆最多的炸弹 中文官方题解](https://leetcode.cn/problems/detonate-the-maximum-bombs/solutions/100000/yin-bao-zui-duo-de-zha-dan-by-leetcode-s-iccp)
 #### 方法一：广度优先搜索
 
 **思路与算法**

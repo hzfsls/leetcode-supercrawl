@@ -1,4 +1,4 @@
-## [47.Permutations II]
+## [47.Permutations II](https://leetcode.com/problems/permutations-ii/)
 <p>Given a collection of numbers, <code>nums</code>,&nbsp;that might contain duplicates, return <em>all possible unique permutations <strong>in any order</strong>.</em></p>
 
 <p>&nbsp;</p>

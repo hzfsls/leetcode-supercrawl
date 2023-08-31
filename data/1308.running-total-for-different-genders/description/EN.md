@@ -1,4 +1,4 @@
-## [1308.Running Total for Different Genders]
+## [1308.Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/)
 <p>Table: <code>Scores</code></p>
 
 <pre>

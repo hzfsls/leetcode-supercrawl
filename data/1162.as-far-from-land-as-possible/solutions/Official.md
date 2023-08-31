@@ -1,3 +1,4 @@
+## [1162.地图分析 中文官方题解](https://leetcode.cn/problems/as-far-from-land-as-possible/solutions/100000/di-tu-fen-xi-by-leetcode-solution)
 #### 题目分析
 
 「离陆地区域最远」要求海洋区域距离它最近的陆地区域的曼哈顿距离是最大的。所以我们需要找一个海洋区域，满足它到陆地的最小距离是最大的。

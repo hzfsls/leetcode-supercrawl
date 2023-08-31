@@ -1,4 +1,4 @@
-## [1613.找到遗失的ID]
+## [1613.找到遗失的ID](https://leetcode.cn/problems/find-the-missing-ids/)
 <p>表: <code>Customers</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [2323.完成所有工作的最短时间 II]
+## [2323.完成所有工作的最短时间 II](https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs-ii/)
 <p>给你两个 <b>下标从 0 开始&nbsp;</b>的整数数组 <code>jobs</code> 和&nbsp;<strong>相等&nbsp;</strong>长度的 <code>workers</code> ，其中&nbsp;<code>jobs[i]</code>是完成第 <code>i</code> 个工作所需的时间，<code>workers[j]</code>&nbsp;是第 <code>j</code> 个工人每天可以工作的时间。</p>
 
 <p>每项工作都应该 <strong>正好</strong> 分配给一个工人，这样每个工人就&nbsp;<strong>只能&nbsp;</strong>完成一项工作。</p>

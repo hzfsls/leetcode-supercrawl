@@ -1,3 +1,4 @@
+## [2241.设计一个 ATM 机器 中文官方题解](https://leetcode.cn/problems/design-an-atm-machine/solutions/100000/she-ji-yi-ge-atm-ji-qi-by-leetcode-solut-etxe)
 #### 方法一：维护每种钞票的剩余数目
 
 **思路与算法**

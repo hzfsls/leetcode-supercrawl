@@ -1,3 +1,4 @@
+## [225.用队列实现栈 中文官方题解](https://leetcode.cn/problems/implement-stack-using-queues/solutions/100000/yong-dui-lie-shi-xian-zhan-by-leetcode-solution)
 ### 📺 视频题解  
 ![225. 用队列实现栈 2.mp4](904c0b3d-b8cc-4560-95d2-a5cd2d59effd)
 

@@ -1,4 +1,4 @@
-## [2154.将找到的值乘以 2]
+## [2154.将找到的值乘以 2](https://leetcode.cn/problems/keep-multiplying-found-values-by-two/)
 <p>给你一个整数数组 <code>nums</code> ，另给你一个整数 <code>original</code> ，这是需要在 <code>nums</code> 中搜索的第一个数字。</p>
 
 <p>接下来，你需要按下述步骤操作：</p>

@@ -1,3 +1,4 @@
+## [731.我的日程安排表 II 中文官方题解](https://leetcode.cn/problems/my-calendar-ii/solutions/100000/wo-de-ri-cheng-an-pai-biao-ii-by-leetcod-wo6n)
 #### 方法一：直接遍历
 
 记录下所有已经预定的课程安排区间与已经预定过两次的课程安排区间，当我们预定新的区间 $[\textit{start}, \textit{end})$ 时，此时检查当前已经预定过两次的每个日程安排是否与新日程安排冲突。若不冲突，则可以添加新的日程安排。

@@ -1,4 +1,4 @@
-## [1509.三次操作后最大值与最小值的最小差]
+## [1509.三次操作后最大值与最小值的最小差](https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)
 <p>给你一个数组&nbsp;<code>nums</code>&nbsp;。</p>
 
 <p>每次操作你可以选择&nbsp;<code>nums</code>&nbsp;中的任意一个元素并将它改成 <strong>任意值</strong> 。</p>

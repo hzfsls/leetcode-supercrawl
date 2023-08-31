@@ -1,4 +1,4 @@
-## [1095.山脉数组中查找目标值]
+## [1095.山脉数组中查找目标值](https://leetcode.cn/problems/find-in-mountain-array/)
 <p>（这是一个 <strong>交互式问题&nbsp;</strong>）</p>
 
 <p>给你一个 <strong>山脉数组</strong>&nbsp;<code>mountainArr</code>，请你返回能够使得&nbsp;<code>mountainArr.get(index)</code>&nbsp;<strong>等于</strong>&nbsp;<code>target</code>&nbsp;<strong>最小</strong>&nbsp;的下标 <code>index</code>&nbsp;值。</p>

@@ -1,4 +1,4 @@
-## [1902.给定二叉搜索树的插入顺序求深度]
+## [1902.给定二叉搜索树的插入顺序求深度](https://leetcode.cn/problems/depth-of-bst-given-insertion-order/)
 <p>给定一个<strong>从 0 开始索引</strong>的整数类型数组 <code>order</code> ，其长度为 <code>n</code>，是从 <code>1</code> 到 <code>n</code> 的所有整数的一个排列，表示插入到一棵二叉搜索树的顺序。</p>
 
 <p>二叉搜索树的定义如下：</p>

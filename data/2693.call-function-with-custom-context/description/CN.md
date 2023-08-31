@@ -1,4 +1,4 @@
-## [2693.使用自定义上下文调用函数]
+## [2693.使用自定义上下文调用函数](https://leetcode.cn/problems/call-function-with-custom-context/)
 <p>增强所有函数，使其具有&nbsp;<code>callPolyfill</code>&nbsp;方法。该方法接受一个对象&nbsp;<code>obj</code>&nbsp;作为第一个参数，以及任意数量的附加参数。<code>obj</code>&nbsp;成为函数的&nbsp;<code>this</code>&nbsp;上下文。附加参数将传递给该函数（即&nbsp;<code>callPolyfill</code>&nbsp;方法所属的函数）。</p>
 
 <p>例如，如果有以下函数：</p>

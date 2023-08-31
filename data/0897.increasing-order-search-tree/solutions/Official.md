@@ -1,3 +1,4 @@
+## [897.递增顺序搜索树 中文官方题解](https://leetcode.cn/problems/increasing-order-search-tree/solutions/100000/di-zeng-shun-xu-cha-zhao-shu-by-leetcode-dfrr)
 #### 方法一：中序遍历之后生成新的树
 
 **算法**

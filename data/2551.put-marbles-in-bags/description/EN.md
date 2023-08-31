@@ -1,4 +1,4 @@
-## [2551.Put Marbles in Bags]
+## [2551.Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
 <p>You have <code>k</code> bags. You are given a <strong>0-indexed</strong> integer array <code>weights</code> where <code>weights[i]</code> is the weight of the <code>i<sup>th</sup></code> marble. You are also given the integer <code>k.</code></p>
 
 <p>Divide the marbles into the <code>k</code> bags according to the following rules:</p>

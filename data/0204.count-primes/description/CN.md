@@ -1,4 +1,4 @@
-## [204.计数质数]
+## [204.计数质数](https://leetcode.cn/problems/count-primes/)
 <p>给定整数 <code>n</code> ，返回 <em>所有小于非负整数&nbsp;<code>n</code>&nbsp;的质数的数量</em> 。</p>
 
 <p>&nbsp;</p>

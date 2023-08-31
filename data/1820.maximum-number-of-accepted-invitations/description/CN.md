@@ -1,4 +1,4 @@
-## [1820.最多邀请的个数]
+## [1820.最多邀请的个数](https://leetcode.cn/problems/maximum-number-of-accepted-invitations/)
 <p>某一个班级有 <code>m</code> 个男孩和 <code>n</code> 个女孩，即将举行一个派对。</p>
 
 <p>给定一个 <code>m x n</code> 的整数矩阵 <code>grid</code> ，其中 <code>grid[i][j]</code> 等于 <code>0</code> 或 <code>1</code> 。 若 <code>grid[i][j] == 1</code> ，则表示第 <code>i</code> 个男孩可以邀请第 <code>j</code> 个女孩参加派对。 一个男孩最多可以邀请<strong>一个女孩</strong>，一个女孩最多可以接受一个男孩的<strong>一个邀请</strong>。</p>

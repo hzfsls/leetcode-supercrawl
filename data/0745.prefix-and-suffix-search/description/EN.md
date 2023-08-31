@@ -1,4 +1,4 @@
-## [745.Prefix and Suffix Search]
+## [745.Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
 <p>Design a special dictionary that searches the words in it by a prefix and a suffix.</p>
 
 <p>Implement the <code>WordFilter</code> class:</p>

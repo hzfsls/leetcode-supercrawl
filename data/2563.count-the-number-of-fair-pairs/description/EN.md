@@ -1,4 +1,4 @@
-## [2563.Count the Number of Fair Pairs]
+## [2563.Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
 <p>Given a <strong>0-indexed</strong> integer array <code>nums</code> of size <code>n</code> and two integers <code>lower</code> and <code>upper</code>, return <em>the number of fair pairs</em>.</p>
 
 <p>A pair <code>(i, j)</code> is <b>fair </b>if:</p>

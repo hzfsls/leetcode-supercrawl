@@ -1,4 +1,4 @@
-## [2132.Stamping the Grid]
+## [2132.Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)
 <p>You are given an <code>m x n</code> binary matrix <code>grid</code> where each cell is either <code>0</code> (empty) or <code>1</code> (occupied).</p>
 
 <p>You are then given stamps of size <code>stampHeight x stampWidth</code>. We want to fit the stamps such that they follow the given <strong>restrictions</strong> and <strong>requirements</strong>:</p>

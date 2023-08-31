@@ -1,4 +1,4 @@
-## [2613.美数对]
+## [2613.美数对](https://leetcode.cn/problems/beautiful-pairs/)
 <p>给定两个长度相同的 <strong>下标从 0 开始</strong> 的整数数组 <code>nums1</code> 和 <code>nums2</code>&nbsp;，如果 <code>|nums1[i] - nums1[j]| + |nums2[i] - nums2[j]|</code> 在所有可能的下标对中是最小的，其中 <code>i &lt; j</code> ，则称下标对 <code>(i,j)</code> 为 <strong>美</strong> 数对，</p>
 
 <p>返回美数对。如果有多个美数对，则返回字典序最小的美数对。</p>

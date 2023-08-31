@@ -1,4 +1,4 @@
-## [2503.矩阵查询可获得的最大分数]
+## [2503.矩阵查询可获得的最大分数](https://leetcode.cn/problems/maximum-number-of-points-from-grid-queries/)
 <p>给你一个大小为 <code>m x n</code> 的整数矩阵 <code>grid</code> 和一个大小为 <code>k</code> 的数组 <code>queries</code> 。</p>
 
 <p>找出一个大小为 <code>k</code> 的数组 <code>answer</code> ，且满足对于每个整数 <code>queries[i]</code> ，你从矩阵 <strong>左上角</strong> 单元格开始，重复以下过程：</p>

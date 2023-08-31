@@ -1,3 +1,4 @@
+## [810.黑板异或游戏 中文官方题解](https://leetcode.cn/problems/chalkboard-xor-game/solutions/100000/hei-ban-yi-huo-you-xi-by-leetcode-soluti-eb0c)
 #### 方法一：数学
 
 下文将「按位异或运算」简称为「异或」。

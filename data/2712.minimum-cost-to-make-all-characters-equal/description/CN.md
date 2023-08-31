@@ -1,4 +1,4 @@
-## [2712.使所有字符相等的最小成本]
+## [2712.使所有字符相等的最小成本](https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal/)
 <p>给你一个下标从 <strong>0</strong> 开始、长度为 <code>n</code> 的二进制字符串 <code>s</code> ，你可以对其执行两种操作：</p>
 
 <ul>

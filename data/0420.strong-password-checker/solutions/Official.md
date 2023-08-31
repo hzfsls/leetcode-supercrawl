@@ -1,3 +1,4 @@
+## [420.强密码检验器 中文官方题解](https://leetcode.cn/problems/strong-password-checker/solutions/100000/qiang-mi-ma-jian-yan-qi-by-leetcode-solu-4fqx)
 #### 方法一：分类讨论
 
 **思路与算法**

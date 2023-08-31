@@ -1,4 +1,4 @@
-## [91.解码方法]
+## [91.解码方法](https://leetcode.cn/problems/decode-ways/)
 <p>一条包含字母&nbsp;<code>A-Z</code> 的消息通过以下映射进行了 <strong>编码</strong> ：</p>
 
 <pre>

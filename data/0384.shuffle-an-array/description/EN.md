@@ -1,4 +1,4 @@
-## [384.Shuffle an Array]
+## [384.Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
 <p>Given an integer array <code>nums</code>, design an algorithm to randomly shuffle the array. All permutations of the array should be <strong>equally likely</strong> as a result of the shuffling.</p>
 
 <p>Implement the <code>Solution</code> class:</p>

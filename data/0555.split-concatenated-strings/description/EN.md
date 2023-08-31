@@ -1,4 +1,4 @@
-## [555.Split Concatenated Strings]
+## [555.Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/)
 <p>You are given an array of strings <code>strs</code>. You could concatenate these strings together into a loop, where for each string, you could choose to reverse it or not. Among all the possible loops</p>
 
 <p>Return <em>the lexicographically largest string after cutting the loop, which will make the looped string into a regular one</em>.</p>

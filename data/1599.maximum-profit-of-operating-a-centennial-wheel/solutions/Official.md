@@ -1,3 +1,4 @@
+## [1599.经营摩天轮的最大利润 中文官方题解](https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/100000/jing-ying-mo-tian-lun-de-zui-da-li-run-b-4mdh)
 #### 方法一：模拟
 
 假设每位游客需要支付的费用是 $\textit{boardingCost}$，一次轮转有 $\textit{curCustomers}$ 位游客登上座舱，每次轮转的运行成本是 $\textit{runningCost}$，则摩天轮当前一次轮转的利润是 $\textit{boardingCost} \times \textit{curCustomers} - \textit{runningCost}$，其中 $\textit{boardingCost}$ 和 $\textit{runningCost}$ 的值是已知的，$\textit{curCustomers}$ 的值由正在等摩天轮的游客的数量和座舱可以容纳的游客的数量中的最小值决定，其中座舱可以容纳的游客的数量为 $4$。

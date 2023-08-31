@@ -1,4 +1,4 @@
-## [1577.Number of Ways Where Square of Number Is Equal to Product of Two Numbers]
+## [1577.Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/)
 <p>Given two arrays of integers <code>nums1</code> and <code>nums2</code>, return the number of triplets formed (type 1 and type 2) under the following rules:</p>
 
 <ul>

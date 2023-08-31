@@ -1,3 +1,4 @@
+## [1312.让字符串成为回文串的最少插入次数 中文官方题解](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/solutions/100000/rang-zi-fu-chuan-cheng-wei-hui-wen-chuan-de-zui--2)
 #### 方法一：动态规划
 
 设我们通过最少的操作次数将字符串 `s` 变成了回文串 `s'`，根据 `s'` 长度的奇偶性，会有如下的两种情况：

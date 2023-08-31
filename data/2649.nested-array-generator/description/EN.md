@@ -1,4 +1,4 @@
-## [2649.Nested Array Generator]
+## [2649.Nested Array Generator](https://leetcode.com/problems/nested-array-generator/)
 <p>Given a&nbsp;<strong>multi-dimensional array</strong> of integers, return&nbsp;a generator object which&nbsp;yields integers in the same order as&nbsp;<strong>inorder traversal</strong>.</p>
 
 <p>A&nbsp;<strong>multi-dimensional array</strong>&nbsp;is a recursive data structure that contains both integers and other&nbsp;<strong>multi-dimensional arrays</strong>.</p>

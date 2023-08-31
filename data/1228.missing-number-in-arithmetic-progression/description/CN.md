@@ -1,4 +1,4 @@
-## [1228.等差数列中缺失的数字]
+## [1228.等差数列中缺失的数字](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/)
 <p>在某个数组&nbsp;<code>arr</code>&nbsp;中，值符合等差数列的数值规律：在&nbsp;<code>0 &lt;= i &lt; arr.length - 1</code>&nbsp;的前提下，<code>arr[i+1] - arr[i]</code>&nbsp;的值都相等。</p>
 
 <p>我们会从该数组中删除一个 <strong>既不是第一个 </strong>也<strong>&nbsp;不是最后一个的值</strong>，得到一个新的数组&nbsp;&nbsp;<code>arr</code>。</p>

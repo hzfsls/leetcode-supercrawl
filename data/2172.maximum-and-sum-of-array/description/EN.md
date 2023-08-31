@@ -1,4 +1,4 @@
-## [2172.Maximum AND Sum of Array]
+## [2172.Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/)
 <p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>numSlots</code> such that <code>2 * numSlots &gt;= n</code>. There are <code>numSlots</code> slots numbered from <code>1</code> to <code>numSlots</code>.</p>
 
 <p>You have to place all <code>n</code> integers into the slots such that each slot contains at <strong>most</strong> two numbers. The <strong>AND sum</strong> of a given placement is the sum of the <strong>bitwise</strong> <code>AND</code> of every number with its respective slot number.</p>

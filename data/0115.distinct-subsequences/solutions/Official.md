@@ -1,3 +1,4 @@
+## [115.不同的子序列 中文官方题解](https://leetcode.cn/problems/distinct-subsequences/solutions/100000/bu-tong-de-zi-xu-lie-by-leetcode-solutio-urw3)
 #### 方法一：动态规划
 
 假设字符串 $s$ 和 $t$ 的长度分别为 $m$ 和 $n$。如果 $t$ 是 $s$ 的子序列，则 $s$ 的长度一定大于或等于 $t$ 的长度，即只有当 $m \ge n$ 时，$t$ 才可能是 $s$ 的子序列。如果 $m<n$，则 $t$ 一定不是 $s$ 的子序列，因此直接返回 $0$。

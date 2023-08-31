@@ -1,4 +1,4 @@
-## [569.员工薪水中位数]
+## [569.员工薪水中位数](https://leetcode.cn/problems/median-employee-salary/)
 <p>表:&nbsp;<code>Employee</code></p>
 
 <pre>

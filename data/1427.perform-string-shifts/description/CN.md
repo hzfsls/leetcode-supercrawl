@@ -1,4 +1,4 @@
-## [1427.字符串的左右移]
+## [1427.字符串的左右移](https://leetcode.cn/problems/perform-string-shifts/)
 <p>给定一个包含小写英文字母的字符串&nbsp;<code>s</code>&nbsp;以及一个矩阵&nbsp;<code>shift</code>，其中&nbsp;<code>shift[i] = [direction, amount]</code>：</p>
 
 <ul>

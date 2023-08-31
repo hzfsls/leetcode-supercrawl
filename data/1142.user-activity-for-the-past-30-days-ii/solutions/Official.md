@@ -1,3 +1,4 @@
+## [1142.过去30天的用户活动 II 中文官方题解](https://leetcode.cn/problems/user-activity-for-the-past-30-days-ii/solutions/100000/guo-qu-30tian-de-yong-hu-huo-dong-ii-by-leetcode-s)
 #### 预备知识
 
 本题使用到的 `mysql` 函数的说明：

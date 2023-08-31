@@ -1,4 +1,4 @@
-## [1736.Latest Time by Replacing Hidden Digits]
+## [1736.Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
 <p>You are given a string <code>time</code> in the form of <code> hh:mm</code>, where some of the digits in the string are hidden (represented by <code>?</code>).</p>
 
 <p>The valid times are those inclusively between <code>00:00</code> and <code>23:59</code>.</p>

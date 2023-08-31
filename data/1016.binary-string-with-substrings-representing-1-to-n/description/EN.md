@@ -1,4 +1,4 @@
-## [1016.Binary String With Substrings Representing 1 To N]
+## [1016.Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)
 <p>Given a binary string <code>s</code> and a positive integer <code>n</code>, return <code>true</code><em> if the binary representation of all the integers in the range </em><code>[1, n]</code><em> are <strong>substrings</strong> of </em><code>s</code><em>, or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>A <strong>substring</strong> is a contiguous sequence of characters within a string.</p>

@@ -1,4 +1,4 @@
-## [1220.Count Vowels Permutation]
+## [1220.Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
 <p>Given an integer <code>n</code>, your task is to count how many strings of length <code>n</code> can be formed under the following rules:</p>
 
 <ul>

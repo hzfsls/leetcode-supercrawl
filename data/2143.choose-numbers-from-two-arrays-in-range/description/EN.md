@@ -1,4 +1,4 @@
-## [2143.Choose Numbers From Two Arrays in Range]
+## [2143.Choose Numbers From Two Arrays in Range](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/)
 <p>You are given two <strong>0-indexed</strong> integer arrays <code>nums1</code> and <code>nums2</code> of length <code>n</code>.</p>
 
 <p>A range <code>[l, r]</code> (<strong>inclusive</strong>) where <code>0 &lt;= l &lt;= r &lt; n</code> is <strong>balanced</strong> if:</p>

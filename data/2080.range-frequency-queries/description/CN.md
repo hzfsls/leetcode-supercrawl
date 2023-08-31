@@ -1,4 +1,4 @@
-## [2080.区间内查询数字的频率]
+## [2080.区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/)
 <p>请你设计一个数据结构，它能求出给定子数组内一个给定值的 <strong>频率</strong>&nbsp;。</p>
 
 <p>子数组中一个值的 <strong>频率</strong>&nbsp;指的是这个子数组中这个值的出现次数。</p>

@@ -1,3 +1,4 @@
+## [2034.股票价格波动 中文官方题解](https://leetcode.cn/problems/stock-price-fluctuation/solutions/100000/gu-piao-jie-ge-bo-dong-by-leetcode-solut-rwrb)
 #### 方法一：哈希表 + 有序集合
 
 这道题要求记录特定时间戳的股票价格、返回最新股票价格以及返回股票的最高和最低价格。

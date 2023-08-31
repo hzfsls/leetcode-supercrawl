@@ -1,4 +1,4 @@
-## [547.Number of Provinces]
+## [547.Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
 <p>There are <code>n</code> cities. Some of them are connected, while some are not. If city <code>a</code> is connected directly with city <code>b</code>, and city <code>b</code> is connected directly with city <code>c</code>, then city <code>a</code> is connected indirectly with city <code>c</code>.</p>
 
 <p>A <strong>province</strong> is a group of directly or indirectly connected cities and no other cities outside of the group.</p>

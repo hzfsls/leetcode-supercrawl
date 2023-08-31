@@ -1,4 +1,4 @@
-## [920.播放列表的数量]
+## [920.播放列表的数量](https://leetcode.cn/problems/number-of-music-playlists/)
 <p>你的音乐播放器里有 <code>n</code> 首不同的歌，在旅途中，你计划听 <code>goal</code> 首歌（不一定不同，即，允许歌曲重复）。你将会按如下规则创建播放列表：</p>
 
 <ul>

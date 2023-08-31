@@ -1,4 +1,4 @@
-## [1692.Count Ways to Distribute Candies]
+## [1692.Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/)
 <p>There are <code>n</code> <strong>unique</strong> candies (labeled <code>1</code> through <code>n</code>) and <code>k</code> bags. You are asked to distribute <strong>all</strong> the candies into the bags such that every bag has <strong>at least</strong> one candy.</p>
 
 <p>There can be multiple ways to distribute the candies. Two ways are considered <strong>different</strong> if the candies in one bag in the first way are not all in the same bag in the second way. The order of the bags and the order of the candies within each bag do not matter.</p>

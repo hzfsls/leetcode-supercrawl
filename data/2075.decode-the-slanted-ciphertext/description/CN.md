@@ -1,4 +1,4 @@
-## [2075.解码斜向换位密码]
+## [2075.解码斜向换位密码](https://leetcode.cn/problems/decode-the-slanted-ciphertext/)
 <p>字符串 <code>originalText</code> 使用 <strong>斜向换位密码</strong> ，经由 <strong>行数固定</strong> 为 <code>rows</code> 的矩阵辅助，加密得到一个字符串 <code>encodedText</code> 。</p>
 
 <p><code>originalText</code> 先按从左上到右下的方式放置到矩阵中。</p>

@@ -1,3 +1,4 @@
+## [1980.找出不同的二进制字符串 中文官方题解](https://leetcode.cn/problems/find-unique-binary-string/solutions/100000/zhao-chu-bu-tong-de-er-jin-zhi-zi-fu-chu-0t10)
 #### 方法一：转化为整数
 
 **思路与算法**

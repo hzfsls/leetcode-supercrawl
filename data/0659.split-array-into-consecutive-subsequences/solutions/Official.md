@@ -1,3 +1,4 @@
+## [659.分割数组为连续子序列 中文官方题解](https://leetcode.cn/problems/split-array-into-consecutive-subsequences/solutions/100000/fen-ge-shu-zu-wei-lian-xu-zi-xu-lie-by-l-lbs5)
 #### 方法一：哈希表 + 最小堆
 
 由于需要将数组分割成一个或多个由连续整数组成的子序列，因此只要知道子序列的最后一个数字和子序列的长度，就能确定子序列。

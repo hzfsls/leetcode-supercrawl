@@ -1,4 +1,4 @@
-## [2451.Odd String Difference]
+## [2451.Odd String Difference](https://leetcode.com/problems/odd-string-difference/)
 <p>You are given an array of equal-length strings <code>words</code>. Assume that the length of each string is <code>n</code>.</p>
 
 <p>Each string <code>words[i]</code> can be converted into a <strong>difference integer array</strong> <code>difference[i]</code> of length <code>n - 1</code> where <code>difference[i][j] = words[i][j+1] - words[i][j]</code> where <code>0 &lt;= j &lt;= n - 2</code>. Note that the difference between two letters is the difference between their <strong>positions</strong> in the alphabet i.e.&nbsp;the position of <code>&#39;a&#39;</code> is <code>0</code>, <code>&#39;b&#39;</code> is <code>1</code>, and <code>&#39;z&#39;</code> is <code>25</code>.</p>

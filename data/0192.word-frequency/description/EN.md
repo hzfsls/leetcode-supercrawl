@@ -1,4 +1,4 @@
-## [192.Word Frequency]
+## [192.Word Frequency](https://leetcode.com/problems/word-frequency/)
 <p>Write a bash script to calculate the <span data-keyword="frequency-textfile">frequency</span> of each word in a text file <code>words.txt</code>.</p>
 
 <p>For simplicity sake, you may assume:</p>

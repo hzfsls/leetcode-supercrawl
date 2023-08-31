@@ -1,4 +1,4 @@
-## [1684.Count the Number of Consistent Strings]
+## [1684.Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 <p>You are given a string <code>allowed</code> consisting of <strong>distinct</strong> characters and an array of strings <code>words</code>. A string is <strong>consistent </strong>if all characters in the string appear in the string <code>allowed</code>.</p>
 
 <p>Return<em> the number of <strong>consistent</strong> strings in the array </em><code>words</code>.</p>

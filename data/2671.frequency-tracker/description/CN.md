@@ -1,4 +1,4 @@
-## [2671.频率跟踪器]
+## [2671.频率跟踪器](https://leetcode.cn/problems/frequency-tracker/)
 <p>请你设计并实现一个能够对其中的值进行跟踪的数据结构，并支持对频率相关查询进行应答。</p>
 
 <p>实现 <code>FrequencyTracker</code> 类：</p>

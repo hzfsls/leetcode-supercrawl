@@ -1,4 +1,4 @@
-## [2785.Sort Vowels in a String]
+## [2785.Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)
 <p>Given a <strong>0-indexed</strong> string <code>s</code>, <strong>permute</strong> <code>s</code> to get a new string <code>t</code> such that:</p>
 
 <ul>

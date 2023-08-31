@@ -1,3 +1,4 @@
+## [1482.制作 m 束花所需的最少天数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/solutions/100000/zhi-zuo-m-shu-hua-suo-xu-de-zui-shao-tia-mxci)
 #### 方法一：二分查找
 
 每束花需要 $k$ 朵花，需要制作 $m$ 束花，因此一共需要 $k \times m$ 朵花。如果花园中的花朵数量少于 $k \times m$，即数组 $\textit{bloomDay}$ 的长度小于 $k \times m$，则无法制作出指定数量的花束，返回 $-1$。如果数组 $\textit{bloomDay}$ 的长度大于或等于 $k \times m$，则一定可以制作出指定数量的花束。

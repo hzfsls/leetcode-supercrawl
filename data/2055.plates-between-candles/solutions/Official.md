@@ -1,3 +1,4 @@
+## [2055.蜡烛之间的盘子 中文官方题解](https://leetcode.cn/problems/plates-between-candles/solutions/100000/zha-zhu-zhi-jian-de-pan-zi-by-leetcode-s-ejst)
 #### 方法一：预处理 + 前缀和
 
 **思路和算法**

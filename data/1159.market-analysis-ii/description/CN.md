@@ -1,4 +1,4 @@
-## [1159.市场分析 II]
+## [1159.市场分析 II](https://leetcode.cn/problems/market-analysis-ii/)
 <p>表: <code>Users</code></p>
 
 <pre>

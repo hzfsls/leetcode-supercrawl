@@ -1,3 +1,4 @@
+## [232.用栈实现队列 中文官方题解](https://leetcode.cn/problems/implement-queue-using-stacks/solutions/100000/yong-zhan-shi-xian-dui-lie-by-leetcode-s-xnb6)
 #### 方法一：双栈
 
 **思路**

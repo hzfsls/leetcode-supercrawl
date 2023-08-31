@@ -1,4 +1,4 @@
-## [1963.使字符串平衡的最小交换次数]
+## [1963.使字符串平衡的最小交换次数](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
 <p>给你一个字符串 <code>s</code> ，<strong>下标从 0 开始</strong> ，且长度为偶数 <code>n</code> 。字符串 <strong>恰好</strong> 由 <code>n / 2</code> 个开括号 <code>'['</code> 和 <code>n / 2</code> 个闭括号 <code>']'</code> 组成。</p>
 
 <p>只有能满足下述所有条件的字符串才能称为 <strong>平衡字符串</strong> ：</p>

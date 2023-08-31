@@ -1,3 +1,4 @@
+## [191.位1的个数 中文官方题解](https://leetcode.cn/problems/number-of-1-bits/solutions/100000/wei-1de-ge-shu-by-leetcode-solution-jnwf)
 #### 方法一：循环检查二进制位
 
 **思路及解法**

@@ -1,4 +1,4 @@
-## [754.到达终点数字]
+## [754.到达终点数字](https://leetcode.cn/problems/reach-a-number/)
 <p>在一根无限长的数轴上，你站在<code>0</code>的位置。终点在<code>target</code>的位置。</p>
 
 <p>你可以做一些数量的移动 <code>numMoves</code> :</p>

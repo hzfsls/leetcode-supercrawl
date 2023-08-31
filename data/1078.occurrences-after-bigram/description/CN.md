@@ -1,4 +1,4 @@
-## [1078.Bigram 分词]
+## [1078.Bigram 分词](https://leetcode.cn/problems/occurrences-after-bigram/)
 <p>给出第一个词&nbsp;<code>first</code> 和第二个词&nbsp;<code>second</code>，考虑在某些文本&nbsp;<code>text</code>&nbsp;中可能以 <code>"first second third"</code> 形式出现的情况，其中&nbsp;<code>second</code>&nbsp;紧随&nbsp;<code>first</code>&nbsp;出现，<code>third</code>&nbsp;紧随&nbsp;<code>second</code>&nbsp;出现。</p>
 
 <p>对于每种这样的情况，将第三个词 "<code>third</code>" 添加到答案中，并返回答案。</p>

@@ -1,3 +1,4 @@
+## [1931.用三种不同颜色为网格涂色 中文官方题解](https://leetcode.cn/problems/painting-a-grid-with-three-different-colors/solutions/100000/yong-san-chong-bu-tong-yan-se-wei-wang-g-7nb2)
 #### 方法一：状态压缩动态规划
 
 **提示 $1$**

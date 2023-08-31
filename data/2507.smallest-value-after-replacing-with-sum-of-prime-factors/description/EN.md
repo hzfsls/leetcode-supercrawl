@@ -1,4 +1,4 @@
-## [2507.Smallest Value After Replacing With Sum of Prime Factors]
+## [2507.Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/)
 <p>You are given a positive integer <code>n</code>.</p>
 
 <p>Continuously replace <code>n</code> with the sum of its <strong>prime factors</strong>.</p>

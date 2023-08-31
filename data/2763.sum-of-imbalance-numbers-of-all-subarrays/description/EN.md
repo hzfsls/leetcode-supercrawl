@@ -1,4 +1,4 @@
-## [2763.Sum of Imbalance Numbers of All Subarrays]
+## [2763.Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/)
 <p>The <strong>imbalance number</strong> of a <strong>0-indexed</strong> integer array <code>arr</code> of length <code>n</code> is defined as the number of indices in <code>sarr = sorted(arr)</code> such that:</p>
 
 <ul>

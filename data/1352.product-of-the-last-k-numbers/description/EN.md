@@ -1,4 +1,4 @@
-## [1352.Product of the Last K Numbers]
+## [1352.Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 <p>Design an algorithm that accepts a stream of integers and retrieves the product of the last <code>k</code> integers of the stream.</p>
 
 <p>Implement the <code>ProductOfNumbers</code> class:</p>

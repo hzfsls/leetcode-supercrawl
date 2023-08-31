@@ -1,4 +1,4 @@
-## [1154.Day of the Year]
+## [1154.Day of the Year](https://leetcode.com/problems/day-of-the-year/)
 <p>Given a string <code>date</code> representing a <a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">Gregorian calendar</a> date formatted as <code>YYYY-MM-DD</code>, return <em>the day number of the year</em>.</p>
 
 <p>&nbsp;</p>

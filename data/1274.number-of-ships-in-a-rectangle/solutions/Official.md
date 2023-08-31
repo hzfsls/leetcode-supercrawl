@@ -1,3 +1,4 @@
+## [1274.矩形内船只的数目 中文官方题解](https://leetcode.cn/problems/number-of-ships-in-a-rectangle/solutions/100000/ju-xing-nei-chuan-zhi-de-shu-mu-by-leetcode-soluti)
 ## 解决方案 
 
 ---

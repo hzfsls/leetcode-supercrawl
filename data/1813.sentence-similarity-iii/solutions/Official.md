@@ -1,3 +1,4 @@
+## [1813.句子相似性 III 中文官方题解](https://leetcode.cn/problems/sentence-similarity-iii/solutions/100000/ju-zi-xiang-si-xing-iii-by-leetcode-solu-vjy7)
 #### 方法一：字符串按空格分割 + 双指针
 
 **思路**

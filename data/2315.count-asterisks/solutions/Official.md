@@ -1,3 +1,4 @@
+## [2315.统计星号 中文官方题解](https://leetcode.cn/problems/count-asterisks/solutions/100000/tong-ji-xing-hao-by-leetcode-solution-rwbs)
 #### 方法一：模拟
 
 **思路**

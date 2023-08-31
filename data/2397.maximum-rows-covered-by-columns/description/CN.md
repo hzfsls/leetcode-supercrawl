@@ -1,4 +1,4 @@
-## [2397.被列覆盖的最多行数]
+## [2397.被列覆盖的最多行数](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的&nbsp;<code>m x n</code>&nbsp;二进制矩阵&nbsp;<code>mat</code>&nbsp;和一个整数&nbsp;<code>cols</code>&nbsp;，表示你需要选出的列数。</p>
 
 <p>如果一行中，所有的 <code>1</code> 都被你选中的列所覆盖，那么我们称这一行 <strong>被覆盖</strong>&nbsp;了。</p>

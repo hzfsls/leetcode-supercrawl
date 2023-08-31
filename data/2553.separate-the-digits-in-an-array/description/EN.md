@@ -1,4 +1,4 @@
-## [2553.Separate the Digits in an Array]
+## [2553.Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 <p>Given an array of positive integers <code>nums</code>, return <em>an array </em><code>answer</code><em> that consists of the digits of each integer in </em><code>nums</code><em> after separating them in <strong>the same order</strong> they appear in </em><code>nums</code>.</p>
 
 <p>To separate the digits of an integer is to get all the digits it has in the same order.</p>

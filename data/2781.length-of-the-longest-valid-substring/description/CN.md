@@ -1,4 +1,4 @@
-## [2781.最长合法子字符串的长度]
+## [2781.最长合法子字符串的长度](https://leetcode.cn/problems/length-of-the-longest-valid-substring/)
 <p>给你一个字符串&nbsp;<code>word</code>&nbsp;和一个字符串数组&nbsp;<code>forbidden</code>&nbsp;。</p>
 
 <p>如果一个字符串不包含&nbsp;<code>forbidden</code>&nbsp;中的任何字符串，我们称这个字符串是&nbsp;<strong>合法</strong>&nbsp;的。</p>

@@ -1,4 +1,4 @@
-## [2138.Divide a String Into Groups of Size k]
+## [2138.Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)
 <p>A string <code>s</code> can be partitioned into groups of size <code>k</code> using the following procedure:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [1278.Palindrome Partitioning III]
+## [1278.Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/)
 <p>You are given a string <code>s</code> containing lowercase letters and an integer <code>k</code>. You need to :</p>
 
 <ul>

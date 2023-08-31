@@ -1,3 +1,4 @@
+## [343.整数拆分 中文官方题解](https://leetcode.cn/problems/integer-break/solutions/100000/zheng-shu-chai-fen-by-leetcode-solution)
 #### 方法一：动态规划
 
 对于正整数 $n$，当 $n \ge 2$ 时，可以拆分成至少两个正整数的和。令 $x$ 是拆分出的第一个正整数，则剩下的部分是 $n-x$，$n-x$ 可以不继续拆分，或者继续拆分成至少两个正整数的和。由于每个正整数对应的最大乘积取决于比它小的正整数对应的最大乘积，因此可以使用动态规划求解。

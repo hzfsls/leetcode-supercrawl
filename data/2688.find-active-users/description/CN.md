@@ -1,4 +1,4 @@
-## [2688.查找活跃用户]
+## [2688.查找活跃用户](https://leetcode.cn/problems/find-active-users/)
 <p><font face="monospace"><code>Users</code> 表：</font></p>
 
 <pre>

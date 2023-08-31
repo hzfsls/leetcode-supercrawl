@@ -1,3 +1,4 @@
+## [719.找出第 K 小的数对距离 中文官方题解](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/solutions/100000/zhao-chu-di-k-xiao-de-shu-dui-ju-chi-by-xwfgf)
 #### 方法一：排序 + 二分查找
 
 先将数组 $\textit{nums}$ 从小到大进行排序。因为第 $k$ 小的数对距离必然在区间 $[0, \max (\textit{nums}) - \min(\textit{nums})]$ 内，令 $\textit{left} = 0$，$\textit{right} = \max (\textit{nums}) - \min(\textit{nums})$，我们在区间 $[\textit{left}, \textit{right}]$ 上进行二分。

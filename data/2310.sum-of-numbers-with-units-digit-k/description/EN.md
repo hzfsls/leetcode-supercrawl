@@ -1,4 +1,4 @@
-## [2310.Sum of Numbers With Units Digit K]
+## [2310.Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)
 <p>Given two integers <code>num</code> and <code>k</code>, consider a set of positive integers with the following properties:</p>
 
 <ul>

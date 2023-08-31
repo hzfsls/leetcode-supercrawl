@@ -1,3 +1,4 @@
+## [1769.移动所有球到每个盒子所需的最小操作数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/solutions/100000/yi-dong-suo-you-qiu-dao-mei-ge-he-zi-suo-y50e)
 #### 方法一：双重循环模拟
 
 **思路**

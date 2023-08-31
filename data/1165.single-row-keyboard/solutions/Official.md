@@ -1,3 +1,4 @@
+## [1165.单行键盘 中文官方题解](https://leetcode.cn/problems/single-row-keyboard/solutions/100000/dan-xing-jian-pan-by-leetcode-solution)
 [TOC]
 
  ## 解决方案

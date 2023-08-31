@@ -1,3 +1,4 @@
+## [541.反转字符串 II 中文官方题解](https://leetcode.cn/problems/reverse-string-ii/solutions/100000/fan-zhuan-zi-fu-chuan-ii-by-leetcode-sol-ua7s)
 #### 方法一：模拟
 
 我们直接按题意进行模拟：反转每个下标从 $2k$ 的倍数开始的，长度为 $k$ 的子串。若该子串长度不足 $k$，则反转整个子串。

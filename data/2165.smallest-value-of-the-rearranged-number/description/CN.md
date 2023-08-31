@@ -1,4 +1,4 @@
-## [2165.重排数字的最小值]
+## [2165.重排数字的最小值](https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/)
 <p>给你一个整数 <code>num</code> 。<strong>重排</strong> <code>num</code> 中的各位数字，使其值 <strong>最小化</strong> 且不含 <strong>任何</strong> 前导零。</p>
 
 <p>返回不含前导零且值最小的重排数字。</p>

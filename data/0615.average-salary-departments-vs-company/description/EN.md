@@ -1,4 +1,4 @@
-## [615.Average Salary: Departments VS Company]
+## [615.Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/)
 <p>Table: <code>Salary</code></p>
 
 <pre>

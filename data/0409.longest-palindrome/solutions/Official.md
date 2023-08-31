@@ -1,3 +1,4 @@
+## [409.最长回文串 中文官方题解](https://leetcode.cn/problems/longest-palindrome/solutions/100000/zui-chang-hui-wen-chuan-by-leetcode-solution)
 ### 📺 视频题解  
 ![409. 最长回文串.mp4](f015cd5b-ceb9-47b3-a20d-27f5e6cdee0d)
 

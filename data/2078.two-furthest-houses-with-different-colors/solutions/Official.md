@@ -1,3 +1,4 @@
+## [2078.两栋颜色不同且距离最远的房子 中文官方题解](https://leetcode.cn/problems/two-furthest-houses-with-different-colors/solutions/100000/liang-dong-yan-se-bu-tong-qie-ju-chi-zui-84qv)
 #### 方法一：枚举
 
 **思路与算法**

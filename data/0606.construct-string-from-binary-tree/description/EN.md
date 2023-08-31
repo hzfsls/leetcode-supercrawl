@@ -1,4 +1,4 @@
-## [606.Construct String from Binary Tree]
+## [606.Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 <p>Given the <code>root</code> of a binary tree, construct a string consisting of parenthesis and integers from a binary tree with the preorder traversal way, and return it.</p>
 
 <p>Omit all the empty parenthesis pairs that do not affect the one-to-one mapping relationship between the string and the original binary tree.</p>

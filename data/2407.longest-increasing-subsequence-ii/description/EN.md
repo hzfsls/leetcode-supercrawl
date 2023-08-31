@@ -1,4 +1,4 @@
-## [2407.Longest Increasing Subsequence II]
+## [2407.Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/)
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Find the longest subsequence of <code>nums</code> that meets the following requirements:</p>

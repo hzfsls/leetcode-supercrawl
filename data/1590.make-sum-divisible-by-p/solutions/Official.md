@@ -1,3 +1,4 @@
+## [1590.使数组和能被 P 整除 中文官方题解](https://leetcode.cn/problems/make-sum-divisible-by-p/solutions/100000/shi-shu-zu-he-neng-bei-p-zheng-chu-by-le-dob9)
 #### 方法一：前缀和
 
 > 定理一：给定正整数 $x$、$y$、$z$、$p$，如果 $y \bmod p = x$，那么 $(y - z) \bmod p = 0$ 等价于 $z \bmod p = x$。

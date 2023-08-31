@@ -1,4 +1,4 @@
-## [2744.Find Maximum Number of String Pairs]
+## [2744.Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/)
 <p>You are given a <strong>0-indexed</strong> array <code>words</code> consisting of <strong>distinct</strong> strings.</p>
 
 <p>The string <code>words[i]</code> can be paired with the string <code>words[j]</code> if:</p>

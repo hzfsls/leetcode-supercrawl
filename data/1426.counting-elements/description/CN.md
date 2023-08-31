@@ -1,4 +1,4 @@
-## [1426.数元素]
+## [1426.数元素](https://leetcode.cn/problems/counting-elements/)
 <p>给你一个整数数组&nbsp;<code>arr</code>， 对于元素 <code>x</code> ，只有当 <code>x + 1</code> 也在数组&nbsp;<code>arr</code> 里时，才能记为 <code>1</code> 个数。</p>
 
 <p>如果数组&nbsp;<code>arr</code> 里有重复的数，每个重复的数单独计算。</p>

@@ -1,4 +1,4 @@
-## [359.Logger Rate Limiter]
+## [359.Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 <p>Design a logger system that receives a stream of messages along with their timestamps. Each <strong>unique</strong> message should only be printed <strong>at most every 10 seconds</strong> (i.e. a message printed at timestamp <code>t</code> will prevent other identical messages from being printed until timestamp <code>t + 10</code>).</p>
 
 <p>All messages will come in chronological order. Several messages may arrive at the same timestamp.</p>

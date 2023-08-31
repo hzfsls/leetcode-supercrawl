@@ -1,4 +1,4 @@
-## [726.原子的数量]
+## [726.原子的数量](https://leetcode.cn/problems/number-of-atoms/)
 <p>给你一个字符串化学式 <code>formula</code> ，返回 <strong>每种原子的数量</strong> 。</p>
 
 <p>原子总是以一个大写字母开始，接着跟随 0 个或任意个小写字母，表示原子的名字。</p>

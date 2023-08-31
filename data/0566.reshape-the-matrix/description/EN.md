@@ -1,4 +1,4 @@
-## [566.Reshape the Matrix]
+## [566.Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 <p>In MATLAB, there is a handy function called <code>reshape</code> which can reshape an <code>m x n</code> matrix into a new one with a different size <code>r x c</code> keeping its original data.</p>
 
 <p>You are given an <code>m x n</code> matrix <code>mat</code> and two integers <code>r</code> and <code>c</code> representing the number of rows and the number of columns of the wanted reshaped matrix.</p>

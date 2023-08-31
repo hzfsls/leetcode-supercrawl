@@ -1,4 +1,4 @@
-## [220.存在重复元素 III]
+## [220.存在重复元素 III](https://leetcode.cn/problems/contains-duplicate-iii/)
 <p>给你一个整数数组 <code>nums</code> 和两个整数 <code>indexDiff</code> 和 <code>valueDiff</code> 。</p>
 
 <p>找出满足下述条件的下标对 <code>(i, j)</code>：</p>

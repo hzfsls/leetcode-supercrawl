@@ -1,4 +1,4 @@
-## [706.设计哈希映射]
+## [706.设计哈希映射](https://leetcode.cn/problems/design-hashmap/)
 <p>不使用任何内建的哈希表库设计一个哈希映射（HashMap）。</p>
 
 <p>实现 <code>MyHashMap</code> 类：</p>

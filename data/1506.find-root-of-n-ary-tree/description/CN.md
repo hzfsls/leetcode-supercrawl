@@ -1,4 +1,4 @@
-## [1506.找到 N 叉树的根节点]
+## [1506.找到 N 叉树的根节点](https://leetcode.cn/problems/find-root-of-n-ary-tree/)
 <p>给定一棵&nbsp;<a href="https://leetcode.cn/explore/learn/card/n-ary-tree/" target="_blank">N 叉树</a>&nbsp;的所有节点在一个数组&nbsp;&nbsp;<code>Node[] tree</code>&nbsp;中，树中每个节点都有 <strong>唯一的值</strong> 。</p>
 
 <p>找到并返回 N 叉树的 <strong>根节点 </strong>。</p>

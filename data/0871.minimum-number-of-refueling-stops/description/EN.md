@@ -1,4 +1,4 @@
-## [871.Minimum Number of Refueling Stops]
+## [871.Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 <p>A car travels from a starting position to a destination which is <code>target</code> miles east of the starting position.</p>
 
 <p>There are gas stations along the way. The gas stations are represented as an array <code>stations</code> where <code>stations[i] = [position<sub>i</sub>, fuel<sub>i</sub>]</code> indicates that the <code>i<sup>th</sup></code> gas station is <code>position<sub>i</sub></code> miles east of the starting position and has <code>fuel<sub>i</sub></code> liters of gas.</p>

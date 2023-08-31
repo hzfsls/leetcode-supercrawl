@@ -1,4 +1,4 @@
-## [172.Factorial Trailing Zeroes]
+## [172.Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 <p>Given an integer <code>n</code>, return <em>the number of trailing zeroes in </em><code>n!</code>.</p>
 
 <p>Note that <code>n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1</code>.</p>

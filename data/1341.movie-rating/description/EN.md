@@ -1,4 +1,4 @@
-## [1341.Movie Rating]
+## [1341.Movie Rating](https://leetcode.com/problems/movie-rating/)
 <p>Table: <code>Movies</code></p>
 
 <pre>

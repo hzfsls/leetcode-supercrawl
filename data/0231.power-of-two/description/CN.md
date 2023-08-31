@@ -1,4 +1,4 @@
-## [231.2 的幂]
+## [231.2 的幂](https://leetcode.cn/problems/power-of-two/)
 <p>给你一个整数 <code>n</code>，请你判断该整数是否是 2 的幂次方。如果是，返回 <code>true</code> ；否则，返回 <code>false</code> 。</p>
 
 <p>如果存在一个整数 <code>x</code> 使得 <code>n == 2<sup>x</sup></code> ，则认为 <code>n</code> 是 2 的幂次方。</p>

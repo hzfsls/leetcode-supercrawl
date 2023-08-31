@@ -1,4 +1,4 @@
-## [2715.执行可取消的延迟函数]
+## [2715.执行可取消的延迟函数](https://leetcode.cn/problems/execute-cancellable-function-with-delay/)
 <p>现给定一个函数 <code>fn</code>&nbsp;，一个参数数组 <code>args</code> 和一个以毫秒为单位的超时时间 <code>t</code> ，返回一个取消函数 <code>cancelFn</code> 。</p>
 
 <p>在经过 <code>t</code> 毫秒的延迟后，应该调用 <code>fn</code> 函数，并将 <code>args</code> 作为参数传递。<strong>除非</strong> 在 <code>t</code> 毫秒的延迟过程中，在 <code>cancelT</code> 毫秒时调用了 <code>cancelFn</code>。并且在这种情况下，<code>fn</code> 函数不应该被调用。</p>

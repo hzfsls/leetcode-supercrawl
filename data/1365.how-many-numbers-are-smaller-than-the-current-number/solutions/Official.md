@@ -1,3 +1,4 @@
+## [1365.有多少小于当前数字的数字 中文官方题解](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/100000/you-duo-shao-xiao-yu-dang-qian-shu-zi-de-shu-zi--2)
 #### 方法一：暴力
 
 比较容易想到的一个方法是，对于数组中的每一个元素，我们都遍历数组一次，统计小于当前元素的数的数目。

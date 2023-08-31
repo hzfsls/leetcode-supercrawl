@@ -1,3 +1,4 @@
+## [664.奇怪的打印机 中文官方题解](https://leetcode.cn/problems/strange-printer/solutions/100000/qi-guai-de-da-yin-ji-by-leetcode-solutio-ogbu)
 #### 方法一：动态规划
 
 **思路及算法**

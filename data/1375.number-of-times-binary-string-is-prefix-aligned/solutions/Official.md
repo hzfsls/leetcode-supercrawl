@@ -1,3 +1,4 @@
+## [1375.二进制字符串前缀一致的次数 中文官方题解](https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/solutions/100000/er-jin-zhi-zi-fu-chuan-qian-zhui-yi-zhi-6qjol)
 #### 方法一：记录翻转位置的最大值
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1476.Subrectangle Queries]
+## [1476.Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 <p>Implement the class <code>SubrectangleQueries</code>&nbsp;which receives a <code>rows x cols</code> rectangle as a matrix of integers in the constructor and supports two methods:</p>
 
 <p>1.<code>&nbsp;updateSubrectangle(int row1, int col1, int row2, int col2, int newValue)</code></p>

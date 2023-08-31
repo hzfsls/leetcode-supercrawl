@@ -1,4 +1,4 @@
-## [2405.Optimal Partition of String]
+## [2405.Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 <p>Given a string <code>s</code>, partition the string into one or more <strong>substrings</strong> such that the characters in each substring are <strong>unique</strong>. That is, no letter appears in a single substring more than <strong>once</strong>.</p>
 
 <p>Return <em>the <strong>minimum</strong> number of substrings in such a partition.</em></p>

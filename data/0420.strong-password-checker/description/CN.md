@@ -1,4 +1,4 @@
-## [420.强密码检验器]
+## [420.强密码检验器](https://leetcode.cn/problems/strong-password-checker/)
 <p>满足以下条件的密码被认为是强密码：</p>
 
 <ul>

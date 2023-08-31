@@ -1,4 +1,4 @@
-## [300.最长递增子序列]
+## [300.最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/)
 <p>给你一个整数数组 <code>nums</code> ，找到其中最长严格递增子序列的长度。</p>
 
 <p><strong>子序列&nbsp;</strong>是由数组派生而来的序列，删除（或不删除）数组中的元素而不改变其余元素的顺序。例如，<code>[3,6,2,7]</code> 是数组 <code>[0,3,1,6,2,2,7]</code> 的子序列。</p>

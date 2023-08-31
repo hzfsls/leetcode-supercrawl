@@ -1,4 +1,4 @@
-## [1429.第一个唯一数字]
+## [1429.第一个唯一数字](https://leetcode.cn/problems/first-unique-number/)
 <p>给定一系列整数，插入一个队列中，找出队列中第一个唯一整数。</p>
 
 <p>实现 <code>FirstUnique</code> 类：</p>

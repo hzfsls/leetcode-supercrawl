@@ -1,4 +1,4 @@
-## [247.Strobogrammatic Number II]
+## [247.Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)
 <p>Given an integer <code>n</code>, return all the <strong>strobogrammatic numbers</strong> that are of length <code>n</code>. You may return the answer in <strong>any order</strong>.</p>
 
 <p>A <strong>strobogrammatic number</strong> is a number that looks the same when rotated <code>180</code> degrees (looked at upside down).</p>

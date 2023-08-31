@@ -1,4 +1,4 @@
-## [2501.Longest Square Streak in an Array]
+## [2501.Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)
 <p>You are given an integer array <code>nums</code>. A subsequence of <code>nums</code> is called a <strong>square streak</strong> if:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2319.判断矩阵是否是一个 X 矩阵]
+## [2319.判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)
 <p>如果一个正方形矩阵满足下述 <strong>全部</strong> 条件，则称之为一个 <strong>X 矩阵</strong> ：</p>
 
 <ol>

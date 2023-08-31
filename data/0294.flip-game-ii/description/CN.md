@@ -1,4 +1,4 @@
-## [294.翻转游戏 II]
+## [294.翻转游戏 II](https://leetcode.cn/problems/flip-game-ii/)
 <p>你和朋友玩一个叫做「翻转游戏」的游戏。游戏规则如下：</p>
 
 <p>给你一个字符串 <code>currentState</code> ，其中只含 <code>'+'</code> 和 <code>'-'</code> 。你和朋友轮流将&nbsp;<strong>连续 </strong>的两个&nbsp;<code>"++"</code>&nbsp;反转成&nbsp;<code>"--"</code> 。当一方无法进行有效的翻转时便意味着游戏结束，则另一方获胜。默认每个人都会采取最优策略。</p>

@@ -1,3 +1,4 @@
+## [1121.将数组分成几个递增序列 中文官方题解](https://leetcode.cn/problems/divide-array-into-increasing-sequences/solutions/100000/jiang-shu-zu-fen-cheng-ji-ge-di-zeng-xu-lie-by-lee)
 #### 方法一：最大值
 
 **思路**

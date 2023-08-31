@@ -1,4 +1,4 @@
-## [1070.产品销售分析 III]
+## [1070.产品销售分析 III](https://leetcode.cn/problems/product-sales-analysis-iii/)
 <p>销售表&nbsp;<code>Sales</code>：</p>
 
 <pre>

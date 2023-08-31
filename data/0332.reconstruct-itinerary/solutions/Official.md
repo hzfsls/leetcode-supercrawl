@@ -1,3 +1,4 @@
+## [332.重新安排行程 中文官方题解](https://leetcode.cn/problems/reconstruct-itinerary/solutions/100000/zhong-xin-an-pai-xing-cheng-by-leetcode-solution)
 #### 前言
 
 本题和「[753. 破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/)」类似，是力扣平台上为数不多的求解欧拉回路 / 欧拉通路的题目。读者可以配合着进行练习。

@@ -1,3 +1,4 @@
+## [2162.设置时间的最少代价 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-set-cooking-time/solutions/100000/she-zhi-shi-jian-de-zui-shao-dai-jie-by-1ma95)
 #### 方法一：模拟
 
 **提示 $1$**

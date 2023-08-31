@@ -1,4 +1,4 @@
-## [2308.按性别排列表格]
+## [2308.按性别排列表格](https://leetcode.cn/problems/arrange-table-by-gender/)
 <p>表: <code>Genders</code></p>
 
 <pre>

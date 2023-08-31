@@ -1,4 +1,4 @@
-## [2417.最近的公平整数]
+## [2417.最近的公平整数](https://leetcode.cn/problems/closest-fair-integer/)
 <p>给定一个 <strong>正整数</strong>&nbsp;<code>n</code>。</p>
 
 <p>如果一个整数 <code>k</code> 中的&nbsp;<strong>偶数&nbsp;</strong>位数与<strong> 奇数</strong> 位数相等，那么我们称&nbsp;<code>k</code> 为公平整数。</p>

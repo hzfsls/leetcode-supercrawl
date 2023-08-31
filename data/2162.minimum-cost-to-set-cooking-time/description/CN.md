@@ -1,4 +1,4 @@
-## [2162.设置时间的最少代价]
+## [2162.设置时间的最少代价](https://leetcode.cn/problems/minimum-cost-to-set-cooking-time/)
 <p>常见的微波炉可以设置加热时间，且加热时间满足以下条件：</p>
 
 <ul>

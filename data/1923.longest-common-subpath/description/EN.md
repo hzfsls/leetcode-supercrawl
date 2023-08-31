@@ -1,4 +1,4 @@
-## [1923.Longest Common Subpath]
+## [1923.Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
 <p>There is a country of <code>n</code> cities numbered from <code>0</code> to <code>n - 1</code>. In this country, there is a road connecting <b>every pair</b> of cities.</p>
 
 <p>There are <code>m</code> friends numbered from <code>0</code> to <code>m - 1</code> who are traveling through the country. Each one of them will take a path consisting of some cities. Each path is represented by an integer array that contains the visited cities in order. The path may contain a city <strong>more than once</strong>, but the same city will not be listed consecutively.</p>

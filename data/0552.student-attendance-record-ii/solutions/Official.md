@@ -1,3 +1,4 @@
+## [552.学生出勤记录 II 中文官方题解](https://leetcode.cn/problems/student-attendance-record-ii/solutions/100000/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm)
 #### 方法一：动态规划
 
 可以使用动态规划计算可奖励的出勤记录的数量。

@@ -1,3 +1,4 @@
+## [2221.数组的三角和 中文官方题解](https://leetcode.cn/problems/find-triangular-sum-of-an-array/solutions/100000/shu-zu-de-san-jiao-he-by-leetcode-soluti-qpc8)
 #### 方法一：模拟
 
 **思路与算法**

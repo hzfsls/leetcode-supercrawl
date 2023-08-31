@@ -1,3 +1,4 @@
+## [1093.大样本统计 中文官方题解](https://leetcode.cn/problems/statistics-from-a-large-sample/solutions/100000/da-yang-ben-tong-ji-by-leetcode-solution-xx14)
 #### 方法一：直接模拟
 
 **思路与算法**

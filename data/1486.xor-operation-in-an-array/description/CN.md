@@ -1,4 +1,4 @@
-## [1486.数组异或操作]
+## [1486.数组异或操作](https://leetcode.cn/problems/xor-operation-in-an-array/)
 <p>给你两个整数，<code>n</code> 和 <code>start</code> 。</p>
 
 <p>数组 <code>nums</code> 定义为：<code>nums[i] = start + 2*i</code>（下标从 0 开始）且 <code>n == nums.length</code> 。</p>

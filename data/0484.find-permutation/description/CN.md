@@ -1,4 +1,4 @@
-## [484.寻找排列]
+## [484.寻找排列](https://leetcode.cn/problems/find-permutation/)
 <p>由范围 <code>[1,n]</code> 内所有整数组成的 <code>n</code> 个整数的排列&nbsp;<code>perm</code>&nbsp;可以表示为长度为 <code>n - 1</code> 的字符串 <code>s</code> ，其中:</p>
 
 <ul>

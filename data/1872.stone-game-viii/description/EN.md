@@ -1,4 +1,4 @@
-## [1872.Stone Game VIII]
+## [1872.Stone Game VIII](https://leetcode.com/problems/stone-game-viii/)
 <p>Alice and Bob take turns playing a game, with <strong>Alice starting first</strong>.</p>
 
 <p>There are <code>n</code> stones arranged in a row. On each player&#39;s turn, while the number of stones is <strong>more than one</strong>, they will do the following:</p>

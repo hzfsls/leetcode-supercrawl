@@ -1,3 +1,4 @@
+## [452.用最少数量的箭引爆气球 中文官方题解](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/solutions/100000/yong-zui-shao-shu-liang-de-jian-yin-bao-qi-qiu-1-2)
 #### 方法一：排序 + 贪心
 
 **思路与算法**

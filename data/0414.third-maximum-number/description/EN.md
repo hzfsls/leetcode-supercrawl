@@ -1,4 +1,4 @@
-## [414.Third Maximum Number]
+## [414.Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 <p>Given an integer array <code>nums</code>, return <em>the <strong>third distinct maximum</strong> number in this array. If the third maximum does not exist, return the <strong>maximum</strong> number</em>.</p>
 
 <p>&nbsp;</p>

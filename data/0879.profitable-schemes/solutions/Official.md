@@ -1,3 +1,4 @@
+## [879.盈利计划 中文官方题解](https://leetcode.cn/problems/profitable-schemes/solutions/100000/ying-li-ji-hua-by-leetcode-solution-3t8o)
 #### 方法一：动态规划
 
 本题与经典背包问题非常相似。两者不同点在于经典背包问题只有一种容量限制，而本题却有两种限制：集团员工人数上限 $n$，以及工作产生的利润下限 $\textit{minProfit}$。

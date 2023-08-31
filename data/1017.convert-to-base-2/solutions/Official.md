@@ -1,3 +1,4 @@
+## [1017.负二进制转换 中文官方题解](https://leetcode.cn/problems/convert-to-base-2/solutions/100000/fu-er-jin-zhi-zhuan-huan-by-leetcode-sol-9qlh)
 #### 方法一：模拟进位
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [1210.穿过迷宫的最少移动次数 中文官方题解](https://leetcode.cn/problems/minimum-moves-to-reach-target-with-rotations/solutions/100000/chuan-guo-mi-gong-de-zui-shao-yi-dong-ci-pmnh)
 #### 方法一：广度优先搜索
 
 **思路与算法**

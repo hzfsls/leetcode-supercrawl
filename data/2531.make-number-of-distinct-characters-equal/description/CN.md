@@ -1,4 +1,4 @@
-## [2531.使字符串总不同字符的数目相等]
+## [2531.使字符串总不同字符的数目相等](https://leetcode.cn/problems/make-number-of-distinct-characters-equal/)
 <p>给你两个下标从 <strong>0</strong> 开始的字符串 <code>word1</code> 和 <code>word2</code> 。</p>
 
 <p>一次 <strong>移动</strong> 由以下两个步骤组成：</p>

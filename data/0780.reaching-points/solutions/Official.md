@@ -1,3 +1,4 @@
+## [780.到达终点 中文官方题解](https://leetcode.cn/problems/reaching-points/solutions/100000/dao-da-zhong-dian-by-leetcode-solution-77fo)
 #### 方法一：反向计算
 
 如果从 $(\textit{sx}, \textit{sy})$ 开始正向计算，则可能的情况非常多，会超出时间限制。注意到 $\textit{sx}, \textit{sy}, \textit{tx}, \textit{ty}$ 都是正整数，因此对于给定的状态 $(\textit{tx}, \textit{ty})$，只有当 $\textit{tx} \ne \textit{ty}$ 时才存在上一个状态，且上一个状态唯一，可能的情况如下：

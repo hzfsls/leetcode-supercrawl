@@ -1,3 +1,4 @@
+## [1335.工作计划的最低难度 中文官方题解](https://leetcode.cn/problems/minimum-difficulty-of-a-job-schedule/solutions/100000/gong-zuo-ji-hua-de-zui-di-nan-du-by-leet-dule)
 #### 方法一：动态规划
 
 **思路与算法**

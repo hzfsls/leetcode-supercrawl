@@ -1,3 +1,4 @@
+## [1929.数组串联 中文官方题解](https://leetcode.cn/problems/concatenation-of-array/solutions/100000/shu-zu-chuan-lian-by-leetcode-solution-wejh)
 #### 方法一：按要求串联
 
 **思路与算法**

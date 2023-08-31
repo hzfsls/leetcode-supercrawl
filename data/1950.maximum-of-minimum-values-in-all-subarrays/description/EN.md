@@ -1,4 +1,4 @@
-## [1950.Maximum of Minimum Values in All Subarrays]
+## [1950.Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/)
 <p>You are given an integer array <code>nums</code> of size <code>n</code>. You are asked to solve <code>n</code> queries for each integer <code>i</code> in the range <code>0 &lt;= i &lt; n</code>.</p>
 
 <p>To solve the <code>i<sup>th</sup></code> query:</p>

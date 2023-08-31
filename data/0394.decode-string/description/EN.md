@@ -1,4 +1,4 @@
-## [394.Decode String]
+## [394.Decode String](https://leetcode.com/problems/decode-string/)
 <p>Given an encoded string, return its decoded string.</p>
 
 <p>The encoding rule is: <code>k[encoded_string]</code>, where the <code>encoded_string</code> inside the square brackets is being repeated exactly <code>k</code> times. Note that <code>k</code> is guaranteed to be a positive integer.</p>

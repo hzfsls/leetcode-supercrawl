@@ -1,3 +1,4 @@
+## [884.两句话中的不常见单词 中文官方题解](https://leetcode.cn/problems/uncommon-words-from-two-sentences/solutions/100000/liang-ju-hua-zhong-de-bu-chang-jian-dan-a8bmz)
 #### 方法一：哈希表
 
 **思路与算法**

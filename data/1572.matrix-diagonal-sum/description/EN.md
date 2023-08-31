@@ -1,4 +1,4 @@
-## [1572.Matrix Diagonal Sum]
+## [1572.Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 <p>Given a&nbsp;square&nbsp;matrix&nbsp;<code>mat</code>, return the sum of the matrix diagonals.</p>
 
 <p>Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.</p>

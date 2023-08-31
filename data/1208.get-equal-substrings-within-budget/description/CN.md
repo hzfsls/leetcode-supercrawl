@@ -1,4 +1,4 @@
-## [1208.尽可能使字符串相等]
+## [1208.尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/)
 <p>给你两个长度相同的字符串，<code>s</code> 和 <code>t</code>。</p>
 
 <p>将 <code>s</code> 中的第 <code>i</code> 个字符变到 <code>t</code> 中的第 <code>i</code> 个字符需要 <code>|s[i] - t[i]|</code> 的开销（开销可能为 0），也就是两个字符的 ASCII 码值的差的绝对值。</p>

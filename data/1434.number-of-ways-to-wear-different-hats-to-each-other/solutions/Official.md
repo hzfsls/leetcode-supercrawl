@@ -1,3 +1,4 @@
+## [1434.每个人戴不同帽子的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-wear-different-hats-to-each-other/solutions/100000/mei-ge-ren-dai-bu-tong-mao-zi-de-fang-an-d4kd)
 #### 方法一：状态压缩动态规划
 
 我们用 $f[i][\textit{mask}]$ 表示我们处理了前 $i$ 顶帽子，并且已经被分配帽子的人的状态为 $\textit{mask}$ 时的方案数。

@@ -1,4 +1,4 @@
-## [2779.Maximum Beauty of an Array After Applying Operation]
+## [2779.Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> and a <strong>non-negative</strong> integer <code>k</code>.</p>
 
 <p>In one operation, you can do the following:</p>

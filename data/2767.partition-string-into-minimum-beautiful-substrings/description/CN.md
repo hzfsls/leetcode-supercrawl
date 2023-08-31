@@ -1,4 +1,4 @@
-## [2767.将字符串分割为最少的美丽子字符串]
+## [2767.将字符串分割为最少的美丽子字符串](https://leetcode.cn/problems/partition-string-into-minimum-beautiful-substrings/)
 <p>给你一个二进制字符串&nbsp;<code>s</code>&nbsp;，你需要将字符串分割成一个或者多个&nbsp;<strong>子字符串</strong>&nbsp;&nbsp;，使每个子字符串都是 <strong>美丽</strong>&nbsp;的。</p>
 
 <p>如果一个字符串满足以下条件，我们称它是 <strong>美丽</strong>&nbsp;的：</p>

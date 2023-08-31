@@ -1,4 +1,4 @@
-## [1196.How Many Apples Can You Put into the Basket]
+## [1196.How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/)
 <p>You have some apples and a basket that can carry up to <code>5000</code> units of weight.</p>
 
 <p>Given an integer array <code>weight</code> where <code>weight[i]</code> is the weight of the <code>i<sup>th</sup></code> apple, return <em>the maximum number of apples you can put in the basket</em>.</p>

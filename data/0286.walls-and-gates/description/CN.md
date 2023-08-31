@@ -1,4 +1,4 @@
-## [286.墙与门]
+## [286.墙与门](https://leetcode.cn/problems/walls-and-gates/)
 <p>你被给定一个 <code>m × n</code> 的二维网格 <code>rooms</code> ，网格中有以下三种可能的初始化值：</p>
 
 <ol>

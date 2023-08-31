@@ -1,4 +1,4 @@
-## [2501.数组中最长的方波]
+## [2501.数组中最长的方波](https://leetcode.cn/problems/longest-square-streak-in-an-array/)
 <p>给你一个整数数组 <code>nums</code> 。如果 <code>nums</code> 的子序列满足下述条件，则认为该子序列是一个 <strong>方波</strong> ：</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1000.合并石头的最低成本 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-merge-stones/solutions/100000/he-bing-shi-tou-de-zui-di-cheng-ben-by-l-pnvh)
 #### 前言
 
 本题给定 $n$ 堆石头，每次合并连续的$k$堆，合并的成本是这 $k$ 堆石头的总数，问最终把所有石头合并为一堆的最低成本。

@@ -1,3 +1,4 @@
+## [1052.爱生气的书店老板 中文官方题解](https://leetcode.cn/problems/grumpy-bookstore-owner/solutions/100000/ai-sheng-qi-de-shu-dian-lao-ban-by-leetc-dloq)
 #### 方法一：滑动窗口
 
 假设数组 $\textit{customers}$ 和 $\textit{grumpy}$ 的长度是 $n$，不使用秘密技巧时，满意的顾客数量是 $\textit{total}$，则 $\textit{total}$ 的值为：

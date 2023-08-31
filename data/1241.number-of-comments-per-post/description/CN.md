@@ -1,4 +1,4 @@
-## [1241.每个帖子的评论数]
+## [1241.每个帖子的评论数](https://leetcode.cn/problems/number-of-comments-per-post/)
 <p>表&nbsp;<code>Submissions</code> 结构如下：</p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [2698.求一个整数的惩罚数]
+## [2698.求一个整数的惩罚数](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer/)
 <p>给你一个正整数&nbsp;<code>n</code>&nbsp;，请你返回&nbsp;<code>n</code>&nbsp;的&nbsp;<strong>惩罚数</strong>&nbsp;。</p>
 
 <p><code>n</code>&nbsp;的 <strong>惩罚数</strong>&nbsp;定义为所有满足以下条件 <code>i</code>&nbsp;的数的平方和：</p>

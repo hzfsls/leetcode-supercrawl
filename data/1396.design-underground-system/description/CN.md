@@ -1,4 +1,4 @@
-## [1396.设计地铁系统]
+## [1396.设计地铁系统](https://leetcode.cn/problems/design-underground-system/)
 <p>地铁系统跟踪不同车站之间的乘客出行时间，并使用这一数据来计算从一站到另一站的平均时间。</p>
 
 <p>实现 <code>UndergroundSystem</code> 类：</p>

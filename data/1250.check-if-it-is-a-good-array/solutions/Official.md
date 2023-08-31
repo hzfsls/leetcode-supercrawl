@@ -1,3 +1,4 @@
+## [1250.检查「好数组」 中文官方题解](https://leetcode.cn/problems/check-if-it-is-a-good-array/solutions/100000/jian-cha-hao-shu-zu-by-leetcode-solution-qg2h)
 #### 前言
 
 本题解涉及到数论中的「裴蜀定理」（具体证明可参考[「裴蜀定理」百度百科](https://baike.baidu.com/item/%E8%A3%B4%E8%9C%80%E5%AE%9A%E7%90%86/5186593)）。

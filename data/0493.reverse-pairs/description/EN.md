@@ -1,4 +1,4 @@
-## [493.Reverse Pairs]
+## [493.Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 <p>Given an integer array <code>nums</code>, return <em>the number of <strong>reverse pairs</strong> in the array</em>.</p>
 
 <p>A <strong>reverse pair</strong> is a pair <code>(i, j)</code> where:</p>

@@ -1,4 +1,4 @@
-## [2825.循环增长使字符串子序列等于另一个字符串]
+## [2825.循环增长使字符串子序列等于另一个字符串](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的字符串&nbsp;<code>str1</code> 和&nbsp;<code>str2</code>&nbsp;。</p>
 
 <p>一次操作中，你选择&nbsp;<code>str1</code>&nbsp;中的若干下标。对于选中的每一个下标&nbsp;<code>i</code>&nbsp;，你将&nbsp;<code>str1[i]</code>&nbsp;<strong>循环</strong>&nbsp;递增，变成下一个字符。也就是说&nbsp;<code>'a'</code>&nbsp;变成&nbsp;<code>'b'</code>&nbsp;，<code>'b'</code> 变成&nbsp;<code>'c'</code>&nbsp;，以此类推，<code>'z'</code> 变成&nbsp;<code>'a'</code>&nbsp;。</p>

@@ -1,4 +1,4 @@
-## [2460.对数组执行操作]
+## [2460.对数组执行操作](https://leetcode.cn/problems/apply-operations-to-an-array/)
 <p>给你一个下标从 <strong>0</strong> 开始的数组 <code>nums</code> ，数组大小为 <code>n</code> ，且由 <strong>非负</strong> 整数组成。</p>
 
 <p>你需要对数组执行 <code>n - 1</code> 步操作，其中第 <code>i</code> 步操作（从 <strong>0</strong> 开始计数）要求对 <code>nums</code> 中第 <code>i</code> 个元素执行下述指令：</p>

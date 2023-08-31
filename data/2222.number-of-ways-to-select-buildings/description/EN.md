@@ -1,4 +1,4 @@
-## [2222.Number of Ways to Select Buildings]
+## [2222.Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/)
 <p>You are given a <strong>0-indexed</strong> binary string <code>s</code> which represents the types of buildings along a street where:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [1194.Tournament Winners]
+## [1194.Tournament Winners](https://leetcode.com/problems/tournament-winners/)
 <p>Table: <code>Players</code></p>
 
 <pre>

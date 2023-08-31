@@ -1,3 +1,4 @@
+## [290.单词规律 中文官方题解](https://leetcode.cn/problems/word-pattern/solutions/100000/dan-ci-gui-lu-by-leetcode-solution-6vqv)
 #### 方法一：哈希表
 
 **思路及解法**

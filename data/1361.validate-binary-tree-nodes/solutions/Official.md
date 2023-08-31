@@ -1,3 +1,4 @@
+## [1361.验证二叉树 中文官方题解](https://leetcode.cn/problems/validate-binary-tree-nodes/solutions/100000/yan-zheng-er-cha-shu-by-leetcode-solution)
 #### 方法一：连通性判定
 
 我们将验证二叉树的过程分为两步：第一步找到二叉树的根节点，第二步从根节点开始对二叉树进行遍历，判断其是否为一颗有效的二叉树。

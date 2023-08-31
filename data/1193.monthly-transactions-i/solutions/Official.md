@@ -1,3 +1,4 @@
+## [1193.每月交易 I 中文官方题解](https://leetcode.cn/problems/monthly-transactions-i/solutions/100000/mei-yue-jiao-yi-i-by-leetcode-solution)
 #### 预备知识
 
 本题使用到的 `MySQL` 函数的说明：

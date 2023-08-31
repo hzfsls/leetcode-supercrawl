@@ -1,4 +1,4 @@
-## [540.Single Element in a Sorted Array]
+## [540.Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 <p>You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.</p>
 
 <p>Return <em>the single element that appears only once</em>.</p>

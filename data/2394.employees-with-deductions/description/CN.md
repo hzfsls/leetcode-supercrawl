@@ -1,4 +1,4 @@
-## [2394.开除员工]
+## [2394.开除员工](https://leetcode.cn/problems/employees-with-deductions/)
 <p>表: <code>Employees</code></p>
 
 <pre>

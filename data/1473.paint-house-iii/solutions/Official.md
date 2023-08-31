@@ -1,3 +1,4 @@
+## [1473.粉刷房子 III 中文官方题解](https://leetcode.cn/problems/paint-house-iii/solutions/100000/fen-shua-fang-zi-iii-by-leetcode-solutio-powb)
 #### 前言
 
 为了叙述方便，我们令所有的变量都从 $0$ 开始编号，即：

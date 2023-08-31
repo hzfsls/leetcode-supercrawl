@@ -1,3 +1,4 @@
+## [1579.保证图可完全遍历 中文官方题解](https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/solutions/100000/bao-zheng-tu-ke-wan-quan-bian-li-by-leet-mtrw)
 #### 方法一：并查集
 
 **思路与算法**

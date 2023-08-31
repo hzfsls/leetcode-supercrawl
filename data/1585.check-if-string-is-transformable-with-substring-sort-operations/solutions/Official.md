@@ -1,3 +1,4 @@
+## [1585.检查字符串是否可以通过排序子字符串得到另一个字符串 中文官方题解](https://leetcode.cn/problems/check-if-string-is-transformable-with-substring-sort-operations/solutions/100000/jian-cha-zi-fu-chuan-shi-fou-ke-yi-tong-guo-pai-2)
 #### 方法一：冒泡排序
 
 **思路**

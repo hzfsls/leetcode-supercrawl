@@ -1,4 +1,4 @@
-## [2393.严格递增的子数组个数]
+## [2393.严格递增的子数组个数](https://leetcode.cn/problems/count-strictly-increasing-subarrays/)
 <p>给定一个由&nbsp;<strong>正整数&nbsp;</strong>组成的数组 <code>nums</code> 。</p>
 
 <p>返回&nbsp;<em><strong>严格递增&nbsp;</strong>顺序的 </em><code>nums</code><em>&nbsp;<strong>子数组&nbsp;</strong>的数目。</em></p>

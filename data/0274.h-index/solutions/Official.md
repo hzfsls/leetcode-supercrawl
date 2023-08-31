@@ -1,3 +1,4 @@
+## [274.H 指数 中文官方题解](https://leetcode.cn/problems/h-index/solutions/100000/h-zhi-shu-by-leetcode-solution-fnhl)
 #### 方法一：排序
 
 首先我们可以将初始的 $\text{H}$ 指数 $h$ 设为 $0$，然后将引用次数排序，并且对排序后的数组从大到小遍历。

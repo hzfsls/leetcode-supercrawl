@@ -1,4 +1,4 @@
-## [1180.Count Substrings with Only One Distinct Letter]
+## [1180.Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/)
 <p>Given a string <code>s</code>, return <em>the number of substrings that have only <strong>one distinct</strong> letter</em>.</p>
 
 <p>&nbsp;</p>

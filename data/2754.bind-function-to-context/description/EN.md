@@ -1,4 +1,4 @@
-## [2754.Bind Function to Context]
+## [2754.Bind Function to Context](https://leetcode.com/problems/bind-function-to-context/)
 <p>Enhance all functions to have the&nbsp;<code>bindPolyfill</code>&nbsp;method. When&nbsp;<code>bindPolyfill</code>&nbsp;is called with a passed&nbsp;object <code>obj</code>, that object becomes the&nbsp;<code>this</code>&nbsp;context for the function.</p>
 
 <p>For example, if you had the code:</p>

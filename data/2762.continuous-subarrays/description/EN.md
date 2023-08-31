@@ -1,4 +1,4 @@
-## [2762.Continuous Subarrays]
+## [2762.Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. A subarray of <code>nums</code> is called <strong>continuous</strong> if:</p>
 
 <ul>

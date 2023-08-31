@@ -1,4 +1,4 @@
-## [1547.切棍子的最小成本]
+## [1547.切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/)
 <p>有一根长度为 <code>n</code> 个单位的木棍，棍上从 <code>0</code> 到 <code>n</code> 标记了若干位置。例如，长度为 <strong>6</strong> 的棍子可以标记如下：</p>
 
 <p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/08/09/statement.jpg" style="height: 111px; width: 521px;" /></p>

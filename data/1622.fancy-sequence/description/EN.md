@@ -1,4 +1,4 @@
-## [1622.Fancy Sequence]
+## [1622.Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
 <p>Write an API that generates fancy sequences using the <code>append</code>, <code>addAll</code>, and <code>multAll</code> operations.</p>
 
 <p>Implement the <code>Fancy</code> class:</p>

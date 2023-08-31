@@ -1,4 +1,4 @@
-## [2577.在网格图中访问一个格子的最少时间]
+## [2577.在网格图中访问一个格子的最少时间](https://leetcode.cn/problems/minimum-time-to-visit-a-cell-in-a-grid/)
 <p>给你一个&nbsp;<code>m x n</code>&nbsp;的矩阵&nbsp;<code>grid</code>&nbsp;，每个元素都为 <strong>非负</strong>&nbsp;整数，其中&nbsp;<code>grid[row][col]</code>&nbsp;表示可以访问格子&nbsp;<code>(row, col)</code>&nbsp;的&nbsp;<strong>最早</strong>&nbsp;时间。也就是说当你访问格子&nbsp;<code>(row, col)</code>&nbsp;时，最少已经经过的时间为&nbsp;<code>grid[row][col]</code>&nbsp;。</p>
 
 <p>你从 <strong>最左上角</strong>&nbsp;出发，出发时刻为 <code>0</code>&nbsp;，你必须一直移动到上下左右相邻四个格子中的 <strong>任意</strong>&nbsp;一个格子（即不能停留在格子上）。每次移动都需要花费 1 单位时间。</p>

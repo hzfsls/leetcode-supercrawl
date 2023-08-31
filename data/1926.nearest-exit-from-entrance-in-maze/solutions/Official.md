@@ -1,3 +1,4 @@
+## [1926.迷宫中离入口最近的出口 中文官方题解](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/solutions/100000/mi-gong-zhong-chi-ru-kou-zui-jin-de-chu-0ued5)
 #### 方法一：广度优先搜索
 
 **思路与算法**

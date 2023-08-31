@@ -1,4 +1,4 @@
-## [1181.前后拼接]
+## [1181.前后拼接](https://leetcode.cn/problems/before-and-after-puzzle/)
 <p>给你一个「短语」列表&nbsp;<code>phrases</code>，请你帮忙按规则生成拼接后的「新短语」列表。</p>
 
 <p>「短语」（phrase）是仅由小写英文字母和空格组成的字符串。「短语」的开头和结尾都不会出现空格，「短语」中的空格不会连续出现。</p>

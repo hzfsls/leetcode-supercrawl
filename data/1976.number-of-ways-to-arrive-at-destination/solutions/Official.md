@@ -1,3 +1,4 @@
+## [1976.到达目的地的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/solutions/100000/dao-da-mu-de-di-de-fang-an-shu-by-leetco-5ptp)
 #### 方法一：最短路 + 有向无环图上的动态规划
 
 **提示 $1$**

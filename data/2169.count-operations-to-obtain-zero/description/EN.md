@@ -1,4 +1,4 @@
-## [2169.Count Operations to Obtain Zero]
+## [2169.Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/)
 <p>You are given two <strong>non-negative</strong> integers <code>num1</code> and <code>num2</code>.</p>
 
 <p>In one <strong>operation</strong>, if <code>num1 &gt;= num2</code>, you must subtract <code>num2</code> from <code>num1</code>, otherwise subtract <code>num1</code> from <code>num2</code>.</p>

@@ -1,4 +1,4 @@
-## [712.Minimum ASCII Delete Sum for Two Strings]
+## [712.Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 <p>Given two strings <code>s1</code> and&nbsp;<code>s2</code>, return <em>the lowest <strong>ASCII</strong> sum of deleted characters to make two strings equal</em>.</p>
 
 <p>&nbsp;</p>

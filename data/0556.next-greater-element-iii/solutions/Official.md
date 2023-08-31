@@ -1,3 +1,4 @@
+## [556.下一个更大元素 III 中文官方题解](https://leetcode.cn/problems/next-greater-element-iii/solutions/100000/xia-yi-ge-geng-da-yuan-su-iii-by-leetcod-mqf1)
 #### 方法一：下一个排列
 
 把 $n$ 转换成字符串（字符数组），那么本题实际上是在求字符数组的 [31. 下一个排列](https://leetcode.cn/problems/next-permutation/)，当不存在下一个排列时返回 $-1$。

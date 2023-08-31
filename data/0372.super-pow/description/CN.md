@@ -1,4 +1,4 @@
-## [372.超级次方]
+## [372.超级次方](https://leetcode.cn/problems/super-pow/)
 <p>你的任务是计算 <code>a<sup>b</sup></code> 对 <code>1337</code> 取模，<code>a</code> 是一个正整数，<code>b</code> 是一个非常大的正整数且会以数组形式给出。</p>
 
 <p> </p>

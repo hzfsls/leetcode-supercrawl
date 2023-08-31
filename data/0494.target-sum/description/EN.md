@@ -1,4 +1,4 @@
-## [494.Target Sum]
+## [494.Target Sum](https://leetcode.com/problems/target-sum/)
 <p>You are given an integer array <code>nums</code> and an integer <code>target</code>.</p>
 
 <p>You want to build an <strong>expression</strong> out of nums by adding one of the symbols <code>&#39;+&#39;</code> and <code>&#39;-&#39;</code> before each integer in nums and then concatenate all the integers.</p>

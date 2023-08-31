@@ -1,3 +1,4 @@
+## [66.加一 中文官方题解](https://leetcode.cn/problems/plus-one/solutions/100000/jia-yi-by-leetcode-solution-2hor)
 ### 📺 视频题解  
 ![66.加一 仲耀晖.mp4](ba7febe1-adbb-46a6-be89-66add6332ad7)
 

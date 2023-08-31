@@ -1,3 +1,4 @@
+## [467.环绕字符串中唯一的子字符串 中文官方题解](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/solutions/100000/huan-rao-zi-fu-chuan-zhong-wei-yi-de-zi-ndvea)
 #### 方法一：动态规划
 
 由于 $s$ 是周期字符串，对于在 $s$ 中的子串，只要知道子串的第一个字符（或最后一个字符）和子串长度，就能确定这个子串。例如子串以 $\text{`d'}$ 结尾，长度为 $3$，那么该子串为 $\text{``bcd''}$。

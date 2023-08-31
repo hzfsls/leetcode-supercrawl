@@ -1,4 +1,4 @@
-## [1096.Brace Expansion II]
+## [1096.Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
 <p>Under the grammar given below, strings can represent a set of lowercase words. Let&nbsp;<code>R(expr)</code>&nbsp;denote the set of words the expression represents.</p>
 
 <p>The grammar can best be understood through simple examples:</p>

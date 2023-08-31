@@ -1,4 +1,4 @@
-## [259.较小的三数之和]
+## [259.较小的三数之和](https://leetcode.cn/problems/3sum-smaller/)
 <p>给定一个长度为 <code>n</code> 的整数数组和一个目标值 <code>target</code>&nbsp;，寻找能够使条件&nbsp;<code>nums[i] + nums[j] + nums[k] &lt; target</code>&nbsp;成立的三元组&nbsp; <code>i, j, k</code>&nbsp;个数（<code>0 &lt;= i &lt; j &lt; k &lt; n</code>）。</p>
 
 <p>&nbsp;</p>

@@ -1,4 +1,4 @@
-## [2568.Minimum Impossible OR]
+## [2568.Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/)
 <p>You are given a <strong>0-indexed</strong>&nbsp;integer array <code>nums</code>.</p>
 
 <p>We say that an integer x is <strong>expressible</strong> from <code>nums</code> if there exist some integers <code>0 &lt;= index<sub>1</sub> &lt; index<sub>2</sub> &lt; ... &lt; index<sub>k</sub> &lt; nums.length</code> for which <code>nums[index<sub>1</sub>] | nums[index<sub>2</sub>] | ... | nums[index<sub>k</sub>] = x</code>. In other words, an integer is expressible if it can be written as the bitwise OR of some subsequence of <code>nums</code>.</p>

@@ -1,3 +1,4 @@
+## [1761.一个图中连通三元组的最小度数 中文官方题解](https://leetcode.cn/problems/minimum-degree-of-a-connected-trio-in-a-graph/solutions/100000/yi-ge-tu-zhong-lian-tong-san-yuan-zu-de-wuv8o)
 #### 方法一：枚举每一个三元组
 
 **思路与算法**

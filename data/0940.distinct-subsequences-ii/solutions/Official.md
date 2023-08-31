@@ -1,3 +1,4 @@
+## [940.不同的子序列 II 中文官方题解](https://leetcode.cn/problems/distinct-subsequences-ii/solutions/100000/bu-tong-de-zi-xu-lie-ii-by-leetcode-solu-k2h5)
 #### 方法一：动态规划
 
 **思路与算法**

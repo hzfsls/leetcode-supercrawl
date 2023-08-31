@@ -1,4 +1,4 @@
-## [2083.Substrings That Begin and End With the Same Letter]
+## [2083.Substrings That Begin and End With the Same Letter](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/)
 <p>You are given a <strong>0-indexed</strong> string <code>s</code> consisting of only lowercase English letters. Return <em>the number of <strong>substrings</strong> in </em><code>s</code> <em>that begin and end with the <strong>same</strong> character.</em></p>
 
 <p>A <strong>substring</strong> is a contiguous non-empty sequence of characters within a string.</p>

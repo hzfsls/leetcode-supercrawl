@@ -1,3 +1,4 @@
+## [1791.找出星型图的中心节点 中文官方题解](https://leetcode.cn/problems/find-center-of-star-graph/solutions/100000/zhao-chu-xing-xing-tu-de-zhong-xin-jie-d-1xzm)
 #### 方法一：计算每个节点的度
 
 由 $n$ 个节点组成的星型图中，有一个中心节点，有 $n - 1$ 条边分别连接中心节点和其余的每个节点。因此，中心节点的度是 $n - 1$，其余每个节点的度都是 $1$。一个节点的度的含义是与该节点相连的边数。

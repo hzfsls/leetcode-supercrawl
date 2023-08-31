@@ -1,4 +1,4 @@
-## [903.Valid Permutations for DI Sequence]
+## [903.Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/)
 <p>You are given a string <code>s</code> of length <code>n</code> where <code>s[i]</code> is either:</p>
 
 <ul>

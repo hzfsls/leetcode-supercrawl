@@ -1,3 +1,4 @@
+## [1217.玩筹码 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/solutions/100000/wan-chou-ma-by-leetcode-solution-swnp)
 #### 方法一：贪心
 
 **思路与算法**

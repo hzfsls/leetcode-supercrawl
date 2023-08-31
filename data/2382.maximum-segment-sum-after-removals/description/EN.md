@@ -1,4 +1,4 @@
-## [2382.Maximum Segment Sum After Removals]
+## [2382.Maximum Segment Sum After Removals](https://leetcode.com/problems/maximum-segment-sum-after-removals/)
 <p>You are given two <strong>0-indexed</strong> integer arrays <code>nums</code> and <code>removeQueries</code>, both of length <code>n</code>. For the <code>i<sup>th</sup></code> query, the element in <code>nums</code> at the index <code>removeQueries[i]</code> is removed, splitting <code>nums</code> into different segments.</p>
 
 <p>A <strong>segment</strong> is a contiguous sequence of <strong>positive</strong> integers in <code>nums</code>. A <strong>segment sum</strong> is the sum of every element in a segment.</p>

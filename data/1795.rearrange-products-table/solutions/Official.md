@@ -1,3 +1,4 @@
+## [1795.每个产品在不同商店的价格 中文官方题解](https://leetcode.cn/problems/rearrange-products-table/solutions/100000/mei-ge-chan-pin-zai-bu-tong-shang-dian-d-a1jl)
 [TOC]
 
 ## 解决方案

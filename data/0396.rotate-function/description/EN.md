@@ -1,4 +1,4 @@
-## [396.Rotate Function]
+## [396.Rotate Function](https://leetcode.com/problems/rotate-function/)
 <p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>Assume <code>arr<sub>k</sub></code> to be an array obtained by rotating <code>nums</code> by <code>k</code> positions clock-wise. We define the <strong>rotation function</strong> <code>F</code> on <code>nums</code> as follow:</p>

@@ -1,3 +1,4 @@
+## [2351.第一个出现两次的字母 中文官方题解](https://leetcode.cn/problems/first-letter-to-appear-twice/solutions/100000/di-yi-ge-chu-xian-liang-ci-de-zi-mu-by-l-oqu1)
 #### 方法一：哈希表
 
 **思路与算法**

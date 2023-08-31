@@ -1,3 +1,4 @@
+## [2057.值相等的最小索引 中文官方题解](https://leetcode.cn/problems/smallest-index-with-equal-value/solutions/100000/zhi-xiang-deng-de-zui-xiao-suo-yin-by-le-0bbn)
 #### 方法一：顺序遍历数组
 
 **思路与算法**

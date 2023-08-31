@@ -1,4 +1,4 @@
-## [880.Decoded String at Index]
+## [880.Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
 <p>You are given an encoded string <code>s</code>. To decode the string to a tape, the encoded string is read one character at a time and the following steps are taken:</p>
 
 <ul>

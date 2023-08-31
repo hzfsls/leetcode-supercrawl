@@ -1,4 +1,4 @@
-## [2418.Sort the People]
+## [2418.Sort the People](https://leetcode.com/problems/sort-the-people/)
 <p>You are given an array of strings <code>names</code>, and an array <code>heights</code> that consists of <strong>distinct</strong> positive integers. Both arrays are of length <code>n</code>.</p>
 
 <p>For each index <code>i</code>, <code>names[i]</code> and <code>heights[i]</code> denote the name and height of the <code>i<sup>th</sup></code> person.</p>

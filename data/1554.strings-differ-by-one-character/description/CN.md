@@ -1,4 +1,4 @@
-## [1554.只有一个不同字符的字符串]
+## [1554.只有一个不同字符的字符串](https://leetcode.cn/problems/strings-differ-by-one-character/)
 <p>给定一个字符串列表&nbsp;<code>dict</code> ，其中所有字符串的长度都相同。</p>
 
 <p>当存在两个字符串在相同索引处只有一个字符不同时，返回 <code>True</code> ，否则返回 <code>False</code> 。</p>

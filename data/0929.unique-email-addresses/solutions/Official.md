@@ -1,3 +1,4 @@
+## [929.独特的电子邮件地址 中文官方题解](https://leetcode.cn/problems/unique-email-addresses/solutions/100000/du-te-de-dian-zi-you-jian-di-zhi-by-leet-f178)
 #### 方法一：哈希表
 
 根据题意，我们需要将每个邮件地址的本地名按照规则转换，具体来说：

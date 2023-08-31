@@ -1,4 +1,4 @@
-## [2282.Number of People That Can Be Seen in a Grid]
+## [2282.Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/)
 <p>You are given an <code>m x n</code> <strong>0-indexed</strong> 2D array of positive integers <code>heights</code> where <code>heights[i][j]</code> is the height of the person standing at position <code>(i, j)</code>.</p>
 
 <p>A person standing at position <code>(row<sub>1</sub>, col<sub>1</sub>)</code> can see a person standing at position <code>(row<sub>2</sub>, col<sub>2</sub>)</code> if:</p>

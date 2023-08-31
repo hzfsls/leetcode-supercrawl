@@ -1,3 +1,4 @@
+## [214.最短回文串 中文官方题解](https://leetcode.cn/problems/shortest-palindrome/solutions/100000/zui-duan-hui-wen-chuan-by-leetcode-solution)
 #### 前言
 
 我们需要在给定的字符串 $s$ 的前面添加字符串 $s'$，得到**最短的**回文串。这里我们用 $s'+s$ 表示得到的回文串。显然，这等价于找到**最短的**字符串 $s'$，使得 $s'+s$ 是一个回文串。

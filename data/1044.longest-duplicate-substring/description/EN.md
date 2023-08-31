@@ -1,4 +1,4 @@
-## [1044.Longest Duplicate Substring]
+## [1044.Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
 <p>Given a string <code>s</code>, consider all <em>duplicated substrings</em>: (contiguous) substrings of s that occur 2 or more times.&nbsp;The occurrences&nbsp;may overlap.</p>
 
 <p>Return <strong>any</strong> duplicated&nbsp;substring that has the longest possible length.&nbsp;If <code>s</code> does not have a duplicated substring, the answer is <code>&quot;&quot;</code>.</p>

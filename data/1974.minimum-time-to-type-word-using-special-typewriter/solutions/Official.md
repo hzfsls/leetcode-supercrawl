@@ -1,3 +1,4 @@
+## [1974.使用特殊打字机键入单词的最少时间 中文官方题解](https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/solutions/100000/shi-yong-te-shu-da-zi-ji-jian-ru-dan-ci-54xfk)
 #### 方法一：模拟
 
 **思路与算法**

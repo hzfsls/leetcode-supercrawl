@@ -1,3 +1,4 @@
+## [100.相同的树 中文官方题解](https://leetcode.cn/problems/same-tree/solutions/100000/xiang-tong-de-shu-by-leetcode-solution)
 #### 前言
 
 两个二叉树相同，当且仅当两个二叉树的结构完全相同，且所有对应节点的值相同。因此，可以通过搜索的方式判断两个二叉树是否相同。

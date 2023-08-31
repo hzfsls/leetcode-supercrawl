@@ -1,4 +1,4 @@
-## [2349.设计数字容器系统]
+## [2349.设计数字容器系统](https://leetcode.cn/problems/design-a-number-container-system/)
 <p>设计一个数字容器系统，可以实现以下功能：</p>
 
 <ul>

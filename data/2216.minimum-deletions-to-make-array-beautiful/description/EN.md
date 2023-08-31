@@ -1,4 +1,4 @@
-## [2216.Minimum Deletions to Make Array Beautiful]
+## [2216.Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. The array <code>nums</code> is <strong>beautiful</strong> if:</p>
 
 <ul>

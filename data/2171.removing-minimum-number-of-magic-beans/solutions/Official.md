@@ -1,3 +1,4 @@
+## [2171.拿出最少数目的魔法豆 中文官方题解](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/solutions/100000/na-chu-zui-shao-shu-mu-de-mo-fa-dou-by-l-dhsl)
 #### 方法一：数学
 
 **提示 $1$**

@@ -1,4 +1,4 @@
-## [569.Median Employee Salary]
+## [569.Median Employee Salary](https://leetcode.com/problems/median-employee-salary/)
 <p>Table: <code>Employee</code></p>
 
 <pre>

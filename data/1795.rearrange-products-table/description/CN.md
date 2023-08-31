@@ -1,4 +1,4 @@
-## [1795.每个产品在不同商店的价格]
+## [1795.每个产品在不同商店的价格](https://leetcode.cn/problems/rearrange-products-table/)
 <p>表：<code>Products</code></p>
 
 <pre>

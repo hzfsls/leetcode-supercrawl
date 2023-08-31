@@ -1,4 +1,4 @@
-## [1360.日期之间隔几天]
+## [1360.日期之间隔几天](https://leetcode.cn/problems/number-of-days-between-two-dates/)
 <p>请你编写一个程序来计算两个日期之间隔了多少天。</p>
 
 <p>日期以字符串形式给出，格式为&nbsp;<code>YYYY-MM-DD</code>，如示例所示。</p>

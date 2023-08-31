@@ -1,4 +1,4 @@
-## [1188.设计有限阻塞队列]
+## [1188.设计有限阻塞队列](https://leetcode.cn/problems/design-bounded-blocking-queue/)
 <p>实现一个拥有如下方法的线程安全有限阻塞队列：</p>
 
 <ul>

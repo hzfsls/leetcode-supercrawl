@@ -1,4 +1,4 @@
-## [2374.Node With Highest Edge Score]
+## [2374.Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/)
 <p>You are given a directed graph with <code>n</code> nodes labeled from <code>0</code> to <code>n - 1</code>, where each node has <strong>exactly one</strong> outgoing edge.</p>
 
 <p>The graph is represented by a given <strong>0-indexed</strong> integer array <code>edges</code> of length <code>n</code>, where <code>edges[i]</code> indicates that there is a <strong>directed</strong> edge from node <code>i</code> to node <code>edges[i]</code>.</p>

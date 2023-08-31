@@ -1,3 +1,4 @@
+## [1850.邻位交换的最小次数 中文官方题解](https://leetcode.cn/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/solutions/100000/lin-wei-jiao-huan-de-zui-xiao-ci-shu-by-xerp9)
 #### 方法一：模拟 + 贪心
 
 **前言**

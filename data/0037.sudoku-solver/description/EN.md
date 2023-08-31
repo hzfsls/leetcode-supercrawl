@@ -1,4 +1,4 @@
-## [37.Sudoku Solver]
+## [37.Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 <p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
 
 <p>A sudoku solution must satisfy <strong>all of the following rules</strong>:</p>

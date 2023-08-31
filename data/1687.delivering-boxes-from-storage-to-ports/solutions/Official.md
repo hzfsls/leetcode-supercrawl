@@ -1,3 +1,4 @@
+## [1687.从仓库到码头运输箱子 中文官方题解](https://leetcode.cn/problems/delivering-boxes-from-storage-to-ports/solutions/100000/cong-cang-ku-dao-ma-tou-yun-shu-xiang-zi-4uya)
 #### 方法一：动态规划 + 单调队列优化
 
 **前言**

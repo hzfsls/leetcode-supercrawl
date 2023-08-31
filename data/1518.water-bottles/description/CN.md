@@ -1,4 +1,4 @@
-## [1518.换水问题]
+## [1518.换水问题](https://leetcode.cn/problems/water-bottles/)
 <p>超市正在促销，你可以用 <code>numExchange</code> 个空水瓶从超市兑换一瓶水。最开始，你一共购入了 <code>numBottles</code> 瓶水。</p>
 
 <p>如果喝掉了水瓶中的水，那么水瓶就会变成空的。</p>

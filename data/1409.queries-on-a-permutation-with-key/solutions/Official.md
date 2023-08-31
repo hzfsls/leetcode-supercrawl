@@ -1,3 +1,4 @@
+## [1409.查询带键的排列 中文官方题解](https://leetcode.cn/problems/queries-on-a-permutation-with-key/solutions/100000/cha-xun-dai-jian-de-pai-lie-by-leetcode-solution)
 #### 方法一：模拟
 
 最容易想到的方法就是根据题目要求直接进行模拟。

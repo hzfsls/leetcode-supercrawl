@@ -1,4 +1,4 @@
-## [775.全局倒置与局部倒置]
+## [775.全局倒置与局部倒置](https://leetcode.cn/problems/global-and-local-inversions/)
 <p>给你一个长度为 <code>n</code> 的整数数组 <code>nums</code> ，表示由范围 <code>[0, n - 1]</code> 内所有整数组成的一个排列。</p>
 
 <p><strong>全局倒置</strong> 的数目等于满足下述条件不同下标对 <code>(i, j)</code> 的数目：</p>

@@ -1,3 +1,4 @@
+## [1234.替换子串得到平衡字符串 中文官方题解](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/solutions/100000/ti-huan-zi-chuan-de-dao-ping-heng-zi-fu-f8fk8)
 #### 方法一：滑动窗口
 
 **思路与算法**

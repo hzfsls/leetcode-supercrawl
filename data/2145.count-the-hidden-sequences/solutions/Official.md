@@ -1,3 +1,4 @@
+## [2145.统计隐藏数组数目 中文官方题解](https://leetcode.cn/problems/count-the-hidden-sequences/solutions/100000/tong-ji-yin-cang-shu-zu-shu-mu-by-leetco-t5su)
 #### 方法一：确定隐藏数组上下界的差值
 
 **思路与算法**

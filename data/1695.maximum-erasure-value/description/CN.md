@@ -1,4 +1,4 @@
-## [1695.删除子数组的最大得分]
+## [1695.删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/)
 <p>给你一个正整数数组 <code>nums</code> ，请你从中删除一个含有 <strong>若干不同元素</strong> 的子数组<strong>。</strong>删除子数组的 <strong>得分</strong> 就是子数组各元素之 <strong>和</strong> 。</p>
 
 <p>返回 <strong>只删除一个</strong> 子数组可获得的 <strong>最大得分</strong><em> 。</em></p>

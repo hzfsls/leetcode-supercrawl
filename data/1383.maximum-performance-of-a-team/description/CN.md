@@ -1,4 +1,4 @@
-## [1383.最大的团队表现值]
+## [1383.最大的团队表现值](https://leetcode.cn/problems/maximum-performance-of-a-team/)
 <p>给定两个整数 <code>n</code> 和 <code>k</code>，以及两个长度为 <code>n</code> 的整数数组 <code>speed</code> 和<code> efficiency</code>。现有 <code>n</code> 名工程师，编号从 <code>1</code> 到 <code>n</code>。其中 <code>speed[i]</code>&nbsp;和 <code>efficiency[i]</code>&nbsp;分别代表第 <code>i</code>&nbsp;位工程师的速度和效率。</p>
 
 <p>从这 <code>n</code> 名工程师中最多选择 <code>k</code> 名不同的工程师，使其组成的团队具有最大的团队表现值。</p>

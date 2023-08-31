@@ -1,4 +1,4 @@
-## [2486.追加字符以获得子序列]
+## [2486.追加字符以获得子序列](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence/)
 <p>给你两个仅由小写英文字母组成的字符串 <code>s</code> 和 <code>t</code> 。</p>
 
 <p>现在需要通过向 <code>s</code> 末尾追加字符的方式使 <code>t</code> 变成 <code>s</code> 的一个 <strong>子序列</strong> ，返回需要追加的最少字符数。</p>

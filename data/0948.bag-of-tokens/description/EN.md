@@ -1,4 +1,4 @@
-## [948.Bag of Tokens]
+## [948.Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 <p>You have an initial <strong>power</strong> of <code>power</code>, an initial <strong>score</strong> of <code>0</code>, and a bag of <code>tokens</code> where <code>tokens[i]</code> is the value of the <code>i<sup>th</sup></code> token (0-indexed).</p>
 
 <p>Your goal is to maximize your total <strong>score</strong> by potentially playing each token in one of two ways:</p>

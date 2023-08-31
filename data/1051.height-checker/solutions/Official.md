@@ -1,3 +1,4 @@
+## [1051.高度检查器 中文官方题解](https://leetcode.cn/problems/height-checker/solutions/100000/gao-du-jian-cha-qi-by-leetcode-solution-jeb0)
 #### 方法一：基于比较的排序
 
 **思路与算法**

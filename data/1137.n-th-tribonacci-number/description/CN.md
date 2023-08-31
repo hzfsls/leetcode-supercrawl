@@ -1,4 +1,4 @@
-## [1137.第 N 个泰波那契数]
+## [1137.第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/)
 <p>泰波那契序列&nbsp;T<sub>n</sub>&nbsp;定义如下：&nbsp;</p>
 
 <p>T<sub>0</sub> = 0, T<sub>1</sub> = 1, T<sub>2</sub> = 1, 且在 n &gt;= 0&nbsp;的条件下 T<sub>n+3</sub> = T<sub>n</sub> + T<sub>n+1</sub> + T<sub>n+2</sub></p>

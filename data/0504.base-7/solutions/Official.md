@@ -1,3 +1,4 @@
+## [504.七进制数 中文官方题解](https://leetcode.cn/problems/base-7/solutions/100000/qi-jin-zhi-shu-by-leetcode-solution-cl2v)
 #### 方法一：倒推 + 迭代
 
 **思路**

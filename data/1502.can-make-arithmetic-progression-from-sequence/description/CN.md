@@ -1,4 +1,4 @@
-## [1502.判断能否形成等差数列]
+## [1502.判断能否形成等差数列](https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/)
 <p>给你一个数字数组 <code>arr</code> 。</p>
 
 <p>如果一个数列中，任意相邻两项的差总等于同一个常数，那么这个数列就称为 <strong>等差数列</strong> 。</p>

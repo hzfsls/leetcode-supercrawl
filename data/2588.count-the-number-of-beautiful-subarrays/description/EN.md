@@ -1,4 +1,4 @@
-## [2588.Count the Number of Beautiful Subarrays]
+## [2588.Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. In one operation, you can:</p>
 
 <ul>

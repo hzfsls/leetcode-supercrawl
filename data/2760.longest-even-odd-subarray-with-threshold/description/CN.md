@@ -1,4 +1,4 @@
-## [2760.最长奇偶子数组]
+## [2760.最长奇偶子数组](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 和一个整数 <code>threshold</code> 。</p>
 
 <p>请你从 <code>nums</code> 的子数组中找出以下标 <code>l</code> 开头、下标 <code>r</code> 结尾 <code>(0 &lt;= l &lt;= r &lt; nums.length)</code> 且满足以下条件的 <strong>最长子数组</strong> ：</p>

@@ -1,4 +1,4 @@
-## [2465.Number of Distinct Averages]
+## [2465.Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of <strong>even</strong> length.</p>
 
 <p>As long as <code>nums</code> is <strong>not</strong> empty, you must repetitively:</p>

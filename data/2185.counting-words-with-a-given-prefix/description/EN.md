@@ -1,4 +1,4 @@
-## [2185.Counting Words With a Given Prefix]
+## [2185.Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
 <p>You are given an array of strings <code>words</code> and a string <code>pref</code>.</p>
 
 <p>Return <em>the number of strings in </em><code>words</code><em> that contain </em><code>pref</code><em> as a <strong>prefix</strong></em>.</p>

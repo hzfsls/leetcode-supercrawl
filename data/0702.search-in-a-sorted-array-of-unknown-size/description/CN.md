@@ -1,4 +1,4 @@
-## [702.搜索长度未知的有序数组]
+## [702.搜索长度未知的有序数组](https://leetcode.cn/problems/search-in-a-sorted-array-of-unknown-size/)
 <p>这是一个<strong>交互问题</strong>。</p>
 
 <p>您有一个<strong>升序</strong>整数数组，其<strong>长度未知</strong>。您没有访问数组的权限，但是可以使用&nbsp;<code>ArrayReader&nbsp;</code>接口访问它。你可以调用&nbsp;<code>ArrayReader.get(i)</code>:</p>

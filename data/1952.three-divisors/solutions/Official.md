@@ -1,3 +1,4 @@
+## [1952.三除数 中文官方题解](https://leetcode.cn/problems/three-divisors/solutions/100000/san-chu-shu-by-leetcode-solution-z1b4)
 #### 方法一：枚举正除数
 
 **思路与算法**

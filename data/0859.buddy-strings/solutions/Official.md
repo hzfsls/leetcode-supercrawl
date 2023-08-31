@@ -1,3 +1,4 @@
+## [859.亲密字符串 中文官方题解](https://leetcode.cn/problems/buddy-strings/solutions/100000/qin-mi-zi-fu-chuan-by-leetcode-solution-yyis)
 #### 方法一：枚举
 
 **思路与算法**

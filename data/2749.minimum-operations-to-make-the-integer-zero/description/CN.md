@@ -1,4 +1,4 @@
-## [2749.得到整数零需要执行的最少操作数]
+## [2749.得到整数零需要执行的最少操作数](https://leetcode.cn/problems/minimum-operations-to-make-the-integer-zero/)
 <p>给你两个整数：<code>num1</code> 和 <code>num2</code> 。</p>
 
 <p>在一步操作中，你需要从范围&nbsp;<code>[0, 60]</code> 中选出一个整数 <code>i</code> ，并从 <code>num1</code> 减去 <code>2<sup>i</sup> + num2</code> 。</p>

@@ -1,4 +1,4 @@
-## [2595.Number of Even and Odd Bits]
+## [2595.Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)
 <p>You are given a <strong>positive</strong> integer <code>n</code>.</p>
 
 <p>Let <code>even</code> denote the number of even indices in the binary representation of <code>n</code> (<strong>0-indexed</strong>) with value <code>1</code>.</p>

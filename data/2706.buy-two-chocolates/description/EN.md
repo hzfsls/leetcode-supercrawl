@@ -1,4 +1,4 @@
-## [2706.Buy Two Chocolates]
+## [2706.Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)
 <p>You are given an integer array <code>prices</code> representing the prices of various chocolates in a store. You are also given a single integer <code>money</code>, which represents your initial amount of money.</p>
 
 <p>You must buy <strong>exactly</strong> two chocolates in such a way that you still have some <strong>non-negative</strong> leftover money. You would like to minimize the sum of the prices of the two chocolates you buy.</p>

@@ -1,4 +1,4 @@
-## [2707.Extra Characters in a String]
+## [2707.Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
 <p>You are given a <strong>0-indexed</strong> string <code>s</code> and a dictionary of words <code>dictionary</code>. You have to break <code>s</code> into one or more <strong>non-overlapping</strong> substrings such that each substring is present in <code>dictionary</code>. There may be some <strong>extra characters</strong> in <code>s</code> which are not present in any of the substrings.</p>
 
 <p>Return <em>the <strong>minimum</strong> number of extra characters left over if you break up </em><code>s</code><em> optimally.</em></p>

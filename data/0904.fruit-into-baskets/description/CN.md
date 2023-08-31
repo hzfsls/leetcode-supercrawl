@@ -1,4 +1,4 @@
-## [904.水果成篮]
+## [904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
 <p>你正在探访一家农场，农场从左到右种植了一排果树。这些树用一个整数数组 <code>fruits</code> 表示，其中 <code>fruits[i]</code> 是第 <code>i</code> 棵树上的水果 <strong>种类</strong> 。</p>
 
 <p>你想要尽可能多地收集水果。然而，农场的主人设定了一些严格的规矩，你必须按照要求采摘水果：</p>

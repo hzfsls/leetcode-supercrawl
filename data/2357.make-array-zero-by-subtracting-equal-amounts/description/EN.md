@@ -1,4 +1,4 @@
-## [2357.Make Array Zero by Subtracting Equal Amounts]
+## [2357.Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 <p>You are given a non-negative integer array <code>nums</code>. In one operation, you must:</p>
 
 <ul>

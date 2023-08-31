@@ -1,4 +1,4 @@
-## [1198.Find Smallest Common Element in All Rows]
+## [1198.Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/)
 <p>Given an <code>m x n</code> matrix <code>mat</code> where every row is sorted in <strong>strictly</strong> <strong>increasing</strong> order, return <em>the <strong>smallest common element</strong> in all rows</em>.</p>
 
 <p>If there is no common element, return <code>-1</code>.</p>

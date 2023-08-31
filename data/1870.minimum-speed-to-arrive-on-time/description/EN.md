@@ -1,4 +1,4 @@
-## [1870.Minimum Speed to Arrive on Time]
+## [1870.Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
 <p>You are given a floating-point number <code>hour</code>, representing the amount of time you have to reach the office. To commute to the office, you must take <code>n</code> trains in sequential order. You are also given an integer array <code>dist</code> of length <code>n</code>, where <code>dist[i]</code> describes the distance (in kilometers) of the <code>i<sup>th</sup></code> train ride.</p>
 
 <p>Each train can only depart at an integer hour, so you may need to wait in between each train ride.</p>

@@ -1,4 +1,4 @@
-## [471.Encode String with Shortest Length]
+## [471.Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/)
 <p>Given a string <code>s</code>, encode the string such that its encoded length is the shortest.</p>
 
 <p>The encoding rule is: <code>k[encoded_string]</code>, where the <code>encoded_string</code> inside the square brackets is being repeated exactly <code>k</code> times. <code>k</code> should be a positive integer.</p>

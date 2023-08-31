@@ -1,4 +1,4 @@
-## [1164.指定日期的产品价格]
+## [1164.指定日期的产品价格](https://leetcode.cn/problems/product-price-at-a-given-date/)
 <p>产品数据表: <code>Products</code></p>
 
 <pre>

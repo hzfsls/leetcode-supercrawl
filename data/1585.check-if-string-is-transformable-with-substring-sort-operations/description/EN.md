@@ -1,4 +1,4 @@
-## [1585.Check If String Is Transformable With Substring Sort Operations]
+## [1585.Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
 <p>Given two strings <code>s</code> and <code>t</code>, transform string <code>s</code> into string <code>t</code> using the following operation any number of times:</p>
 
 <ul>

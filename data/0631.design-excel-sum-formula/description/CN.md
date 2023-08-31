@@ -1,4 +1,4 @@
-## [631.设计 Excel 求和公式]
+## [631.设计 Excel 求和公式](https://leetcode.cn/problems/design-excel-sum-formula/)
 <p>你的任务是实现 Excel 的求和功能，具体的操作如下：</p>
 
 <p><code>Excel(int H, char W):</code> 这是一个构造函数，输入表明了 Excel 的高度和宽度。H 是一个正整数，范围从 1 到 26，代表高度。W 是一个字符，范围从 'A' 到 'Z'，宽度等于从 'A' 到 W 的字母个数。Excel 表格是一个高度 * 宽度的二维整数数组，数组中元素初始化为 0。第一行下标从 1 开始，第一列下标从 'A' 开始。</p>

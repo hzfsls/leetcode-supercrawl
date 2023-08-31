@@ -1,4 +1,4 @@
-## [269.火星词典]
+## [269.火星词典](https://leetcode.cn/problems/alien-dictionary/)
 <p>现有一种使用英语字母的火星语言，这门语言的字母顺序对你来说是未知的。</p>
 
 <p>给你一个来自这种外星语言字典的字符串列表 <code>words</code> ，<code>words</code> 中的字符串已经 <strong>按这门新语言的字母顺序进行了排序</strong> 。</p>

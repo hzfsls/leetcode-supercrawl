@@ -1,4 +1,4 @@
-## [1843.可疑银行账户]
+## [1843.可疑银行账户](https://leetcode.cn/problems/suspicious-bank-accounts/)
 <p>表: <code>Accounts</code></p>
 
 <pre>

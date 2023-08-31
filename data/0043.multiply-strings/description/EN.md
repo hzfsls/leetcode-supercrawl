@@ -1,4 +1,4 @@
-## [43.Multiply Strings]
+## [43.Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 <p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as strings, return the product of <code>num1</code> and <code>num2</code>, also represented as a string.</p>
 
 <p><strong>Note:</strong>&nbsp;You must not use any built-in BigInteger library or convert the inputs to integer directly.</p>

@@ -1,4 +1,4 @@
-## [461.Hamming Distance]
+## [461.Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
 
 <p>Given two integers <code>x</code> and <code>y</code>, return <em>the <strong>Hamming distance</strong> between them</em>.</p>

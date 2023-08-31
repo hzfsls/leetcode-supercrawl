@@ -1,4 +1,4 @@
-## [2483.Minimum Penalty for a Shop]
+## [2483.Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 <p>You are given the customer visit log of a shop represented by a <strong>0-indexed</strong> string <code>customers</code> consisting only of characters <code>&#39;N&#39;</code> and <code>&#39;Y&#39;</code>:</p>
 
 <ul>

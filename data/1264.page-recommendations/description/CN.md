@@ -1,4 +1,4 @@
-## [1264.页面推荐]
+## [1264.页面推荐](https://leetcode.cn/problems/page-recommendations/)
 <p>朋友关系列表：&nbsp;<code>Friendship</code></p>
 
 <pre>

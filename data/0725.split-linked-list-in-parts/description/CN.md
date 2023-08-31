@@ -1,4 +1,4 @@
-## [725.分隔链表]
+## [725.分隔链表](https://leetcode.cn/problems/split-linked-list-in-parts/)
 <p>给你一个头结点为 <code>head</code> 的单链表和一个整数 <code>k</code> ，请你设计一个算法将链表分隔为 <code>k</code> 个连续的部分。</p>
 
 <p>每部分的长度应该尽可能的相等：任意两部分的长度差距不能超过 1 。这可能会导致有些部分为 null 。</p>

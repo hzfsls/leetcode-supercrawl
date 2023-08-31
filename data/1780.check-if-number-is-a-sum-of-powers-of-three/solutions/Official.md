@@ -1,3 +1,4 @@
+## [1780.判断一个数字是否可以表示成三的幂的和 中文官方题解](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/solutions/100000/pan-duan-yi-ge-shu-zi-shi-fou-ke-yi-biao-0j5k)
 #### 方法一：进制转换
 
 **思路与算法**

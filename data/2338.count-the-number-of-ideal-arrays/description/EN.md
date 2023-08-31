@@ -1,4 +1,4 @@
-## [2338.Count the Number of Ideal Arrays]
+## [2338.Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)
 <p>You are given two integers <code>n</code> and <code>maxValue</code>, which are used to describe an <strong>ideal</strong> array.</p>
 
 <p>A <strong>0-indexed</strong> integer array <code>arr</code> of length <code>n</code> is considered <strong>ideal</strong> if the following conditions hold:</p>

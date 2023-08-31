@@ -1,4 +1,4 @@
-## [2729.Check if The Number is Fascinating]
+## [2729.Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/)
 <p>You are given an integer <code>n</code> that consists of exactly <code>3</code> digits.</p>
 
 <p>We call the number <code>n</code> <strong>fascinating</strong> if, after the following modification, the resulting number contains all the digits from <code>1</code> to <code>9</code> <strong>exactly</strong> once and does not contain any <code>0</code>&#39;s:</p>

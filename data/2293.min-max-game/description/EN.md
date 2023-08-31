@@ -1,4 +1,4 @@
-## [2293.Min Max Game]
+## [2293.Min Max Game](https://leetcode.com/problems/min-max-game/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> whose length is a power of <code>2</code>.</p>
 
 <p>Apply the following algorithm on <code>nums</code>:</p>

@@ -1,4 +1,4 @@
-## [1200.最小绝对差]
+## [1200.最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/)
 <p>给你个整数数组&nbsp;<code>arr</code>，其中每个元素都 <strong>不相同</strong>。</p>
 
 <p>请你找到所有具有最小绝对差的元素对，并且按升序的顺序返回。</p>

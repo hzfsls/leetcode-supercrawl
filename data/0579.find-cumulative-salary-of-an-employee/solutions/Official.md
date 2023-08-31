@@ -1,3 +1,4 @@
+## [579.查询员工的累计薪水 中文官方题解](https://leetcode.cn/problems/find-cumulative-salary-of-an-employee/solutions/100000/cha-xun-yuan-gong-de-lei-ji-xin-shui-by-leetcode-s)
 #### 方法一：先求最近 2 个月薪资
 
 **想法**

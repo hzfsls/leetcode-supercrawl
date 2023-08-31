@@ -1,3 +1,4 @@
+## [1641.统计字典序元音字符串的数目 中文官方题解](https://leetcode.cn/problems/count-sorted-vowel-strings/solutions/100000/tong-ji-zi-dian-xu-yuan-yin-zi-fu-chuan-sk7y1)
 #### 方法一：动态规划
 
 分别使用数字 $0$，$1$，$2$，$3$，$4$ 代表元音字符 $\text{`a'}$，$\text{`e'}$，$\text{`i'}$，$\text{`o'}$，$\text{`u'}$。记 $\textit{dp}[i][j]$ 表示长度为 $i+1$，以 $j$ 结尾的按字典序排列的字符串数量，那么状态转移方程如下：

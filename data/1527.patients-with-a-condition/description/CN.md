@@ -1,4 +1,4 @@
-## [1527.患某种疾病的患者]
+## [1527.患某种疾病的患者](https://leetcode.cn/problems/patients-with-a-condition/)
 <p>患者信息表：&nbsp;<code>Patients</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [162.寻找峰值]
+## [162.寻找峰值](https://leetcode.cn/problems/find-peak-element/)
 <p>峰值元素是指其值严格大于左右相邻值的元素。</p>
 
 <p>给你一个整数数组&nbsp;<code>nums</code>，找到峰值元素并返回其索引。数组可能包含多个峰值，在这种情况下，返回 <strong>任何一个峰值</strong> 所在位置即可。</p>

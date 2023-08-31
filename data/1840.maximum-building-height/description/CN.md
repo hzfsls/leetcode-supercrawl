@@ -1,4 +1,4 @@
-## [1840.最高建筑高度]
+## [1840.最高建筑高度](https://leetcode.cn/problems/maximum-building-height/)
 <p>在一座城市里，你需要建 <code>n</code> 栋新的建筑。这些新的建筑会从 <code>1</code> 到 <code>n</code> 编号排成一列。</p>
 
 <p>这座城市对这些新建筑有一些规定：</p>

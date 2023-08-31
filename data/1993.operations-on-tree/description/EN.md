@@ -1,4 +1,4 @@
-## [1993.Operations on Tree]
+## [1993.Operations on Tree](https://leetcode.com/problems/operations-on-tree/)
 <p>You are given a tree with <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code> in the form of a parent array <code>parent</code> where <code>parent[i]</code> is the parent of the <code>i<sup>th</sup></code> node. The root of the tree is node <code>0</code>, so <code>parent[0] = -1</code> since it has no parent. You want to design a data structure that allows users to lock, unlock, and upgrade nodes in the tree.</p>
 
 <p>The data structure should support the following functions:</p>

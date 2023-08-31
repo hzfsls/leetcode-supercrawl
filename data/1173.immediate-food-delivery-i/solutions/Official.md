@@ -1,3 +1,4 @@
+## [1173.即时食物配送 I 中文官方题解](https://leetcode.cn/problems/immediate-food-delivery-i/solutions/100000/ji-shi-shi-wu-pei-song-i-by-leetcode-solution)
 [TOC]
 
 ## 解决方案

@@ -1,3 +1,4 @@
+## [833.字符串中的查找与替换 中文官方题解](https://leetcode.cn/problems/find-and-replace-in-string/solutions/100000/zi-fu-chuan-zhong-de-cha-zhao-yu-ti-huan-9ns4)
 #### 方法一：按照下标排序 + 模拟
 
 **思路与算法**

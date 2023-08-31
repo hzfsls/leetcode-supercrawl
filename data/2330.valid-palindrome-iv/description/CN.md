@@ -1,4 +1,4 @@
-## [2330.有效的回文 IV]
+## [2330.有效的回文 IV](https://leetcode.cn/problems/valid-palindrome-iv/)
 <p>给你一个下标从 <strong>0</strong> 开始、仅由小写英文字母组成的字符串 <code>s</code> 。在一步操作中，你可以将 <code>s</code> 中的任一字符更改为其他任何字符。</p>
 
 <p>如果你能在 <strong>恰</strong> 执行一到两步操作后使 <code>s</code> 变成一个回文，则返回 <code>true</code> ，否则返回 <code>false</code> 。</p>

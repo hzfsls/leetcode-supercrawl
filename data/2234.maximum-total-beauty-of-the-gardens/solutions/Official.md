@@ -1,3 +1,4 @@
+## [2234.花园的最大总美丽值 中文官方题解](https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/solutions/100000/hua-yuan-de-zui-da-zong-mei-li-zhi-by-le-18d8)
 #### 方法一：枚举「完善」和「不完善」的分界线
 
 **思路与算法**

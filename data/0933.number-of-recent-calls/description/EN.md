@@ -1,4 +1,4 @@
-## [933.Number of Recent Calls]
+## [933.Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 <p>You have a <code>RecentCounter</code> class which counts the number of recent requests within a certain time frame.</p>
 
 <p>Implement the <code>RecentCounter</code> class:</p>

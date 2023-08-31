@@ -1,4 +1,4 @@
-## [1389.Create Target Array in the Given Order]
+## [1389.Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 <p>Given two arrays of integers&nbsp;<code>nums</code> and <code>index</code>. Your task is to create <em>target</em> array under the following rules:</p>
 
 <ul>

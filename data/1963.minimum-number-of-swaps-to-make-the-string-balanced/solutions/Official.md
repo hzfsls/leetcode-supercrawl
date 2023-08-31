@@ -1,3 +1,4 @@
+## [1963.使字符串平衡的最小交换次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/solutions/100000/shi-zi-fu-chuan-ping-heng-de-zui-xiao-ji-f7ye)
 #### 方法一：猜测结论 + 构造答案
 
 **提示 $1$**

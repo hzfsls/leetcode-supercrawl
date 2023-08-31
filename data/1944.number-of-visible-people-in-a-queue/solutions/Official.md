@@ -1,3 +1,4 @@
+## [1944.队列中可以看到的人数 中文官方题解](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/solutions/100000/dui-lie-zhong-ke-yi-kan-dao-de-ren-shu-b-k442)
 #### 方法一：逆序遍历 + 单调栈
 
 **提示 $1$**

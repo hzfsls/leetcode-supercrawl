@@ -1,4 +1,4 @@
-## [2086.从房屋收集雨水需要的最少水桶数]
+## [2086.从房屋收集雨水需要的最少水桶数](https://leetcode.cn/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的字符串&nbsp;<code>street</code>&nbsp;。<code>street</code>&nbsp;中每个字符要么是表示房屋的&nbsp;<code>'H'</code> ，要么是表示空位的&nbsp;<code>'.'</code>&nbsp;。</p>
 
 <p>你可以在 <strong>空位</strong>&nbsp;放置水桶，从相邻的房屋收集雨水。位置在 <code>i - 1</code>&nbsp;<strong>或者</strong> <code>i + 1</code>&nbsp;的水桶可以收集位置为 <code>i</code>&nbsp;处房屋的雨水。一个水桶如果相邻两个位置都有房屋，那么它可以收集 <strong>两个</strong> 房屋的雨水。</p>

@@ -1,4 +1,4 @@
-## [2500.删除每行中的最大值]
+## [2500.删除每行中的最大值](https://leetcode.cn/problems/delete-greatest-value-in-each-row/)
 <p>给你一个 <code>m x n</code> 大小的矩阵 <code>grid</code> ，由若干正整数组成。</p>
 
 <p>执行下述操作，直到 <code>grid</code> 变为空矩阵：</p>

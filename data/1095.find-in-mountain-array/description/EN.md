@@ -1,4 +1,4 @@
-## [1095.Find in Mountain Array]
+## [1095.Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 <p><em>(This problem is an <strong>interactive problem</strong>.)</em></p>
 
 <p>You may recall that an array <code>arr</code> is a <strong>mountain array</strong> if and only if:</p>

@@ -1,4 +1,4 @@
-## [2767.Partition String Into Minimum Beautiful Substrings]
+## [2767.Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/)
 <p>Given a binary string <code>s</code>, partition the string into one or more <strong>substrings</strong> such that each substring is <strong>beautiful</strong>.</p>
 
 <p>A string is <strong>beautiful</strong> if:</p>

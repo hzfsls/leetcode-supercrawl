@@ -1,4 +1,4 @@
-## [1231.Divide Chocolate]
+## [1231.Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
 <p>You have one chocolate bar that consists of some chunks. Each chunk has its own sweetness given by the array&nbsp;<code>sweetness</code>.</p>
 
 <p>You want to share the chocolate with your <code>k</code>&nbsp;friends so you start cutting the chocolate bar into <code>k + 1</code>&nbsp;pieces using&nbsp;<code>k</code>&nbsp;cuts, each piece consists of some <strong>consecutive</strong> chunks.</p>

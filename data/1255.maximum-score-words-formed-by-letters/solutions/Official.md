@@ -1,3 +1,4 @@
+## [1255.得分最高的单词集合 中文官方题解](https://leetcode.cn/problems/maximum-score-words-formed-by-letters/solutions/100000/de-fen-zui-gao-de-dan-ci-ji-he-by-leetco-rwyz)
 #### 方法一：状态压缩
 
 因为单词数目不超过 $14$，因此我们可以使用状态压缩的方式来枚举所有的单词子集。使用整数 $s$ 表示单词子集，$s$ 的第 $k$ 位为 $1$ 代表单词子集 $s$ 包含单词 $\textit{words}[k]$，$s$ 的第 $k$ 位为 $0$ 代表单词子集 $s$ 不包含单词 $\textit{words}[k]$。

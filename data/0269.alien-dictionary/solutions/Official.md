@@ -1,3 +1,4 @@
+## [269.火星词典 中文官方题解](https://leetcode.cn/problems/alien-dictionary/solutions/100000/huo-xing-ci-dian-by-leetcode-solution-nr0l)
 #### 前言
 
 这道题是拓扑排序问题。火星词典中的字母和字母顺序可以看成有向图，字典顺序即为所有字母的一种排列，满足每一条有向边的起点字母和终点字母的顺序都和这两个字母在排列中的顺序相同，该排列即为有向图的拓扑排序。

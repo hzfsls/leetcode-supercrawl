@@ -1,3 +1,4 @@
+## [1785.构成特定和需要添加的最少元素 中文官方题解](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum/solutions/100000/gou-cheng-te-ding-he-xu-yao-tian-jia-de-m3gnt)
 #### 方法一：上取整
 
 **思路与算法**

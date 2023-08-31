@@ -1,4 +1,4 @@
-## [1918.Kth Smallest Subarray Sum]
+## [1918.Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/)
 <p>Given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>, return <em>the </em><code>k<sup>th</sup></code> <em><strong>smallest subarray sum</strong>.</em></p>
 
 <p>A <strong>subarray</strong> is defined as a <strong>non-empty</strong> contiguous sequence of elements in an array. A <strong>subarray sum</strong> is the sum of all elements in the subarray.</p>

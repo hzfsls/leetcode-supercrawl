@@ -1,3 +1,4 @@
+## [716.最大栈 中文官方题解](https://leetcode.cn/problems/max-stack/solutions/100000/zui-da-zhan-by-leetcode-solution-phk7)
 [TOC]
 
  ## 解决方案

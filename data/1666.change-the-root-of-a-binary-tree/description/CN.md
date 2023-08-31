@@ -1,4 +1,4 @@
-## [1666.改变二叉树的根节点]
+## [1666.改变二叉树的根节点](https://leetcode.cn/problems/change-the-root-of-a-binary-tree/)
 <p>给定一棵二叉树的根节点 <code>root</code> 和一个叶节点 <code>leaf</code> ，更改二叉树，使得 <code>leaf</code> 为新的根节点。</p>
 
 <p>你可以按照下列步骤修改<strong>从</strong> <code>leaf</code> <strong>到</strong> <code>root</code> <strong>的路径中除</strong> <code>root</code> <strong>外的每个节点</strong> <code>cur</code> ：</p>

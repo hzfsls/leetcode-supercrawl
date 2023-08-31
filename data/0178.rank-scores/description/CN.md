@@ -1,4 +1,4 @@
-## [178.分数排名]
+## [178.分数排名](https://leetcode.cn/problems/rank-scores/)
 <p>表:&nbsp;<code>Scores</code></p>
 
 <pre>

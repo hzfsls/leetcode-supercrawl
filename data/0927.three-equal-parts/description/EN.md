@@ -1,4 +1,4 @@
-## [927.Three Equal Parts]
+## [927.Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)
 <p>You are given an array <code>arr</code> which consists of only zeros and ones, divide the array into <strong>three non-empty parts</strong> such that all of these parts represent the same binary value.</p>
 
 <p>If it is possible, return any <code>[i, j]</code> with <code>i + 1 &lt; j</code>, such that:</p>

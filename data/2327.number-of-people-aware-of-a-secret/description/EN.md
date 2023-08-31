@@ -1,4 +1,4 @@
-## [2327.Number of People Aware of a Secret]
+## [2327.Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
 <p>On day <code>1</code>, one person discovers a secret.</p>
 
 <p>You are given an integer <code>delay</code>, which means that each person will <strong>share</strong> the secret with a new person <strong>every day</strong>, starting from <code>delay</code> days after discovering the secret. You are also given an integer <code>forget</code>, which means that each person will <strong>forget</strong> the secret <code>forget</code> days after discovering it. A person <strong>cannot</strong> share the secret on the same day they forgot it, or on any day afterwards.</p>

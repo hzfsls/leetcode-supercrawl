@@ -1,4 +1,4 @@
-## [1747.Leetflex Banned Accounts]
+## [1747.Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/)
 <p>Table: <code>LogInfo</code></p>
 
 <pre>

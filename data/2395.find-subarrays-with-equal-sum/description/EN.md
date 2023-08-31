@@ -1,4 +1,4 @@
-## [2395.Find Subarrays With Equal Sum]
+## [2395.Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/)
 <p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, determine whether there exist <strong>two</strong> subarrays of length <code>2</code> with <strong>equal</strong> sum. Note that the two subarrays must begin at <strong>different</strong> indices.</p>
 
 <p>Return <code>true</code><em> if these subarrays exist, and </em><code>false</code><em> otherwise.</em></p>

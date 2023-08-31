@@ -1,4 +1,4 @@
-## [1028.从先序遍历还原二叉树]
+## [1028.从先序遍历还原二叉树](https://leetcode.cn/problems/recover-a-tree-from-preorder-traversal/)
 <p>我们从二叉树的根节点 <code>root</code>&nbsp;开始进行深度优先搜索。</p>
 
 <p>在遍历中的每个节点处，我们输出&nbsp;<code>D</code>&nbsp;条短划线（其中&nbsp;<code>D</code>&nbsp;是该节点的深度），然后输出该节点的值。（<em>如果节点的深度为 <code>D</code>，则其直接子节点的深度为 <code>D + 1</code>。根节点的深度为 <code>0</code>）。</em></p>

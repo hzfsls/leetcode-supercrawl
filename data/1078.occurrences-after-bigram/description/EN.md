@@ -1,4 +1,4 @@
-## [1078.Occurrences After Bigram]
+## [1078.Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)
 <p>Given two strings <code>first</code> and <code>second</code>, consider occurrences in some text of the form <code>&quot;first second third&quot;</code>, where <code>second</code> comes immediately after <code>first</code>, and <code>third</code> comes immediately after <code>second</code>.</p>
 
 <p>Return <em>an array of all the words</em> <code>third</code> <em>for each occurrence of</em> <code>&quot;first second third&quot;</code>.</p>

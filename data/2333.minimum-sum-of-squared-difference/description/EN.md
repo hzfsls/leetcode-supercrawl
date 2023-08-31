@@ -1,4 +1,4 @@
-## [2333.Minimum Sum of Squared Difference]
+## [2333.Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/)
 <p>You are given two positive <strong>0-indexed</strong> integer arrays <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>.</p>
 
 <p>The <strong>sum of squared difference</strong> of arrays <code>nums1</code> and <code>nums2</code> is defined as the <strong>sum</strong> of <code>(nums1[i] - nums2[i])<sup>2</sup></code> for each <code>0 &lt;= i &lt; n</code>.</p>

@@ -1,4 +1,4 @@
-## [382.Linked List Random Node]
+## [382.Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 <p>Given a singly linked list, return a random node&#39;s value from the linked list. Each node must have the <strong>same probability</strong> of being chosen.</p>
 
 <p>Implement the <code>Solution</code> class:</p>

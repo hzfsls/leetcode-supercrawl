@@ -1,4 +1,4 @@
-## [1706.Where Will the Ball Fall]
+## [1706.Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 <p>You have a 2-D <code>grid</code> of size <code>m x n</code> representing a box, and you have <code>n</code> balls. The box is open on the top and bottom sides.</p>
 
 <p>Each cell in the box has a diagonal board spanning two corners of the cell that can redirect a ball to the right or to the left.</p>

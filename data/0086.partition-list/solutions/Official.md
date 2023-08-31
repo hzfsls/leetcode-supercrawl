@@ -1,3 +1,4 @@
+## [86.分隔链表 中文官方题解](https://leetcode.cn/problems/partition-list/solutions/100000/fen-ge-lian-biao-by-leetcode-solution-7ade)
 #### 方法一：模拟
 
 直观来说我们只需维护两个链表 $\textit{small}$ 和 $\textit{large}$ 即可，$\textit{small}$ 链表按顺序存储所有小于 $x$ 的节点，$\textit{large}$ 链表按顺序存储所有大于等于 $x$ 的节点。遍历完原链表后，我们只要将 $\textit{small}$ 链表尾节点指向 $\textit{large}$ 链表的头节点即能完成对链表的分隔。

@@ -1,4 +1,4 @@
-## [302.Smallest Rectangle Enclosing Black Pixels]
+## [302.Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)
 <p>You are given an <code>m x n</code> binary matrix <code>image</code> where <code>0</code> represents a white pixel and <code>1</code> represents a black pixel.</p>
 
 <p>The black pixels are connected (i.e., there is only one black region). Pixels are connected horizontally and vertically.</p>

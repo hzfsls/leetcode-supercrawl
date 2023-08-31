@@ -1,4 +1,4 @@
-## [1201.丑数 III]
+## [1201.丑数 III](https://leetcode.cn/problems/ugly-number-iii/)
 <p>给你四个整数：<code>n</code> 、<code>a</code> 、<code>b</code> 、<code>c</code> ，请你设计一个算法来找出第 <code>n</code> 个丑数。</p>
 
 <p>丑数是可以被 <code>a</code> <strong>或</strong> <code>b</code> <strong>或</strong> <code>c</code> 整除的 <strong>正整数</strong> 。</p>

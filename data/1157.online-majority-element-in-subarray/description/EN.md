@@ -1,4 +1,4 @@
-## [1157.Online Majority Element In Subarray]
+## [1157.Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
 <p>Design a data structure that efficiently finds the <strong>majority element</strong> of a given subarray.</p>
 
 <p>The <strong>majority element</strong> of a subarray is an element that occurs <code>threshold</code> times or more in the subarray.</p>

@@ -1,4 +1,4 @@
-## [672.灯泡开关 Ⅱ]
+## [672.灯泡开关 Ⅱ](https://leetcode.cn/problems/bulb-switcher-ii/)
 <p>房间中有 <code>n</code>&nbsp;只已经打开的灯泡，编号从 <code>1</code> 到 <code>n</code> 。墙上挂着 <strong>4 个开关</strong> 。</p>
 
 <p>这 4 个开关各自都具有不同的功能，其中：</p>

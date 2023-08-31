@@ -1,4 +1,4 @@
-## [2692.Make Object Immutable]
+## [2692.Make Object Immutable](https://leetcode.com/problems/make-object-immutable/)
 <p>Write a function that takes an object&nbsp;<code>obj</code> and returns a new&nbsp;<strong>immutable</strong>&nbsp;version of this object.</p>
 
 <p>An&nbsp;<strong>immutable&nbsp;</strong>object is an object that can&#39;t be altered and will throw an error if any attempt is made to alter it.</p>

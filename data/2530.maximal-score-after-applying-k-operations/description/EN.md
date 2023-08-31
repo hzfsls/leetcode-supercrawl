@@ -1,4 +1,4 @@
-## [2530.Maximal Score After Applying K Operations]
+## [2530.Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>. You have a <strong>starting score</strong> of <code>0</code>.</p>
 
 <p>In one <strong>operation</strong>:</p>

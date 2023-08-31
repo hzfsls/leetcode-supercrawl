@@ -1,3 +1,4 @@
+## [591.标签验证器 中文官方题解](https://leetcode.cn/problems/tag-validator/solutions/100000/biao-qian-yan-zheng-qi-by-leetcode-solut-fecy)
 #### 方法一：栈 + 字符串遍历
 
 **思路与算法**

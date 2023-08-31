@@ -1,4 +1,4 @@
-## [628.Maximum Product of Three Numbers]
+## [628.Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 <p>Given an integer array <code>nums</code>, <em>find three numbers whose product is maximum and return the maximum product</em>.</p>
 
 <p>&nbsp;</p>

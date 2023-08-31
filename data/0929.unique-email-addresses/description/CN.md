@@ -1,4 +1,4 @@
-## [929.独特的电子邮件地址]
+## [929.独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)
 <p>每个 <strong>有效电子邮件地址</strong> 都由一个 <strong>本地名</strong> 和一个 <strong>域名</strong> 组成，以 <code>'@'</code> 符号分隔。除小写字母之外，电子邮件地址还可以含有一个或多个&nbsp;<code>'.'</code> 或 <code>'+'</code> 。</p>
 
 <ul>

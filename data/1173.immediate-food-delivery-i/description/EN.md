@@ -1,4 +1,4 @@
-## [1173.Immediate Food Delivery I]
+## [1173.Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)
 <p>Table: <code>Delivery</code></p>
 
 <pre>

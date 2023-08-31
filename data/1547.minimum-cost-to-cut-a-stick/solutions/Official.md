@@ -1,3 +1,4 @@
+## [1547.切棍子的最小成本 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/solutions/100000/qie-gun-zi-de-zui-xiao-cheng-ben-by-leetcode-solut)
 #### 前言
 
 本题和 [312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/) 较为相似，都是经典的区间动态规划题。

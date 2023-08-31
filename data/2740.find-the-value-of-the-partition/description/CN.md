@@ -1,4 +1,4 @@
-## [2740.找出分区值]
+## [2740.找出分区值](https://leetcode.cn/problems/find-the-value-of-the-partition/)
 <p>给你一个 <strong>正</strong> 整数数组 <code>nums</code> 。</p>
 
 <p>将 <code>nums</code> 分成两个数组：<code>nums1</code> 和 <code>nums2</code> ，并满足下述条件：</p>

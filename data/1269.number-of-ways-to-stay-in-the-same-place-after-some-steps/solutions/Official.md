@@ -1,3 +1,4 @@
+## [1269.停在原地的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/solutions/100000/ting-zai-yuan-di-de-fang-an-shu-by-leetcode-soluti)
 #### 方法一：动态规划
 
 对于计算方案数的题目，常用的方法是动态规划。对于这道题，需要计算在 $\textit{steps}$ 步操作之后，指针位于下标 $0$ 的方案数。

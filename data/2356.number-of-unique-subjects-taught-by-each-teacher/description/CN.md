@@ -1,4 +1,4 @@
-## [2356.每位教师所教授的科目种类的数量]
+## [2356.每位教师所教授的科目种类的数量](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher/)
 <p>表: <code>Teacher</code></p>
 
 <pre>

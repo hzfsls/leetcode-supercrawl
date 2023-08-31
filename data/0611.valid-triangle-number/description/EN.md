@@ -1,4 +1,4 @@
-## [611.Valid Triangle Number]
+## [611.Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
 <p>Given an integer array <code>nums</code>, return <em>the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle</em>.</p>
 
 <p>&nbsp;</p>

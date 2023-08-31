@@ -1,4 +1,4 @@
-## [2666.Allow One Function Call]
+## [2666.Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)
 <p>Given a function <code>fn</code>, return a new function that is identical to the original function except that it ensures&nbsp;<code>fn</code>&nbsp;is&nbsp;called at most once.</p>
 
 <ul>

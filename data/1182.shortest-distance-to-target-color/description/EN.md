@@ -1,4 +1,4 @@
-## [1182.Shortest Distance to Target Color]
+## [1182.Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/)
 <p>You are given an array <code>colors</code>, in which there are three colors: <code>1</code>, <code>2</code> and&nbsp;<code>3</code>.</p>
 
 <p>You are also given some queries. Each query consists of two integers <code>i</code>&nbsp;and <code>c</code>, return&nbsp;the shortest distance between the given index&nbsp;<code>i</code> and the target color <code>c</code>. If there is no solution return <code>-1</code>.</p>

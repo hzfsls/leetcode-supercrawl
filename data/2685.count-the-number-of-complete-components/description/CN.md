@@ -1,4 +1,4 @@
-## [2685.统计完全连通分量的数量]
+## [2685.统计完全连通分量的数量](https://leetcode.cn/problems/count-the-number-of-complete-components/)
 <p>给你一个整数 <code>n</code> 。现有一个包含 <code>n</code> 个顶点的 <strong>无向</strong> 图，顶点按从 <code>0</code> 到 <code>n - 1</code> 编号。给你一个二维整数数组 <code>edges</code> 其中 <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> 表示顶点 <code>a<sub>i</sub></code> 和 <code>b<sub>i</sub></code> 之间存在一条 <strong>无向</strong> 边。</p>
 
 <p>返回图中 <strong>完全连通分量</strong> 的数量。</p>

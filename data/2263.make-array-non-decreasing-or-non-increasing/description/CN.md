@@ -1,4 +1,4 @@
-## [2263.数组变为有序的最小操作次数]
+## [2263.数组变为有序的最小操作次数](https://leetcode.cn/problems/make-array-non-decreasing-or-non-increasing/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 。在一步操作中，你可以：</p>
 
 <ul>

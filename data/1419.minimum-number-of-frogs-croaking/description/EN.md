@@ -1,4 +1,4 @@
-## [1419.Minimum Number of Frogs Croaking]
+## [1419.Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
 <p>You are given the string <code>croakOfFrogs</code>, which represents a combination of the string <code>&quot;croak&quot;</code> from different frogs, that is, multiple frogs can croak at the same time, so multiple <code>&quot;croak&quot;</code> are mixed.</p>
 
 <p><em>Return the minimum number of </em>different<em> frogs to finish all the croaks in the given string.</em></p>

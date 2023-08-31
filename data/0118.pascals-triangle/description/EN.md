@@ -1,4 +1,4 @@
-## [118.Pascal's Triangle]
+## [118.Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 <p>Given an integer <code>numRows</code>, return the first numRows of <strong>Pascal&#39;s triangle</strong>.</p>
 
 <p>In <strong>Pascal&#39;s triangle</strong>, each number is the sum of the two numbers directly above it as shown:</p>

@@ -1,4 +1,4 @@
-## [86.Partition List]
+## [86.Partition List](https://leetcode.com/problems/partition-list/)
 <p>Given the <code>head</code> of a linked list and a value <code>x</code>, partition it such that all nodes <strong>less than</strong> <code>x</code> come before nodes <strong>greater than or equal</strong> to <code>x</code>.</p>
 
 <p>You should <strong>preserve</strong> the original relative order of the nodes in each of the two partitions.</p>

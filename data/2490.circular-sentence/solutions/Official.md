@@ -1,3 +1,4 @@
+## [2490.回环句 中文官方题解](https://leetcode.cn/problems/circular-sentence/solutions/100000/hui-huan-ju-by-leetcode-solution-h853)
 #### 方法一：遍历
 
 **思路与算法**

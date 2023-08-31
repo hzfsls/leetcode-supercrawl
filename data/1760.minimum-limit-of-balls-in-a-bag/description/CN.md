@@ -1,4 +1,4 @@
-## [1760.袋子里最少数目的球]
+## [1760.袋子里最少数目的球](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/)
 <p>给你一个整数数组 <code>nums</code> ，其中 <code>nums[i]</code> 表示第 <code>i</code> 个袋子里球的数目。同时给你一个整数 <code>maxOperations</code> 。</p>
 
 <p>你可以进行如下操作至多 <code>maxOperations</code> 次：</p>

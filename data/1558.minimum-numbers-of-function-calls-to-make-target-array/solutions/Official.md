@@ -1,3 +1,4 @@
+## [1558.得到目标数组的最少函数调用次数 中文官方题解](https://leetcode.cn/problems/minimum-numbers-of-function-calls-to-make-target-array/solutions/100000/de-dao-mu-biao-shu-zu-de-zui-shao-han-shu-diao-y-2)
 #### 方法一：贪心
 
 本题给定了两种操作：

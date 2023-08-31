@@ -1,3 +1,4 @@
+## [952.按公因数计算最大组件大小 中文官方题解](https://leetcode.cn/problems/largest-component-size-by-common-factor/solutions/100000/an-gong-yin-shu-ji-suan-zui-da-zu-jian-d-amdx)
 #### 方法一：并查集
 
 为了得到数组 $\textit{nums}$ 中的每个数和哪些数属于同一个组件，需要得到数组 $\textit{nums}$ 中的最大值 $m$，对于每个不超过 $m$ 的正整数 $\textit{num}$ 计算 $\textit{num}$ 和哪些数属于同一个组件。对于范围 $[2, \sqrt{\textit{num}}]$ 内的每个正整数 $i$，如果 $i$ 是 $\textit{num}$ 的因数，则 $\textit{num}$ 和 $i$、$\dfrac{\textit{num}}{i}$ 都属于同一个组件。

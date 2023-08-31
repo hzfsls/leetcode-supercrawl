@@ -1,3 +1,4 @@
+## [867.转置矩阵 中文官方题解](https://leetcode.cn/problems/transpose-matrix/solutions/100000/zhuan-zhi-ju-zhen-by-leetcode-solution-85s2)
 #### 方法一：模拟
 
 如果矩阵 $\textit{matrix}$ 为 $m$ 行 $n$ 列，则转置后的矩阵 $\textit{matrix}^\text{T}$ 为 $n$ 行 $m$ 列，且对任意 $0 \le i<m$ 和 $0 \le j<n$，都有 $\textit{matrix}^\text{T}[j][i]=\textit{matrix}[i][j]$。

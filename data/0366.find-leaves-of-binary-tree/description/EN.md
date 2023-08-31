@@ -1,4 +1,4 @@
-## [366.Find Leaves of Binary Tree]
+## [366.Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 <p>Given the <code>root</code> of a binary tree, collect a tree&#39;s nodes as if you were doing this:</p>
 
 <ul>

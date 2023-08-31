@@ -1,4 +1,4 @@
-## [809.Expressive Words]
+## [809.Expressive Words](https://leetcode.com/problems/expressive-words/)
 <p>Sometimes people repeat letters to represent extra feeling. For example:</p>
 
 <ul>

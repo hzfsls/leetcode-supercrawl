@@ -1,3 +1,4 @@
+## [1167.连接棒材的最低费用 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/solutions/100000/lian-jie-bang-cai-de-zui-di-fei-yong-by-leetcode-s)
 #### 方法一：堆（优先队列）
 
 **思路**

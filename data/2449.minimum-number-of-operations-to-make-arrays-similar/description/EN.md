@@ -1,4 +1,4 @@
-## [2449.Minimum Number of Operations to Make Arrays Similar]
+## [2449.Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/)
 <p>You are given two positive integer arrays <code>nums</code> and <code>target</code>, of the same length.</p>
 
 <p>In one operation, you can choose any two <strong>distinct</strong> indices <code>i</code> and <code>j</code> where <code>0 &lt;= i, j &lt; nums.length</code> and:</p>

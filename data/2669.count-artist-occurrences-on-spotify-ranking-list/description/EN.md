@@ -1,4 +1,4 @@
-## [2669.Count Artist Occurrences On Spotify Ranking List]
+## [2669.Count Artist Occurrences On Spotify Ranking List](https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/)
 <p>Table: <code><font face="monospace">Spotify</font></code></p>
 
 <pre>

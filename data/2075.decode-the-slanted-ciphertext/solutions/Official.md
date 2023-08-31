@@ -1,3 +1,4 @@
+## [2075.解码斜向换位密码 中文官方题解](https://leetcode.cn/problems/decode-the-slanted-ciphertext/solutions/100000/jie-ma-xie-xiang-huan-wei-mi-ma-by-leetc-dtrg)
 #### 方法一：模拟
 
 **思路与算法**

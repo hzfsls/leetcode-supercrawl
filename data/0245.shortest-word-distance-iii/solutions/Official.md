@@ -1,3 +1,4 @@
+## [245.最短单词距离 III 中文官方题解](https://leetcode.cn/problems/shortest-word-distance-iii/solutions/100000/zui-duan-dan-ci-ju-chi-iii-by-leetcode-s-y4hu)
 #### 方法一：一次遍历
 
 这道题是「[243. 最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance)」的进阶版本，和第 243 题的区别在于这道题中给定的两个单词 $\textit{word}_1$ 和 $\textit{word}_2$ 可能相同，当 $\textit{word}_1$ 和 $\textit{word}_2$ 相同时，表示数组中的两个独立的单词。

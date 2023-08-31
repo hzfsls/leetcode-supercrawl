@@ -1,3 +1,4 @@
+## [729.我的日程安排表 I 中文官方题解](https://leetcode.cn/problems/my-calendar-i/solutions/100000/wo-de-ri-cheng-an-pai-biao-i-by-leetcode-nlxr)
 #### 方法一：直接遍历
 
 我们记录下所有已经预订的课程安排区间，当我们预订新的区间 $[\textit{start}, \textit{end})$ 时，此时检查当前已经预订的每个日程安排是否与新日程安排冲突。若不冲突，则可以添加新的日程安排。

@@ -1,4 +1,4 @@
-## [1118.Number of Days in a Month]
+## [1118.Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)
 <p>Given a year <code>year</code> and a month <code>month</code>, return <em>the number of days of that month</em>.</p>
 
 <p>&nbsp;</p>

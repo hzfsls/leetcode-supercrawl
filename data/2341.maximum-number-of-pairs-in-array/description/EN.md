@@ -1,4 +1,4 @@
-## [2341.Maximum Number of Pairs in Array]
+## [2341.Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. In one operation, you may do the following:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1763.最长的美好子字符串 中文官方题解](https://leetcode.cn/problems/longest-nice-substring/solutions/100000/zui-chang-de-mei-hao-zi-zi-fu-chuan-by-l-4l1t)
 #### 方法一：枚举
 
 **思路**

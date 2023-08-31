@@ -1,3 +1,4 @@
+## [1104.二叉树寻路 中文官方题解](https://leetcode.cn/problems/path-in-zigzag-labelled-binary-tree/solutions/100000/er-cha-shu-xun-lu-by-leetcode-solution-ryx0)
 #### 方法一：数学
 
 我们先来研究一个简单的情形：二叉树的每一行都是按从左到右的顺序进行标记。此时二叉树满足以下性质：

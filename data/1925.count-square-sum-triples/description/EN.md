@@ -1,4 +1,4 @@
-## [1925.Count Square Sum Triples]
+## [1925.Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)
 <p>A <strong>square triple</strong> <code>(a,b,c)</code> is a triple where <code>a</code>, <code>b</code>, and <code>c</code> are <strong>integers</strong> and <code>a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></code>.</p>
 
 <p>Given an integer <code>n</code>, return <em>the number of <strong>square triples</strong> such that </em><code>1 &lt;= a, b, c &lt;= n</code>.</p>

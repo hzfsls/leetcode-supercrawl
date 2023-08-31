@@ -1,4 +1,4 @@
-## [2721.并行执行异步函数]
+## [2721.并行执行异步函数](https://leetcode.cn/problems/execute-asynchronous-functions-in-parallel/)
 <p>给定一个异步函数数组 <code>functions</code>，返回一个新的 promise 对象&nbsp;<code>promise</code>。数组中的每个函数都不接受参数并返回一个 promise。</p>
 
 <p><code>promise</code> resolve 条件：</p>

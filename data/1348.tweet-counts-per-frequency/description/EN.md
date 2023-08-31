@@ -1,4 +1,4 @@
-## [1348.Tweet Counts Per Frequency]
+## [1348.Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)
 <p>A social media company is trying to monitor activity on their site by analyzing the number of tweets that occur in select periods of time. These periods can be partitioned into smaller <strong>time chunks</strong> based on a certain frequency (every <strong>minute</strong>, <strong>hour</strong>, or <strong>day</strong>).</p>
 
 <p>For example, the period <code>[10, 10000]</code> (in <strong>seconds</strong>) would be partitioned into the following <strong>time chunks</strong> with these frequencies:</p>

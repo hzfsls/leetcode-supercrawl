@@ -1,3 +1,4 @@
+## [1305.两棵二叉搜索树中的所有元素 中文官方题解](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/solutions/100000/liang-ke-er-cha-sou-suo-shu-zhong-de-suo-you-yua-3)
 #### 方法一：中序遍历 + 归并
 
 回顾二叉搜索树的定义：

@@ -1,3 +1,4 @@
+## [204.计数质数 中文官方题解](https://leetcode.cn/problems/count-primes/solutions/100000/ji-shu-zhi-shu-by-leetcode-solution)
 #### 前言
 
 统计 $[2,n]$ 中质数的数量是一个很常见的题目，也有很多巧妙高效的做法，接下来的部分只会讲述一些常见的做法，更多的拓展内容读者可以自行搜索补充，也欢迎在评论区与大家分享交流。

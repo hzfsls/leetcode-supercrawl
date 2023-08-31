@@ -1,3 +1,4 @@
+## [81.搜索旋转排序数组 II 中文官方题解](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/solutions/100000/sou-suo-xuan-zhuan-pai-xu-shu-zu-ii-by-l-0nmp)
 #### 前言
 
 本篇题解基于「[33. 搜索旋转排序数组的官方题解](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/sou-suo-xuan-zhuan-pai-xu-shu-zu-by-leetcode-solut/)」，请读者在阅读完该题解后再继续阅读本篇题解。

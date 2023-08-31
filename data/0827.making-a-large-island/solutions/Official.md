@@ -1,3 +1,4 @@
+## [827.最大人工岛 中文官方题解](https://leetcode.cn/problems/making-a-large-island/solutions/100000/zui-da-ren-gong-dao-by-leetcode-solution-lehy)
 #### 方法一：标记岛屿 + 合并
 
 我们给每个岛屿进行标记，标记值与岛屿的某个 $\textit{grid}[i][j]$ 有关，即 $t = i \times n + j + 1$，$t$ 唯一。使用 $\textit{tag}$ 记录每个点所属的岛屿的标记，并且使用哈希表 $\textit{area}$ 保存每个岛屿的面积。岛屿的面积可以使用深度优先搜索或广度优先搜索计算。

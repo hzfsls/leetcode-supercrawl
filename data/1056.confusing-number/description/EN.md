@@ -1,4 +1,4 @@
-## [1056.Confusing Number]
+## [1056.Confusing Number](https://leetcode.com/problems/confusing-number/)
 <p>A <strong>confusing number</strong> is a number that when rotated <code>180</code> degrees becomes a different number with <strong>each digit valid</strong>.</p>
 
 <p>We can rotate digits of a number by <code>180</code> degrees to form new digits.</p>

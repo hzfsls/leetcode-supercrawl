@@ -1,3 +1,4 @@
+## [2133.检查是否每一行每一列都包含全部整数 中文官方题解](https://leetcode.cn/problems/check-if-every-row-and-column-contains-all-numbers/solutions/100000/jian-cha-shi-fou-mei-yi-xing-mei-yi-lie-uwrwu)
 #### 方法一：哈希表
 
 **思路与算法**

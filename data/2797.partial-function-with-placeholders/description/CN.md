@@ -1,4 +1,4 @@
-## [2797.带有占位符的部分函数]
+## [2797.带有占位符的部分函数](https://leetcode.cn/problems/partial-function-with-placeholders/)
 <p>给定函数 <code>fn</code> 和数组 <code>args</code>，返回一个函数 <code>partialFn</code>。</p>
 
 <p><code>args</code> 中的占位符<code> "_"</code> 需要用&nbsp;<code>restArgs</code> 中索引从&nbsp;<code>0</code> 开始的值替换。 <code>restArgs</code> 中剩余的值则添加到 <code>args</code> 的末尾。</p>

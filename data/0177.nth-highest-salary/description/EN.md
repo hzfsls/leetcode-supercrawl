@@ -1,4 +1,4 @@
-## [177.Nth Highest Salary]
+## [177.Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
 <p>Table: <code>Employee</code></p>
 
 <pre>

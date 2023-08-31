@@ -1,4 +1,4 @@
-## [2483.商店的最少代价]
+## [2483.商店的最少代价](https://leetcode.cn/problems/minimum-penalty-for-a-shop/)
 <p>给你一个顾客访问商店的日志，用一个下标从 <strong>0</strong>&nbsp;开始且只包含字符&nbsp;<code>'N'</code> 和&nbsp;<code>'Y'</code>&nbsp;的字符串&nbsp;<code>customers</code>&nbsp;表示：</p>
 
 <ul>

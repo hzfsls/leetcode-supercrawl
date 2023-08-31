@@ -1,3 +1,4 @@
+## [1986.完成任务的最少工作时间段 中文官方题解](https://leetcode.cn/problems/minimum-number-of-work-sessions-to-finish-the-tasks/solutions/100000/wan-cheng-ren-wu-de-zui-shao-gong-zuo-sh-tl0p)
 #### 方法一：枚举子集的动态规划
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1082.Sales Analysis I]
+## [1082.Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/)
 <p>Table: <code>Product</code></p>
 
 <pre>

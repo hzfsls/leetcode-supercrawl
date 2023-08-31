@@ -1,4 +1,4 @@
-## [977.Squares of a Sorted Array]
+## [977.Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 <p>Given an integer array <code>nums</code> sorted in <strong>non-decreasing</strong> order, return <em>an array of <strong>the squares of each number</strong> sorted in non-decreasing order</em>.</p>
 
 <p>&nbsp;</p>

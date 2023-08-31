@@ -1,4 +1,4 @@
-## [2430.Maximum Deletions on a String]
+## [2430.Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)
 <p>You are given a string <code>s</code> consisting of only lowercase English letters. In one operation, you can:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [475.供暖器 中文官方题解](https://leetcode.cn/problems/heaters/solutions/100000/gong-nuan-qi-by-leetcode-solution-rwui)
 #### 方法一：排序 + 二分查找
 
 **思路和算法**

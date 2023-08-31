@@ -1,3 +1,4 @@
+## [2131.连接两字母单词得到的最长回文串 中文官方题解](https://leetcode.cn/problems/longest-palindrome-by-concatenating-two-letter-words/solutions/100000/lian-jie-liang-zi-mu-dan-ci-de-dao-de-zu-vs99)
 #### 方法一：贪心 + 哈希表
 
 **思路与算法**

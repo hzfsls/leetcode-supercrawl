@@ -1,4 +1,4 @@
-## [761.特殊的二进制序列]
+## [761.特殊的二进制序列](https://leetcode.cn/problems/special-binary-string/)
 <p>特殊的二进制序列是具有以下两个性质的二进制序列：</p>
 
 <ul>

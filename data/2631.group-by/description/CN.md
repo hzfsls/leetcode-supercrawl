@@ -1,4 +1,4 @@
-## [2631.分组]
+## [2631.分组](https://leetcode.cn/problems/group-by/)
 <p>请你编写一段可应用于所有数组的代码，使任何数组调用 <code>array. groupBy(fn)</code> 方法时，它返回对该数组 <strong>分组后</strong> 的结果。</p>
 
 <p>数组 <strong>分组</strong> 是一个对象，其中的每个键都是 <code>fn(arr[i])</code> 的输出的一个数组，该数组中含有原数组中具有该键的所有项。</p>

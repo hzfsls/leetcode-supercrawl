@@ -1,4 +1,4 @@
-## [1441.用栈操作构建数组]
+## [1441.用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/)
 <p>给你一个数组 <code>target</code> 和一个整数 <code>n</code>。每次迭代，需要从&nbsp; <code>list = { 1 , 2 , 3 ..., n }</code> 中依次读取一个数字。</p>
 
 <p>请使用下述操作来构建目标数组 <code>target</code> ：</p>

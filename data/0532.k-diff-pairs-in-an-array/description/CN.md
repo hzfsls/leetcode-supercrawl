@@ -1,4 +1,4 @@
-## [532.数组中的 k-diff 数对]
+## [532.数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)
 <p>给你一个整数数组&nbsp;<code>nums</code> 和一个整数&nbsp;<code>k</code>，请你在数组中找出<strong> 不同的&nbsp;</strong>k-diff 数对，并返回不同的 <strong>k-diff 数对</strong> 的数目。</p>
 
 <p><strong>k-diff</strong>&nbsp;数对定义为一个整数对 <code>(nums[i], nums[j])</code><strong> </strong>，并满足下述全部条件：</p>

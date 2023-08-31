@@ -1,4 +1,4 @@
-## [1258.近义词句子]
+## [1258.近义词句子](https://leetcode.cn/problems/synonymous-sentences/)
 <p>给你一个近义词表&nbsp;<code>synonyms</code> 和一个句子&nbsp;<code>text</code>&nbsp;，&nbsp;<code>synonyms</code> 表中是一些近义词对 ，你可以将句子&nbsp;<code>text</code> 中每个单词用它的近义词来替换。</p>
 
 <p>请你找出所有用近义词替换后的句子，按&nbsp;<strong>字典序排序</strong>&nbsp;后返回。</p>

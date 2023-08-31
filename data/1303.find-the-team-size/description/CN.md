@@ -1,4 +1,4 @@
-## [1303.求团队人数]
+## [1303.求团队人数](https://leetcode.cn/problems/find-the-team-size/)
 <p>员工表：<code>Employee</code></p>
 
 <pre>

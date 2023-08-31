@@ -1,4 +1,4 @@
-## [816.Ambiguous Coordinates]
+## [816.Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)
 <p>We had some 2-dimensional coordinates, like <code>&quot;(1, 3)&quot;</code> or <code>&quot;(2, 0.5)&quot;</code>. Then, we removed all commas, decimal points, and spaces and ended up with the string s.</p>
 
 <ul>

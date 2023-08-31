@@ -1,4 +1,4 @@
-## [720.词典中最长的单词]
+## [720.词典中最长的单词](https://leetcode.cn/problems/longest-word-in-dictionary/)
 <p>给出一个字符串数组&nbsp;<code>words</code> 组成的一本英语词典。返回&nbsp;<code>words</code> 中最长的一个单词，该单词是由&nbsp;<code>words</code>&nbsp;词典中其他单词逐步添加一个字母组成。</p>
 
 <p>若其中有多个可行的答案，则返回答案中字典序最小的单词。若无答案，则返回空字符串。</p>

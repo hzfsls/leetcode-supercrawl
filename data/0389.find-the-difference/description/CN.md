@@ -1,4 +1,4 @@
-## [389.找不同]
+## [389.找不同](https://leetcode.cn/problems/find-the-difference/)
 <p>给定两个字符串 <code>s</code> 和 <code>t</code>&nbsp;，它们只包含小写字母。</p>
 
 <p>字符串 <code>t</code>&nbsp;由字符串 <code>s</code> 随机重排，然后在随机位置添加一个字母。</p>

@@ -1,4 +1,4 @@
-## [877.Stone Game]
+## [877.Stone Game](https://leetcode.com/problems/stone-game/)
 <p>Alice and Bob play a game with piles of stones. There are an <strong>even</strong> number of piles arranged in a row, and each pile has a <strong>positive</strong> integer number of stones <code>piles[i]</code>.</p>
 
 <p>The objective of the game is to end with the most stones. The <strong>total</strong> number of stones across all the piles is <strong>odd</strong>, so there are no ties.</p>

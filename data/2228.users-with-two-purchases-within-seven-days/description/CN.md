@@ -1,4 +1,4 @@
-## [2228.7 天内两次购买的用户]
+## [2228.7 天内两次购买的用户](https://leetcode.cn/problems/users-with-two-purchases-within-seven-days/)
 <p>表: <code>Purchases</code></p>
 
 <pre>

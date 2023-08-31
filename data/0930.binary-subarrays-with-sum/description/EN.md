@@ -1,4 +1,4 @@
-## [930.Binary Subarrays With Sum]
+## [930.Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
 <p>Given a binary array <code>nums</code> and an integer <code>goal</code>, return <em>the number of non-empty <strong>subarrays</strong> with a sum</em> <code>goal</code>.</p>
 
 <p>A <strong>subarray</strong> is a contiguous part of the array.</p>

@@ -1,3 +1,4 @@
+## [668.乘法表中第k小的数 中文官方题解](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/solutions/100000/cheng-fa-biao-zhong-di-kxiao-de-shu-by-l-521a)
 #### 方法一：二分查找
 
 由于 $m$ 和 $n$ 很大，直接求出所有数字然后找到第 $k$ 小会超出时间限制。不妨考虑一个反向问题：对于乘法表中的数字 $x$，它是乘法表中第几小的数字？

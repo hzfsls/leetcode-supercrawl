@@ -1,3 +1,4 @@
+## [2124.检查是否所有 A 都在 B 之前 中文官方题解](https://leetcode.cn/problems/check-if-all-as-appears-before-all-bs/solutions/100000/jian-cha-shi-fou-suo-you-a-du-zai-b-zhi-e7p0q)
 #### 方法一：比较下标
 
 **思路与算法**

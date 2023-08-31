@@ -1,4 +1,4 @@
-## [1526.Minimum Number of Increments on Subarrays to Form a Target Array]
+## [1526.Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
 <p>You are given an integer array <code>target</code>. You have an integer array <code>initial</code> of the same size as <code>target</code> with all elements initially zeros.</p>
 
 <p>In one operation you can choose <strong>any</strong> subarray from <code>initial</code> and increment each value by one.</p>

@@ -1,4 +1,4 @@
-## [861.Score After Flipping Matrix]
+## [861.Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)
 <p>You are given an <code>m x n</code> binary matrix <code>grid</code>.</p>
 
 <p>A <strong>move</strong> consists of choosing any row or column and toggling each value in that row or column (i.e., changing all <code>0</code>&#39;s to <code>1</code>&#39;s, and all <code>1</code>&#39;s to <code>0</code>&#39;s).</p>

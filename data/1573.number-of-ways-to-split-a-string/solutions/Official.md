@@ -1,3 +1,4 @@
+## [1573.分割字符串的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-split-a-string/solutions/100000/fen-ge-zi-fu-chuan-de-fang-an-shu-by-leetcode-solu)
 #### 方法一：模拟
 
 要将字符串 $s$ 分割成 $3$ 个非空子字符串，且每个子字符串中的字符 $1$ 的数目相同，显然字符串 $s$ 中的字符 $1$ 的数目必须是 $3$ 的倍数，否则不可能满足 $3$ 个子字符串中的字符 $1$ 的数目相同。当字符串 $s$ 中的字符 $1$ 的数目确定时，每个子字符串中的字符 $1$ 的数目也是确定的。

@@ -1,4 +1,4 @@
-## [1307.Verbal Arithmetic Puzzle]
+## [1307.Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/)
 <p>Given an equation, represented by <code>words</code> on the left side and the <code>result</code> on the right side.</p>
 
 <p>You need to check if the equation is solvable under the following rules:</p>

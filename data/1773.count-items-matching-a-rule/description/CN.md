@@ -1,4 +1,4 @@
-## [1773.统计匹配检索规则的物品数量]
+## [1773.统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule/)
 <p>给你一个数组 <code>items</code> ，其中 <code>items[i] = [type<sub>i</sub>, color<sub>i</sub>, name<sub>i</sub>]</code> ，描述第 <code>i</code> 件物品的类型、颜色以及名称。</p>
 
 <p>另给你一条由两个字符串 <code>ruleKey</code> 和 <code>ruleValue</code> 表示的检索规则。</p>

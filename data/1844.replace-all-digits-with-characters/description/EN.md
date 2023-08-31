@@ -1,4 +1,4 @@
-## [1844.Replace All Digits with Characters]
+## [1844.Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 <p>You are given a <strong>0-indexed</strong> string <code>s</code> that has lowercase English letters in its <strong>even</strong> indices and digits in its <strong>odd</strong> indices.</p>
 
 <p>There is a function <code>shift(c, x)</code>, where <code>c</code> is a character and <code>x</code> is a digit, that returns the <code>x<sup>th</sup></code> character after <code>c</code>.</p>

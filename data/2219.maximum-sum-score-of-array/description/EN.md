@@ -1,4 +1,4 @@
-## [2219.Maximum Sum Score of Array]
+## [2219.Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>The <strong>sum </strong><strong>score</strong> of <code>nums</code> at an index <code>i</code> where <code>0 &lt;= i &lt; n</code> is the <strong>maximum</strong> of:</p>

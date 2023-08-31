@@ -1,4 +1,4 @@
-## [2601.质数减法运算]
+## [2601.质数减法运算](https://leetcode.cn/problems/prime-subtraction-operation/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> ，数组长度为 <code>n</code> 。</p>
 
 <p>你可以执行无限次下述运算：</p>

@@ -1,4 +1,4 @@
-## [2525.根据规则将箱子分类]
+## [2525.根据规则将箱子分类](https://leetcode.cn/problems/categorize-box-according-to-criteria/)
 <p>给你四个整数&nbsp;<code>length</code>&nbsp;，<code>width</code>&nbsp;，<code>height</code>&nbsp;和&nbsp;<code>mass</code>&nbsp;，分别表示一个箱子的三个维度和质量，请你返回一个表示箱子 <strong>类别</strong> 的字符串。</p>
 
 <ul>

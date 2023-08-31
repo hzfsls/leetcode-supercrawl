@@ -1,4 +1,4 @@
-## [1762.能看到海景的建筑物]
+## [1762.能看到海景的建筑物](https://leetcode.cn/problems/buildings-with-an-ocean-view/)
 <p>有 <code>n</code> 座建筑物。给你一个大小为 <code>n</code> 的整数数组 <code>heights</code> 表示每一个建筑物的高度。</p>
 
 <p>建筑物的右边是海洋。如果建筑物可以无障碍地看到海洋，则建筑物能看到海景。确切地说，如果一座建筑物右边的所有建筑都比它 <strong>矮</strong> 时，就认为它能看到海景。</p>

@@ -1,4 +1,4 @@
-## [2362.生成发票]
+## [2362.生成发票](https://leetcode.cn/problems/generate-the-invoice/)
 <p>表: <code>Products</code></p>
 
 <pre>

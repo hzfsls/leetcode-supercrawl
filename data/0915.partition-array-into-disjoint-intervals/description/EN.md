@@ -1,4 +1,4 @@
-## [915.Partition Array into Disjoint Intervals]
+## [915.Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
 <p>Given an integer array <code>nums</code>, partition it into two (contiguous) subarrays <code>left</code> and <code>right</code> so that:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [636.函数的独占时间 中文官方题解](https://leetcode.cn/problems/exclusive-time-of-functions/solutions/100000/han-shu-de-du-zhan-shi-jian-by-leetcode-d54e2)
 #### 方法一：栈
 
 **思路与算法**

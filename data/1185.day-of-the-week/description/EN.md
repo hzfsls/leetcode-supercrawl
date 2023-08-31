@@ -1,4 +1,4 @@
-## [1185.Day of the Week]
+## [1185.Day of the Week](https://leetcode.com/problems/day-of-the-week/)
 <p>Given a date, return the corresponding day of the week for that date.</p>
 
 <p>The input is given as three integers representing the <code>day</code>, <code>month</code> and <code>year</code> respectively.</p>

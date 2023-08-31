@@ -1,4 +1,4 @@
-## [590.N 叉树的后序遍历]
+## [590.N 叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/)
 <p>给定一个 n&nbsp;叉树的根节点<meta charset="UTF-8" />&nbsp;<code>root</code>&nbsp;，返回 <em>其节点值的<strong> 后序遍历</strong></em> 。</p>
 
 <p>n 叉树 在输入中按层序遍历进行序列化表示，每组子节点由空值 <code>null</code> 分隔（请参见示例）。</p>

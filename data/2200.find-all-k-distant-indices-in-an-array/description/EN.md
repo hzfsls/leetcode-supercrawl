@@ -1,4 +1,4 @@
-## [2200.Find All K-Distant Indices in an Array]
+## [2200.Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and two integers <code>key</code> and <code>k</code>. A <strong>k-distant index</strong> is an index <code>i</code> of <code>nums</code> for which there exists at least one index <code>j</code> such that <code>|i - j| &lt;= k</code> and <code>nums[j] == key</code>.</p>
 
 <p>Return <em>a list of all k-distant indices sorted in <strong>increasing order</strong></em>.</p>

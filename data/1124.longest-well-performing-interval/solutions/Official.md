@@ -1,3 +1,4 @@
+## [1124.表现良好的最长时间段 中文官方题解](https://leetcode.cn/problems/longest-well-performing-interval/solutions/100000/biao-xian-liang-hao-de-zui-chang-shi-jia-rlij)
 #### 方法一：贪心
 
 **思路与算法**

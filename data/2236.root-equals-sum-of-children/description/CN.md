@@ -1,4 +1,4 @@
-## [2236.判断根结点是否等于子结点之和]
+## [2236.判断根结点是否等于子结点之和](https://leetcode.cn/problems/root-equals-sum-of-children/)
 <p>给你一个 <strong>二叉树 </strong>的根结点&nbsp;<code>root</code>，该二叉树由恰好&nbsp;<code>3</code>&nbsp;个结点组成：根结点、左子结点和右子结点。</p>
 
 <p>如果根结点值等于两个子结点值之和，返回&nbsp;<code>true</code>&nbsp;，否则返回<em>&nbsp;</em><code>false</code> 。</p>

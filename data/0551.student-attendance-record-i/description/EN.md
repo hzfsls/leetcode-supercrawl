@@ -1,4 +1,4 @@
-## [551.Student Attendance Record I]
+## [551.Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
 <p>You are given a string <code>s</code> representing an attendance record for a student where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>
 
 <ul>

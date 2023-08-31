@@ -1,4 +1,4 @@
-## [1179.重新格式化部门表]
+## [1179.重新格式化部门表](https://leetcode.cn/problems/reformat-department-table/)
 <p>表&nbsp;<code>Department</code>：</p>
 
 <pre>

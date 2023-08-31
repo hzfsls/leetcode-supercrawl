@@ -1,4 +1,4 @@
-## [2373.矩阵中的局部最大值]
+## [2373.矩阵中的局部最大值](https://leetcode.cn/problems/largest-local-values-in-a-matrix/)
 <p>给你一个大小为 <code>n x n</code> 的整数矩阵 <code>grid</code> 。</p>
 
 <p>生成一个大小为&nbsp;<code>(n - 2) x (n - 2)</code> 的整数矩阵&nbsp; <code>maxLocal</code> ，并满足：</p>

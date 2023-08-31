@@ -1,4 +1,4 @@
-## [2037.使每位学生都有座位的最少移动次数]
+## [2037.使每位学生都有座位的最少移动次数](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/)
 <p>一个房间里有 <code>n</code>&nbsp;个座位和 <code>n</code>&nbsp;名学生，房间用一个数轴表示。给你一个长度为 <code>n</code>&nbsp;的数组&nbsp;<code>seats</code>&nbsp;，其中&nbsp;<code>seats[i]</code> 是第 <code>i</code>&nbsp;个座位的位置。同时给你一个长度为 <code>n</code>&nbsp;的数组&nbsp;<code>students</code>&nbsp;，其中&nbsp;<code>students[j]</code>&nbsp;是第 <code>j</code>&nbsp;位学生的位置。</p>
 
 <p>你可以执行以下操作任意次：</p>

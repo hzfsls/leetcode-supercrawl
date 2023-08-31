@@ -1,4 +1,4 @@
-## [1246.删除回文子数组]
+## [1246.删除回文子数组](https://leetcode.cn/problems/palindrome-removal/)
 <p>给你一个整数数组&nbsp;<code>arr</code>，每一次操作你都可以选择并删除它的一个 <strong>回文</strong> 子数组&nbsp;<code>arr[i], arr[i+1], ..., arr[j]</code>（ <code>i &lt;= j</code>）。</p>
 
 <p>注意，每当你删除掉一个子数组，右侧元素都会自行向前移动填补空位。</p>

@@ -1,3 +1,4 @@
+## [217.存在重复元素 中文官方题解](https://leetcode.cn/problems/contains-duplicate/solutions/100000/cun-zai-zhong-fu-yuan-su-by-leetcode-sol-iedd)
 #### 方法一：排序
 
 在对数字从小到大排序之后，数组的重复元素一定出现在相邻位置中。因此，我们可以扫描已排序的数组，每次判断相邻的两个元素是否相等，如果相等则说明存在重复的元素。

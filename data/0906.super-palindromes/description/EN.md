@@ -1,4 +1,4 @@
-## [906.Super Palindromes]
+## [906.Super Palindromes](https://leetcode.com/problems/super-palindromes/)
 <p>Let&#39;s say a positive integer is a <strong>super-palindrome</strong> if it is a palindrome, and it is also the square of a palindrome.</p>
 
 <p>Given two positive integers <code>left</code> and <code>right</code> represented as strings, return <em>the number of <strong>super-palindromes</strong> integers in the inclusive range</em> <code>[left, right]</code>.</p>

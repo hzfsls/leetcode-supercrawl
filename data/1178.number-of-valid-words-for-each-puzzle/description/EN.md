@@ -1,4 +1,4 @@
-## [1178.Number of Valid Words for Each Puzzle]
+## [1178.Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)
 With respect to a given <code>puzzle</code> string, a <code>word</code> is <em>valid</em> if both the following conditions are satisfied:
 <ul>
 	<li><code>word</code> contains the first letter of <code>puzzle</code>.</li>

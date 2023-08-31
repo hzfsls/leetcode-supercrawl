@@ -1,4 +1,4 @@
-## [178.Rank Scores]
+## [178.Rank Scores](https://leetcode.com/problems/rank-scores/)
 <p>Table: <code>Scores</code></p>
 
 <pre>

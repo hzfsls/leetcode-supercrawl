@@ -1,4 +1,4 @@
-## [1834.Single-Threaded CPU]
+## [1834.Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)
 <p>You are given <code>n</code>​​​​​​ tasks labeled from <code>0</code> to <code>n - 1</code> represented by a 2D integer array <code>tasks</code>, where <code>tasks[i] = [enqueueTime<sub>i</sub>, processingTime<sub>i</sub>]</code> means that the <code>i<sup>​​​​​​th</sup></code>​​​​ task will be available to process at <code>enqueueTime<sub>i</sub></code> and will take <code>processingTime<sub>i</sub></code><sub> </sub>to finish processing.</p>
 
 <p>You have a single-threaded CPU that can process <strong>at most one</strong> task at a time and will act in the following way:</p>

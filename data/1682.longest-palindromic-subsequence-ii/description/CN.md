@@ -1,4 +1,4 @@
-## [1682.最长回文子序列 II]
+## [1682.最长回文子序列 II](https://leetcode.cn/problems/longest-palindromic-subsequence-ii/)
 <p>字符串&nbsp;<code>s</code>&nbsp;的某个子序列符合下列条件时，称为“<strong>好的回文子序列</strong>”：</p>
 
 <ul>

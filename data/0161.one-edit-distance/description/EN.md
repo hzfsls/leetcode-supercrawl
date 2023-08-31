@@ -1,4 +1,4 @@
-## [161.One Edit Distance]
+## [161.One Edit Distance](https://leetcode.com/problems/one-edit-distance/)
 <p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if they are both one edit distance apart, otherwise return <code>false</code>.</p>
 
 <p>A string <code>s</code> is said to be one distance apart from a string <code>t</code> if you can:</p>

@@ -1,4 +1,4 @@
-## [362.敲击计数器]
+## [362.敲击计数器](https://leetcode.cn/problems/design-hit-counter/)
 <p>设计一个敲击计数器，使它可以统计在过去 <code>5</code> 分钟内被敲击次数。（即过去 <code>300</code> 秒）</p>
 
 <p>您的系统应该接受一个时间戳参数&nbsp;<code>timestamp</code>&nbsp;(单位为 <strong>秒</strong>&nbsp;)，并且您可以假定对系统的调用是按时间顺序进行的(即&nbsp;<code>timestamp</code>&nbsp;是单调递增的)。几次撞击可能同时发生。</p>

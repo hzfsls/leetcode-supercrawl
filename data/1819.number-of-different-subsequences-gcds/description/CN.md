@@ -1,4 +1,4 @@
-## [1819.序列中不同最大公约数的数目]
+## [1819.序列中不同最大公约数的数目](https://leetcode.cn/problems/number-of-different-subsequences-gcds/)
 <p>给你一个由正整数组成的数组 <code>nums</code> 。</p>
 
 <p>数字序列的 <strong>最大公约数</strong> 定义为序列中所有整数的共有约数中的最大整数。</p>

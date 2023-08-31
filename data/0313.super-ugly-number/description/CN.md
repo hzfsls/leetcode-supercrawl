@@ -1,4 +1,4 @@
-## [313.超级丑数]
+## [313.超级丑数](https://leetcode.cn/problems/super-ugly-number/)
 <p><strong>超级丑数</strong> 是一个正整数，并满足其所有质因数都出现在质数数组 <code>primes</code> 中。</p>
 
 <p>给你一个整数 <code>n</code> 和一个整数数组 <code>primes</code> ，返回第 <code>n</code> 个 <strong>超级丑数</strong> 。</p>

@@ -1,4 +1,4 @@
-## [1949.坚定的友谊]
+## [1949.坚定的友谊](https://leetcode.cn/problems/strong-friendship/)
 <p>表名: <code>Friendship</code></p>
 
 <pre>

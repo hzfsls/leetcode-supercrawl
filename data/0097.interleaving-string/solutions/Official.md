@@ -1,3 +1,4 @@
+## [97.交错字符串 中文官方题解](https://leetcode.cn/problems/interleaving-string/solutions/100000/jiao-cuo-zi-fu-chuan-by-leetcode-solution)
 #### 方法一：动态规划
 
 记 $|s_1| = n$，$|s_2| = m$。

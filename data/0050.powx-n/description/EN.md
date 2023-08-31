@@ -1,4 +1,4 @@
-## [50.Pow(x, n)]
+## [50.Pow(x, n)](https://leetcode.com/problems/powx-n/)
 <p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(x, n)</a>, which calculates <code>x</code> raised to the power <code>n</code> (i.e., <code>x<sup>n</sup></code>).</p>
 
 <p>&nbsp;</p>

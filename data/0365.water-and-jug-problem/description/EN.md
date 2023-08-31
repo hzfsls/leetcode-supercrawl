@@ -1,4 +1,4 @@
-## [365.Water and Jug Problem]
+## [365.Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
 <p>You are given two jugs with capacities <code>jug1Capacity</code> and <code>jug2Capacity</code> liters. There is an infinite amount of water supply available. Determine whether it is possible to measure exactly <code>targetCapacity</code> liters using these two jugs.</p>
 
 <p>If <code>targetCapacity</code> liters of water are measurable, you must have <code>targetCapacity</code> liters of water contained <strong>within one or both buckets</strong> by the end.</p>

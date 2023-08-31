@@ -1,3 +1,4 @@
+## [1300.转变数组后最接近目标值的数组和 中文官方题解](https://leetcode.cn/problems/sum-of-mutated-array-closest-to-target/solutions/100000/bian-shu-zu-hou-zui-jie-jin-mu-biao-zhi-de-shu-zu-)
 #### 方法一：枚举 + 二分查找
 
 **思路和算法**

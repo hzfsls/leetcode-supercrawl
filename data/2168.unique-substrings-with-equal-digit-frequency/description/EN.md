@@ -1,4 +1,4 @@
-## [2168.Unique Substrings With Equal Digit Frequency]
+## [2168.Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/)
 Given a digit string <code>s</code>, return <em>the number of <strong>unique substrings </strong>of </em><code>s</code><em> where every digit appears the same number of times.</em>
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

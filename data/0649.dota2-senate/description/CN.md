@@ -1,4 +1,4 @@
-## [649.Dota2 参议院]
+## [649.Dota2 参议院](https://leetcode.cn/problems/dota2-senate/)
 <p>Dota2 的世界里有两个阵营：<code>Radiant</code>（天辉）和&nbsp;<code>Dire</code>（夜魇）</p>
 
 <p>Dota2 参议院由来自两派的参议员组成。现在参议院希望对一个 Dota2 游戏里的改变作出决定。他们以一个基于轮为过程的投票进行。在每一轮中，每一位参议员都可以行使两项权利中的 <strong>一 </strong>项：</p>

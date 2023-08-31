@@ -1,4 +1,4 @@
-## [884.两句话中的不常见单词]
+## [884.两句话中的不常见单词](https://leetcode.cn/problems/uncommon-words-from-two-sentences/)
 <p><strong>句子</strong> 是一串由空格分隔的单词。每个 <strong>单词</strong><em> </em>仅由小写字母组成。</p>
 
 <p>如果某个单词在其中一个句子中恰好出现一次，在另一个句子中却 <strong>没有出现</strong> ，那么这个单词就是 <strong>不常见的</strong><em> </em>。</p>

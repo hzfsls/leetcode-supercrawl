@@ -1,4 +1,4 @@
-## [2182.Construct String With Repeat Limit]
+## [2182.Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/)
 <p>You are given a string <code>s</code> and an integer <code>repeatLimit</code>. Construct a new string <code>repeatLimitedString</code> using the characters of <code>s</code> such that no letter appears <strong>more than</strong> <code>repeatLimit</code> times <strong>in a row</strong>. You do <strong>not</strong> have to use all characters from <code>s</code>.</p>
 
 <p>Return <em>the <strong>lexicographically largest</strong> </em><code>repeatLimitedString</code> <em>possible</em>.</p>

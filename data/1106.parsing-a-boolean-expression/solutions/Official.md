@@ -1,3 +1,4 @@
+## [1106.解析布尔表达式 中文官方题解](https://leetcode.cn/problems/parsing-a-boolean-expression/solutions/100000/jie-xi-bu-er-biao-da-shi-by-leetcode-sol-vmvg)
 #### 方法一：栈
 
 给定的字符串 $\textit{expression}$ 是有效的布尔表达式，每个运算符后面都有一对括号，括号中有一个或多个表达式。其中，逻辑非运算符后面的括号中有一个表达式，逻辑与运算符和逻辑或运算符后面的括号中有两个或以上表达式。

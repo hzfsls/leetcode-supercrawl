@@ -1,4 +1,4 @@
-## [1252.奇数值单元格的数目]
+## [1252.奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/)
 <p>给你一个 <code>m x n</code> 的矩阵，最开始的时候，每个单元格中的值都是 <code>0</code>。</p>
 
 <p>另有一个二维索引数组 <code>indices</code>，<code>indices[i] = [ri, ci]</code> 指向矩阵中的某个位置，其中 <code>ri</code> 和 <code>ci</code> 分别表示指定的行和列（<strong>从 <code>0</code> 开始编号</strong>）。</p>

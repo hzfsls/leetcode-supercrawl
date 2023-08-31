@@ -1,4 +1,4 @@
-## [1405.Longest Happy String]
+## [1405.Longest Happy String](https://leetcode.com/problems/longest-happy-string/)
 <p>A string <code>s</code> is called <strong>happy</strong> if it satisfies the following conditions:</p>
 
 <ul>

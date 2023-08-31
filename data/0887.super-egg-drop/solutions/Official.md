@@ -1,3 +1,4 @@
+## [887.鸡蛋掉落 中文官方题解](https://leetcode.cn/problems/super-egg-drop/solutions/100000/ji-dan-diao-luo-by-leetcode-solution-2)
 ### 📺 视频题解 
 
 ![887 鸡蛋掉落 仲耀晖v3.mp4](b969bf89-4963-4447-8a3b-3bca47f97160)

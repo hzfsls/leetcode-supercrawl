@@ -1,4 +1,4 @@
-## [306.累加数]
+## [306.累加数](https://leetcode.cn/problems/additive-number/)
 <p><strong>累加数</strong> 是一个字符串，组成它的数字可以形成累加序列。</p>
 
 <p>一个有效的 <strong>累加序列</strong> 必须<strong> 至少 </strong>包含 3 个数。除了最开始的两个数以外，序列中的每个后续数字必须是它之前两个数字之和。</p>

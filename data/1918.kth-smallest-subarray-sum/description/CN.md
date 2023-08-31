@@ -1,4 +1,4 @@
-## [1918.第 K 小的子数组和·]
+## [1918.第 K 小的子数组和·](https://leetcode.cn/problems/kth-smallest-subarray-sum/)
 <p>给你一个 长度为&nbsp;<code>n</code>&nbsp;的整型数组&nbsp;<code>nums</code>&nbsp;和一个数值&nbsp;<code>k</code>&nbsp;，返回<strong> 第<em>&nbsp;</em><code>k</code>&nbsp;小的子数组和<i>。</i></strong></p>
 
 <p><b>子数组</b> 是指数组中一个 <b>非空</b>&nbsp;且不间断的子序列。&nbsp; <b>子数组和</b> 则指子数组中所有元素的和。</p>

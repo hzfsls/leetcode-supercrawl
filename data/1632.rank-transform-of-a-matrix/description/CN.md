@@ -1,4 +1,4 @@
-## [1632.矩阵转换后的秩]
+## [1632.矩阵转换后的秩](https://leetcode.cn/problems/rank-transform-of-a-matrix/)
 <p>给你一个 <code>m x n</code> 的矩阵 <code>matrix</code> ，请你返回一个新的矩阵<em> </em><code>answer</code> ，其中<em> </em><code>answer[row][col]</code> 是 <code>matrix[row][col]</code> 的秩。</p>
 
 <p>每个元素的 <b>秩</b> 是一个整数，表示这个元素相对于其他元素的大小关系，它按照如下规则计算：</p>

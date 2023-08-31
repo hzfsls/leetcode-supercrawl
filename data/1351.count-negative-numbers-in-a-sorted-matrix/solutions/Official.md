@@ -1,3 +1,4 @@
+## [1351.统计有序矩阵中的负数 中文官方题解](https://leetcode.cn/problems/count-negative-numbers-in-a-sorted-matrix/solutions/100000/tong-ji-you-xu-ju-zhen-zhong-de-fu-shu-by-leetcode)
 #### 方法一：暴力
 
 观察数据范围注意到矩阵大小不会超过 $100*100=10^4$，所以我们可以遍历矩阵所有数，统计负数的个数。

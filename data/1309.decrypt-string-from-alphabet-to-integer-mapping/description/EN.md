@@ -1,4 +1,4 @@
-## [1309.Decrypt String from Alphabet to Integer Mapping]
+## [1309.Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 <p>You are given a string <code>s</code> formed by digits and <code>&#39;#&#39;</code>. We want to map <code>s</code> to English lowercase characters as follows:</p>
 
 <ul>

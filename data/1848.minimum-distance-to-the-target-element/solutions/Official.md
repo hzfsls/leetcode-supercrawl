@@ -1,3 +1,4 @@
+## [1848.到目标元素的最小距离 中文官方题解](https://leetcode.cn/problems/minimum-distance-to-the-target-element/solutions/100000/dao-mu-biao-yuan-su-de-zui-xiao-ju-chi-b-v4ce)
 #### 方法一：模拟
 
 **思路与算法**

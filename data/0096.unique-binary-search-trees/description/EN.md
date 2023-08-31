@@ -1,4 +1,4 @@
-## [96.Unique Binary Search Trees]
+## [96.Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 <p>Given an integer <code>n</code>, return <em>the number of structurally unique <strong>BST&#39;</strong>s (binary search trees) which has exactly </em><code>n</code><em> nodes of unique values from</em> <code>1</code> <em>to</em> <code>n</code>.</p>
 
 <p>&nbsp;</p>

@@ -1,4 +1,4 @@
-## [2761.Prime Pairs With Target Sum]
+## [2761.Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/)
 <p>You are given an integer <code>n</code>. We say that two integers <code>x</code> and <code>y</code> form a prime number pair if:</p>
 
 <ul>

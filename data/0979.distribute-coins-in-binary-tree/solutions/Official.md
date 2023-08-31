@@ -1,3 +1,4 @@
+## [979.在二叉树中分配硬币 中文官方题解](https://leetcode.cn/problems/distribute-coins-in-binary-tree/solutions/100000/zai-er-cha-shu-zhong-fen-pei-ying-bi-by-e4poq)
 #### 方法一：深度优先搜索
 
 **思路与算法**

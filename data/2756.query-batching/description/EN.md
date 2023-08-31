@@ -1,4 +1,4 @@
-## [2756.Query Batching]
+## [2756.Query Batching](https://leetcode.com/problems/query-batching/)
 <p>Batching multiple small queries into a single large query can be a useful optimization. Write a class&nbsp;<code>QueryBatcher</code>&nbsp;that implements this functionality.</p>
 
 <p>The constructor should accept two parameters:</p>

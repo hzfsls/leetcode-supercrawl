@@ -1,4 +1,4 @@
-## [1273.Delete Tree Nodes]
+## [1273.Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/)
 <p>A tree rooted at node 0 is given as follows:</p>
 
 <ul>

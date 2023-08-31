@@ -1,4 +1,4 @@
-## [2522.将字符串分割成值不超过 K 的子字符串]
+## [2522.将字符串分割成值不超过 K 的子字符串](https://leetcode.cn/problems/partition-string-into-substrings-with-values-at-most-k/)
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;，它每一位都是&nbsp;<code>1</code>&nbsp;到&nbsp;<code>9</code>&nbsp;之间的数字组成，同时给你一个整数&nbsp;<code>k</code>&nbsp;。</p>
 
 <p>如果一个字符串 <code>s</code>&nbsp;的分割满足以下条件，我们称它是一个 <strong>好</strong>&nbsp;分割：</p>

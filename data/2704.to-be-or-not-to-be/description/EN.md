@@ -1,4 +1,4 @@
-## [2704.To Be Or Not To Be]
+## [2704.To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)
 <p>Write a function&nbsp;<code>expect</code> that helps developers test their code. It should take in any value&nbsp;<code>val</code>&nbsp;and return an object with the following two functions.</p>
 
 <ul>

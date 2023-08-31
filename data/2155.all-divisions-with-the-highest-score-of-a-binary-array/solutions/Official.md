@@ -1,3 +1,4 @@
+## [2155.分组得分最高的所有下标 中文官方题解](https://leetcode.cn/problems/all-divisions-with-the-highest-score-of-a-binary-array/solutions/100000/fen-zu-de-fen-zui-gao-de-suo-you-xia-bia-7pqp)
 #### 方法一：一次遍历
 
 **思路与算法**

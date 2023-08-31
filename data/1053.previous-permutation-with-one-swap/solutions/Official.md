@@ -1,3 +1,4 @@
+## [1053.交换一次的先前排列 中文官方题解](https://leetcode.cn/problems/previous-permutation-with-one-swap/solutions/100000/jiao-huan-yi-ci-de-xian-qian-pai-lie-by-evkqi)
 #### 方法一：贪心
 
 记数组 $\textit{arr}$ 的长度为 $n$，对于 $0 \le i \lt j \lt n$，如果交换 $\textit{arr}[i]$ 和 $\textit{arr}[j]$ 后得到的新数组按字典序排列比原数组小，显然有 $\textit{arr}[i] \gt \textit{arr}[j]$ 成立。因此符合题意要求的交换会使得数组 $\textit{arr}$ 在下标 $i$ 处的元素变小。那么为了得到按字典序排列小于原数组的最大新数组，尽可能地保持前面的元素不变是最优的，即让 $i$ 最大化。

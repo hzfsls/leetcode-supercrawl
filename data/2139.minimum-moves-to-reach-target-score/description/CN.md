@@ -1,4 +1,4 @@
-## [2139.得到目标值的最少行动次数]
+## [2139.得到目标值的最少行动次数](https://leetcode.cn/problems/minimum-moves-to-reach-target-score/)
 <p>你正在玩一个整数游戏。从整数 <code>1</code> 开始，期望得到整数 <code>target</code> 。</p>
 
 <p>在一次行动中，你可以做下述两种操作之一：</p>

@@ -1,4 +1,4 @@
-## [2665.计数器 II]
+## [2665.计数器 II](https://leetcode.cn/problems/counter-ii/)
 <p>请你写一个函数&nbsp;<code>createCounter</code>. 这个函数接收一个初始的整数值 <code>init</code>&nbsp;&nbsp;并返回一个包含三个函数的对象。</p>
 
 <p>这三个函数是：</p>

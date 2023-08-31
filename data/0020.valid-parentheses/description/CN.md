@@ -1,4 +1,4 @@
-## [20.有效的括号]
+## [20.有效的括号](https://leetcode.cn/problems/valid-parentheses/)
 <p>给定一个只包括 <code>'('</code>，<code>')'</code>，<code>'{'</code>，<code>'}'</code>，<code>'['</code>，<code>']'</code>&nbsp;的字符串 <code>s</code> ，判断字符串是否有效。</p>
 
 <p>有效字符串需满足：</p>

@@ -1,4 +1,4 @@
-## [1805.字符串中不同整数的数目]
+## [1805.字符串中不同整数的数目](https://leetcode.cn/problems/number-of-different-integers-in-a-string/)
 <p>给你一个字符串 <code>word</code> ，该字符串由数字和小写英文字母组成。</p>
 
 <p>请你用空格替换每个不是数字的字符。例如，<code>"a123bc34d8ef34"</code> 将会变成 <code>" 123  34 8  34"</code> 。注意，剩下的这些整数为（相邻彼此至少有一个空格隔开）：<code>"123"</code>、<code>"34"</code>、<code>"8"</code> 和 <code>"34"</code> 。</p>

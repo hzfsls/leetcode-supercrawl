@@ -1,3 +1,4 @@
+## [1487.保证文件名唯一 中文官方题解](https://leetcode.cn/problems/making-file-names-unique/solutions/100000/bao-zheng-wen-jian-ming-wei-yi-by-leetco-gw0i)
 #### 方法一：哈希表
 
 对于需要被创建的文件名 $\textit{name}$，如果文件系统中不存在名为 $\textit{name}$ 的文件夹，那么直接创建即可，否则我们需要从 $k=1$ 开始，尝试使用添加后缀 $k$ 的新文件名创建新文件夹。

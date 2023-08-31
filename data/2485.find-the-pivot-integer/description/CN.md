@@ -1,4 +1,4 @@
-## [2485.找出中枢整数]
+## [2485.找出中枢整数](https://leetcode.cn/problems/find-the-pivot-integer/)
 <p>给你一个正整数 <code>n</code> ，找出满足下述条件的<strong> 中枢整数</strong> <code>x</code> ：</p>
 
 <ul>

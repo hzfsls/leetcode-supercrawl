@@ -1,4 +1,4 @@
-## [2321.Maximum Score Of Spliced Array]
+## [2321.Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/)
 <p>You are given two <strong>0-indexed</strong> integer arrays <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>.</p>
 
 <p>You can choose two integers <code>left</code> and <code>right</code> where <code>0 &lt;= left &lt;= right &lt; n</code> and <strong>swap</strong> the subarray <code>nums1[left...right]</code> with the subarray <code>nums2[left...right]</code>.</p>

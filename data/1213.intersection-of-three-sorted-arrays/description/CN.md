@@ -1,4 +1,4 @@
-## [1213.三个有序数组的交集]
+## [1213.三个有序数组的交集](https://leetcode.cn/problems/intersection-of-three-sorted-arrays/)
 <p>给出三个均为 <strong>严格递增排列 </strong>的整数数组&nbsp;<code>arr1</code>，<code>arr2</code> 和&nbsp;<code>arr3</code>。返回一个由&nbsp;<strong>仅 </strong>在这三个数组中&nbsp;<strong>同时出现&nbsp;</strong>的整数所构成的有序数组。</p>
 
 <p>&nbsp;</p>

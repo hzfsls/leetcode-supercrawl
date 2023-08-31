@@ -1,4 +1,4 @@
-## [1726.同积元组]
+## [1726.同积元组](https://leetcode.cn/problems/tuple-with-same-product/)
 <p>给你一个由 <strong>不同</strong> 正整数组成的数组 <code>nums</code> ，请你返回满足&nbsp;<code>a * b = c * d</code> 的元组<em> </em><code>(a, b, c, d)</code><em> </em>的数量。其中 <code>a</code>、<code>b</code>、<code>c</code> 和 <code>d</code> 都是 <code>nums</code> 中的元素，且 <code>a != b != c != d</code> 。</p>
 
 <p>&nbsp;</p>

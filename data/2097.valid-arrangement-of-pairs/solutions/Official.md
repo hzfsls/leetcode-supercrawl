@@ -1,3 +1,4 @@
+## [2097.合法重新排列数对 中文官方题解](https://leetcode.cn/problems/valid-arrangement-of-pairs/solutions/100000/he-fa-zhong-xin-pai-lie-shu-dui-by-leetc-h8rl)
 #### 方法一：有向图的欧拉通路
 
 **思路与算法**

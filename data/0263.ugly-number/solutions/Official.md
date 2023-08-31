@@ -1,3 +1,4 @@
+## [263.丑数 中文官方题解](https://leetcode.cn/problems/ugly-number/solutions/100000/chou-shu-by-leetcode-solution-fazd)
 #### 方法一：数学
 
 根据丑数的定义，$0$ 和负整数一定不是丑数。

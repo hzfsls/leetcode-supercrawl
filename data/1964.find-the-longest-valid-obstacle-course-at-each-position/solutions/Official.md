@@ -1,3 +1,4 @@
+## [1964.找出到每个位置为止最长的有效障碍赛跑路线 中文官方题解](https://leetcode.cn/problems/find-the-longest-valid-obstacle-course-at-each-position/solutions/100000/zhao-chu-dao-mei-ge-wei-zhi-wei-zhi-zui-pb8mu)
 #### 方法一：动态规划 + 二分查找
 
 **思路与算法**

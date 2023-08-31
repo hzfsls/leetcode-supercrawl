@@ -1,3 +1,4 @@
+## [143.重排链表 中文官方题解](https://leetcode.cn/problems/reorder-list/solutions/100000/zhong-pai-lian-biao-by-leetcode-solution)
 #### 方法一：线性表
 
 因为链表不支持下标访问，所以我们无法随机访问链表中任意位置的元素。

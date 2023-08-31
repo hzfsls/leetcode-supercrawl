@@ -1,3 +1,4 @@
+## [902.最大为 N 的数字组合 中文官方题解](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/solutions/100000/zui-da-wei-n-de-shu-zi-zu-he-by-leetcode-f3yi)
 #### 方法一：数位动态规划
 
 本题为典型的数位动态规划题目，可以阅读「[数位 DP](https://oi-wiki.org/dp/number/)」详细了解。我们称满足 $x \le n$ 且仅包含 $\textit{digits}$ 中出现的数字的 $x$ 为合法的，则本题需要找出所有合法的 $x$ 的个数。

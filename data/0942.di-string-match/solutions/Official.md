@@ -1,3 +1,4 @@
+## [942.增减字符串匹配 中文官方题解](https://leetcode.cn/problems/di-string-match/solutions/100000/zeng-jian-zi-fu-chuan-pi-pei-by-leetcode-jzm2)
 #### 方法一：贪心
 
 考虑 $\textit{perm}[0]$ 的值，根据题意：

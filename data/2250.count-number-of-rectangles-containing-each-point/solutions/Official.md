@@ -1,3 +1,4 @@
+## [2250.统计包含每个点的矩形数目 中文官方题解](https://leetcode.cn/problems/count-number-of-rectangles-containing-each-point/solutions/100000/tong-ji-bao-han-mei-ge-dian-de-ju-xing-s-ztjj)
 #### 方法一：按照纵坐标分组
 
 **思路与算法**

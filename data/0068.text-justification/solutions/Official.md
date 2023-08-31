@@ -1,3 +1,4 @@
+## [68.文本左右对齐 中文官方题解](https://leetcode.cn/problems/text-justification/solutions/100000/wen-ben-zuo-you-dui-qi-by-leetcode-solut-dyeg)
 #### 方法一：模拟
 
 根据题干描述的贪心算法，对于每一行，我们首先确定最多可以放置多少单词，这样可以得到该行的空格个数，从而确定该行单词之间的空格个数。

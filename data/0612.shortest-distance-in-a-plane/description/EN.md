@@ -1,4 +1,4 @@
-## [612.Shortest Distance in a Plane]
+## [612.Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/)
 <p>Table: <code>Point2D</code></p>
 
 <pre>

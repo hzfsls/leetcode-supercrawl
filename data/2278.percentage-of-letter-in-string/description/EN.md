@@ -1,4 +1,4 @@
-## [2278.Percentage of Letter in String]
+## [2278.Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 <p>Given a string <code>s</code> and a character <code>letter</code>, return<em> the <strong>percentage</strong> of characters in </em><code>s</code><em> that equal </em><code>letter</code><em> <strong>rounded down</strong> to the nearest whole percent.</em></p>
 
 <p>&nbsp;</p>

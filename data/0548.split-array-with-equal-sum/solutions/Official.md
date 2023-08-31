@@ -1,3 +1,4 @@
+## [548.将数组分割成和相等的子数组 中文官方题解](https://leetcode.cn/problems/split-array-with-equal-sum/solutions/100000/jiang-shu-zu-fen-ge-cheng-he-xiang-deng-zu5fi)
 [TOC]
 
 ## 解决方案

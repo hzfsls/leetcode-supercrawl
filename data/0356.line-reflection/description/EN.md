@@ -1,4 +1,4 @@
-## [356.Line Reflection]
+## [356.Line Reflection](https://leetcode.com/problems/line-reflection/)
 <p>Given <code>n</code> points on a 2D plane, find if there is such a line parallel to the y-axis that reflects the given points symmetrically.</p>
 
 <p>In other words, answer whether or not if there exists a line that after reflecting all points over the given line, the original points&#39; set is the same as the reflected ones.</p>

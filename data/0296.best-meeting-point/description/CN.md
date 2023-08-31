@@ -1,4 +1,4 @@
-## [296.最佳的碰头地点]
+## [296.最佳的碰头地点](https://leetcode.cn/problems/best-meeting-point/)
 <p>给你一个&nbsp;<code>m x n</code>&nbsp;&nbsp;的二进制网格&nbsp;<code>grid</code>&nbsp;，其中 <code>1</code> 表示某个朋友的家所处的位置。返回 <em>最小的 <strong>总行走距离</strong></em> 。</p>
 
 <p><strong>总行走距离</strong> 是朋友们家到碰头地点的距离之和。</p>

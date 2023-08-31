@@ -1,4 +1,4 @@
-## [1243.数组变换]
+## [1243.数组变换](https://leetcode.cn/problems/array-transformation/)
 <p>首先，给你一个初始数组 <code>arr</code>。然后，每天你都要根据前一天的数组生成一个新的数组。</p>
 
 <p>第&nbsp;<code>i</code>&nbsp;天所生成的数组，是由你对第&nbsp;<code>i-1</code>&nbsp;天的数组进行如下操作所得的：</p>

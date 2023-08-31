@@ -1,3 +1,4 @@
+## [1439.有序矩阵中的第 k 个最小数组和 中文官方题解](https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/solutions/100000/you-xu-ju-zhen-zhong-de-di-k-ge-zui-xiao-urla)
 #### 前言
 
 本题是[「373. 查找和最小的 K 对数字」](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/description/)的进阶版本。当 $m = 2$ 时，有如下两种可行的做法：

@@ -1,4 +1,4 @@
-## [1051.高度检查器]
+## [1051.高度检查器](https://leetcode.cn/problems/height-checker/)
 <p>学校打算为全体学生拍一张年度纪念照。根据要求，学生需要按照 <strong>非递减</strong> 的高度顺序排成一行。</p>
 
 <p>排序后的高度情况用整数数组 <code>expected</code> 表示，其中 <code>expected[i]</code> 是预计排在这一行中第 <code>i</code> 位的学生的高度（<strong>下标从 0 开始</strong>）。</p>

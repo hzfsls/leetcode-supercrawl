@@ -1,4 +1,4 @@
-## [517.Super Washing Machines]
+## [517.Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
 <p>You have <code>n</code> super washing machines on a line. Initially, each washing machine has some dresses or is empty.</p>
 
 <p>For each move, you could choose any <code>m</code> (<code>1 &lt;= m &lt;= n</code>) washing machines, and pass one dress of each washing machine to one of its adjacent washing machines at the same time.</p>

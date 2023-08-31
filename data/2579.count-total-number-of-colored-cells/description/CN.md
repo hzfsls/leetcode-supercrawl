@@ -1,4 +1,4 @@
-## [2579.统计染色格子数]
+## [2579.统计染色格子数](https://leetcode.cn/problems/count-total-number-of-colored-cells/)
 <p>有一个无穷大的二维网格图，一开始所有格子都未染色。给你一个正整数&nbsp;<code>n</code>&nbsp;，表示你需要执行以下步骤&nbsp;<code>n</code>&nbsp;分钟：</p>
 
 <ul>

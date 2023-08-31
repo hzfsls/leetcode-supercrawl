@@ -1,3 +1,4 @@
+## [676.实现一个魔法字典 中文官方题解](https://leetcode.cn/problems/implement-magic-dictionary/solutions/100000/shi-xian-yi-ge-mo-fa-zi-dian-by-leetcode-b35s)
 #### 方法一：枚举每个字典中的字符串并判断
 
 **思路与算法**

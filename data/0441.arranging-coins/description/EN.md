@@ -1,4 +1,4 @@
-## [441.Arranging Coins]
+## [441.Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 <p>You have <code>n</code> coins and you want to build a staircase with these coins. The staircase consists of <code>k</code> rows where the <code>i<sup>th</sup></code> row has exactly <code>i</code> coins. The last row of the staircase <strong>may be</strong> incomplete.</p>
 
 <p>Given the integer <code>n</code>, return <em>the number of <strong>complete rows</strong> of the staircase you will build</em>.</p>

@@ -1,3 +1,4 @@
+## [224.基本计算器 中文官方题解](https://leetcode.cn/problems/basic-calculator/solutions/100000/ji-ben-ji-suan-qi-by-leetcode-solution-jvir)
 #### 方法一：括号展开 + 栈
 
 由于字符串除了数字与括号外，只有加号和减号两种运算符。因此，如果展开表达式中所有的括号，则得到的新表达式中，数字本身不会发生变化，只是每个数字前面的符号会发生变化。

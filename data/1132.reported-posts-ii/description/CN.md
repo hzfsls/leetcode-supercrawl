@@ -1,4 +1,4 @@
-## [1132.报告的记录 II]
+## [1132.报告的记录 II](https://leetcode.cn/problems/reported-posts-ii/)
 <p>动作表：&nbsp;<code>Actions</code></p>
 
 <pre>

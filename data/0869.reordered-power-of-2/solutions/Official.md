@@ -1,3 +1,4 @@
+## [869.重新排序得到 2 的幂 中文官方题解](https://leetcode.cn/problems/reordered-power-of-2/solutions/100000/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs)
 #### 方法一：搜索回溯 + 位运算
 
 将 $n$ 的十进制表示视作一个字符数组，我们可以枚举该数组的所有排列，对每个不含前导零的排列判断其对应的整数是否为 $2$ 的幂。

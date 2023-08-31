@@ -1,4 +1,4 @@
-## [1168.水资源分配优化]
+## [1168.水资源分配优化](https://leetcode.cn/problems/optimize-water-distribution-in-a-village/)
 <p>村里面一共有 <code>n</code> 栋房子。我们希望通过建造水井和铺设管道来为所有房子供水。</p>
 
 <p>对于每个房子&nbsp;<code>i</code>，我们有两种可选的供水方案：一种是直接在房子内建造水井，成本为&nbsp;<code>wells[i - 1]</code>&nbsp;（注意 <code>-1</code> ，因为 <strong>索引从0开始</strong> ）；另一种是从另一口井铺设管道引水，数组&nbsp;<code>pipes</code>&nbsp;给出了在房子间铺设管道的成本，其中每个&nbsp;<code>pipes[j] = [house1<sub>j</sub>, house2<sub>j</sub>, cost<sub>j</sub>]</code>&nbsp;代表用管道将&nbsp;<code>house1<sub>j</sub></code>&nbsp;和&nbsp;<code>house2<sub>j</sub></code>连接在一起的成本。连接是双向的。</p>

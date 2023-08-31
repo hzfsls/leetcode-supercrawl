@@ -1,3 +1,4 @@
+## [28.找出字符串中第一个匹配项的下标 中文官方题解](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/100000/shi-xian-strstr-by-leetcode-solution-ds6y)
 #### 前言
 
 本题是经典的字符串单模匹配的模型，因此可以使用字符串匹配算法解决，常见的字符串匹配算法包括暴力匹配、$\text{Knuth-Morris-Pratt}$ 算法、$\text{Boyer-Moore}$ 算法、$\text{Sunday}$ 算法等，本文将讲解 $\text{Knuth-Morris-Pratt}$ 算法。

@@ -1,3 +1,4 @@
+## [442.数组中重复的数据 中文官方题解](https://leetcode.cn/problems/find-all-duplicates-in-an-array/solutions/100000/shu-zu-zhong-zhong-fu-de-shu-ju-by-leetc-782l)
 #### 方法一：将元素交换到对应的位置
 
 **思路与算法**

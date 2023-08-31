@@ -1,3 +1,4 @@
+## [680.验证回文串 II 中文官方题解](https://leetcode.cn/problems/valid-palindrome-ii/solutions/100000/yan-zheng-hui-wen-zi-fu-chuan-ii-by-leetcode-solut)
 ### 📺视频题解  
 
 ![680. 验证回文字符串 Ⅱ.mp4](93497e92-4bb9-494f-8550-f4a59326a9e8)

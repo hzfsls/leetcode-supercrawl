@@ -1,3 +1,4 @@
+## [1534.统计好三元组 中文官方题解](https://leetcode.cn/problems/count-good-triplets/solutions/100000/tong-ji-hao-san-yuan-zu-by-leetcode-solution)
 #### 方法一：枚举
 
 **思路与算法**

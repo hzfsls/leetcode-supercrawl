@@ -1,4 +1,4 @@
-## [1673.找出最具竞争力的子序列]
+## [1673.找出最具竞争力的子序列](https://leetcode.cn/problems/find-the-most-competitive-subsequence/)
 <p>给你一个整数数组 <code>nums</code> 和一个正整数 <code>k</code> ，返回长度为 <code>k</code> 且最具 <strong>竞争力</strong> 的<em> </em><code>nums</code> 子序列。</p>
 
 <p>数组的子序列是从数组中删除一些元素（可能不删除元素）得到的序列。</p>

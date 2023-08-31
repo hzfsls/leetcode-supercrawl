@@ -1,4 +1,4 @@
-## [374.Guess Number Higher or Lower]
+## [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 <p>We are playing the Guess Game. The game is as follows:</p>
 
 <p>I pick a number from <code>1</code> to <code>n</code>. You have to guess which number I picked.</p>

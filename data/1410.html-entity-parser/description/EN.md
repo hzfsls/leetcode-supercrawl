@@ -1,4 +1,4 @@
-## [1410.HTML Entity Parser]
+## [1410.HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)
 <p><strong>HTML entity parser</strong> is the parser that takes HTML code as input and replace all the entities of the special characters by the characters itself.</p>
 
 <p>The special characters and their entities for HTML are:</p>

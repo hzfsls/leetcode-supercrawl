@@ -1,4 +1,4 @@
-## [1328.破坏回文串]
+## [1328.破坏回文串](https://leetcode.cn/problems/break-a-palindrome/)
 <p>给你一个由小写英文字母组成的回文字符串&nbsp;<code>palindrome</code> ，请你将其中&nbsp;<strong>一个</strong> 字符用任意小写英文字母替换，使得结果字符串的 <strong>字典序最小</strong> ，且&nbsp;<strong>不是</strong>&nbsp;回文串。</p>
 
 <p>请你返回结果字符串。如果无法做到，则返回一个 <strong>空串</strong> 。</p>

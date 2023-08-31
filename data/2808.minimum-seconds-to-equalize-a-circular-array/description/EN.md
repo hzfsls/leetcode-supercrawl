@@ -1,4 +1,4 @@
-## [2808.Minimum Seconds to Equalize a Circular Array]
+## [2808.Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> containing <code>n</code> integers.</p>
 
 <p>At each second, you perform the following operation on the array:</p>

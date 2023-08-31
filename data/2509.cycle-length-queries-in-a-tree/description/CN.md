@@ -1,4 +1,4 @@
-## [2509.查询树中环的长度]
+## [2509.查询树中环的长度](https://leetcode.cn/problems/cycle-length-queries-in-a-tree/)
 <p>给你一个整数&nbsp;<code>n</code>&nbsp;，表示你有一棵含有&nbsp;<code>2<sup>n</sup> - 1</code>&nbsp;个节点的 <strong>完全二叉树</strong>&nbsp;。根节点的编号是&nbsp;<code>1</code>&nbsp;，树中编号在<code>[1, 2<sup>n - 1</sup> - 1]</code>&nbsp;之间，编号为&nbsp;<code>val</code>&nbsp;的节点都有两个子节点，满足：</p>
 
 <ul>

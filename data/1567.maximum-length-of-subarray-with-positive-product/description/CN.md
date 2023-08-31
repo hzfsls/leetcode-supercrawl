@@ -1,4 +1,4 @@
-## [1567.乘积为正数的最长子数组长度]
+## [1567.乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/)
 <p>给你一个整数数组 <code>nums</code>&nbsp;，请你求出乘积为正数的最长子数组的长度。</p>
 
 <p>一个数组的子数组是由原数组中零个或者更多个连续数字组成的数组。</p>

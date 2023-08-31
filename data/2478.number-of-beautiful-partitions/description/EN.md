@@ -1,4 +1,4 @@
-## [2478.Number of Beautiful Partitions]
+## [2478.Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/)
 <p>You are given a string <code>s</code> that consists of the digits <code>&#39;1&#39;</code> to <code>&#39;9&#39;</code> and two integers <code>k</code> and <code>minLength</code>.</p>
 
 <p>A partition of <code>s</code> is called <strong>beautiful</strong> if:</p>

@@ -1,4 +1,4 @@
-## [1274.矩形内船只的数目]
+## [1274.矩形内船只的数目](https://leetcode.cn/problems/number-of-ships-in-a-rectangle/)
 <p><em>(此题是 <strong>交互式问题&nbsp;</strong>)</em></p>
 
 <p>在用笛卡尔坐标系表示的二维海平面上，有一些船。每一艘船都在一个整数点上，且每一个整数点最多只有 1 艘船。</p>

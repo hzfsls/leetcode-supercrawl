@@ -1,4 +1,4 @@
-## [2073.买票需要的时间]
+## [2073.买票需要的时间](https://leetcode.cn/problems/time-needed-to-buy-tickets/)
 <p>有 <code>n</code> 个人前来排队买票，其中第 <code>0</code> 人站在队伍 <strong>最前方</strong> ，第 <code>(n - 1)</code> 人站在队伍 <strong>最后方</strong> 。</p>
 
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>tickets</code> ，数组长度为 <code>n</code> ，其中第 <code>i</code> 人想要购买的票数为 <code>tickets[i]</code> 。</p>

@@ -1,3 +1,4 @@
+## [2105.给植物浇水 II 中文官方题解](https://leetcode.cn/problems/watering-plants-ii/solutions/100000/gei-zhi-wu-jiao-shui-ii-by-leetcode-solu-5cki)
 #### 方法一：模拟
 
 **思路与算法**

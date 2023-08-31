@@ -1,4 +1,4 @@
-## [1717.Maximum Score From Removing Substrings]
+## [1717.Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)
 <p>You are given a string <code>s</code> and two integers <code>x</code> and <code>y</code>. You can perform two types of operations any number of times.</p>
 
 <ul>

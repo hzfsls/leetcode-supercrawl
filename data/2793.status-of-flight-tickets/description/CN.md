@@ -1,4 +1,4 @@
-## [2793.航班机票状态]
+## [2793.航班机票状态](https://leetcode.cn/problems/status-of-flight-tickets/)
 <p>表：&nbsp;<code><font face="monospace">Flights</font></code></p>
 
 <pre>

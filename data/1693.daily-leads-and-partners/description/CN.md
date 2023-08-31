@@ -1,4 +1,4 @@
-## [1693.每天的领导和合伙人]
+## [1693.每天的领导和合伙人](https://leetcode.cn/problems/daily-leads-and-partners/)
 <p>表：<code>DailySales</code></p>
 
 <pre>

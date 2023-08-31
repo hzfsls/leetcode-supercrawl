@@ -1,3 +1,4 @@
+## [862.和至少为 K 的最短子数组 中文官方题解](https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/solutions/100000/he-zhi-shao-wei-k-de-zui-duan-zi-shu-zu-57ffq)
 #### 方法一：前缀和 + 单调双端队列
 
 **思路**

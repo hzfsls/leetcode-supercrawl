@@ -1,4 +1,4 @@
-## [926.Flip String to Monotone Increasing]
+## [926.Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 <p>A binary string is monotone increasing if it consists of some number of <code>0</code>&#39;s (possibly none), followed by some number of <code>1</code>&#39;s (also possibly none).</p>
 
 <p>You are given a binary string <code>s</code>. You can flip <code>s[i]</code> changing it from <code>0</code> to <code>1</code> or from <code>1</code> to <code>0</code>.</p>

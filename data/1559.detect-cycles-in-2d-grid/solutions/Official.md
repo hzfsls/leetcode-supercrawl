@@ -1,3 +1,4 @@
+## [1559.二维网格图中探测环 中文官方题解](https://leetcode.cn/problems/detect-cycles-in-2d-grid/solutions/100000/er-wei-wang-ge-tu-zhong-tan-ce-huan-by-leetcode-so)
 #### 前言
 
 对于大小为 $m \times n$ 的网格数组 $\textit{grid}$，如果我们将其中的每个位置看成一个节点，任意两个上下左右相邻且值相同的节点之间有一条无向边，那么 $\textit{grid}$ 中的一个环就对应着我们构造出的图中的一个环。因此，我们只需要判断图中是否有环即可。

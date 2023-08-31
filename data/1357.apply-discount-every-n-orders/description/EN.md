@@ -1,4 +1,4 @@
-## [1357.Apply Discount Every n Orders]
+## [1357.Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)
 <p>There is a supermarket that is frequented by many customers. The products sold at the supermarket are represented as two parallel integer arrays <code>products</code> and <code>prices</code>, where the <code>i<sup>th</sup></code> product has an ID of <code>products[i]</code> and a price of <code>prices[i]</code>.</p>
 
 <p>When a customer is paying, their bill is represented as two parallel integer arrays <code>product</code> and <code>amount</code>, where the <code>j<sup>th</sup></code> product they purchased has an ID of <code>product[j]</code>, and <code>amount[j]</code> is how much of the product they bought. Their subtotal is calculated as the sum of each <code>amount[j] * (price of the j<sup>th</sup> product)</code>.</p>

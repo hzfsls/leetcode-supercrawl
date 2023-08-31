@@ -1,3 +1,4 @@
+## [131.分割回文串 中文官方题解](https://leetcode.cn/problems/palindrome-partitioning/solutions/100000/fen-ge-hui-wen-chuan-by-leetcode-solutio-6jkv)
 #### 方法一：回溯 + 动态规划预处理
 
 **思路与算法**

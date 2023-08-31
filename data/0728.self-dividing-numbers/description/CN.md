@@ -1,4 +1,4 @@
-## [728.自除数]
+## [728.自除数](https://leetcode.cn/problems/self-dividing-numbers/)
 <p><strong>自除数</strong><em>&nbsp;</em>是指可以被它包含的每一位数整除的数。</p>
 
 <ul>

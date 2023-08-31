@@ -1,4 +1,4 @@
-## [2798.Number of Employees Who Met the Target]
+## [2798.Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
 <p>There are <code>n</code> employees in a company, numbered from <code>0</code> to <code>n - 1</code>. Each employee <code>i</code> has worked for <code>hours[i]</code> hours in the company.</p>
 
 <p>The company requires each employee to work for <strong>at least</strong> <code>target</code> hours.</p>

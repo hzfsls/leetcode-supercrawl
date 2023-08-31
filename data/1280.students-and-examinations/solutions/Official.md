@@ -1,3 +1,4 @@
+## [1280.学生们参加各科测试的次数 中文官方题解](https://leetcode.cn/problems/students-and-examinations/solutions/100000/students-and-examinations-by-leetcode-so-3oup)
 [TOC]
 
 ## 解决方案

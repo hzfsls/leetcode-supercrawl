@@ -1,3 +1,4 @@
+## [2357.使数组中所有元素都等于零 中文官方题解](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/solutions/100000/shi-shu-zu-zhong-suo-you-yuan-su-du-deng-ix12)
 #### 方法一：排序 + 模拟
 
 这道题要求计算将非负整数数组 $\textit{nums}$ 中的所有元素减少到 $0$ 的最少操作数。用 $m$ 表示数组 $\textit{nums}$ 中的最小非零元素，则可以选择不超过 $m$ 的正整数 $x$，将数组中的每个非零元素减 $x$。为了使操作数最少，应选择 $x = m$，理由如下。

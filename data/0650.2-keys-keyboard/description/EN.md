@@ -1,4 +1,4 @@
-## [650.2 Keys Keyboard]
+## [650.2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
 <p>There is only one character <code>&#39;A&#39;</code> on the screen of a notepad. You can perform one of two operations on this notepad for each step:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2776.Convert Callback Based Function to Promise Based Function]
+## [2776.Convert Callback Based Function to Promise Based Function](https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/)
 <p>Write a function that accepts another function <code>fn</code> and converts the callback-based function&nbsp;into a promise-based function.&nbsp;</p>
 
 <p>The <code>promisify</code>&nbsp;function takes in a function <code>fn</code> that accepts a callback as its first argument and also any additional arguments. It&nbsp;returns a new function that returns a promise instead. The returned promise should resolve with the result of the original function when the callback is called with a successful response, and reject with the error when the callback is called with an error. The returned promise-based function should accept the additional arguments as inputs.</p>

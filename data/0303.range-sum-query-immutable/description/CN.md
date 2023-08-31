@@ -1,4 +1,4 @@
-## [303.区域和检索 - 数组不可变]
+## [303.区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)
 <p>给定一个整数数组 &nbsp;<code>nums</code>，处理以下类型的多个查询:</p>
 
 <ol>

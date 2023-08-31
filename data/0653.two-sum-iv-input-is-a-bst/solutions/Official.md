@@ -1,3 +1,4 @@
+## [653.两数之和 IV - 输入二叉搜索树 中文官方题解](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/solutions/100000/liang-shu-zhi-he-iv-shu-ru-bst-by-leetco-b4nl)
 #### 方法一：深度优先搜索 + 哈希表
 
 **思路和算法**

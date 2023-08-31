@@ -1,4 +1,4 @@
-## [1085.Sum of Digits in the Minimum Number]
+## [1085.Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)
 <p>Given an integer array <code>nums</code>, return <code>0</code><em> if the sum of the digits of the minimum integer in </em><code>nums</code><em> is odd, or </em><code>1</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>

@@ -1,4 +1,4 @@
-## [1850.邻位交换的最小次数]
+## [1850.邻位交换的最小次数](https://leetcode.cn/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)
 <p>给你一个表示大整数的字符串 <code>num</code> ，和一个整数 <code>k</code> 。</p>
 
 <p>如果某个整数是 <code>num</code> 中各位数字的一个 <strong>排列</strong> 且它的 <strong>值大于</strong> <code>num</code> ，则称这个整数为 <strong>妙数</strong> 。可能存在很多妙数，但是只需要关注 <strong>值最小</strong> 的那些。</p>

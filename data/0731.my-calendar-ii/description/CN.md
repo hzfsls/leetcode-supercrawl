@@ -1,4 +1,4 @@
-## [731.我的日程安排表 II]
+## [731.我的日程安排表 II](https://leetcode.cn/problems/my-calendar-ii/)
 <p>实现一个 <code>MyCalendar</code> 类来存放你的日程安排。如果要添加的时间内不会导致三重预订时，则可以存储这个新的日程安排。</p>
 
 <p><code>MyCalendar</code> 有一个 <code>book(int start, int end)</code>方法。它意味着在 <code>start</code> 到 <code>end</code> 时间内增加一个日程安排，注意，这里的时间是半开区间，即 <code>[start, end)</code>, 实数&nbsp;<code>x</code> 的范围为， &nbsp;<code>start &lt;= x &lt; end</code>。</p>

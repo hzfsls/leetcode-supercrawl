@@ -1,3 +1,4 @@
+## [1681.最小不兼容性 中文官方题解](https://leetcode.cn/problems/minimum-incompatibility/solutions/100000/zui-xiao-bu-jian-rong-xing-by-leetcode-s-iiac)
 #### 前言
 
 本题解涉及到「二进制」中的「子集枚举」，具体表示为对给定的一个整数 $x$，不重复地枚举 $x$ 的「二进制」表示的非空子集 $y$，其中 $y$ 满足 $y \And x = y$。以下为以 `C++` 实现枚举 $x$ 的非空子集的代码，其正确性证明详细可以见 [OI_WIKI-二进制集合操作-子集遍历部分](https://oi-wiki.org/math/binary-set/)。

@@ -1,4 +1,4 @@
-## [2575.找出字符串的可整除数组]
+## [2575.找出字符串的可整除数组](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/)
 <p>给你一个下标从 <strong>0</strong> 开始的字符串 <code>word</code> ，长度为 <code>n</code> ，由从 <code>0</code> 到 <code>9</code> 的数字组成。另给你一个正整数 <code>m</code> 。</p>
 
 <p><code>word</code> 的 <strong>可整除数组</strong> <code>div</code>&nbsp; 是一个长度为 <code>n</code> 的整数数组，并满足：</p>

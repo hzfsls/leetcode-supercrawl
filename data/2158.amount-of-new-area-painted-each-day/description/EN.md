@@ -1,4 +1,4 @@
-## [2158.Amount of New Area Painted Each Day]
+## [2158.Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
 <p>There is a long and thin painting that can be represented by a number line. You are given a <strong>0-indexed</strong> 2D integer array <code>paint</code> of length <code>n</code>, where <code>paint[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>. This means that on the <code>i<sup>th</sup></code> day you need to paint the area <strong>between</strong> <code>start<sub>i</sub></code> and <code>end<sub>i</sub></code>.</p>
 
 <p>Painting the same area multiple times will create an uneven painting so you only want to paint each area of the painting at most <strong>once</strong>.</p>

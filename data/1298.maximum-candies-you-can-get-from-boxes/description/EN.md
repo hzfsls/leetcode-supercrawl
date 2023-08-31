@@ -1,4 +1,4 @@
-## [1298.Maximum Candies You Can Get from Boxes]
+## [1298.Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)
 <p>You have <code>n</code> boxes labeled from <code>0</code> to <code>n - 1</code>. You are given four arrays: <code>status</code>, <code>candies</code>, <code>keys</code>, and <code>containedBoxes</code> where:</p>
 
 <ul>

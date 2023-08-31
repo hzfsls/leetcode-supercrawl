@@ -1,3 +1,4 @@
+## [2197.替换数组中的非互质数 中文官方题解](https://leetcode.cn/problems/replace-non-coprime-numbers-in-array/solutions/100000/ti-huan-shu-zu-zhong-de-fei-hu-zhi-shu-b-mnml)
 #### 方法一：栈
 
 **思路与算法**

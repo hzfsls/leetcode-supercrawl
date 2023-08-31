@@ -1,4 +1,4 @@
-## [94.Binary Tree Inorder Traversal]
+## [94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 <p>Given the <code>root</code> of a binary tree, return <em>the inorder traversal of its nodes&#39; values</em>.</p>
 
 <p>&nbsp;</p>

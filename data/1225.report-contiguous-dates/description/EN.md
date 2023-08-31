@@ -1,4 +1,4 @@
-## [1225.Report Contiguous Dates]
+## [1225.Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/)
 <p>Table: <code>Failed</code></p>
 
 <pre>

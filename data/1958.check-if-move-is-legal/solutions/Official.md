@@ -1,3 +1,4 @@
+## [1958.检查操作是否合法 中文官方题解](https://leetcode.cn/problems/check-if-move-is-legal/solutions/100000/jian-cha-cao-zuo-shi-fou-he-fa-by-leetco-gqwz)
 #### 方法一：枚举每个方向验证
 
 **思路与算法**

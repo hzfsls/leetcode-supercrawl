@@ -1,4 +1,4 @@
-## [1788.最大化花园的美观度]
+## [1788.最大化花园的美观度](https://leetcode.cn/problems/maximize-the-beauty-of-the-garden/)
 <p>有一个花园，有 <code>n</code> 朵花，这些花都有一个用整数表示的美观度。这些花被种在一条线上。给定一个长度为 <code>n</code> 的整数类型数组 <code>flowers</code> ，每一个 <code>flowers[i]</code> 表示第 <code>i</code> 朵花的美观度。</p>
 
 <p>一个花园满足下列条件时，该花园是<strong>有效</strong>的。</p>

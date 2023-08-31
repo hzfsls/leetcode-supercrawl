@@ -1,3 +1,4 @@
+## [1284.转化为全零矩阵的最少反转次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/solutions/100000/zhuan-hua-wei-quan-ling-ju-zhen-de-zui-shao-fan-2)
 **预备知识**
 
 本题需要用到一些位运算的知识：

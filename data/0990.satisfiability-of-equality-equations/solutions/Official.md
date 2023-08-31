@@ -1,3 +1,4 @@
+## [990.等式方程的可满足性 中文官方题解](https://leetcode.cn/problems/satisfiability-of-equality-equations/solutions/100000/deng-shi-fang-cheng-de-ke-man-zu-xing-by-leetcode-)
 ### 📺 视频题解  
 ![990. 等式方程的可满足性.mp4](fa3c8d24-ca62-4a44-bff8-bae421e2838c)
 

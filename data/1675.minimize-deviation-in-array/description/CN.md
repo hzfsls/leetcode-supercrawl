@@ -1,4 +1,4 @@
-## [1675.数组的最小偏移量]
+## [1675.数组的最小偏移量](https://leetcode.cn/problems/minimize-deviation-in-array/)
 <p>给你一个由 <code>n</code> 个正整数组成的数组 <code>nums</code> 。</p>
 
 <p>你可以对数组的任意元素执行任意次数的两类操作：</p>

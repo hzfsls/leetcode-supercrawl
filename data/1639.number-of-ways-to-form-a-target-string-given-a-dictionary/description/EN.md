@@ -1,4 +1,4 @@
-## [1639.Number of Ways to Form a Target String Given a Dictionary]
+## [1639.Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
 <p>You are given a list of strings of the <strong>same length</strong> <code>words</code> and a string <code>target</code>.</p>
 
 <p>Your task is to form <code>target</code> using the given <code>words</code> under the following rules:</p>

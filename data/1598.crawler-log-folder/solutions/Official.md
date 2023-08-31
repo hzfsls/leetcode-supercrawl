@@ -1,3 +1,4 @@
+## [1598.文件夹操作日志搜集器 中文官方题解](https://leetcode.cn/problems/crawler-log-folder/solutions/100000/wen-jian-jia-cao-zuo-ri-zhi-sou-ji-qi-by-6unr)
 #### 方法一：直接模拟
 
 根据题意可知返回主文件夹的操作为连续退回到上一层目录，直到返回主目录为止，在这种操作下使用的操作数最少。我们用一个变量记录 $\textit{depth}$ 当前目录的层次深度，$\textit{depth}$ 初始化为 $0$，根据题意可知：

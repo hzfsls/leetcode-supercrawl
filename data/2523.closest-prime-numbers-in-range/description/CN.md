@@ -1,4 +1,4 @@
-## [2523.范围内最接近的两个质数]
+## [2523.范围内最接近的两个质数](https://leetcode.cn/problems/closest-prime-numbers-in-range/)
 <p>给你两个正整数&nbsp;<code>left</code> 和&nbsp;<code>right</code>&nbsp;，请你找到两个整数&nbsp;<code>num1</code> 和&nbsp;<code>num2</code>&nbsp;，它们满足：</p>
 
 <ul>

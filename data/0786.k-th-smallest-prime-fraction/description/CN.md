@@ -1,4 +1,4 @@
-## [786.第 K 个最小的素数分数]
+## [786.第 K 个最小的素数分数](https://leetcode.cn/problems/k-th-smallest-prime-fraction/)
 <p>给你一个按递增顺序排序的数组 <code>arr</code> 和一个整数 <code>k</code> 。数组 <code>arr</code> 由 <code>1</code> 和若干 <strong>素数</strong>&nbsp; 组成，且其中所有整数互不相同。</p>
 
 <p>对于每对满足 <code>0 &lt;= i &lt; j &lt; arr.length</code> 的 <code>i</code> 和 <code>j</code> ，可以得到分数 <code>arr[i] / arr[j]</code> 。</p>

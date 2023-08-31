@@ -1,4 +1,4 @@
-## [2793.Status of Flight Tickets]
+## [2793.Status of Flight Tickets](https://leetcode.com/problems/status-of-flight-tickets/)
 <p>Table: <code><font face="monospace">Flights</font></code></p>
 
 <pre>

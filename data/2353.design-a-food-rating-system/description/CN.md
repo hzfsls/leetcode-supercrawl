@@ -1,4 +1,4 @@
-## [2353.设计食物评分系统]
+## [2353.设计食物评分系统](https://leetcode.cn/problems/design-a-food-rating-system/)
 <p>设计一个支持下述操作的食物评分系统：</p>
 
 <ul>

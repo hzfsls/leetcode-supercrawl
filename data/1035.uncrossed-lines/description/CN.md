@@ -1,4 +1,4 @@
-## [1035.不相交的线]
+## [1035.不相交的线](https://leetcode.cn/problems/uncrossed-lines/)
 <p>在两条独立的水平线上按给定的顺序写下 <code>nums1</code> 和 <code>nums2</code> 中的整数。</p>
 
 <p>现在，可以绘制一些连接两个数字 <code>nums1[i]</code>&nbsp;和 <code>nums2[j]</code>&nbsp;的直线，这些直线需要同时满足满足：</p>

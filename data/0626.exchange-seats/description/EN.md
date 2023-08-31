@@ -1,4 +1,4 @@
-## [626.Exchange Seats]
+## [626.Exchange Seats](https://leetcode.com/problems/exchange-seats/)
 <p>Table: <code>Seat</code></p>
 
 <pre>

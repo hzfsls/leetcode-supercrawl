@@ -1,4 +1,4 @@
-## [1294.不同国家的天气类型]
+## [1294.不同国家的天气类型](https://leetcode.cn/problems/weather-type-in-each-country/)
 <p>表：<code>Countries</code></p>
 
 <pre>

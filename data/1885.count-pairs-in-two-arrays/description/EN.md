@@ -1,4 +1,4 @@
-## [1885.Count Pairs in Two Arrays]
+## [1885.Count Pairs in Two Arrays](https://leetcode.com/problems/count-pairs-in-two-arrays/)
 <p>Given two integer arrays <code>nums1</code> and <code>nums2</code> of length <code>n</code>, count the pairs of indices <code>(i, j)</code> such that <code>i &lt; j</code> and <code>nums1[i] + nums1[j] &gt; nums2[i] + nums2[j]</code>.</p>
 
 <p>Return <em>the <strong>number of pairs</strong> satisfying the condition.</em></p>

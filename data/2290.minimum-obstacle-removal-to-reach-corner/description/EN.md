@@ -1,4 +1,4 @@
-## [2290.Minimum Obstacle Removal to Reach Corner]
+## [2290.Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
 <p>You are given a <strong>0-indexed</strong> 2D integer array <code>grid</code> of size <code>m x n</code>. Each cell has one of two values:</p>
 
 <ul>

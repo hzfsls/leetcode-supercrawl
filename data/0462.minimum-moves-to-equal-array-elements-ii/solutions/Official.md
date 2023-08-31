@@ -1,3 +1,4 @@
+## [462.最小操作次数使数组元素相等 II 中文官方题解](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/solutions/100000/zui-shao-yi-dong-ci-shu-shi-shu-zu-yuan-xt3r2)
 #### 方法一：排序
 
 假设数组元素都变成 $x$ 时，所需的移动数最少，那么 $x$ 需要满足什么性质呢？

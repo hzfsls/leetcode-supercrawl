@@ -1,4 +1,4 @@
-## [1341.电影评分]
+## [1341.电影评分](https://leetcode.cn/problems/movie-rating/)
 <p>表：<code>Movies</code></p>
 
 <pre>

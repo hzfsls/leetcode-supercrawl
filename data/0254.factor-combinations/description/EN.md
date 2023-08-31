@@ -1,4 +1,4 @@
-## [254.Factor Combinations]
+## [254.Factor Combinations](https://leetcode.com/problems/factor-combinations/)
 <p>Numbers can be regarded as the product of their factors.</p>
 
 <ul>

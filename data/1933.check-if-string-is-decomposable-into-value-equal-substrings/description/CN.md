@@ -1,4 +1,4 @@
-## [1933.判断字符串是否可分解为值均等的子串]
+## [1933.判断字符串是否可分解为值均等的子串](https://leetcode.cn/problems/check-if-string-is-decomposable-into-value-equal-substrings/)
 <p>一个字符串的所有字符都是一样的，被称作等值字符串。</p>
 
 <ul>

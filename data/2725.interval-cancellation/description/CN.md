@@ -1,4 +1,4 @@
-## [2725.间隔取消]
+## [2725.间隔取消](https://leetcode.cn/problems/interval-cancellation/)
 <p>现给定一个函数 <code>fn</code>，一个参数数组 <code>args</code> 和一个时间间隔 <code>t</code>，返回一个取消函数 <code>cancelFn</code>。</p>
 
 <p>函数 <code>fn</code> 应该立即使用 <code>args</code> 调用，并且在每个 <code>t</code> 毫秒内再次调用，直到调用 <code>cancelFn</code>。</p>

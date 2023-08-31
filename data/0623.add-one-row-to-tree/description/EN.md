@@ -1,4 +1,4 @@
-## [623.Add One Row to Tree]
+## [623.Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 <p>Given the <code>root</code> of a binary tree and two integers <code>val</code> and <code>depth</code>, add a row of nodes with value <code>val</code> at the given depth <code>depth</code>.</p>
 
 <p>Note that the <code>root</code> node is at depth <code>1</code>.</p>

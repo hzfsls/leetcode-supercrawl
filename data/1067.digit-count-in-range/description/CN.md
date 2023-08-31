@@ -1,4 +1,4 @@
-## [1067.范围内的数字计数]
+## [1067.范围内的数字计数](https://leetcode.cn/problems/digit-count-in-range/)
 <p>给定一个在 <code>0</code>&nbsp;到&nbsp;<code>9</code> 之间的整数&nbsp;<code>d</code>，和两个正整数&nbsp;<code>low</code>&nbsp;和&nbsp;<code>high</code>&nbsp;分别作为上下界。返回&nbsp;<code>d</code> 在&nbsp;<code>low</code>&nbsp;和&nbsp;<code>high</code>&nbsp;之间的整数中出现的次数，包括边界&nbsp;<code>low</code> 和&nbsp;<code>high</code>。</p>
 
 <p>&nbsp;</p>

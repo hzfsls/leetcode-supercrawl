@@ -1,4 +1,4 @@
-## [2179.统计数组中好三元组数目]
+## [2179.统计数组中好三元组数目](https://leetcode.cn/problems/count-good-triplets-in-an-array/)
 <p>给你两个下标从 <strong>0</strong>&nbsp;开始且长度为 <code>n</code>&nbsp;的整数数组&nbsp;<code>nums1</code>&nbsp;和&nbsp;<code>nums2</code>&nbsp;，两者都是&nbsp;<code>[0, 1, ..., n - 1]</code>&nbsp;的&nbsp;<strong>排列</strong>&nbsp;。</p>
 
 <p><strong>好三元组&nbsp;</strong>指的是&nbsp;<code>3</code>&nbsp;个&nbsp;<strong>互不相同</strong>&nbsp;的值，且它们在数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>&nbsp;中出现顺序保持一致。换句话说，如果我们将&nbsp;<code>pos1<sub>v</sub></code> 记为值&nbsp;<code>v</code>&nbsp;在&nbsp;<code>nums1</code>&nbsp;中出现的位置，<code>pos2<sub>v</sub></code>&nbsp;为值&nbsp;<code>v</code>&nbsp;在&nbsp;<code>nums2</code>&nbsp;中的位置，那么一个好三元组定义为&nbsp;<code>0 &lt;= x, y, z &lt;= n - 1</code>&nbsp;，且&nbsp;<code>pos1<sub>x</sub> &lt; pos1<sub>y</sub> &lt; pos1<sub>z</sub></code> 和&nbsp;<code>pos2<sub>x</sub> &lt; pos2<sub>y</sub> &lt; pos2<sub>z</sub></code>&nbsp;都成立的&nbsp;<code>(x, y, z)</code>&nbsp;。</p>

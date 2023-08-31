@@ -1,4 +1,4 @@
-## [263.Ugly Number]
+## [263.Ugly Number](https://leetcode.com/problems/ugly-number/)
 <p>An <strong>ugly number</strong> is a positive integer whose prime factors are limited to <code>2</code>, <code>3</code>, and <code>5</code>.</p>
 
 <p>Given an integer <code>n</code>, return <code>true</code> <em>if</em> <code>n</code> <em>is an <strong>ugly number</strong></em>.</p>

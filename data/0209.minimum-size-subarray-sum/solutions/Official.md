@@ -1,3 +1,4 @@
+## [209.长度最小的子数组 中文官方题解](https://leetcode.cn/problems/minimum-size-subarray-sum/solutions/100000/chang-du-zui-xiao-de-zi-shu-zu-by-leetcode-solutio)
 #### 方法一：暴力法
 
 暴力法是最直观的方法。初始化子数组的最小长度为无穷大，枚举数组 $\text{nums}$ 中的每个下标作为子数组的开始下标，对于每个开始下标 $i$，需要找到大于或等于 $i$ 的最小下标 $j$，使得从 $\text{nums}[i]$ 到 $\text{nums}[j]$ 的元素和大于或等于 $s$，并更新子数组的最小长度（此时子数组的长度是 $j-i+1$）。

@@ -1,4 +1,4 @@
-## [2534.通过门的时间]
+## [2534.通过门的时间](https://leetcode.cn/problems/time-taken-to-cross-the-door/)
 <p><code>n</code> 个人，按从 <code>0</code> 到 <code>n - 1</code> 编号。现在有一扇门，每个人只能通过门进入或离开一次，耗时一秒。</p>
 
 <p>给你一个 <strong>非递减顺序</strong> 排列的整数数组 <code>arrival</code> ，数组长度为 <code>n</code> ，其中 <code>arrival[i]</code> 是第 <code>i</code> 个人到达门前的时间。另给你一个长度为 <code>n</code> 的数组 <code>state</code> ，其中 <code>state[i]</code> 是 <code>0</code> 则表示第 <code>i</code> 个人希望进入这扇门，是 <code>1</code> 则表示 TA 想要离开这扇门。</p>

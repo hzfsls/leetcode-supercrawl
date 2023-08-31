@@ -1,3 +1,4 @@
+## [2178.拆分成最多数目的正偶数之和 中文官方题解](https://leetcode.cn/problems/maximum-split-of-positive-even-integers/solutions/100000/chai-fen-cheng-zui-duo-shu-mu-de-ou-zhen-dntf)
 #### 方法一：贪心
 
 首先，如果 $\textit{finalSum}$ 为奇数，那么无法拆分为若干偶数，我们返回空数组即可。

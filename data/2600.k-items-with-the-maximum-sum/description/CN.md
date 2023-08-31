@@ -1,4 +1,4 @@
-## [2600.K 件物品的最大和]
+## [2600.K 件物品的最大和](https://leetcode.cn/problems/k-items-with-the-maximum-sum/)
 <p>袋子中装有一些物品，每个物品上都标记着数字 <code>1</code> 、<code>0</code> 或 <code>-1</code> 。</p>
 
 <p>给你四个非负整数 <code>numOnes</code> 、<code>numZeros</code> 、<code>numNegOnes</code> 和 <code>k</code> 。</p>

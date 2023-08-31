@@ -1,3 +1,4 @@
+## [372.超级次方 中文官方题解](https://leetcode.cn/problems/super-pow/solutions/100000/chao-ji-ci-fang-by-leetcode-solution-ow8j)
 #### 前置知识
 
 在阅读本文前，读者需要掌握快速幂这一算法，具体可以见「[50. Pow(x, n) 的官方题解](https://leetcode-cn.com/problems/powx-n/solution/powx-n-by-leetcode-solution/)」。

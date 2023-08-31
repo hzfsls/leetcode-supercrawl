@@ -1,4 +1,4 @@
-## [335.路径交叉]
+## [335.路径交叉](https://leetcode.cn/problems/self-crossing/)
 <p>给你一个整数数组 <code>distance</code><em> </em>。</p>
 
 <p>从 <strong>X-Y</strong> 平面上的点&nbsp;<code>(0,0)</code>&nbsp;开始，先向北移动 <code>distance[0]</code> 米，然后向西移动 <code>distance[1]</code> 米，向南移动 <code>distance[2]</code> 米，向东移动 <code>distance[3]</code> 米，持续移动。也就是说，每次移动后你的方位会发生逆时针变化。</p>

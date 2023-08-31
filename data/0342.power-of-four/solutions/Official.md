@@ -1,3 +1,4 @@
+## [342.4的幂 中文官方题解](https://leetcode.cn/problems/power-of-four/solutions/100000/4de-mi-by-leetcode-solution-b3ya)
 #### 前言
 
 如果 $n$ 是 $4$ 的幂，那么 $n$ 一定也是 $2$ 的幂。因此我们可以首先判断 $n$ 是否是 $2$ 的幂，在此基础上再判断 $n$ 是否是 $4$ 的幂。

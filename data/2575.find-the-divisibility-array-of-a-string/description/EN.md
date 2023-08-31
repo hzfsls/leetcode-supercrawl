@@ -1,4 +1,4 @@
-## [2575.Find the Divisibility Array of a String]
+## [2575.Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/)
 <p>You are given a <strong>0-indexed</strong> string <code>word</code> of length <code>n</code>&nbsp;consisting of digits, and a positive integer&nbsp;<code>m</code>.</p>
 
 <p>The <strong>divisibility array</strong> <code>div</code> of <code>word</code> is an integer array of length <code>n</code> such that:</p>

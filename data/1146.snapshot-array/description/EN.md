@@ -1,4 +1,4 @@
-## [1146.Snapshot Array]
+## [1146.Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 <p>Implement a SnapshotArray that supports the following interface:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [44.通配符匹配 中文官方题解](https://leetcode.cn/problems/wildcard-matching/solutions/100000/tong-pei-fu-pi-pei-by-leetcode-solution)
 #### 前言
 
 本题与「[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)」非常类似，但相比较而言，本题稍微容易一些。因为在本题中，模式 $p$ 中的任意一个字符都是**独立**的，即不会和前后的字符互相关联，形成一个新的匹配模式。因此，本题的状态转移方程需要考虑的情况会少一些。

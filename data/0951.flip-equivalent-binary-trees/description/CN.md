@@ -1,4 +1,4 @@
-## [951.翻转等价二叉树]
+## [951.翻转等价二叉树](https://leetcode.cn/problems/flip-equivalent-binary-trees/)
 <p>我们可以为二叉树 <strong>T</strong> 定义一个&nbsp;<strong>翻转操作&nbsp;</strong>，如下所示：选择任意节点，然后交换它的左子树和右子树。</p>
 
 <p>只要经过一定次数的翻转操作后，能使 <strong>X</strong> 等于 <strong>Y</strong>，我们就称二叉树 <strong>X</strong> <em>翻转 等价&nbsp;</em>于二叉树 <strong>Y</strong>。</p>

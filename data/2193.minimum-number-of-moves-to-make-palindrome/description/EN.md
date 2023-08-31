@@ -1,4 +1,4 @@
-## [2193.Minimum Number of Moves to Make Palindrome]
+## [2193.Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)
 <p>You are given a string <code>s</code> consisting only of lowercase English letters.</p>
 
 <p>In one <strong>move</strong>, you can select any two <strong>adjacent</strong> characters of <code>s</code> and swap them.</p>

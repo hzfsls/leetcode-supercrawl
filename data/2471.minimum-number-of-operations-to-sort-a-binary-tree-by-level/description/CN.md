@@ -1,4 +1,4 @@
-## [2471.逐层排序二叉树所需的最少操作数目]
+## [2471.逐层排序二叉树所需的最少操作数目](https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)
 <p>给你一个 <strong>值互不相同</strong> 的二叉树的根节点 <code>root</code> 。</p>
 
 <p>在一步操作中，你可以选择 <strong>同一层</strong> 上任意两个节点，交换这两个节点的值。</p>

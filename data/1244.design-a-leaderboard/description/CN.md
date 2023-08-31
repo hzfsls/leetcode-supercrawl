@@ -1,4 +1,4 @@
-## [1244.力扣排行榜]
+## [1244.力扣排行榜](https://leetcode.cn/problems/design-a-leaderboard/)
 <p>新一轮的「力扣杯」编程大赛即将启动，为了动态显示参赛者的得分数据，需要设计一个排行榜 Leaderboard。</p>
 
 <p>请你帮忙来设计这个 <code>Leaderboard</code> 类，使得它有如下 3 个函数：</p>

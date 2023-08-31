@@ -1,4 +1,4 @@
-## [1160.Find Words That Can Be Formed by Characters]
+## [1160.Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 <p>You are given an array of strings <code>words</code> and a string <code>chars</code>.</p>
 
 <p>A string is <strong>good</strong> if it can be formed by characters from chars (each character can only be used once).</p>

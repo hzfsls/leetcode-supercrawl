@@ -1,4 +1,4 @@
-## [2716.Minimize String Length]
+## [2716.Minimize String Length](https://leetcode.com/problems/minimize-string-length/)
 <p>Given a <strong>0-indexed</strong> string <code>s</code>, repeatedly perform the following operation <strong>any</strong> number of times:</p>
 
 <ul>

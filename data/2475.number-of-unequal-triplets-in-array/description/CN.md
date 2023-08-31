@@ -1,4 +1,4 @@
-## [2475.数组中不等三元组的数目]
+## [2475.数组中不等三元组的数目](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)
 <p>给你一个下标从 <strong>0</strong> 开始的正整数数组 <code>nums</code> 。请你找出并统计满足下述条件的三元组 <code>(i, j, k)</code> 的数目：</p>
 
 <ul>

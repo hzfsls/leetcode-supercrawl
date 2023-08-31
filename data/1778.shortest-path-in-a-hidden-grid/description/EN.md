@@ -1,4 +1,4 @@
-## [1778.Shortest Path in a Hidden Grid]
+## [1778.Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/)
 <p>This is an <strong>interactive problem</strong>.</p>
 
 <p>There is a robot in a hidden grid, and you are trying to get it from its starting cell to the target cell in this grid. The grid is of size <code>m x n</code>, and each cell in the grid is either empty or blocked. It is <strong>guaranteed</strong> that the starting cell and the target cell are different, and neither of them is blocked.</p>

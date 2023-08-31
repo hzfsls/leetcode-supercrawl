@@ -1,4 +1,4 @@
-## [2690.无穷方法对象]
+## [2690.无穷方法对象](https://leetcode.cn/problems/infinite-method-object/)
 <p>请你编写一个函数，返回一个 <strong>无穷方法对象</strong> 。</p>
 
 <p><strong>无穷方法对象</strong> 被定义为一个对象，它允许您调用任何方法，并始终返回方法的名称。</p>

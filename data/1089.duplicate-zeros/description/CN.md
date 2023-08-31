@@ -1,4 +1,4 @@
-## [1089.复写零]
+## [1089.复写零](https://leetcode.cn/problems/duplicate-zeros/)
 <p>给你一个长度固定的整数数组&nbsp;<code>arr</code> ，请你将该数组中出现的每个零都复写一遍，并将其余的元素向右平移。</p>
 
 <p>注意：请不要在超过该数组长度的位置写入元素。请对输入的数组&nbsp;<strong>就地&nbsp;</strong>进行上述修改，不要从函数返回任何东西。</p>

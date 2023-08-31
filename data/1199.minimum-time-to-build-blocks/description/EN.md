@@ -1,4 +1,4 @@
-## [1199.Minimum Time to Build Blocks]
+## [1199.Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/)
 <p>You are given a list of blocks, where <code>blocks[i] = t</code> means that the&nbsp;<code>i</code>-th block needs&nbsp;<code>t</code>&nbsp;units of time to be built. A block can only be built by exactly one worker.</p>
 
 <p>A worker can either split into two workers (number of workers increases by one) or build a block then go home. Both decisions cost some time.</p>

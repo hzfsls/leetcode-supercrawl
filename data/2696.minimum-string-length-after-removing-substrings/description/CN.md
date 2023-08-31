@@ -1,4 +1,4 @@
-## [2696.删除子串后的字符串最小长度]
+## [2696.删除子串后的字符串最小长度](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/)
 <p>给你一个仅由 <strong>大写</strong> 英文字符组成的字符串 <code>s</code> 。</p>
 
 <p>你可以对此字符串执行一些操作，在每一步操作中，你可以从 <code>s</code> 中删除 <strong>任一个</strong> <code>"AB"</code> 或 <code>"CD"</code> 子字符串。</p>

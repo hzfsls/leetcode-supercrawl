@@ -1,4 +1,4 @@
-## [1591.Strange Printer II]
+## [1591.Strange Printer II](https://leetcode.com/problems/strange-printer-ii/)
 <p>There is a strange printer with the following two special requirements:</p>
 
 <ul>

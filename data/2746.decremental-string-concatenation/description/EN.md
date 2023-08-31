@@ -1,4 +1,4 @@
-## [2746.Decremental String Concatenation]
+## [2746.Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/)
 <p>You are given a <strong>0-indexed</strong> array <code>words</code> containing <code>n</code> strings.</p>
 
 <p>Let&#39;s define a <strong>join</strong> operation <code>join(x, y)</code> between two strings <code>x</code> and <code>y</code> as concatenating them into <code>xy</code>. However, if the last character of <code>x</code> is equal to the first character of <code>y</code>, one of them is <strong>deleted</strong>.</p>

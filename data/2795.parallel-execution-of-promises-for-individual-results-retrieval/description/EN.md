@@ -1,4 +1,4 @@
-## [2795.Parallel Execution of Promises for Individual Results Retrieval]
+## [2795.Parallel Execution of Promises for Individual Results Retrieval](https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval/)
 <p>Given an array&nbsp;<code>functions</code>, return a promise <code>promise</code>. <code>functions</code>&nbsp;is an array of functions that return promises <code>fnPromise.</code>&nbsp;Each <code>fnPromise</code>&nbsp;can be resolved or rejected.&nbsp;&nbsp;</p>
 
 <p>If&nbsp;<code>fnPromise</code> is resolved:</p>

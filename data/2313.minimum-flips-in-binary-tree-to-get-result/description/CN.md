@@ -1,4 +1,4 @@
-## [2313.二叉树中得到结果所需的最少翻转次数]
+## [2313.二叉树中得到结果所需的最少翻转次数](https://leetcode.cn/problems/minimum-flips-in-binary-tree-to-get-result/)
 <p>给定<strong>二叉树</strong>的根 <code>root</code>，具有以下属性:</p>
 
 <ul>

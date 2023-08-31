@@ -1,4 +1,4 @@
-## [481.神奇字符串]
+## [481.神奇字符串](https://leetcode.cn/problems/magical-string/)
 <p>神奇字符串 <code>s</code> 仅由 <code>'1'</code> 和 <code>'2'</code> 组成，并需要遵守下面的规则：</p>
 
 <ul>

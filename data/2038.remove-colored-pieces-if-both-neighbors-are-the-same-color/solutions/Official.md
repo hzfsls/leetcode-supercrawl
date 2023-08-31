@@ -1,3 +1,4 @@
+## [2038.如果相邻两个颜色均相同则删除当前颜色 中文官方题解](https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/solutions/100000/ru-guo-xiang-lin-liang-ge-yan-se-jun-xia-rfbk)
 #### 方法一：贪心
 
 **思路**

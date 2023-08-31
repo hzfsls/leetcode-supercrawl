@@ -1,4 +1,4 @@
-## [390.Elimination Game]
+## [390.Elimination Game](https://leetcode.com/problems/elimination-game/)
 <p>You have a list <code>arr</code> of all integers in the range <code>[1, n]</code> sorted in a strictly increasing order. Apply the following algorithm on <code>arr</code>:</p>
 
 <ul>

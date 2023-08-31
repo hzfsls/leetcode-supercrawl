@@ -1,4 +1,4 @@
-## [958.Check Completeness of a Binary Tree]
+## [958.Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 <p>Given the <code>root</code> of a binary tree, determine if it is a <em>complete binary tree</em>.</p>
 
 <p>In a <strong><a href="http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees" target="_blank">complete binary tree</a></strong>, every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between <code>1</code> and <code>2<sup>h</sup></code> nodes inclusive at the last level <code>h</code>.</p>

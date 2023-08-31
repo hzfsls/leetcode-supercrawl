@@ -1,3 +1,4 @@
+## [2266.统计打字方案数 中文官方题解](https://leetcode.cn/problems/count-number-of-texts/solutions/100000/tong-ji-da-zi-fang-an-shu-by-leetcode-so-714a)
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1190.反转每对括号间的子串]
+## [1190.反转每对括号间的子串](https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/)
 <p>给出一个字符串&nbsp;<code>s</code>（仅含有小写英文字母和括号）。</p>
 
 <p>请你按照从括号内到外的顺序，逐层反转每对匹配括号中的字符串，并返回最终的结果。</p>

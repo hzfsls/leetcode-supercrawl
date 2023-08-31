@@ -1,3 +1,4 @@
+## [598.范围求和 II 中文官方题解](https://leetcode.cn/problems/range-addition-ii/solutions/100000/fan-wei-qiu-he-ii-by-leetcode-solution-kcxq)
 #### 方法一：维护所有操作的交集
 
 **思路与算法**

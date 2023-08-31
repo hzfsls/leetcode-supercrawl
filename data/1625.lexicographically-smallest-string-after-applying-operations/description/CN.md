@@ -1,4 +1,4 @@
-## [1625.执行操作后字典序最小的字符串]
+## [1625.执行操作后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/)
 <p>给你一个字符串 <code>s</code> 以及两个整数 <code>a</code> 和 <code>b</code> 。其中，字符串 <code>s</code> 的长度为偶数，且仅由数字 <code>0</code> 到 <code>9</code> 组成。</p>
 
 <p>你可以在 <code>s</code> 上按任意顺序多次执行下面两个操作之一：</p>

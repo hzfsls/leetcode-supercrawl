@@ -1,3 +1,4 @@
+## [1759.统计同质子字符串的数目 中文官方题解](https://leetcode.cn/problems/count-number-of-homogenous-substrings/solutions/100000/tong-ji-tong-gou-zi-zi-fu-chuan-de-shu-m-tw5m)
 #### 方法一：数学
 
 **思路与算法**

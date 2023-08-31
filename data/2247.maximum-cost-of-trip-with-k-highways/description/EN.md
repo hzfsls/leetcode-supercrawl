@@ -1,4 +1,4 @@
-## [2247.Maximum Cost of Trip With K Highways]
+## [2247.Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/)
 <p>A series of highways connect <code>n</code> cities numbered from <code>0</code> to <code>n - 1</code>. You are given a 2D integer array <code>highways</code> where <code>highways[i] = [city1<sub>i</sub>, city2<sub>i</sub>, toll<sub>i</sub>]</code> indicates that there is a highway that connects <code>city1<sub>i</sub></code> and <code>city2<sub>i</sub></code>, allowing a car to go from <code>city1<sub>i</sub></code> to <code>city2<sub>i</sub></code> and <strong>vice versa</strong> for a cost of <code>toll<sub>i</sub></code>.</p>
 
 <p>You are also given an integer <code>k</code>. You are going on a trip that crosses <strong>exactly</strong> <code>k</code> highways. You may start at any city, but you may only visit each city <strong>at most</strong> once during your trip.</p>

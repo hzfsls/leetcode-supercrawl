@@ -1,4 +1,4 @@
-## [307.Range Sum Query - Mutable]
+## [307.Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 <p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>
 
 <ol>

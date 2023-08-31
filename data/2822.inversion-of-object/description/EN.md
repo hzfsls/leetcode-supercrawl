@@ -1,4 +1,4 @@
-## [2822.Inversion of Object]
+## [2822.Inversion of Object](https://leetcode.com/problems/inversion-of-object/)
 <p>Given an object <code>obj</code>, return an inverted object <code>invertedObj</code>.</p>
 
 <p>The <code>invertedObj</code> should have the keys of <code>obj</code> as values and the values of <code>obj</code> as keys. It is guaranteed that the values in <code>obj</code> are only strings. The function should handle duplicates, meaning that if there are multiple keys in <code>obj</code> with the same value, the <code>invertedObj</code> should map the value to an array containing all corresponding keys.</p>

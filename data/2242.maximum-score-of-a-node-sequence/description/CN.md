@@ -1,4 +1,4 @@
-## [2242.节点序列的最大得分]
+## [2242.节点序列的最大得分](https://leetcode.cn/problems/maximum-score-of-a-node-sequence/)
 <p>给你一个&nbsp;<code>n</code>&nbsp;个节点的&nbsp;<strong>无向图</strong>&nbsp;，节点编号为&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n - 1</code>&nbsp;。</p>
 
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>scores</code>&nbsp;，其中&nbsp;<code>scores[i]</code>&nbsp;是第 <code>i</code>&nbsp;个节点的分数。同时给你一个二维整数数组&nbsp;<code>edges</code>&nbsp;，其中&nbsp;<code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code>&nbsp;，表示节点&nbsp;<code>a<sub>i</sub></code> 和&nbsp;<code>b<sub>i</sub></code>&nbsp;之间有一条&nbsp;<strong>无向</strong>&nbsp;边。</p>

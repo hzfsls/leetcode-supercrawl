@@ -1,4 +1,4 @@
-## [1690.Stone Game VII]
+## [1690.Stone Game VII](https://leetcode.com/problems/stone-game-vii/)
 <p>Alice and Bob take turns playing a game, with <strong>Alice starting first</strong>.</p>
 
 <p>There are <code>n</code> stones arranged in a row. On each player&#39;s turn, they can <strong>remove</strong> either the leftmost stone or the rightmost stone from the row and receive points equal to the <strong>sum</strong> of the remaining stones&#39; values in the row. The winner is the one with the higher score when there are no stones left to remove.</p>

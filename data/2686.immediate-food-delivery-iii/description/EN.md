@@ -1,4 +1,4 @@
-## [2686.Immediate Food Delivery III]
+## [2686.Immediate Food Delivery III](https://leetcode.com/problems/immediate-food-delivery-iii/)
 <p>Table: <code>Delivery</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [381.Insert Delete GetRandom O(1) - Duplicates allowed]
+## [381.Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
 <p><code>RandomizedCollection</code> is a data structure that contains a collection of numbers, possibly duplicates (i.e., a multiset). It should support inserting and removing specific elements and also reporting a random element.</p>
 
 <p>Implement the <code>RandomizedCollection</code> class:</p>

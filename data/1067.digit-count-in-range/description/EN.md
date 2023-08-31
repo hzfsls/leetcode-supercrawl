@@ -1,4 +1,4 @@
-## [1067.Digit Count in Range]
+## [1067.Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/)
 <p>Given a single-digit integer <code>d</code> and two integers <code>low</code> and <code>high</code>, return <em>the number of times that </em><code>d</code><em> occurs as a digit in all integers in the inclusive range </em><code>[low, high]</code>.</p>
 
 <p>&nbsp;</p>

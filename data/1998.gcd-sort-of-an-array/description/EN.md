@@ -1,4 +1,4 @@
-## [1998.GCD Sort of an Array]
+## [1998.GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)
 <p>You are given an integer array <code>nums</code>, and you can perform the following operation <strong>any</strong> number of times on <code>nums</code>:</p>
 
 <ul>

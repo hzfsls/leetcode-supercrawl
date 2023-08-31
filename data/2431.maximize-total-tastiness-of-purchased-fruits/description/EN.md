@@ -1,4 +1,4 @@
-## [2431.Maximize Total Tastiness of Purchased Fruits]
+## [2431.Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/)
 <p>You are given two non-negative integer arrays <code>price</code> and <code>tastiness</code>, both arrays have the same length <code>n</code>. You are also given two non-negative integers <code>maxAmount</code> and <code>maxCoupons</code>.</p>
 
 <p>For every integer <code>i</code> in range <code>[0, n - 1]</code>:</p>

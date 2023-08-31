@@ -1,3 +1,4 @@
+## [155.最小栈 中文官方题解](https://leetcode.cn/problems/min-stack/solutions/100000/zui-xiao-zhan-by-leetcode-solution)
 ### 📺视频题解  
 
 ![155.最小栈_甜姨.mp4](11ac0cb3-e770-4e9e-b581-b884cae3eb82)

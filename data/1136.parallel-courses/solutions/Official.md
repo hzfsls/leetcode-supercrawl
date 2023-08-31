@@ -1,3 +1,4 @@
+## [1136.并行课程 中文官方题解](https://leetcode.cn/problems/parallel-courses/solutions/100000/ping-xing-ke-cheng-by-leetcode-solution)
 [TOC]
 
 ## 解决方案

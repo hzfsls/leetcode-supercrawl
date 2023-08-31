@@ -1,4 +1,4 @@
-## [499.迷宫 III]
+## [499.迷宫 III](https://leetcode.cn/problems/the-maze-iii/)
 <p>由空地和墙组成的迷宫中有一个<strong>球</strong>。球可以向<strong>上（u）下（d）左（l）右（r）</strong>四个方向滚动，但在遇到墙壁前不会停止滚动。当球停下时，可以选择下一个方向。迷宫中还有一个<strong>洞</strong>，当球运动经过洞时，就会掉进洞里。</p>
 
 <p>给定球的<strong>起始位置，目的地</strong>和<strong>迷宫</strong>，找出让球以最短距离掉进洞里的路径。&nbsp;距离的定义是球从起始位置（不包括）到目的地（包括）经过的<strong>空地</strong>个数。通过&#39;u&#39;, &#39;d&#39;, &#39;l&#39; 和&nbsp;&#39;r&#39;输出球的移动<strong>方向</strong>。&nbsp;由于可能有多条最短路径，&nbsp;请输出<strong>字典序最小</strong>的路径<strong>。</strong>如果球无法进入洞，输出&quot;impossible&quot;。</p>

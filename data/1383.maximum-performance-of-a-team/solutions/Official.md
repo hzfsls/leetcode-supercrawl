@@ -1,3 +1,4 @@
+## [1383.最大的团队表现值 中文官方题解](https://leetcode.cn/problems/maximum-performance-of-a-team/solutions/100000/zui-da-de-tuan-dui-biao-xian-zhi-by-leetcode-solut)
 #### 方法一：堆
 
 **思路**

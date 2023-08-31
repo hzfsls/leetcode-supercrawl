@@ -1,4 +1,4 @@
-## [1479.周内每天的销售情况]
+## [1479.周内每天的销售情况](https://leetcode.cn/problems/sales-by-day-of-the-week/)
 <p>表：<code>Orders</code></p>
 
 <pre>

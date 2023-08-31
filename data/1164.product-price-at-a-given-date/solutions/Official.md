@@ -1,3 +1,4 @@
+## [1164.指定日期的产品价格 中文官方题解](https://leetcode.cn/problems/product-price-at-a-given-date/solutions/100000/zhi-ding-ri-qi-de-chan-pin-jie-ge-by-leetcode-solu)
 #### 预备知识
 
 本题使用到的 `MySQL` 函数的说明：

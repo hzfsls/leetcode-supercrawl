@@ -1,3 +1,4 @@
+## [2088.统计农场中肥沃金字塔的数目 中文官方题解](https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/solutions/100000/tong-ji-nong-chang-zhong-fei-wo-jin-zi-t-paok)
 #### 方法一：动态规划
 
 **思路与算法**

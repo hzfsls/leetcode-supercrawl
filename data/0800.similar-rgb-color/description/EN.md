@@ -1,4 +1,4 @@
-## [800.Similar RGB Color]
+## [800.Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/)
 <p>The red-green-blue color <code>&quot;#AABBCC&quot;</code> can be written as <code>&quot;#ABC&quot;</code> in shorthand.</p>
 
 <ul>

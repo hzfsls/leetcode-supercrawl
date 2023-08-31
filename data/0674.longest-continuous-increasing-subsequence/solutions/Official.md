@@ -1,3 +1,4 @@
+## [674.最长连续递增序列 中文官方题解](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/solutions/100000/zui-chang-lian-xu-di-zeng-xu-lie-by-leet-dmb8)
 #### 方法一：贪心
 
 对于下标范围 $[l,r]$ 的连续子序列，如果对任意 $l \le i<r$ 都满足 $\textit{nums}[i]<\textit{nums}[i+1]$，则该连续子序列是递增序列。

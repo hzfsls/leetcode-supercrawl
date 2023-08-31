@@ -1,4 +1,4 @@
-## [749.Contain Virus]
+## [749.Contain Virus](https://leetcode.com/problems/contain-virus/)
 <p>A virus is spreading rapidly, and your task is to quarantine the infected area by installing walls.</p>
 
 <p>The world is modeled as an <code>m x n</code> binary grid <code>isInfected</code>, where <code>isInfected[i][j] == 0</code> represents uninfected cells, and <code>isInfected[i][j] == 1</code> represents cells contaminated with the virus. A wall (and only one wall) can be installed between any two <strong>4-directionally</strong> adjacent cells, on the shared boundary.</p>

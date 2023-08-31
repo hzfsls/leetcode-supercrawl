@@ -1,3 +1,4 @@
+## [2000.反转单词前缀 中文官方题解](https://leetcode.cn/problems/reverse-prefix-of-word/solutions/100000/fan-zhuan-dan-ci-qian-zhui-by-leetcode-s-ruaj)
 #### 方法一：直接反转
 
 **思路与算法**

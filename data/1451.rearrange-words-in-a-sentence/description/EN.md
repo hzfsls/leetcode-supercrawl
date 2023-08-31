@@ -1,4 +1,4 @@
-## [1451.Rearrange Words in a Sentence]
+## [1451.Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
 <p>Given a sentence&nbsp;<code>text</code> (A&nbsp;<em>sentence</em>&nbsp;is a string of space-separated words) in the following format:</p>
 
 <ul>

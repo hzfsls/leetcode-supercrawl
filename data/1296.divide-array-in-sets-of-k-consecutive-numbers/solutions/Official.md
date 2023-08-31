@@ -1,3 +1,4 @@
+## [1296.划分数组为连续数字的集合 中文官方题解](https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/solutions/100000/hua-fen-shu-zu-wei-lian-xu-shu-zi-de-ji-he-by-le-2)
 #### 方法一：贪心
 
 题目要求将数组 $\textit{nums}$ 中的元素分组使得每组的大小是 $k$。假设数组 $\textit{nums}$ 的长度是 $n$，只有当 $n \bmod k = 0$ 时才可能完成分组，因此如果 $n \bmod k \ne 0$ 则直接返回 $\text{false}$。

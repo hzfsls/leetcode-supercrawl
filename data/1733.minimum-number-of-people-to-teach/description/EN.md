@@ -1,4 +1,4 @@
-## [1733.Minimum Number of People to Teach]
+## [1733.Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)
 <p>On a social network consisting of <code>m</code> users and some friendships between users, two users can communicate with each other if they know a common language.</p>
 
 <p>You are given an integer <code>n</code>, an array <code>languages</code>, and an array <code>friendships</code> where:</p>

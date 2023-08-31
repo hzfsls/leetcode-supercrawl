@@ -1,4 +1,4 @@
-## [691.贴纸拼词]
+## [691.贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/)
 <p>我们有 <code>n</code> 种不同的贴纸。每个贴纸上都有一个小写的英文单词。</p>
 
 <p>您想要拼写出给定的字符串 <code>target</code>&nbsp;，方法是从收集的贴纸中切割单个字母并重新排列它们。如果你愿意，你可以多次使用每个贴纸，每个贴纸的数量是无限的。</p>

@@ -1,3 +1,4 @@
+## [1253.重构 2 行二进制矩阵 中文官方题解](https://leetcode.cn/problems/reconstruct-a-2-row-binary-matrix/solutions/100000/zhong-gou-2-xing-er-jin-zhi-ju-zhen-by-l-if8v)
 #### 方法一：贪心
 
 **思路与算法**

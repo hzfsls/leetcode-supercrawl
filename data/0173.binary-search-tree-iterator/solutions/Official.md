@@ -1,3 +1,4 @@
+## [173.二叉搜索树迭代器 中文官方题解](https://leetcode.cn/problems/binary-search-tree-iterator/solutions/100000/er-cha-sou-suo-shu-die-dai-qi-by-leetcod-4y0y)
 #### 前言
 
 根据二叉搜索树的性质，不难发现，原问题等价于对二叉搜索树进行中序遍历。因此，我们可以采取与「[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)」类似的方法来解决这一问题。

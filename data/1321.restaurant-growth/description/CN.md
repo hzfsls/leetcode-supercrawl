@@ -1,4 +1,4 @@
-## [1321.餐馆营业额变化增长]
+## [1321.餐馆营业额变化增长](https://leetcode.cn/problems/restaurant-growth/)
 <p>表: <code>Customer</code></p>
 
 <pre>

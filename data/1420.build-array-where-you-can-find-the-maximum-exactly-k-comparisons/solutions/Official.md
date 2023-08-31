@@ -1,3 +1,4 @@
+## [1420.生成数组 中文官方题解](https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/solutions/100000/sheng-cheng-shu-zu-by-leetcode-solution-yswf)
 #### 方法一：动态规划
 
 **说明**

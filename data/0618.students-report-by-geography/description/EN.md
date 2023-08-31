@@ -1,4 +1,4 @@
-## [618.Students Report By Geography]
+## [618.Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/)
 <p>Table: <code>Student</code></p>
 
 <pre>

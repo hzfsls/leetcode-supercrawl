@@ -1,3 +1,4 @@
+## [1716.计算力扣银行的钱 中文官方题解](https://leetcode.cn/problems/calculate-money-in-leetcode-bank/solutions/100000/ji-suan-li-kou-yin-xing-de-qian-by-leetc-xogx)
 #### 方法一：暴力计算
 
 记当前的天数是第 $\textit{week}$ 周的第 $\textit{day}$ 天。我们从第一周的星期一开始存钱，记 $\textit{week} = 1$，$\textit{day} = 1$。一周内，每一天比前一天多存 $1$ 块钱。而每个周一，会比前一个周一多存 $1$ 块钱。因此，每天存的钱等于 $\textit{week} + \textit{day} - 1$。把每天存的钱相加就可以得到答案。

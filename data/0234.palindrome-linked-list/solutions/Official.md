@@ -1,3 +1,4 @@
+## [234.回文链表 中文官方题解](https://leetcode.cn/problems/palindrome-linked-list/solutions/100000/hui-wen-lian-biao-by-leetcode-solution)
 #### 方法一：将值复制到数组中后用双指针法
 
 **思路**

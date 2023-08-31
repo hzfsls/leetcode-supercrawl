@@ -1,4 +1,4 @@
-## [2772.使数组中的所有元素都等于零]
+## [2772.使数组中的所有元素都等于零](https://leetcode.cn/problems/apply-operations-to-make-all-array-elements-equal-to-zero/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 和一个正整数 <code>k</code> 。</p>
 
 <p>你可以对数组执行下述操作 <strong>任意次</strong> ：</p>

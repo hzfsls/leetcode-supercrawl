@@ -1,4 +1,4 @@
-## [1613.Find the Missing IDs]
+## [1613.Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/)
 <p>Table: <code>Customers</code></p>
 
 <pre>

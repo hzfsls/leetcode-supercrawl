@@ -1,3 +1,4 @@
+## [1359.有效的快递序列数目 中文官方题解](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options/solutions/100000/you-xiao-de-kuai-di-xu-lie-shu-mu-by-leetcode-solu)
 #### 方法一：递推法
 
 设 `f[i]` 表示订单数量为 `i` 时的序列数目，我们希望通过 `f[1], f[2], ..., f[i - 1]` 得到 `f[i]` 的值，这样就可以使用递推的方法得到 `f[n]` 了。

@@ -1,3 +1,4 @@
+## [1281.整数的各位积和之差 中文官方题解](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/100000/zheng-shu-de-ge-wei-ji-he-zhi-chai-by-leetcode-sol)
 #### 方法一：模拟
 
 **思路与算法**

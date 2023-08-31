@@ -1,4 +1,4 @@
-## [2505.所有子序列和的按位或]
+## [2505.所有子序列和的按位或](https://leetcode.cn/problems/bitwise-or-of-all-subsequence-sums/)
 <p>给你一个整数数组 <code>nums</code> ，返回对数组中所有可能的 <strong>子序列</strong> 之和进行按位 <strong>或</strong> 运算后得到的值。</p>
 
 <p>数组的<strong> 子序列 </strong>是从数组中删除零个或多个元素且不改变剩余元素的顺序得到的序列。</p>

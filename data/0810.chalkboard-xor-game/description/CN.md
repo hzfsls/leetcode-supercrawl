@@ -1,4 +1,4 @@
-## [810.黑板异或游戏]
+## [810.黑板异或游戏](https://leetcode.cn/problems/chalkboard-xor-game/)
 <p>黑板上写着一个非负整数数组 <code>nums[i]</code> 。</p>
 
 <p>Alice 和 Bob 轮流从黑板上擦掉一个数字，Alice 先手。如果擦除一个数字后，剩余的所有数字按位异或运算得出的结果等于 <code>0</code> 的话，当前玩家游戏失败。&nbsp;另外，如果只剩一个数字，按位异或运算得到它本身；如果无数字剩余，按位异或运算结果为&nbsp;<code>0</code>。</p>

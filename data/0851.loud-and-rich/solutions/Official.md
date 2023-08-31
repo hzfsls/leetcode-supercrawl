@@ -1,3 +1,4 @@
+## [851.喧闹和富有 中文官方题解](https://leetcode.cn/problems/loud-and-rich/solutions/100000/xuan-nao-he-fu-you-by-leetcode-solution-jnzm)
 #### 方法一：深度优先搜索
 
 我们可以根据 $\textit{richer}$ 构建一张有向图：把人看成点，如果 $a_i$ 比 $b_i$ 更有钱，那么就从 $b_i$ 向 $a_i$ 连一条有向边。由于题目保证 $\textit{richer}$ 中所给出的数据逻辑自恰，我们得到的是一张有向无环图。

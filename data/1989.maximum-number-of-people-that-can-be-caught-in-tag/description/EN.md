@@ -1,4 +1,4 @@
-## [1989.Maximum Number of People That Can Be Caught in Tag]
+## [1989.Maximum Number of People That Can Be Caught in Tag](https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/)
 <p>You are playing a game of tag with your friends. In tag, people are divided into two teams: people who are &quot;it&quot;, and people who are not &quot;it&quot;. The people who are &quot;it&quot; want to catch as many people as possible who are not &quot;it&quot;.</p>
 
 <p>You are given a <strong>0-indexed</strong> integer array <code>team</code> containing only zeros (denoting people who are <strong>not</strong> &quot;it&quot;) and ones (denoting people who are &quot;it&quot;), and an integer <code>dist</code>. A person who is &quot;it&quot; at index <code>i</code> can catch any <strong>one</strong> person whose index is in the range <code>[i - dist, i + dist]</code> (<strong>inclusive</strong>) and is <strong>not</strong> &quot;it&quot;.</p>

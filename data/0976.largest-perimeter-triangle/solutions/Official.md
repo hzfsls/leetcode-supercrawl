@@ -1,3 +1,4 @@
+## [976.三角形的最大周长 中文官方题解](https://leetcode.cn/problems/largest-perimeter-triangle/solutions/100000/san-jiao-xing-de-zui-da-zhou-chang-by-leetcode-sol)
 #### 方法一：贪心 + 排序
 
 不失一般性，我们假设三角形的边长 $a,b,c$ 满足 $a \leq b \leq c$，那么这三条边组成面积不为零的三角形的充分必要条件为 $a+b>c$。

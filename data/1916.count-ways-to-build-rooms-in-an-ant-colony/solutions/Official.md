@@ -1,3 +1,4 @@
+## [1916.统计为蚁群构筑房间的不同顺序 中文官方题解](https://leetcode.cn/problems/count-ways-to-build-rooms-in-an-ant-colony/solutions/100000/tong-ji-wei-yi-qun-gou-zhu-fang-jian-de-uqhn7)
 #### 前言
 
 读者需要掌握如下进阶知识点才能解决本题：

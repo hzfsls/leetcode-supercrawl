@@ -1,3 +1,4 @@
+## [378.有序矩阵中第 K 小的元素 中文官方题解](https://leetcode.cn/problems/kth-smallest-element-in-a-sorted-matrix/solutions/100000/you-xu-ju-zhen-zhong-di-kxiao-de-yuan-su-by-leetco)
 #### 方法一：直接排序
 
 **思路及算法**

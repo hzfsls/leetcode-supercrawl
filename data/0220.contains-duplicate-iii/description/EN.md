@@ -1,4 +1,4 @@
-## [220.Contains Duplicate III]
+## [220.Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
 <p>You are given an integer array <code>nums</code> and two integers <code>indexDiff</code> and <code>valueDiff</code>.</p>
 
 <p>Find a pair of indices <code>(i, j)</code> such that:</p>

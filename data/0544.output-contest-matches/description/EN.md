@@ -1,4 +1,4 @@
-## [544.Output Contest Matches]
+## [544.Output Contest Matches](https://leetcode.com/problems/output-contest-matches/)
 <p>During the NBA playoffs, we always set the rather strong team to play with the rather weak team, like make the rank <code>1</code> team play with the rank <code>n<sup>th</sup></code> team, which is a good strategy to make the contest more interesting.</p>
 
 <p>Given <code>n</code> teams, return <em>their final contest matches in the form of a string</em>.</p>

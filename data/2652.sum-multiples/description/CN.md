@@ -1,4 +1,4 @@
-## [2652.倍数求和]
+## [2652.倍数求和](https://leetcode.cn/problems/sum-multiples/)
 <p>给你一个正整数 <code>n</code> ，请你计算在 <code>[1，n]</code> 范围内能被 <code>3</code>、<code>5</code>、<code>7</code> 整除的所有整数之和。</p>
 
 <p>返回一个整数，用于表示给定范围内所有满足约束条件的数字之和。</p>

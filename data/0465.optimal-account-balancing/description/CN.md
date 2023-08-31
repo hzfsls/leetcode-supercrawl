@@ -1,4 +1,4 @@
-## [465.最优账单平衡]
+## [465.最优账单平衡](https://leetcode.cn/problems/optimal-account-balancing/)
 <p>给你一个表示交易的数组 <code>transactions</code> ，其中 <code>transactions[i] = [from<sub>i</sub>, to<sub>i</sub>, amount<sub>i</sub>]</code> 表示 <code>ID = from<sub>i</sub></code> 的人给&nbsp;<code>ID = to<sub>i</sub></code> 的人共计 <code>amount<sub>i</sub> $</code> 。</p>
 
 <p>请你计算并返回还清所有债务的最小交易笔数。</p>

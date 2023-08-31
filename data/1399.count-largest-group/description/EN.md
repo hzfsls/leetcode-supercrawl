@@ -1,4 +1,4 @@
-## [1399.Count Largest Group]
+## [1399.Count Largest Group](https://leetcode.com/problems/count-largest-group/)
 <p>You are given an integer <code>n</code>.</p>
 
 <p>Each number from <code>1</code> to <code>n</code> is grouped according to the sum of its digits.</p>

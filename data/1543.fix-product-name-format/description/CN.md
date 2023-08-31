@@ -1,4 +1,4 @@
-## [1543.产品名称格式修复]
+## [1543.产品名称格式修复](https://leetcode.cn/problems/fix-product-name-format/)
 <p>表：<code>Sales</code></p>
 
 <pre>

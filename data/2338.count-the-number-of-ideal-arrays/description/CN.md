@@ -1,4 +1,4 @@
-## [2338.统计理想数组的数目]
+## [2338.统计理想数组的数目](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/)
 <p>给你两个整数 <code>n</code> 和 <code>maxValue</code> ，用于描述一个 <strong>理想数组</strong> 。</p>
 
 <p>对于下标从 <strong>0</strong> 开始、长度为 <code>n</code> 的整数数组 <code>arr</code> ，如果满足以下条件，则认为该数组是一个 <strong>理想数组</strong> ：</p>

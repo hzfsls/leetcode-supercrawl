@@ -1,4 +1,4 @@
-## [2261.K Divisible Elements Subarrays]
+## [2261.K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/)
 <p>Given an integer array <code>nums</code> and two integers <code>k</code> and <code>p</code>, return <em>the number of <strong>distinct subarrays</strong> which have <strong>at most</strong></em> <code>k</code> <em>elements divisible by</em> <code>p</code>.</p>
 
 <p>Two arrays <code>nums1</code> and <code>nums2</code> are said to be <strong>distinct</strong> if:</p>

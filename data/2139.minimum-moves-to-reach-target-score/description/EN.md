@@ -1,4 +1,4 @@
-## [2139.Minimum Moves to Reach Target Score]
+## [2139.Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)
 <p>You are playing a game with integers. You start with the integer <code>1</code> and you want to reach the integer <code>target</code>.</p>
 
 <p>In one move, you can either:</p>

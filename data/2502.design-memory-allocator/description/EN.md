@@ -1,4 +1,4 @@
-## [2502.Design Memory Allocator]
+## [2502.Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/)
 <p>You are given an integer <code>n</code> representing the size of a <strong>0-indexed</strong> memory array. All memory units are initially free.</p>
 
 <p>You have a memory allocator with the following functionalities:</p>

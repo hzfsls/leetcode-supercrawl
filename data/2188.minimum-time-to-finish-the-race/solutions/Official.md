@@ -1,3 +1,4 @@
+## [2188.完成比赛的最少时间 中文官方题解](https://leetcode.cn/problems/minimum-time-to-finish-the-race/solutions/100000/wan-cheng-bi-sai-de-zui-shao-shi-jian-by-durw)
 #### 方法一：统计每个字母出现的次数
 
 **思路与算法**

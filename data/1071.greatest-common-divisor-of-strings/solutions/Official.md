@@ -1,3 +1,4 @@
+## [1071.字符串的最大公因子 中文官方题解](https://leetcode.cn/problems/greatest-common-divisor-of-strings/solutions/100000/zi-fu-chuan-de-zui-da-gong-yin-zi-by-leetcode-solu)
 #### 预备知识
 
 - 约数，最大公约数

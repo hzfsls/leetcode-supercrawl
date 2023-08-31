@@ -1,4 +1,4 @@
-## [72.编辑距离]
+## [72.编辑距离](https://leetcode.cn/problems/edit-distance/)
 <p>给你两个单词&nbsp;<code>word1</code> 和&nbsp;<code>word2</code>， <em>请返回将&nbsp;<code>word1</code>&nbsp;转换成&nbsp;<code>word2</code> 所使用的最少操作数</em> &nbsp;。</p>
 
 <p>你可以对一个单词进行如下三种操作：</p>

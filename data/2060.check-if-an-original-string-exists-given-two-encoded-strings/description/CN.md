@@ -1,4 +1,4 @@
-## [2060.同源字符串检测]
+## [2060.同源字符串检测](https://leetcode.cn/problems/check-if-an-original-string-exists-given-two-encoded-strings/)
 <p>原字符串由小写字母组成，可以按下述步骤编码：</p>
 
 <ul>

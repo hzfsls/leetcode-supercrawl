@@ -1,4 +1,4 @@
-## [2665.Counter II]
+## [2665.Counter II](https://leetcode.com/problems/counter-ii/)
 <p>Write a function&nbsp;<code>createCounter</code>. It should accept an initial integer&nbsp;<code>init</code>. It should return an object with three functions.</p>
 
 <p>The three functions are:</p>

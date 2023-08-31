@@ -1,3 +1,4 @@
+## [1462.课程表 IV 中文官方题解](https://leetcode.cn/problems/course-schedule-iv/solutions/100000/ke-cheng-biao-iv-by-leetcode-solution-mpc3)
 #### 方法一：广度优先搜索 + 拓扑排序
 
 **思路与算法**

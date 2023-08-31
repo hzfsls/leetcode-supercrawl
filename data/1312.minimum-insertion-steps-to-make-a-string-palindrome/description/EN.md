@@ -1,4 +1,4 @@
-## [1312.Minimum Insertion Steps to Make a String Palindrome]
+## [1312.Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
 <p>Given a string <code>s</code>. In one step you can insert any character at any index of the string.</p>
 
 <p>Return <em>the minimum number of steps</em> to make <code>s</code>&nbsp;palindrome.</p>

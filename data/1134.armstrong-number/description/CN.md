@@ -1,4 +1,4 @@
-## [1134.阿姆斯特朗数]
+## [1134.阿姆斯特朗数](https://leetcode.cn/problems/armstrong-number/)
 <p>给你一个整数 <code>n</code>&nbsp;，让你来判定他是否是<strong>&nbsp;</strong><strong>阿姆斯特朗数</strong>，是则返回 <code>true</code>，不是则返回 <code>false</code>。</p>
 
 <p>假设存在一个 <code>k</code> 位数 <code>n</code>&nbsp;，其每一位上的数字的 <code>k</code> 次幂的总和也是 <code>n</code>&nbsp;，那么这个数是阿姆斯特朗数 。</p>

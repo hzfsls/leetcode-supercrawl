@@ -1,3 +1,4 @@
+## [1392.最长快乐前缀 中文官方题解](https://leetcode.cn/problems/longest-happy-prefix/solutions/100000/zui-chang-kuai-le-qian-zhui-by-leetcode-solution)
 #### 方法一：Rabin-Karp 字符串编码
 
 **背景知识**

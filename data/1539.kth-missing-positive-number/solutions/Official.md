@@ -1,3 +1,4 @@
+## [1539.第 k 个缺失的正整数 中文官方题解](https://leetcode.cn/problems/kth-missing-positive-number/solutions/100000/di-k-ge-que-shi-de-zheng-zheng-shu-by-leetcode-sol)
 #### 方法一：枚举
 
 **思路与算法**

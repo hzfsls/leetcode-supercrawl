@@ -1,4 +1,4 @@
-## [2103.Rings and Rods]
+## [2103.Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
 <p>There are <code>n</code> rings and each ring is either red, green, or blue. The rings are distributed <strong>across ten rods</strong> labeled from <code>0</code> to <code>9</code>.</p>
 
 <p>You are given a string <code>rings</code> of length <code>2n</code> that describes the <code>n</code> rings that are placed onto the rods. Every two characters in <code>rings</code> forms a <strong>color-position pair</strong> that is used to describe each ring where:</p>

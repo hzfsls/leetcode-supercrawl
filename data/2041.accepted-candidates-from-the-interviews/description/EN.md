@@ -1,4 +1,4 @@
-## [2041.Accepted Candidates From the Interviews]
+## [2041.Accepted Candidates From the Interviews](https://leetcode.com/problems/accepted-candidates-from-the-interviews/)
 <p>Table: <code>Candidates</code></p>
 
 <pre>

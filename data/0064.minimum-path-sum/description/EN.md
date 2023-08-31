@@ -1,4 +1,4 @@
-## [64.Minimum Path Sum]
+## [64.Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 <p>Given a <code>m x n</code> <code>grid</code> filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.</p>
 
 <p><strong>Note:</strong> You can only move either down or right at any point in time.</p>

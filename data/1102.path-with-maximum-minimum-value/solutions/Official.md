@@ -1,3 +1,4 @@
+## [1102.得分最高的路径 中文官方题解](https://leetcode.cn/problems/path-with-maximum-minimum-value/solutions/100000/de-fen-zui-gao-de-lu-jing-by-leetcode-so-9s5i)
 ## 解决方案 
 
 ---

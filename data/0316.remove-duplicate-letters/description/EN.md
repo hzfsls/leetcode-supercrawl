@@ -1,4 +1,4 @@
-## [316.Remove Duplicate Letters]
+## [316.Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 <p>Given a string <code>s</code>, remove duplicate letters so that every letter appears once and only once. You must make sure your result is <span data-keyword="lexicographically-smaller-string"><strong>the smallest in lexicographical order</strong></span> among all possible results.</p>
 
 <p>&nbsp;</p>

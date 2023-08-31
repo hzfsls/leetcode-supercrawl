@@ -1,3 +1,4 @@
+## [1829.每个查询的最大异或值 中文官方题解](https://leetcode.cn/problems/maximum-xor-for-each-query/solutions/100000/mei-ge-cha-xun-de-zui-da-yi-huo-zhi-by-l-haol)
 #### 方法一：位运算
 
 **提示 $1$**

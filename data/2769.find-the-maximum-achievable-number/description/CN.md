@@ -1,4 +1,4 @@
-## [2769.找出最大的可达成数字]
+## [2769.找出最大的可达成数字](https://leetcode.cn/problems/find-the-maximum-achievable-number/)
 <p>给你两个整数 <code>num</code> 和 <code>t</code> 。</p>
 
 <p>如果整数 <code>x</code> 可以在执行下述操作不超过 <code>t</code> 次的情况下变为与 <code>num</code> 相等，则称其为 <strong>可达成数字</strong> ：</p>

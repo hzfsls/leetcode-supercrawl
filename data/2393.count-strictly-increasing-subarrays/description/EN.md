@@ -1,4 +1,4 @@
-## [2393.Count Strictly Increasing Subarrays]
+## [2393.Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/)
 <p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>Return <em>the number of <strong>subarrays</strong> of </em><code>nums</code><em> that are in <strong>strictly increasing</strong> order.</em></p>

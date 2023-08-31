@@ -1,4 +1,4 @@
-## [2826.Sorting Three Groups]
+## [2826.Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code>.<br />
 <br />
 The numbers from <code>0</code> to <code>n - 1</code> are divided into three groups numbered from <code>1</code> to <code>3</code>, where number <code>i</code> belongs to group <code>nums[i]</code>. Notice that some groups may be <strong>empty</strong>.<br />

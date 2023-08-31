@@ -1,4 +1,4 @@
-## [2558.从数量最多的堆取走礼物]
+## [2558.从数量最多的堆取走礼物](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)
 <p>给你一个整数数组 <code>gifts</code> ，表示各堆礼物的数量。每一秒，你需要执行以下操作：</p>
 
 <ul>

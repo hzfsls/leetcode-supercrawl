@@ -1,3 +1,4 @@
+## [52.N 皇后 II 中文官方题解](https://leetcode.cn/problems/n-queens-ii/solutions/100000/nhuang-hou-ii-by-leetcode-solution)
 #### 前言
 
 这道题和「[51. N 皇后](https://leetcode-cn.com/problems/n-queens/)」非常相似，区别在于，第 $51$ 题需要得到所有可能的解，这道题只需要得到可能的解的数量。因此这道题可以使用第 $51$ 题的做法，只需要将得到所有可能的解改成得到可能的解的数量即可。

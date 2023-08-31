@@ -1,4 +1,4 @@
-## [1102.Path With Maximum Minimum Value]
+## [1102.Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)
 <p>Given an <code>m x n</code> integer matrix <code>grid</code>, return <em>the maximum <strong>score</strong> of a path starting at </em><code>(0, 0)</code><em> and ending at </em><code>(m - 1, n - 1)</code> moving in the 4 cardinal directions.</p>
 
 <p>The <strong>score</strong> of a path is the minimum value in that path.</p>

@@ -1,3 +1,4 @@
+## [2404.出现最频繁的偶数元素 中文官方题解](https://leetcode.cn/problems/most-frequent-even-element/solutions/100000/chu-xian-zui-pin-fan-de-ou-shu-yuan-su-b-cxeo)
 #### 方法一：哈希表计数
 
 遍历数组 $\textit{nums}$，并且使用哈希表 $\textit{count}$ 记录偶数元素的出现次数。使用 $\textit{res}$ 和 $\textit{ct}$ 分别记录当前出现次数最多的元素值以及对应的出现次数。遍历哈希表中的元素，如果元素的出现次数大于 $\textit{ct}$ 或者出现次数等于 $\textit{ct}$ 且元素值小于 $\textit{res}$，那么用 $\textit{res}$ 记录当前遍历的元素值，并且用 $\textit{ct}$ 记录当前遍历的元素的出现次数。

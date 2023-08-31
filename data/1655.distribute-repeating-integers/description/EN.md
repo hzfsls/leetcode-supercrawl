@@ -1,4 +1,4 @@
-## [1655.Distribute Repeating Integers]
+## [1655.Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
 <p>You are given an array of <code>n</code> integers, <code>nums</code>, where there are at most <code>50</code> unique values in the array. You are also given an array of <code>m</code> customer order quantities, <code>quantity</code>, where <code>quantity[i]</code> is the amount of integers the <code>i<sup>th</sup></code> customer ordered. Determine if it is possible to distribute <code>nums</code> such that:</p>
 
 <ul>

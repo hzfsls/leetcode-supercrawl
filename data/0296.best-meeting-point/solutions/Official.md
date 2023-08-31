@@ -1,3 +1,4 @@
+## [296.最佳的碰头地点 中文官方题解](https://leetcode.cn/problems/best-meeting-point/solutions/100000/zui-jia-de-peng-tou-di-dian-by-leetcode-folxq)
 [TOC]
 
  ## 解决方案

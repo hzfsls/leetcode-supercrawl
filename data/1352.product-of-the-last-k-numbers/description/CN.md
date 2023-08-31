@@ -1,4 +1,4 @@
-## [1352.最后 K 个数的乘积]
+## [1352.最后 K 个数的乘积](https://leetcode.cn/problems/product-of-the-last-k-numbers/)
 <p>请你实现一个「数字乘积类」<code>ProductOfNumbers</code>，要求支持下述两种方法：</p>
 
 <p>1.<code>&nbsp;add(int num)</code></p>

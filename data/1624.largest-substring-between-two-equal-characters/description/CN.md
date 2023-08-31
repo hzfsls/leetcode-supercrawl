@@ -1,4 +1,4 @@
-## [1624.两个相同字符之间的最长子字符串]
+## [1624.两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)
 <p>给你一个字符串 <code>s</code>，请你返回 <strong>两个相同字符之间的最长子字符串的长度</strong> <em>，</em>计算长度时不含这两个字符。如果不存在这样的子字符串，返回 <code>-1</code> 。</p>
 
 <p><strong>子字符串</strong> 是字符串中的一个连续字符序列。</p>

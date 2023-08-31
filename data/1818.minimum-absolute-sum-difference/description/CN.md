@@ -1,4 +1,4 @@
-## [1818.绝对差值和]
+## [1818.绝对差值和](https://leetcode.cn/problems/minimum-absolute-sum-difference/)
 <p>给你两个正整数数组 <code>nums1</code> 和 <code>nums2</code> ，数组的长度都是 <code>n</code> 。</p>
 
 <p>数组 <code>nums1</code> 和 <code>nums2</code> 的 <strong>绝对差值和</strong> 定义为所有 <code>|nums1[i] - nums2[i]|</code>（<code>0 <= i < n</code>）的 <strong>总和</strong>（<strong>下标从 0 开始</strong>）。</p>

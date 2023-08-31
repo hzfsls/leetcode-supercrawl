@@ -1,4 +1,4 @@
-## [2668.查询员工当前薪水]
+## [2668.查询员工当前薪水](https://leetcode.cn/problems/find-latest-salaries/)
 <p>表：<code><font face="monospace">Salary</font></code></p>
 
 <pre>

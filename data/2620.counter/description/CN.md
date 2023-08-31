@@ -1,4 +1,4 @@
-## [2620.计数器]
+## [2620.计数器](https://leetcode.cn/problems/counter/)
 <p>请你编写并返回一个&nbsp;<strong>计数器&nbsp;</strong>函数，它接收一个整型参数 n 。这个&nbsp;<strong>计数器&nbsp;</strong>函数最初返回 n，每次调用它时返回前一个值加 1 的值 ( <code>n</code> ,&nbsp; <code>n + 1</code> ,&nbsp; <code>n + 2</code> ，等等)。</p>
 
 <p>&nbsp;</p>

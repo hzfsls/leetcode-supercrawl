@@ -1,4 +1,4 @@
-## [2564.子字符串异或查询]
+## [2564.子字符串异或查询](https://leetcode.cn/problems/substring-xor-queries/)
 <p>给你一个 <strong>二进制字符串</strong>&nbsp;<code>s</code>&nbsp;和一个整数数组&nbsp;<code>queries</code>&nbsp;，其中&nbsp;<code>queries[i] = [first<sub>i</sub>, second<sub>i</sub>]</code>&nbsp;。</p>
 
 <p>对于第&nbsp;<code>i</code>&nbsp;个查询，找到 <code>s</code>&nbsp;的 <strong>最短子字符串</strong>&nbsp;，它对应的 <strong>十进制</strong>值&nbsp;<code>val</code>&nbsp;与&nbsp;<code>first<sub>i</sub></code>&nbsp;<b>按位异或</b>&nbsp;得到&nbsp;<code>second<sub>i</sub></code>&nbsp;，换言之，<code>val ^ first<sub>i</sub> == second<sub>i</sub></code>&nbsp;。</p>

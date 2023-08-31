@@ -1,3 +1,4 @@
+## [1175.质数排列 中文官方题解](https://leetcode.cn/problems/prime-arrangements/solutions/100000/zhi-shu-pai-lie-by-leetcode-solution-i6g1)
 #### 方法一：质数判断 + 组合数学
 
 **思路**

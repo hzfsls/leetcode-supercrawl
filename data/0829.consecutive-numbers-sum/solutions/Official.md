@@ -1,3 +1,4 @@
+## [829.连续整数求和 中文官方题解](https://leetcode.cn/problems/consecutive-numbers-sum/solutions/100000/lian-xu-zheng-shu-qiu-he-by-leetcode-sol-33hc)
 #### 方法一：数学
 
 如果正整数 $n$ 可以表示成 $k$ 个连续正整数之和，则由于 $k$ 个连续正整数之和的最小值是 $\sum_{i = 1}^k i = \dfrac{k(k + 1)}{2}$，因此有 $n \ge \dfrac{k(k + 1)}{2}$，即 $k(k + 1) \le 2n$。枚举每个符合 $k(k + 1) \le 2n$ 的正整数 $k$，判断正整数 $n$ 是否可以表示成 $k$ 个连续正整数之和。

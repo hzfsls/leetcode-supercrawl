@@ -1,4 +1,4 @@
-## [2614.对角线上的质数]
+## [2614.对角线上的质数](https://leetcode.cn/problems/prime-in-diagonal/)
 <p>给你一个下标从 <strong>0</strong> 开始的二维整数数组 <code>nums</code> 。</p>
 
 <p>返回位于 <code>nums</code> 至少一条 <strong>对角线</strong> 上的最大 <strong>质数</strong> 。如果任一对角线上均不存在质数，返回<em> 0 。</em></p>

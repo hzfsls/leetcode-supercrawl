@@ -1,3 +1,4 @@
+## [2271.毯子覆盖的最多白色砖块数 中文官方题解](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/solutions/100000/tan-zi-fu-gai-de-zui-duo-bai-se-zhuan-ku-odli)
 #### 方法一：双指针
 
 **提示 $1$**

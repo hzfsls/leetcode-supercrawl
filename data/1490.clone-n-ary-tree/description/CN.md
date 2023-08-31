@@ -1,4 +1,4 @@
-## [1490.克隆 N 叉树]
+## [1490.克隆 N 叉树](https://leetcode.cn/problems/clone-n-ary-tree/)
 <p>给定一棵 N 叉树的根节点&nbsp;<code>root</code>&nbsp;，返回该树的<a href="https://baike.baidu.com/item/深拷贝/22785317?fr=aladdin"><strong>深拷贝</strong></a>（克隆）。</p>
 
 <p>N 叉树的每个节点都包含一个值（ <code>int</code>&nbsp;）和子节点的列表（ <code>List[Node]</code>&nbsp;）。</p>

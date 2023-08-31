@@ -1,4 +1,4 @@
-## [1112.每位学生的最高成绩]
+## [1112.每位学生的最高成绩](https://leetcode.cn/problems/highest-grade-for-each-student/)
 <p>表：<code>Enrollments</code></p>
 
 <pre>

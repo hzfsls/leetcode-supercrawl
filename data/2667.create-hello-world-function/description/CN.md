@@ -1,4 +1,4 @@
-## [2667.创建 Hello World 函数]
+## [2667.创建 Hello World 函数](https://leetcode.cn/problems/create-hello-world-function/)
 请你编写一个名为 <code>createHelloWorld</code> 的函数。它应该返回一个新的函数，该函数总是返回 <code>"Hello World"</code>&nbsp;。
 <p>&nbsp;</p>
 

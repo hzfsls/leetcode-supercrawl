@@ -1,4 +1,4 @@
-## [1393.Capital Gain/Loss]
+## [1393.Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)
 <p>Table: <code>Stocks</code></p>
 
 <pre>

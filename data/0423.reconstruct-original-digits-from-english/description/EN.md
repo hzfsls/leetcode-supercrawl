@@ -1,4 +1,4 @@
-## [423.Reconstruct Original Digits from English]
+## [423.Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
 <p>Given a string <code>s</code> containing an out-of-order English representation of digits <code>0-9</code>, return <em>the digits in <strong>ascending</strong> order</em>.</p>
 
 <p>&nbsp;</p>

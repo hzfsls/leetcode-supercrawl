@@ -1,4 +1,4 @@
-## [1771.Maximize Palindrome Length From Subsequences]
+## [1771.Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)
 <p>You are given two strings, <code>word1</code> and <code>word2</code>. You want to construct a string in the following manner:</p>
 
 <ul>

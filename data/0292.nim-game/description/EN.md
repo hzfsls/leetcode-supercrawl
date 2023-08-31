@@ -1,4 +1,4 @@
-## [292.Nim Game]
+## [292.Nim Game](https://leetcode.com/problems/nim-game/)
 <p>You are playing the following Nim Game with your friend:</p>
 
 <ul>

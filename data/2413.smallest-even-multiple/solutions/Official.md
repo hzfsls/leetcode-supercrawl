@@ -1,3 +1,4 @@
+## [2413.最小偶倍数 中文官方题解](https://leetcode.cn/problems/smallest-even-multiple/solutions/100000/zui-xiao-ou-bei-shu-by-leetcode-solution-vy2o)
 #### 方法一：数学
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1201.Ugly Number III]
+## [1201.Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
 <p>An <strong>ugly number</strong> is a positive integer that is divisible by <code>a</code>, <code>b</code>, or <code>c</code>.</p>
 
 <p>Given four integers <code>n</code>, <code>a</code>, <code>b</code>, and <code>c</code>, return the <code>n<sup>th</sup></code> <strong>ugly number</strong>.</p>

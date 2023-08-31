@@ -1,4 +1,4 @@
-## [2565.最少得分子序列]
+## [2565.最少得分子序列](https://leetcode.cn/problems/subsequence-with-the-minimum-score/)
 <p>给你两个字符串&nbsp;<code>s</code> 和&nbsp;<code>t</code>&nbsp;。</p>
 
 <p>你可以从字符串 <code>t</code>&nbsp;中删除任意数目的字符。</p>

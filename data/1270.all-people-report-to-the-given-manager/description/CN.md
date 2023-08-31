@@ -1,4 +1,4 @@
-## [1270.向公司CEO汇报工作的所有人]
+## [1270.向公司CEO汇报工作的所有人](https://leetcode.cn/problems/all-people-report-to-the-given-manager/)
 <p>员工表：<code>Employees</code></p>
 
 <pre>

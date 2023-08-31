@@ -1,4 +1,4 @@
-## [980.Unique Paths III]
+## [980.Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 <p>You are given an <code>m x n</code> integer array <code>grid</code> where <code>grid[i][j]</code> could be:</p>
 
 <ul>

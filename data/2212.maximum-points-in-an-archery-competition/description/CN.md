@@ -1,4 +1,4 @@
-## [2212.射箭比赛中的最大得分]
+## [2212.射箭比赛中的最大得分](https://leetcode.cn/problems/maximum-points-in-an-archery-competition/)
 <p>Alice 和 Bob 是一场射箭比赛中的对手。比赛规则如下：</p>
 
 <ol>

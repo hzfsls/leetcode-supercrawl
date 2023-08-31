@@ -1,4 +1,4 @@
-## [1062.最长重复子串]
+## [1062.最长重复子串](https://leetcode.cn/problems/longest-repeating-substring/)
 <p>给定字符串&nbsp;<code>S</code>，找出最长重复子串的长度。如果不存在重复子串就返回 <code>0</code>。</p>
 
 <p>&nbsp;</p>

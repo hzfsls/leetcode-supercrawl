@@ -1,3 +1,4 @@
+## [560.和为 K 的子数组 中文官方题解](https://leetcode.cn/problems/subarray-sum-equals-k/solutions/100000/he-wei-kde-zi-shu-zu-by-leetcode-solution)
 ### 📺 视频题解  
 ![560. 和为k的子数组.mp4](5d46858e-95e4-432c-ba49-38b1b69baaf9)
 

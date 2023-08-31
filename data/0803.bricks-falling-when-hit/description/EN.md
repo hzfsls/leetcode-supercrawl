@@ -1,4 +1,4 @@
-## [803.Bricks Falling When Hit]
+## [803.Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
 <p>You are given an <code>m x n</code> binary <code>grid</code>, where each <code>1</code> represents a brick and <code>0</code> represents an empty space. A brick is <strong>stable</strong> if:</p>
 
 <ul>

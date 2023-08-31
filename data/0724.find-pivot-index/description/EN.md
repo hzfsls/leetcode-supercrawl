@@ -1,4 +1,4 @@
-## [724.Find Pivot Index]
+## [724.Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 <p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>
 
 <p>The <strong>pivot index</strong> is the index where the sum of all the numbers <strong>strictly</strong> to the left of the index is equal to the sum of all the numbers <strong>strictly</strong> to the index&#39;s right.</p>

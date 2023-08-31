@@ -1,4 +1,4 @@
-## [642.设计搜索自动补全系统]
+## [642.设计搜索自动补全系统](https://leetcode.cn/problems/design-search-autocomplete-system/)
 <p>为搜索引擎设计一个搜索自动补全系统。用户会输入一条语句（最少包含一个字母，以特殊字符 <code>'#'</code> 结尾）。</p>
 
 <p>给定一个字符串数组&nbsp;<code>sentences</code>&nbsp;和一个整数数组&nbsp;<code>times</code>&nbsp;，长度都为&nbsp;<code>n</code>&nbsp;，其中&nbsp;<code>sentences[i]</code>&nbsp;是之前输入的句子，&nbsp;<code>times[i]</code>&nbsp;是该句子输入的相应次数。对于除 <code>‘#’</code>&nbsp;以外的每个输入字符，返回前 <code>3</code> 个历史热门句子，这些句子的前缀与已经输入的句子的部分相同。</p>

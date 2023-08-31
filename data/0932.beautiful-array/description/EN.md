@@ -1,4 +1,4 @@
-## [932.Beautiful Array]
+## [932.Beautiful Array](https://leetcode.com/problems/beautiful-array/)
 <p>An array <code>nums</code> of length <code>n</code> is <strong>beautiful</strong> if:</p>
 
 <ul>

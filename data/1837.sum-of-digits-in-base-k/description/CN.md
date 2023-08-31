@@ -1,4 +1,4 @@
-## [1837.K 进制表示下的各位数字总和]
+## [1837.K 进制表示下的各位数字总和](https://leetcode.cn/problems/sum-of-digits-in-base-k/)
 <p>给你一个整数 <code>n</code>（<code>10</code> 进制）和一个基数 <code>k</code> ，请你将 <code>n</code> 从 <code>10</code> 进制表示转换为 <code>k</code> 进制表示，计算并返回转换后各位数字的 <strong>总和</strong> 。</p>
 
 <p>转换后，各位数字应当视作是 <code>10</code> 进制数字，且它们的总和也应当按 <code>10</code> 进制表示返回。</p>

@@ -1,4 +1,4 @@
-## [1409.查询带键的排列]
+## [1409.查询带键的排列](https://leetcode.cn/problems/queries-on-a-permutation-with-key/)
 <p>给你一个待查数组 <code>queries</code> ，数组中的元素为 <code>1</code> 到 <code>m</code> 之间的正整数。 请你根据以下规则处理所有待查项 <code>queries[i]</code>（从 <code>i=0</code> 到 <code>i=queries.length-1</code>）：</p>
 
 <ul>

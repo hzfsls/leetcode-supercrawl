@@ -1,4 +1,4 @@
-## [673.最长递增子序列的个数]
+## [673.最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/)
 <p>给定一个未排序的整数数组<meta charset="UTF-8" />&nbsp;<code>nums</code>&nbsp;，&nbsp;<em>返回最长递增子序列的个数</em>&nbsp;。</p>
 
 <p><strong>注意</strong>&nbsp;这个数列必须是 <strong>严格</strong> 递增的。</p>

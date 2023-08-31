@@ -1,4 +1,4 @@
-## [146.LRU 缓存]
+## [146.LRU 缓存](https://leetcode.cn/problems/lru-cache/)
 <div class="title__3Vvk">请你设计并实现一个满足&nbsp; <a href="https://baike.baidu.com/item/LRU" target="_blank">LRU (最近最少使用) 缓存</a> 约束的数据结构。</div>
 
 <div class="title__3Vvk">实现 <code>LRUCache</code> 类：</div>

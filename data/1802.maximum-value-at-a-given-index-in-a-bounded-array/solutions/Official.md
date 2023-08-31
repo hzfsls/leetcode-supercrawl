@@ -1,3 +1,4 @@
+## [1802.有界数组中指定下标处的最大值 中文官方题解](https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array/solutions/100000/you-jie-shu-zu-zhong-zhi-ding-xia-biao-c-aav4)
 #### 方法一：贪心 + 二分查找
 
 **思路**

@@ -1,4 +1,4 @@
-## [1220.统计元音字母序列的数目]
+## [1220.统计元音字母序列的数目](https://leetcode.cn/problems/count-vowels-permutation/)
 <p>给你一个整数&nbsp;<code>n</code>，请你帮忙统计一下我们可以按下述规则形成多少个长度为&nbsp;<code>n</code>&nbsp;的字符串：</p>
 
 <ul>

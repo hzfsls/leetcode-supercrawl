@@ -1,4 +1,4 @@
-## [1783.Grand Slam Titles]
+## [1783.Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/)
 <p>Table: <code>Players</code></p>
 
 <pre>

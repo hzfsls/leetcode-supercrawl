@@ -1,4 +1,4 @@
-## [538.把二叉搜索树转换为累加树]
+## [538.把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/)
 <p>给出二叉<strong> 搜索 </strong>树的根节点，该树的节点值各不相同，请你将其转换为累加树（Greater Sum Tree），使每个节点 <code>node</code>&nbsp;的新值等于原树中大于或等于&nbsp;<code>node.val</code>&nbsp;的值之和。</p>
 
 <p>提醒一下，二叉搜索树满足下列约束条件：</p>

@@ -1,3 +1,4 @@
+## [1423.可获得的最大点数 中文官方题解](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/solutions/100000/ke-huo-de-de-zui-da-dian-shu-by-leetcode-7je9)
 #### 方法一：滑动窗口
 
 **思路**

@@ -1,4 +1,4 @@
-## [180.连续出现的数字]
+## [180.连续出现的数字](https://leetcode.cn/problems/consecutive-numbers/)
 <p>表：<code>Logs</code></p>
 
 <pre>

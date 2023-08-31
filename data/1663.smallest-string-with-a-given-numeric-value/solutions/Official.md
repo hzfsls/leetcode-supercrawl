@@ -1,3 +1,4 @@
+## [1663.具有给定数值的最小字符串 中文官方题解](https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value/solutions/100000/ju-you-gei-ding-shu-zhi-de-zui-xiao-zi-f-e0e4)
 #### 方法一：贪心
 
 **思路与算法**

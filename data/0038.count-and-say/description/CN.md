@@ -1,4 +1,4 @@
-## [38.外观数列]
+## [38.外观数列](https://leetcode.cn/problems/count-and-say/)
 <p>给定一个正整数 <code>n</code> ，输出外观数列的第 <code>n</code> 项。</p>
 
 <p>「外观数列」是一个整数序列，从数字 1 开始，序列中的每一项都是对前一项的描述。</p>

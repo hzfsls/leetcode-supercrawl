@@ -1,3 +1,4 @@
+## [2141.同时运行 N 台电脑的最长时间 中文官方题解](https://leetcode.cn/problems/maximum-running-time-of-n-computers/solutions/100000/tong-shi-yun-xing-n-tai-dian-nao-de-zui-ozvvu)
 #### 方法一：二分查找
 
 **思路与算法**

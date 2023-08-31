@@ -1,3 +1,4 @@
+## [1109.航班预订统计 中文官方题解](https://leetcode.cn/problems/corporate-flight-bookings/solutions/100000/hang-ban-yu-ding-tong-ji-by-leetcode-sol-5pv8)
 #### 方法一：差分
 
 注意到一个预订记录实际上代表了一个区间的增量。我们的任务是将这些增量叠加得到答案。因此，我们可以使用差分解决本题。

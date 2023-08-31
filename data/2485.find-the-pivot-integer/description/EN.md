@@ -1,4 +1,4 @@
-## [2485.Find the Pivot Integer]
+## [2485.Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)
 <p>Given a positive integer <code>n</code>, find the <strong>pivot integer</strong> <code>x</code> such that:</p>
 
 <ul>

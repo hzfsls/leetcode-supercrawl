@@ -1,4 +1,4 @@
-## [2354.优质数对的数目]
+## [2354.优质数对的数目](https://leetcode.cn/problems/number-of-excellent-pairs/)
 <p>给你一个下标从 <strong>0</strong> 开始的正整数数组 <code>nums</code> 和一个正整数 <code>k</code> 。</p>
 
 <p>如果满足下述条件，则数对 <code>(num1, num2)</code> 是 <strong>优质数对</strong> ：</p>

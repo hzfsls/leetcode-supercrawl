@@ -1,4 +1,4 @@
-## [2072.赢得比赛的大学]
+## [2072.赢得比赛的大学](https://leetcode.cn/problems/the-winner-university/)
 <p>表： <code>NewYork</code></p>
 
 <pre>

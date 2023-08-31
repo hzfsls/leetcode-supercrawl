@@ -1,4 +1,4 @@
-## [494.目标和]
+## [494.目标和](https://leetcode.cn/problems/target-sum/)
 <p>给你一个非负整数数组 <code>nums</code> 和一个整数 <code>target</code> 。</p>
 
 <p>向数组中的每个整数前添加&nbsp;<code>'+'</code> 或 <code>'-'</code> ，然后串联起所有整数，可以构造一个 <strong>表达式</strong> ：</p>

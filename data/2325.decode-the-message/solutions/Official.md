@@ -1,3 +1,4 @@
+## [2325.解密消息 中文官方题解](https://leetcode.cn/problems/decode-the-message/solutions/100000/jie-mi-xiao-xi-by-leetcode-solution-wckx)
 #### 方法一：模拟
 
 **思路与算法**

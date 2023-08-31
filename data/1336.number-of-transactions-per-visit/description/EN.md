@@ -1,4 +1,4 @@
-## [1336.Number of Transactions per Visit]
+## [1336.Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/)
 <p>Table: <code>Visits</code></p>
 
 <pre>

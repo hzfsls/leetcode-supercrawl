@@ -1,4 +1,4 @@
-## [2640.一个数组所有前缀的分数]
+## [2640.一个数组所有前缀的分数](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array/)
 <p>定义一个数组 <code>arr</code>&nbsp;的 <strong>转换数组</strong>&nbsp;<code>conver</code>&nbsp;为：</p>
 
 <ul>

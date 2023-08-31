@@ -1,3 +1,4 @@
+## [330.按要求补齐数组 中文官方题解](https://leetcode.cn/problems/patching-array/solutions/100000/an-yao-qiu-bu-qi-shu-zu-by-leetcode-solu-klp1)
 #### 方法一：贪心
 
 对于正整数 $x$，如果区间 $[1,x-1]$ 内的所有数字都已经被覆盖，且 $x$ 在数组中，则区间 $[1,2x-1]$ 内的所有数字也都被覆盖。证明如下。

@@ -1,3 +1,4 @@
+## [529.扫雷游戏 中文官方题解](https://leetcode.cn/problems/minesweeper/solutions/100000/sao-lei-you-xi-by-leetcode-solution)
 #### 方法一：深度优先搜索 + 模拟
 
 **思路与算法**

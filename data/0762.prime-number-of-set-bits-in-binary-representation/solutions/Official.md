@@ -1,3 +1,4 @@
+## [762.二进制表示中质数个计算置位 中文官方题解](https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/solutions/100000/er-jin-zhi-biao-shi-zhong-zhi-shu-ge-ji-jy35g)
 #### 方法一：数学 + 位运算
 
 我们可以枚举 $[\textit{left},\textit{right}]$ 范围内的每个整数，挨个判断是否满足题目要求。

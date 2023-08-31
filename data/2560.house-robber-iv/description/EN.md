@@ -1,4 +1,4 @@
-## [2560.House Robber IV]
+## [2560.House Robber IV](https://leetcode.com/problems/house-robber-iv/)
 <p>There are several consecutive houses along a street, each of which has some money inside. There is also a robber, who wants to steal money from the homes, but he <strong>refuses to steal from adjacent homes</strong>.</p>
 
 <p>The <strong>capability</strong> of the robber is the maximum amount of money he steals from one house of all the houses he robbed.</p>

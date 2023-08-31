@@ -1,4 +1,4 @@
-## [1338.Reduce Array Size to The Half]
+## [1338.Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 <p>You are given an integer array <code>arr</code>. You can choose a set of integers and remove all the occurrences of these integers in the array.</p>
 
 <p>Return <em>the minimum size of the set so that <strong>at least</strong> half of the integers of the array are removed</em>.</p>

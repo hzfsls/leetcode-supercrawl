@@ -1,4 +1,4 @@
-## [89.Gray Code]
+## [89.Gray Code](https://leetcode.com/problems/gray-code/)
 <p>An <strong>n-bit gray code sequence</strong> is a sequence of <code>2<sup>n</sup></code> integers where:</p>
 
 <ul>

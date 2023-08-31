@@ -1,3 +1,4 @@
+## [1318.或运算的最小翻转次数 中文官方题解](https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/solutions/100000/huo-yun-suan-de-zui-xiao-fan-zhuan-ci-shu-by-lee-2)
 #### 预备知识
 
 本题需要用到一些位运算的知识：

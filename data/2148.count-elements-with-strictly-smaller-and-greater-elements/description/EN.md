@@ -1,4 +1,4 @@
-## [2148.Count Elements With Strictly Smaller and Greater Elements ]
+## [2148.Count Elements With Strictly Smaller and Greater Elements ](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)
 <p>Given an integer array <code>nums</code>, return <em>the number of elements that have <strong>both</strong> a strictly smaller and a strictly greater element appear in </em><code>nums</code>.</p>
 
 <p>&nbsp;</p>

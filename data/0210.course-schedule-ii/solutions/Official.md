@@ -1,3 +1,4 @@
+## [210.课程表 II 中文官方题解](https://leetcode.cn/problems/course-schedule-ii/solutions/100000/ke-cheng-biao-ii-by-leetcode-solution)
 ### 📺 视频题解  
 ![210. 课程表 II的.mp4](def715df-7ba6-462e-b957-ebaf4120b1ce)
 

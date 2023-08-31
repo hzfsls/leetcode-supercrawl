@@ -1,4 +1,4 @@
-## [2553.分割数组中数字的数位]
+## [2553.分割数组中数字的数位](https://leetcode.cn/problems/separate-the-digits-in-an-array/)
 <p>给你一个正整数数组&nbsp;<code>nums</code>&nbsp;，请你返回一个数组<em>&nbsp;</em><code>answer</code> ，你需要将&nbsp;<code>nums</code>&nbsp;中每个整数进行数位分割后，按照&nbsp;<code>nums</code>&nbsp;中出现的&nbsp;<strong>相同顺序</strong>&nbsp;放入答案数组中。</p>
 
 <p>对一个整数进行数位分割，指的是将整数各个数位按原本出现的顺序排列成数组。</p>

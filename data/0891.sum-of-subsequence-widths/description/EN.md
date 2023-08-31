@@ -1,4 +1,4 @@
-## [891.Sum of Subsequence Widths]
+## [891.Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
 <p>The <strong>width</strong> of a sequence is the difference between the maximum and minimum elements in the sequence.</p>
 
 <p>Given an array of integers <code>nums</code>, return <em>the sum of the <strong>widths</strong> of all the non-empty <strong>subsequences</strong> of </em><code>nums</code>. Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>

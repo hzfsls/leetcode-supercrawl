@@ -1,4 +1,4 @@
-## [614.Second Degree Follower]
+## [614.Second Degree Follower](https://leetcode.com/problems/second-degree-follower/)
 <p>Table: <code>Follow</code></p>
 
 <pre>

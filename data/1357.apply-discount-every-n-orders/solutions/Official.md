@@ -1,3 +1,4 @@
+## [1357.每隔 n 个顾客打折 中文官方题解](https://leetcode.cn/problems/apply-discount-every-n-orders/solutions/100000/mei-ge-n-ge-gu-ke-da-zhe-by-leetcode-solution)
 #### 方法一：模拟
 
 我们将所有的物品以及它们的价格存放进哈希映射（HashMap）中。对于哈希映射中的每个键值对，键表示物品的编号，值表示物品的价格，这样我们就可以方便快速地统计每一位顾客的消费金额了。

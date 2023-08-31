@@ -1,4 +1,4 @@
-## [2128.Remove All Ones With Row and Column Flips]
+## [2128.Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/)
 <p>You are given an <code>m x n</code> binary matrix <code>grid</code>.</p>
 
 <p>In one operation, you can choose <strong>any</strong> row or column and flip each value in that row or column (i.e., changing all <code>0</code>&#39;s to <code>1</code>&#39;s, and all <code>1</code>&#39;s to <code>0</code>&#39;s).</p>

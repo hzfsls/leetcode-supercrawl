@@ -1,4 +1,4 @@
-## [880.索引处的解码字符串]
+## [880.索引处的解码字符串](https://leetcode.cn/problems/decoded-string-at-index/)
 <p>给定一个编码字符串 <code>S</code>。请你找出<em> </em><strong>解码字符串</strong> 并将其写入磁带。解码时，从编码字符串中<strong> 每次读取一个字符 </strong>，并采取以下步骤：</p>
 
 <ul>

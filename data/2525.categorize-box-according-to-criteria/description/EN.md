@@ -1,4 +1,4 @@
-## [2525.Categorize Box According to Criteria]
+## [2525.Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)
 <p>Given four integers <code>length</code>, <code>width</code>, <code>height</code>, and <code>mass</code>, representing the dimensions and mass of a box, respectively, return <em>a string representing the <strong>category</strong> of the box</em>.</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [974.和可被 K 整除的子数组 中文官方题解](https://leetcode.cn/problems/subarray-sums-divisible-by-k/solutions/100000/he-ke-bei-k-zheng-chu-de-zi-shu-zu-by-leetcode-sol)
 ### 📺 视频题解  
 ![...74. 和可被 K 整除的子数组.mp4](d64ddf7b-c646-4a0a-955f-b3d2b9cc236c)
 

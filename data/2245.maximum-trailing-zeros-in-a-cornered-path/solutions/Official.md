@@ -1,3 +1,4 @@
+## [2245.转角路径的乘积中最多能有几个尾随零 中文官方题解](https://leetcode.cn/problems/maximum-trailing-zeros-in-a-cornered-path/solutions/100000/zhuan-jiao-lu-jing-de-cheng-ji-zhong-zui-ibdk)
 #### 方法一：维护各个方向的前缀和
 
 **提示 $1$**

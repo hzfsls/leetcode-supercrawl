@@ -1,4 +1,4 @@
-## [1986.Minimum Number of Work Sessions to Finish the Tasks]
+## [1986.Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/)
 <p>There are <code>n</code> tasks assigned to you. The task times are represented as an integer array <code>tasks</code> of length <code>n</code>, where the <code>i<sup>th</sup></code> task takes <code>tasks[i]</code> hours to finish. A <strong>work session</strong> is when you work for <strong>at most</strong> <code>sessionTime</code> consecutive hours and then take a break.</p>
 
 <p>You should finish the given tasks in a way that satisfies the following conditions:</p>

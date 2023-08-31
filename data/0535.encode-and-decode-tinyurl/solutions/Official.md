@@ -1,3 +1,4 @@
+## [535.TinyURL 的加密与解密 中文官方题解](https://leetcode.cn/problems/encode-and-decode-tinyurl/solutions/100000/tinyurl-de-jia-mi-yu-jie-mi-by-leetcode-ty5yp)
 #### 前言
 
 题目不要求相同的 $\text{URL}$ 必须加密成同一个 $\text{TinyURL}$，因此本文的方法不满足相同的 $\text{URL}$ 加密成同一个 $\text{TinyURL}$。如果想要实现相同的 $\text{URL}$ 加密成同一个 $\text{TinyURL}$，则额外保存一个从 $\text{URL}$ 到 $\text{TinyURL}$ 的映射。

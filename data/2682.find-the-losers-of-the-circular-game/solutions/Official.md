@@ -1,3 +1,4 @@
+## [2682.找出转圈游戏输家 中文官方题解](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/solutions/100000/zhao-chu-zhuan-quan-you-xi-shu-jia-by-le-rfiq)
 #### 方法一：直接模拟
 
 **思路与算法**

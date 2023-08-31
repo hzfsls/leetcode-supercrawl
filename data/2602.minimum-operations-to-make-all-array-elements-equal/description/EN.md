@@ -1,4 +1,4 @@
-## [2602.Minimum Operations to Make All Array Elements Equal]
+## [2602.Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)
 <p>You are given an array <code>nums</code> consisting of positive integers.</p>
 
 <p>You are also given an integer array <code>queries</code> of size <code>m</code>. For the <code>i<sup>th</sup></code> query, you want to make all of the elements of <code>nums</code> equal to<code> queries[i]</code>. You can perform the following operation on the array <strong>any</strong> number of times:</p>

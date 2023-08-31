@@ -1,3 +1,4 @@
+## [983.最低票价 中文官方题解](https://leetcode.cn/problems/minimum-cost-for-tickets/solutions/100000/zui-di-piao-jie-by-leetcode-solution)
 ### 📺 视频题解 
 ![983. 最低票价.mp4](571c1009-3b14-47e2-b768-c04f2aa99f2d)
 

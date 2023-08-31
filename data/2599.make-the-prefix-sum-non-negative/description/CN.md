@@ -1,4 +1,4 @@
-## [2599.使前缀和数组非负]
+## [2599.使前缀和数组非负](https://leetcode.cn/problems/make-the-prefix-sum-non-negative/)
 <p>给定一个 <strong>下标从0开始</strong> 的整数数组 <code>nums</code> 。你可以任意多次执行以下操作：</p>
 
 <ul>

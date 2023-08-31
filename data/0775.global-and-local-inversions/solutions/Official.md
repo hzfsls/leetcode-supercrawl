@@ -1,3 +1,4 @@
+## [775.全局倒置与局部倒置 中文官方题解](https://leetcode.cn/problems/global-and-local-inversions/solutions/100000/quan-ju-dao-zhi-yu-ju-bu-dao-zhi-by-leet-bmjp)
 #### 方法一：维护后缀最小值
 
 **思路与算法**

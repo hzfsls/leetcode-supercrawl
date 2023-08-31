@@ -1,3 +1,4 @@
+## [1775.通过最少操作次数使数组的和相等 中文官方题解](https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/solutions/100000/tong-guo-zui-shao-cao-zuo-ci-shu-shi-shu-e3o1)
 #### 方法一：贪心 + 哈希表
 
 **思路与算法**

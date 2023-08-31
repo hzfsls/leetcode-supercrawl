@@ -1,4 +1,4 @@
-## [2822.对象反转]
+## [2822.对象反转](https://leetcode.cn/problems/inversion-of-object/)
 <p>给定一个对象 <code>obj</code>，返回一个反转的对象 <code>invertedObj</code>。</p>
 
 <p><code>invertedObj</code> 应该以 <code>obj</code> 的键作为值，以 <code>obj</code> 的值作为键。题目保证 <code>obj</code> 中的值仅为字符串。该函数应该处理重复值，也就是说，如果在 <code>obj</code> 中有多个具有相同值的键，那么 <code>invertedObj</code> 应该将该值映射到一个包含所有相应键的数组中。</p>

@@ -1,4 +1,4 @@
-## [640.求解方程]
+## [640.求解方程](https://leetcode.cn/problems/solve-the-equation/)
 <p>求解一个给定的方程，将<code>x</code>以字符串 <code>"x=#value"</code>&nbsp;的形式返回。该方程仅包含 <code>'+'</code> ， <code>'-'</code> 操作，变量&nbsp;<code>x</code>&nbsp;和其对应系数。</p>
 
 <p>如果方程没有解或存在的解不为整数，请返回&nbsp;<code>"No solution"</code>&nbsp;。如果方程有无限解，则返回 <code>“Infinite solutions”</code> 。</p>

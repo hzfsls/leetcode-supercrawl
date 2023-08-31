@@ -1,3 +1,4 @@
+## [1790.仅执行一次字符串交换能否使两个字符串相等 中文官方题解](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/solutions/100000/jin-zhi-xing-yi-ci-zi-fu-chuan-jiao-huan-j8si)
 #### 方法一：计数统计
 
 题目要求其中一个字符串执行最多一次字符交换使得两个字符串相等，意味着两个字符串中最多只存在两个位置 $i,j$ 处字符不相等，此时我们交换 $i,j$ 处字符可使其相等。设两个字符串分别为 $s_1,s_2$：

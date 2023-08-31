@@ -1,4 +1,4 @@
-## [2578.最小和分割]
+## [2578.最小和分割](https://leetcode.cn/problems/split-with-minimum-sum/)
 <p>给你一个正整数&nbsp;<code>num</code>&nbsp;，请你将它分割成两个非负整数&nbsp;<code>num1</code> 和&nbsp;<code>num2</code>&nbsp;，满足：</p>
 
 <ul>

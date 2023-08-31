@@ -1,4 +1,4 @@
-## [960.删列造序 III]
+## [960.删列造序 III](https://leetcode.cn/problems/delete-columns-to-make-sorted-iii/)
 <p>给定由<meta charset="UTF-8" />&nbsp;<code>n</code>&nbsp;个小写字母字符串组成的数组<meta charset="UTF-8" />&nbsp;<code>strs</code>&nbsp;，其中每个字符串长度相等。</p>
 
 <p>选取一个删除索引序列，对于<meta charset="UTF-8" />&nbsp;<code>strs</code>&nbsp;中的每个字符串，删除对应每个索引处的字符。</p>

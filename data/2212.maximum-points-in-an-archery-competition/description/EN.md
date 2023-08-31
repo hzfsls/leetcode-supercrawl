@@ -1,4 +1,4 @@
-## [2212.Maximum Points in an Archery Competition]
+## [2212.Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
 <p>Alice and Bob are opponents in an archery competition. The competition has set the following rules:</p>
 
 <ol>

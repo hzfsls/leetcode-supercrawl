@@ -1,4 +1,4 @@
-## [2691.Immutability Helper]
+## [2691.Immutability Helper](https://leetcode.com/problems/immutability-helper/)
 <p>Creating clones of immutable objects with minor alterations can be a tedious process. Write a class&nbsp;<code>ImmutableHelper</code>&nbsp;that serves as a tool to help with this requirement. The constructor accepts an immutable object&nbsp;<code>obj</code>&nbsp;which will be a JSON object or array.</p>
 
 <p>The class has a single method&nbsp;<code>produce</code>&nbsp;which&nbsp;accepts a&nbsp;function&nbsp;<code>mutator</code>. The function returns a new object which is similar to the original except it has&nbsp;those mutations applied.</p>

@@ -1,3 +1,4 @@
+## [1358.包含所有三种字符的子字符串数目 中文官方题解](https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/solutions/100000/bao-han-suo-you-san-chong-zi-fu-de-zi-zi-fu-chuan-)
 #### 方法一：枚举 + 二分
 
 我们定义 a，b，c 都至少出现过一次的字符串为合法的字符串，否则为非法的字符串。

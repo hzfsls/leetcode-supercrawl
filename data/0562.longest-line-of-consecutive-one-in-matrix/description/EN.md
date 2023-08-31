@@ -1,4 +1,4 @@
-## [562.Longest Line of Consecutive One in Matrix]
+## [562.Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/)
 <p>Given an <code>m x n</code> binary matrix <code>mat</code>, return <em>the length of the longest line of consecutive one in the matrix</em>.</p>
 
 <p>The line could be horizontal, vertical, diagonal, or anti-diagonal.</p>

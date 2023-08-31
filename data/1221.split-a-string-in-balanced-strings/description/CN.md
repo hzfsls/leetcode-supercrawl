@@ -1,4 +1,4 @@
-## [1221.分割平衡字符串]
+## [1221.分割平衡字符串](https://leetcode.cn/problems/split-a-string-in-balanced-strings/)
 <p><strong>平衡字符串</strong> 中，<code>'L'</code> 和 <code>'R'</code> 字符的数量是相同的。</p>
 
 <p>给你一个平衡字符串&nbsp;<code>s</code>，请你将它分割成尽可能多的子字符串，并满足：</p>

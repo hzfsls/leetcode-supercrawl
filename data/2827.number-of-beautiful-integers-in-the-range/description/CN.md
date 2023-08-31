@@ -1,4 +1,4 @@
-## [2827.范围中美丽整数的数目]
+## [2827.范围中美丽整数的数目](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range/)
 <p>给你正整数&nbsp;<code>low</code>&nbsp;，<code>high</code>&nbsp;和&nbsp;<code>k</code>&nbsp;。</p>
 
 <p>如果一个数满足以下两个条件，那么它是 <strong>美丽的</strong>&nbsp;：</p>

@@ -1,3 +1,4 @@
+## [2170.使数组变成交替数组的最少操作数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-make-the-array-alternating/solutions/100000/shi-shu-zu-bian-cheng-jiao-ti-shu-zu-de-gd9u9)
 #### 方法一：选择奇偶下标出现次数最多的数
 
 **思路与算法**

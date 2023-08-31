@@ -1,4 +1,4 @@
-## [2728.计算一个环形街道上的房屋数量]
+## [2728.计算一个环形街道上的房屋数量](https://leetcode.cn/problems/count-houses-in-a-circular-street/)
 <p>给定一个代表环形街道的类 <code>Street</code> 和一个正整数 <code>k</code>，表示街道上房屋的最大数量（也就是说房屋数量不超过 <code>k</code>&nbsp;）。每个房屋的门初始时可以是开着的也可以是关着的。</p>
 
 <p>刚开始，你站在一座房子的门前。你的任务是计算街道上的房屋数量。</p>

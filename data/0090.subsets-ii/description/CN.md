@@ -1,4 +1,4 @@
-## [90.子集 II]
+## [90.子集 II](https://leetcode.cn/problems/subsets-ii/)
 <p>给你一个整数数组 <code>nums</code> ，其中可能包含重复元素，请你返回该数组所有可能的子集（幂集）。</p>
 
 <p>解集 <strong>不能</strong> 包含重复的子集。返回的解集中，子集可以按 <strong>任意顺序</strong> 排列。</p>

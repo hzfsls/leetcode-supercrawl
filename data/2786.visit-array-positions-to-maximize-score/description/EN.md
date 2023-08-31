@@ -1,4 +1,4 @@
-## [2786.Visit Array Positions to Maximize Score]
+## [2786.Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a positive integer <code>x</code>.</p>
 
 <p>You are <strong>initially</strong> at position <code>0</code> in the array and you can visit other positions according to the following rules:</p>

@@ -1,4 +1,4 @@
-## [1325.删除给定值的叶子节点]
+## [1325.删除给定值的叶子节点](https://leetcode.cn/problems/delete-leaves-with-a-given-value/)
 <p>给你一棵以&nbsp;<code>root</code>&nbsp;为根的二叉树和一个整数&nbsp;<code>target</code>&nbsp;，请你删除所有值为&nbsp;<code>target</code> 的&nbsp;<strong>叶子节点</strong> 。</p>
 
 <p>注意，一旦删除值为&nbsp;<code>target</code>&nbsp;的叶子节点，它的父节点就可能变成叶子节点；如果新叶子节点的值恰好也是&nbsp;<code>target</code> ，那么这个节点也应该被删除。</p>

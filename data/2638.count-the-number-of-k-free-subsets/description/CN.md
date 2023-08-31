@@ -1,4 +1,4 @@
-## [2638.统计 K-Free 子集的总数]
+## [2638.统计 K-Free 子集的总数](https://leetcode.cn/problems/count-the-number-of-k-free-subsets/)
 <p>给定一个包含 <strong>无重复</strong> 元素的整数数组 <code>nums</code> 和一个整数 <code>k</code> 。</p>
 
 <p>如果一个子集中 <strong>不</strong> 存在两个差的绝对值等于 <code>k</code> 的元素，则称其为 <strong>k-Free</strong> 子集。注意，空集是一个 <strong>k-Free</strong> 子集。</p>

@@ -1,4 +1,4 @@
-## [896.Monotonic Array]
+## [896.Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 <p>An array is <strong>monotonic</strong> if it is either monotone increasing or monotone decreasing.</p>
 
 <p>An array <code>nums</code> is monotone increasing if for all <code>i &lt;= j</code>, <code>nums[i] &lt;= nums[j]</code>. An array <code>nums</code> is monotone decreasing if for all <code>i &lt;= j</code>, <code>nums[i] &gt;= nums[j]</code>.</p>

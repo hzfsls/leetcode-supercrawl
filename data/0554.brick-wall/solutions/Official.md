@@ -1,3 +1,4 @@
+## [554.砖墙 中文官方题解](https://leetcode.cn/problems/brick-wall/solutions/100000/zhuan-qiang-by-leetcode-solution-2kls)
 #### 方法一：哈希表
 
 **思路及算法**

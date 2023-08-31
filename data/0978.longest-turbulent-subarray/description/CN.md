@@ -1,4 +1,4 @@
-## [978.最长湍流子数组]
+## [978.最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/)
 <p>给定一个整数数组 <code>arr</code>&nbsp;，返回 <code>arr</code>&nbsp;的&nbsp;<em>最大湍流子数组的<strong>长度</strong></em><strong>&nbsp;</strong>。</p>
 
 <p>如果比较符号在子数组中的每个相邻元素对之间翻转，则该子数组是&nbsp;<strong>湍流子数组</strong>&nbsp;。</p>

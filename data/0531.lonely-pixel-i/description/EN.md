@@ -1,4 +1,4 @@
-## [531.Lonely Pixel I]
+## [531.Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/)
 <p>Given an <code>m x n</code> <code>picture</code> consisting of black <code>&#39;B&#39;</code> and white <code>&#39;W&#39;</code> pixels, return <em>the number of <b>black</b> lonely pixels</em>.</p>
 
 <p>A black lonely pixel is a character <code>&#39;B&#39;</code> that located at a specific position where the same row and same column don&#39;t have <strong>any other</strong> black pixels.</p>

@@ -1,4 +1,4 @@
-## [1908.Game of Nim]
+## [1908.Game of Nim](https://leetcode.com/problems/game-of-nim/)
 <p>Alice and Bob take turns playing a game with <strong>Alice starting first</strong>.</p>
 
 <p>In this game, there are <code>n</code> piles of stones. On each player&#39;s turn, the player should remove any <strong>positive</strong> number of stones from a non-empty pile <strong>of his or her choice</strong>. The first player who cannot make a move loses, and the other player wins.</p>

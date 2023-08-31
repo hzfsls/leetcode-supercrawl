@@ -1,3 +1,4 @@
+## [576.出界的路径数 中文官方题解](https://leetcode.cn/problems/out-of-boundary-paths/solutions/100000/chu-jie-de-lu-jing-shu-by-leetcode-solut-l9dw)
 #### 方法一：动态规划
 
 可以使用动态规划计算出界的路径数。

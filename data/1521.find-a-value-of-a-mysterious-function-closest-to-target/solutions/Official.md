@@ -1,3 +1,4 @@
+## [1521.找到最接近目标值的函数值 中文官方题解](https://leetcode.cn/problems/find-a-value-of-a-mysterious-function-closest-to-target/solutions/100000/zhao-dao-zui-jie-jin-mu-biao-zhi-de-han-shu-zhi-by)
 **思路**
 
 我们定义「[按位与运算](https://baike.baidu.com/item/%E6%8C%89%E4%BD%8D%E4%B8%8E)」为题目描述中的 $\&$ 运算，「按位与之和」为若干个数依次进行 $\&$ 运算得到的值。由于：

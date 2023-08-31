@@ -1,3 +1,4 @@
+## [1198.找出所有行中最小公共元素 中文官方题解](https://leetcode.cn/problems/find-smallest-common-element-in-all-rows/solutions/100000/zhao-chu-suo-you-xing-zhong-zui-xiao-gon-rbmb)
 [TOC]
 
  ## 解决方案

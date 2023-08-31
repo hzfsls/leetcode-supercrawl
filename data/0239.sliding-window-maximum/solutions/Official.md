@@ -1,3 +1,4 @@
+## [239.滑动窗口最大值 中文官方题解](https://leetcode.cn/problems/sliding-window-maximum/solutions/100000/hua-dong-chuang-kou-zui-da-zhi-by-leetco-ki6m)
 #### 前言
 
 对于每个滑动窗口，我们可以使用 $O(k)$ 的时间遍历其中的每一个元素，找出其中的最大值。对于长度为 $n$ 的数组 $\textit{nums}$ 而言，窗口的数量为 $n-k+1$，因此该算法的时间复杂度为 $O((n-k+1)k)=O(nk)$，会超出时间限制，因此我们需要进行一些优化。

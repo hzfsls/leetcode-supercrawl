@@ -1,4 +1,4 @@
-## [1833.Maximum Ice Cream Bars]
+## [1833.Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 <p>It is a sweltering summer day, and a boy wants to buy some ice cream bars.</p>
 
 <p>At the store, there are <code>n</code> ice cream bars. You are given an array <code>costs</code> of length <code>n</code>, where <code>costs[i]</code> is the price of the <code>i<sup>th</sup></code> ice cream bar in coins. The boy initially has <code>coins</code> coins to spend, and he wants to buy as many ice cream bars as possible.&nbsp;</p>

@@ -1,4 +1,4 @@
-## [747.Largest Number At Least Twice of Others]
+## [747.Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 <p>You are given an integer array <code>nums</code> where the largest integer is <strong>unique</strong>.</p>
 
 <p>Determine whether the largest element in the array is <strong>at least twice</strong> as much as every other number in the array. If it is, return <em>the <strong>index</strong> of the largest element, or return </em><code>-1</code><em> otherwise</em>.</p>

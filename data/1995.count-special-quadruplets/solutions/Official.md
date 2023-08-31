@@ -1,3 +1,4 @@
+## [1995.统计特殊四元组 中文官方题解](https://leetcode.cn/problems/count-special-quadruplets/solutions/100000/tong-ji-te-shu-si-yuan-zu-by-leetcode-so-50e2)
 #### 方法一：直接枚举
 
 **思路与算法**

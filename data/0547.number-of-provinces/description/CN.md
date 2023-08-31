@@ -1,4 +1,4 @@
-## [547.省份数量]
+## [547.省份数量](https://leetcode.cn/problems/number-of-provinces/)
 <div class="original__bRMd">
 <div>
 <p>有 <code>n</code> 个城市，其中一些彼此相连，另一些没有相连。如果城市 <code>a</code> 与城市 <code>b</code> 直接相连，且城市 <code>b</code> 与城市 <code>c</code> 直接相连，那么城市 <code>a</code> 与城市 <code>c</code> 间接相连。</p>

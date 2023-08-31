@@ -1,3 +1,4 @@
+## [766.托普利茨矩阵 中文官方题解](https://leetcode.cn/problems/toeplitz-matrix/solutions/100000/tuo-pu-li-ci-ju-zhen-by-leetcode-solutio-57bb)
 #### 方法一：遍历
 
 根据定义，当且仅当矩阵中每个元素都与其左上角相邻的元素（如果存在）相等时，该矩阵为托普利茨矩阵。因此，我们遍历该矩阵，将每一个元素和它左上角的元素相比对即可。

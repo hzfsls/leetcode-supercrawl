@@ -1,4 +1,4 @@
-## [2067.Number of Equal Count Substrings]
+## [2067.Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings/)
 <p>You are given a <strong>0-indexed</strong> string <code>s</code> consisting of only lowercase English letters, and an integer <code>count</code>. A <strong>substring</strong> of <code>s</code> is said to be an <strong>equal count substring</strong> if, for each <strong>unique</strong> letter in the substring, it appears exactly <code>count</code> times in the substring.</p>
 
 <p>Return <em>the number of <strong>equal count substrings</strong> in </em><code>s</code>.</p>

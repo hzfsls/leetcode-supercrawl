@@ -1,4 +1,4 @@
-## [792.Number of Matching Subsequences]
+## [792.Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 <p>Given a string <code>s</code> and an array of strings <code>words</code>, return <em>the number of</em> <code>words[i]</code> <em>that is a subsequence of</em> <code>s</code>.</p>
 
 <p>A <strong>subsequence</strong> of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.</p>

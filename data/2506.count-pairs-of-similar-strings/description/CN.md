@@ -1,4 +1,4 @@
-## [2506.统计相似字符串对的数目]
+## [2506.统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/)
 <p>给你一个下标从 <strong>0</strong> 开始的字符串数组 <code>words</code> 。</p>
 
 <p>如果两个字符串由相同的字符组成，则认为这两个字符串 <strong>相似</strong> 。</p>

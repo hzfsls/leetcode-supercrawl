@@ -1,4 +1,4 @@
-## [1650.Lowest Common Ancestor of a Binary Tree III]
+## [1650.Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)
 <p>Given two nodes of a&nbsp;binary tree <code>p</code> and <code>q</code>, return <em>their&nbsp;lowest common ancestor (LCA)</em>.</p>
 
 <p>Each node will have a reference to its parent node. The definition for <code>Node</code> is below:</p>

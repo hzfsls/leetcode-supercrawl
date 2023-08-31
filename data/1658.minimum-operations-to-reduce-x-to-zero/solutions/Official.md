@@ -1,3 +1,4 @@
+## [1658.将 x 减到 0 的最小操作数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/solutions/100000/jiang-x-jian-dao-0-de-zui-xiao-cao-zuo-s-hl7u)
 #### 方法一：滑动窗口
 
 **思路与算法**

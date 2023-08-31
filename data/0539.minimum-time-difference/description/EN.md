@@ -1,4 +1,4 @@
-## [539.Minimum Time Difference]
+## [539.Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 Given a list of 24-hour clock time points in <strong>&quot;HH:MM&quot;</strong> format, return <em>the minimum <b>minutes</b> difference between any two time-points in the list</em>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

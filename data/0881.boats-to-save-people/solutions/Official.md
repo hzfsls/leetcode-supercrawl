@@ -1,3 +1,4 @@
+## [881.救生艇 中文官方题解](https://leetcode.cn/problems/boats-to-save-people/solutions/100000/jiu-sheng-ting-by-leetcode-solution-0nsp)
 #### 方法一：贪心
 
 要使需要的船数尽可能地少，应当使载两人的船尽可能地多。

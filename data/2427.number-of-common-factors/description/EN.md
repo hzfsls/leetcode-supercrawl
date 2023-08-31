@@ -1,4 +1,4 @@
-## [2427.Number of Common Factors]
+## [2427.Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)
 <p>Given two positive integers <code>a</code> and <code>b</code>, return <em>the number of <strong>common</strong> factors of </em><code>a</code><em> and </em><code>b</code>.</p>
 
 <p>An integer <code>x</code> is a <strong>common factor</strong> of <code>a</code> and <code>b</code> if <code>x</code> divides both <code>a</code> and <code>b</code>.</p>

@@ -1,3 +1,4 @@
+## [841.钥匙和房间 中文官方题解](https://leetcode.cn/problems/keys-and-rooms/solutions/100000/yao-chi-he-fang-jian-by-leetcode-solution)
 #### 前言
 
 当 $x$ 号房间中有 $y$ 号房间的钥匙时，我们就可以从 $x$ 号房间去往 $y$ 号房间。如果我们将这 $n$ 个房间看成有向图中的 $n$ 个节点，那么上述关系就可以看作是图中的 $x$ 号点到 $y$ 号点的一条有向边。

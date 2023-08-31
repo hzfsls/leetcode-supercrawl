@@ -1,4 +1,4 @@
-## [412.Fizz Buzz]
+## [412.Fizz Buzz](https://leetcode.cn/problems/fizz-buzz/)
 <p>给你一个整数 <code>n</code> ，找出从 <code>1</code> 到 <code>n</code> 各个整数的 Fizz Buzz 表示，并用字符串数组 <code>answer</code>（<strong>下标从 1 开始</strong>）返回结果，其中：</p>
 
 <ul>

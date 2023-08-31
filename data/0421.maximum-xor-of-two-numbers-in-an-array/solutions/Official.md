@@ -1,3 +1,4 @@
+## [421.数组中两个数的最大异或值 中文官方题解](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/solutions/100000/shu-zu-zhong-liang-ge-shu-de-zui-da-yi-h-n9m9)
 #### 前言
 
 假设我们在数组中选择了元素 $a_i$ 和 $a_j$（$i \neq j$），使得它们达到最大的按位异或运算结果 $x$：

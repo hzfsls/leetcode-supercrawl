@@ -1,4 +1,4 @@
-## [1215.步进数]
+## [1215.步进数](https://leetcode.cn/problems/stepping-numbers/)
 <p>如果一个整数上的每一位数字与其相邻位上的数字的绝对差都是 <code>1</code>，那么这个数就是一个「步进数」。</p>
 
 <p>例如，<code>321</code>&nbsp;是一个步进数，而&nbsp;<code>421</code>&nbsp;不是。</p>

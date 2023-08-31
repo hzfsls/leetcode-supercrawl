@@ -1,3 +1,4 @@
+## [1208.尽可能使字符串相等 中文官方题解](https://leetcode.cn/problems/get-equal-substrings-within-budget/solutions/100000/jin-ke-neng-shi-zi-fu-chuan-xiang-deng-b-higz)
 #### 前言
 
 假定字符串 $s$ 和 $t$ 的长度均为 $n$，对于任意 $0 \le i<n$，将 $s[i]$ 变成 $t[i]$ 的开销是 $\Big| s[i]-t[i] \Big|$，因此可以创建一个长度为 $n$ 的数组 $\textit{diff}$，其中 $\textit{diff}[i]=\Big|s[i]-t[i] \Big|$。

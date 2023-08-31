@@ -1,4 +1,4 @@
-## [2347.Best Poker Hand]
+## [2347.Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)
 <p>You are given an integer array <code>ranks</code> and a character array <code>suits</code>. You have <code>5</code> cards where the <code>i<sup>th</sup></code> card has a rank of <code>ranks[i]</code> and a suit of <code>suits[i]</code>.</p>
 
 <p>The following are the types of <strong>poker hands</strong> you can make from best to worst:</p>

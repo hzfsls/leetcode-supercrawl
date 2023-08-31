@@ -1,4 +1,4 @@
-## [1715.苹果和橘子的个数]
+## [1715.苹果和橘子的个数](https://leetcode.cn/problems/count-apples-and-oranges/)
 <p>表：&nbsp;<code>Boxes</code></p>
 
 <pre>

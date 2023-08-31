@@ -1,4 +1,4 @@
-## [1846.Maximum Element After Decreasing and Rearranging]
+## [1846.Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
 <p>You are given an array of positive integers <code>arr</code>. Perform some operations (possibly none) on <code>arr</code> so that it satisfies these conditions:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [1180.统计只含单一字母的子串]
+## [1180.统计只含单一字母的子串](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/)
 <p>给你一个字符串 <code>s</code>，返回 <em>只含 <strong>单一字母</strong> 的子串个数</em> 。</p>
 
 <p><strong>示例 1：</strong></p>

@@ -1,4 +1,4 @@
-## [2370.Longest Ideal Subsequence]
+## [2370.Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)
 <p>You are given a string <code>s</code> consisting of lowercase letters and an integer <code>k</code>. We call a string <code>t</code> <strong>ideal</strong> if the following conditions are satisfied:</p>
 
 <ul>

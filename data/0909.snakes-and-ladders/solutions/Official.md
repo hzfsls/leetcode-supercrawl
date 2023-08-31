@@ -1,3 +1,4 @@
+## [909.蛇梯棋 中文官方题解](https://leetcode.cn/problems/snakes-and-ladders/solutions/100000/she-ti-qi-by-leetcode-solution-w0vl)
 #### 方法一：广度优先搜索
 
 我们可以将棋盘抽象成一个包含 $N^2$ 个节点的有向图，对于每个节点 $x$，若 $x+i\ (1\le i \le 6)$ 上没有蛇或梯子，则连一条从 $x$ 到 $x+i$ 的有向边；否则记蛇梯的目的地为 $y$，连一条从 $x$ 到 $y$ 的有向边。

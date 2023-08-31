@@ -1,4 +1,4 @@
-## [1671.Minimum Number of Removals to Make Mountain Array]
+## [1671.Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
 <p>You may recall that an array <code>arr</code> is a <strong>mountain array</strong> if and only if:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [955.Delete Columns to Make Sorted II]
+## [955.Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)
 <p>You are given an array of <code>n</code> strings <code>strs</code>, all of the same length.</p>
 
 <p>We may choose any deletion indices, and we delete all the characters in those indices for each string.</p>

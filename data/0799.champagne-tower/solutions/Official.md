@@ -1,3 +1,4 @@
+## [799.香槟塔 中文官方题解](https://leetcode.cn/problems/champagne-tower/solutions/100000/xiang-bin-ta-by-leetcode-solution-y87c)
 #### 方法一：模拟
 
 **思路**

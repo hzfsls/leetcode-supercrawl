@@ -1,4 +1,4 @@
-## [2549.统计桌面上的不同数字]
+## [2549.统计桌面上的不同数字](https://leetcode.cn/problems/count-distinct-numbers-on-board/)
 <p>给你一个正整数 <code>n</code> ，开始时，它放在桌面上。在 <code>10<sup>9</sup></code> 天内，每天都要执行下述步骤：</p>
 
 <ul>

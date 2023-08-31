@@ -1,4 +1,4 @@
-## [2446.Determine if Two Events Have Conflict]
+## [2446.Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
 <p>You are given two arrays of strings that represent two inclusive events that happened <strong>on the same day</strong>, <code>event1</code> and <code>event2</code>, where:</p>
 
 <ul>

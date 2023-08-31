@@ -1,4 +1,4 @@
-## [1388.Pizza With 3n Slices]
+## [1388.Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)
 <p>There is a pizza with <code>3n</code> slices of varying size, you and your friends will take slices of pizza as follows:</p>
 
 <ul>

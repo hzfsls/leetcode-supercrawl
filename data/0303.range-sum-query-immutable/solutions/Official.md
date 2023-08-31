@@ -1,3 +1,4 @@
+## [303.区域和检索 - 数组不可变 中文官方题解](https://leetcode.cn/problems/range-sum-query-immutable/solutions/100000/qu-yu-he-jian-suo-shu-zu-bu-ke-bian-by-l-px41)
 #### 方法一：前缀和
 
 最朴素的想法是存储数组 $\textit{nums}$ 的值，每次调用 $\text{sumRange}$ 时，通过循环的方法计算数组 $\textit{nums}$ 从下标 $i$ 到下标 $j$ 范围内的元素和，需要计算 $j-i+1$ 个元素的和。由于每次检索的时间和检索的下标范围有关，因此检索的时间复杂度较高，如果检索次数较多，则会超出时间限制。

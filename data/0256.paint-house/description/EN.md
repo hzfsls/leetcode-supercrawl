@@ -1,4 +1,4 @@
-## [256.Paint House]
+## [256.Paint House](https://leetcode.com/problems/paint-house/)
 <p>There is a row of <code>n</code> houses, where each house can be painted one of three colors: red, blue, or green. The cost of painting each house with a certain color is different. You have to paint all the houses such that no two adjacent houses have the same color.</p>
 
 <p>The cost of painting each house with a certain color is represented by an <code>n x 3</code> cost matrix <code>costs</code>.</p>

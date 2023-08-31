@@ -1,4 +1,4 @@
-## [1868.两个行程编码数组的积]
+## [1868.两个行程编码数组的积](https://leetcode.cn/problems/product-of-two-run-length-encoded-arrays/)
 <p><b>行程编码（</b><strong>Run-length encoding）</strong>是一种压缩算法，能让一个含有许多段<strong>连续重复</strong>数字的整数类型数组 <code>nums</code> 以一个（通常更小的）二维数组 <code>encoded</code> 表示。每个 <code>encoded[i] = [val<sub>i</sub>, freq<sub>i</sub>]</code> 表示 <code>nums</code> 中第 <code>i</code> 段重复数字，其中 <code>val<sub>i</sub></code> 是该段重复数字，重复了 <code>freq<sub>i</sub></code> 次。</p>
 
 <ul>

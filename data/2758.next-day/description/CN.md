@@ -1,4 +1,4 @@
-## [2758.下一天]
+## [2758.下一天](https://leetcode.cn/problems/next-day/)
 <p>请你编写一个有关日期对象的方法，使得任何日期对象都可以调用 <code>date.nextDay()</code> 方法，然后返回调用日期对象的下一天，格式为 YYYY-MM-DD 。</p>
 
 <p>&nbsp;</p>

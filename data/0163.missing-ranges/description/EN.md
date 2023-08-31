@@ -1,4 +1,4 @@
-## [163.Missing Ranges]
+## [163.Missing Ranges](https://leetcode.com/problems/missing-ranges/)
 <p>You are given an inclusive range <code>[lower, upper]</code> and a <strong>sorted unique</strong> integer array <code>nums</code>, where all elements are within the inclusive range.</p>
 
 <p>A number <code>x</code> is considered <strong>missing</strong> if <code>x</code> is in the range <code>[lower, upper]</code> and <code>x</code> is not in <code>nums</code>.</p>

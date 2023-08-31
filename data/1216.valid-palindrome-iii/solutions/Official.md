@@ -1,3 +1,4 @@
+## [1216.验证回文字符串 III 中文官方题解](https://leetcode.cn/problems/valid-palindrome-iii/solutions/100000/yan-zheng-hui-wen-zi-fu-chuan-iii-by-lee-s4rc)
 [TOC] 
 
  ## 解决方案

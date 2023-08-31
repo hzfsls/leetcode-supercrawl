@@ -1,3 +1,4 @@
+## [1954.收集足够苹果的最小花园周长 中文官方题解](https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/solutions/100000/shou-ji-zu-gou-ping-guo-de-zui-xiao-hua-1rjsw)
 #### 方法一：枚举
 
 **提示 $1$**

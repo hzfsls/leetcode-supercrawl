@@ -1,4 +1,4 @@
-## [2810.故障键盘]
+## [2810.故障键盘](https://leetcode.cn/problems/faulty-keyboard/)
 <p>你的笔记本键盘存在故障，每当你在上面输入字符 <code>'i'</code> 时，它会反转你所写的字符串。而输入其他字符则可以正常工作。</p>
 
 <p>给你一个下标从 <strong>0</strong> 开始的字符串 <code>s</code> ，请你用故障键盘依次输入每个字符。</p>

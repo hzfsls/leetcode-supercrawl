@@ -1,4 +1,4 @@
-## [710.黑名单中的随机数]
+## [710.黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/)
 <p>给定一个整数 <code>n</code> 和一个 <strong>无重复</strong> 黑名单整数数组&nbsp;<code>blacklist</code>&nbsp;。设计一种算法，从 <code>[0, n - 1]</code> 范围内的任意整数中选取一个&nbsp;<strong>未加入&nbsp;</strong>黑名单&nbsp;<code>blacklist</code>&nbsp;的整数。任何在上述范围内且不在黑名单&nbsp;<code>blacklist</code>&nbsp;中的整数都应该有 <strong>同等的可能性</strong> 被返回。</p>
 
 <p>优化你的算法，使它最小化调用语言 <strong>内置</strong> 随机函数的次数。</p>

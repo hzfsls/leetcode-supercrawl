@@ -1,3 +1,4 @@
+## [1072.按列翻转得到最大值等行数 中文官方题解](https://leetcode.cn/problems/flip-columns-for-maximum-number-of-equal-rows/solutions/100000/an-lie-fan-zhuan-de-dao-zui-da-zhi-deng-teeig)
 #### 方法一：哈希
 
 **思路与算法**

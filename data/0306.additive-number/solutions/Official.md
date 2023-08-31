@@ -1,3 +1,4 @@
+## [306.累加数 中文官方题解](https://leetcode.cn/problems/additive-number/solutions/100000/lei-jia-shu-by-leetcode-solution-cadc)
 #### 方法一：穷举累加序列第一个数字和第二个数字的所有可能性
 
 **思路及解法**

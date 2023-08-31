@@ -1,4 +1,4 @@
-## [2129.Capitalize the Title]
+## [2129.Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)
 <p>You are given a string <code>title</code> consisting of one or more words separated by a single space, where each word consists of English letters. <strong>Capitalize</strong> the string by changing the capitalization of each word such that:</p>
 
 <ul>

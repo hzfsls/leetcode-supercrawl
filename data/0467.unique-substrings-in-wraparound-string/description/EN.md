@@ -1,4 +1,4 @@
-## [467.Unique Substrings in Wraparound String]
+## [467.Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)
 <p>We define the string <code>base</code> to be the infinite wraparound string of <code>&quot;abcdefghijklmnopqrstuvwxyz&quot;</code>, so <code>base</code> will look like this:</p>
 
 <ul>

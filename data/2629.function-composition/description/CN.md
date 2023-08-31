@@ -1,4 +1,4 @@
-## [2629.复合函数]
+## [2629.复合函数](https://leetcode.cn/problems/function-composition/)
 <p>请你编写一个函数，它接收一个函数数组 <code>[f<sub>1</sub>, f<sub>2</sub>, f<sub>3</sub>，…， f<sub>n</sub>]</code> ，并返回一个新的函数 <code>fn</code>&nbsp;，它是函数数组的 <strong>复合函数</strong> 。</p>
 
 <p><code>[f(x)， g(x)， h(x)]</code> 的 <strong>复合函数</strong> 为 <code>fn(x) = f(g(h(x)))</code>&nbsp;。</p>

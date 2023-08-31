@@ -1,4 +1,4 @@
-## [1204.Last Person to Fit in the Bus]
+## [1204.Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)
 <p>Table: <code>Queue</code></p>
 
 <pre>

@@ -1,3 +1,4 @@
+## [132.分割回文串 II 中文官方题解](https://leetcode.cn/problems/palindrome-partitioning-ii/solutions/100000/fen-ge-hui-wen-chuan-ii-by-leetcode-solu-norx)
 #### 方法一：动态规划
 
 **思路与算法**

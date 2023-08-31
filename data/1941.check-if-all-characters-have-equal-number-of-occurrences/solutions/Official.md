@@ -1,3 +1,4 @@
+## [1941.检查是否所有字符出现次数相同 中文官方题解](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/100000/jian-cha-shi-fou-suo-you-zi-fu-chu-xian-k9bi1)
 #### 方法一：统计每个字符的频数
 
 **思路与算法**

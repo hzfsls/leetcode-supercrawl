@@ -1,3 +1,4 @@
+## [930.和相同的二元子数组 中文官方题解](https://leetcode.cn/problems/binary-subarrays-with-sum/solutions/100000/he-xiang-tong-de-er-yuan-zi-shu-zu-by-le-5caf)
 #### 方法一：哈希表
 
 **思路及算法**

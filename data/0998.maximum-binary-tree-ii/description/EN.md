@@ -1,4 +1,4 @@
-## [998.Maximum Binary Tree II]
+## [998.Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)
 <p>A <strong>maximum tree</strong> is a tree where every node has a value greater than any other value in its subtree.</p>
 
 <p>You are given the <code>root</code> of a maximum binary tree and an integer <code>val</code>.</p>

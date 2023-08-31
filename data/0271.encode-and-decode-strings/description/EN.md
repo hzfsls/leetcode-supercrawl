@@ -1,4 +1,4 @@
-## [271.Encode and Decode Strings]
+## [271.Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
 <p>Design an algorithm to encode <b>a list of strings</b> to <b>a string</b>. The encoded string is then sent over the network and is decoded back to the original list of strings.</p>
 
 <p>Machine 1 (sender) has the function:</p>

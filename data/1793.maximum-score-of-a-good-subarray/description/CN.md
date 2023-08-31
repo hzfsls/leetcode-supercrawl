@@ -1,4 +1,4 @@
-## [1793.好子数组的最大分数]
+## [1793.好子数组的最大分数](https://leetcode.cn/problems/maximum-score-of-a-good-subarray/)
 <p>给你一个整数数组 <code>nums</code> <strong>（下标从 0 开始）</strong>和一个整数 <code>k</code> 。</p>
 
 <p>一个子数组 <code>(i, j)</code> 的 <strong>分数</strong> 定义为 <code>min(nums[i], nums[i+1], ..., nums[j]) * (j - i + 1)</code> 。一个 <strong>好</strong> 子数组的两个端点下标需要满足 <code>i &lt;= k &lt;= j</code> 。</p>

@@ -1,4 +1,4 @@
-## [2128.通过翻转行或列来去除所有的 1]
+## [2128.通过翻转行或列来去除所有的 1](https://leetcode.cn/problems/remove-all-ones-with-row-and-column-flips/)
 <p>给你一个大小为&nbsp;<code>m x n</code> 的二进制矩阵&nbsp;<code>grid</code>。</p>
 
 <p>每次操作，你可以选择 <strong>任意</strong> 一行 或者 一列，然后将其中的所有值翻转（<code>0</code> 变成 <code>1</code>， <code>1</code>变成 <code>0</code>）。</p>

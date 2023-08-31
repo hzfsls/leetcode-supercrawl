@@ -1,4 +1,4 @@
-## [1281.Subtract the Product and Sum of Digits of an Integer]
+## [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 Given an integer number <code>n</code>, return the difference between the product of its digits and the sum of its digits.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

@@ -1,4 +1,4 @@
-## [2761.和等于目标值的质数对]
+## [2761.和等于目标值的质数对](https://leetcode.cn/problems/prime-pairs-with-target-sum/)
 <p>给你一个整数 <code>n</code> 。如果两个整数 <code>x</code> 和 <code>y</code> 满足下述条件，则认为二者形成一个质数对：</p>
 
 <ul>

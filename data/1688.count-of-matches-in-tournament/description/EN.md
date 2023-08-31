@@ -1,4 +1,4 @@
-## [1688.Count of Matches in Tournament]
+## [1688.Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 <p>You are given an integer <code>n</code>, the number of teams in a tournament that has strange rules:</p>
 
 <ul>

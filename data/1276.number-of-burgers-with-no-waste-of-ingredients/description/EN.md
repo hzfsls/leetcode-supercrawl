@@ -1,4 +1,4 @@
-## [1276.Number of Burgers with No Waste of Ingredients]
+## [1276.Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)
 <p>Given two integers <code>tomatoSlices</code> and <code>cheeseSlices</code>. The ingredients of different burgers are as follows:</p>
 
 <ul>

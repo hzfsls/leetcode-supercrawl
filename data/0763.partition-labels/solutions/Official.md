@@ -1,3 +1,4 @@
+## [763.划分字母区间 中文官方题解](https://leetcode.cn/problems/partition-labels/solutions/100000/hua-fen-zi-mu-qu-jian-by-leetcode-solution)
 #### 方法一：贪心
 
 由于同一个字母只能出现在同一个片段，显然同一个字母的第一次出现的下标位置和最后一次出现的下标位置必须出现在同一个片段。因此需要遍历字符串，得到每个字母最后一次出现的下标位置。

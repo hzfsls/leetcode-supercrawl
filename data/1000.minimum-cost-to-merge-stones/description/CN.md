@@ -1,4 +1,4 @@
-## [1000.合并石头的最低成本]
+## [1000.合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/)
 <p>有 <code>n</code> 堆石头排成一排，第 <code>i</code> 堆中有&nbsp;<code>stones[i]</code>&nbsp;块石头。</p>
 
 <p>每次 <strong>移动</strong> 需要将 <strong>连续的</strong> <code>k</code> 堆石头合并为一堆，而这次移动的成本为这 <code>k</code> 堆中石头的总数。</p>

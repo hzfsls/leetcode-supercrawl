@@ -1,4 +1,4 @@
-## [180.Consecutive Numbers]
+## [180.Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
 <p>Table: <code>Logs</code></p>
 
 <pre>

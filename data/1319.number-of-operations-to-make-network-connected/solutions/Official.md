@@ -1,3 +1,4 @@
+## [1319.连通网络的操作次数 中文官方题解](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/solutions/100000/lian-tong-wang-luo-de-cao-zuo-ci-shu-by-leetcode-s)
 #### 前言
 
 我们首先考虑在什么情况下，不可能将所有计算机进行连接。

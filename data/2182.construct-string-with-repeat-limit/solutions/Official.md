@@ -1,3 +1,4 @@
+## [2182.构造限制重复的字符串 中文官方题解](https://leetcode.cn/problems/construct-string-with-repeat-limit/solutions/100000/gou-zao-xian-zhi-zhong-fu-de-zi-fu-chuan-v02s)
 #### 方法一：贪心 + 双指针
 
 **提示 $1$**

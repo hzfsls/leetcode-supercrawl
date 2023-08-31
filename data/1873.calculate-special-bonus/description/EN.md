@@ -1,4 +1,4 @@
-## [1873.Calculate Special Bonus]
+## [1873.Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 <p>Table: <code>Employees</code></p>
 
 <pre>

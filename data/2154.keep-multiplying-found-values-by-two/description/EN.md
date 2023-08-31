@@ -1,4 +1,4 @@
-## [2154.Keep Multiplying Found Values by Two]
+## [2154.Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
 <p>You are given an array of integers <code>nums</code>. You are also given an integer <code>original</code> which is the first number that needs to be searched for in <code>nums</code>.</p>
 
 <p>You then do the following steps:</p>

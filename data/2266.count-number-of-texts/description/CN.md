@@ -1,4 +1,4 @@
-## [2266.统计打字方案数]
+## [2266.统计打字方案数](https://leetcode.cn/problems/count-number-of-texts/)
 <p>Alice 在给 Bob 用手机打字。数字到字母的 <strong>对应</strong>&nbsp;如下图所示。</p>
 
 <p><img alt="" src="https://assets.leetcode.com/uploads/2022/03/15/1200px-telephone-keypad2svg.png" style="width: 200px; height: 162px;"></p>

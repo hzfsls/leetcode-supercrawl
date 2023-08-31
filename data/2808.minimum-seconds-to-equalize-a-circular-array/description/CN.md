@@ -1,4 +1,4 @@
-## [2808.使循环数组所有元素相等的最少秒数]
+## [2808.使循环数组所有元素相等的最少秒数](https://leetcode.cn/problems/minimum-seconds-to-equalize-a-circular-array/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始长度为 <code>n</code>&nbsp;的数组&nbsp;<code>nums</code>&nbsp;。</p>
 
 <p>每一秒，你可以对数组执行以下操作：</p>

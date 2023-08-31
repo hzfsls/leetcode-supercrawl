@@ -1,4 +1,4 @@
-## [936.戳印序列]
+## [936.戳印序列](https://leetcode.cn/problems/stamping-the-sequence/)
 <p>你想要用<strong>小写字母</strong>组成一个目标字符串&nbsp;<code>target</code>。&nbsp;</p>
 
 <p>开始的时候，序列由&nbsp;<code>target.length</code>&nbsp;个&nbsp;<code>&#39;?&#39;</code>&nbsp;记号组成。而你有一个小写字母印章&nbsp;<code>stamp</code>。</p>

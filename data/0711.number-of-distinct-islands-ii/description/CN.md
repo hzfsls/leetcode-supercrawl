@@ -1,4 +1,4 @@
-## [711.不同岛屿的数量 II]
+## [711.不同岛屿的数量 II](https://leetcode.cn/problems/number-of-distinct-islands-ii/)
 <p>给定一个&nbsp;<code>m x n</code>&nbsp;二进制数组表示的网格&nbsp;<code>grid</code> ，一个岛屿由 <strong>四连通</strong> （上、下、左、右四个方向）的 <code>1</code> 组成（代表陆地）。你可以认为网格的四周被海水包围。</p>
 
 <p>如果两个岛屿的形状相同，或者通过旋转（顺时针旋转 90°，180°，270°）、翻转（左右翻转、上下翻转）后形状相同，那么就认为这两个岛屿是相同的。</p>

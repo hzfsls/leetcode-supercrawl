@@ -1,4 +1,4 @@
-## [1322.广告效果]
+## [1322.广告效果](https://leetcode.cn/problems/ads-performance/)
 <p>表: <code>Ads</code></p>
 
 <pre>

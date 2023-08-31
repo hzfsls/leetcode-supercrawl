@@ -1,4 +1,4 @@
-## [118.杨辉三角]
+## [118.杨辉三角](https://leetcode.cn/problems/pascals-triangle/)
 <p>给定一个非负整数 <em><code>numRows</code>，</em>生成「杨辉三角」的前 <em><code>numRows</code> </em>行。</p>
 
 <p><small>在「杨辉三角」中，每个数是它左上方和右上方的数的和。</small></p>

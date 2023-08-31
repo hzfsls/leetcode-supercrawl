@@ -1,4 +1,4 @@
-## [2618.检查是否是类的对象实例]
+## [2618.检查是否是类的对象实例](https://leetcode.cn/problems/check-if-object-instance-of-class/)
 <p>请你编写一个函数，检查给定的值是否是给定类或超类的实例。</p>
 
 <p>可以传递给函数的数据类型没有限制。例如，值或类可能是&nbsp; <code>undefined</code> 。</p>

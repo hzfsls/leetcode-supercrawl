@@ -1,3 +1,4 @@
+## [282.给表达式添加运算符 中文官方题解](https://leetcode.cn/problems/expression-add-operators/solutions/100000/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7)
 #### 方法一：回溯
 
 设字符串 $\textit{num}$ 的长度为 $n$，为构建表达式，我们可以往 $\textit{num}$ 中间的 $n-1$ 个空隙添加 $\texttt{+}$ 号、$\texttt{-}$ 号或 $\texttt{*}$ 号，或者不添加符号。

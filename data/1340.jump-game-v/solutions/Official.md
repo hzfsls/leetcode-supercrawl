@@ -1,3 +1,4 @@
+## [1340.跳跃游戏 V 中文官方题解](https://leetcode.cn/problems/jump-game-v/solutions/100000/tiao-yue-you-xi-v-by-leetcode-solution)
 #### 方法一：记忆化搜索
 
 我们用 `dp[i]` 表示从位置 `i` 开始跳跃，最多可以访问的下标个数。我们可以写出如下的状态转移方程：

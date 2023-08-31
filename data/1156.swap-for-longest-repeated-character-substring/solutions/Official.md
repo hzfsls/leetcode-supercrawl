@@ -1,3 +1,4 @@
+## [1156.单字符重复子串的最大长度 中文官方题解](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/solutions/100000/dan-zi-fu-zhong-fu-zi-chuan-de-zui-da-ch-9ywr)
 #### 方法一：滑动窗口
 
 **思路与算法**

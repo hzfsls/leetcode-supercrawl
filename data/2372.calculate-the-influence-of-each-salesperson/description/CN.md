@@ -1,4 +1,4 @@
-## [2372.计算每个销售人员的影响力]
+## [2372.计算每个销售人员的影响力](https://leetcode.cn/problems/calculate-the-influence-of-each-salesperson/)
 <p>表：&nbsp;<code>Salesperson</code></p>
 
 <pre>

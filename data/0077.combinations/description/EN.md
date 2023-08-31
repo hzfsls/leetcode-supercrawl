@@ -1,4 +1,4 @@
-## [77.Combinations]
+## [77.Combinations](https://leetcode.com/problems/combinations/)
 <p>Given two integers <code>n</code> and <code>k</code>, return <em>all possible combinations of</em> <code>k</code> <em>numbers chosen from the range</em> <code>[1, n]</code>.</p>
 
 <p>You may return the answer in <strong>any order</strong>.</p>

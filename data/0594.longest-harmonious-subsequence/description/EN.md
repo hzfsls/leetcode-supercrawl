@@ -1,4 +1,4 @@
-## [594.Longest Harmonious Subsequence]
+## [594.Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 <p>We define a harmonious array as an array where the difference between its maximum value and its minimum value is <b>exactly</b> <code>1</code>.</p>
 
 <p>Given an integer array <code>nums</code>, return <em>the length of its longest harmonious subsequence among all its possible subsequences</em>.</p>

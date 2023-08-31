@@ -1,3 +1,4 @@
+## [2224.转化时间需要的最少操作数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/solutions/100000/zhuan-hua-shi-jian-xu-yao-de-zui-shao-ca-jzf4)
 #### 方法一：贪心
 
 **思路与算法**

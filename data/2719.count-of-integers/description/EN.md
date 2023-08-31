@@ -1,4 +1,4 @@
-## [2719.Count of Integers]
+## [2719.Count of Integers](https://leetcode.com/problems/count-of-integers/)
 <p>You are given two numeric strings <code>num1</code> and <code>num2</code> and two integers <code>max_sum</code> and <code>min_sum</code>. We denote an integer <code>x</code> to be <em>good</em> if:</p>
 
 <ul>

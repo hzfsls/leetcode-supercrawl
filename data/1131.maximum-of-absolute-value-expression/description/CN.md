@@ -1,4 +1,4 @@
-## [1131.绝对值表达式的最大值]
+## [1131.绝对值表达式的最大值](https://leetcode.cn/problems/maximum-of-absolute-value-expression/)
 <p>给你两个长度相等的整数数组，返回下面表达式的最大值：</p>
 
 <p><code>|arr1[i] - arr1[j]| + |arr2[i] - arr2[j]| + |i - j|</code></p>

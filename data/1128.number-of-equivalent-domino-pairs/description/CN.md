@@ -1,4 +1,4 @@
-## [1128.等价多米诺骨牌对的数量]
+## [1128.等价多米诺骨牌对的数量](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/)
 <p>给你一个由一些多米诺骨牌组成的列表&nbsp;<code>dominoes</code>。</p>
 
 <p>如果其中某一张多米诺骨牌可以通过旋转 <code>0</code>&nbsp;度或 <code>180</code> 度得到另一张多米诺骨牌，我们就认为这两张牌是等价的。</p>

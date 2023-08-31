@@ -1,3 +1,4 @@
+## [1408.数组中的字符串匹配 中文官方题解](https://leetcode.cn/problems/string-matching-in-an-array/solutions/100000/shu-zu-zhong-de-zi-fu-chuan-pi-pei-by-le-rpmt)
 #### 方法一：暴力枚举
 
 对于字符串数组中的某个字符串 $\textit{words}[i]$，我们判断它是否是其他字符串的子字符串，只需要枚举 $\textit{words}[j]$，其中 $j \ne i$，如果 $\textit{words}[i]$ 是 $\textit{words}[j]$ 的子字符串，那么将 $\textit{words}[i]$ 加入结果中。

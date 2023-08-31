@@ -1,4 +1,4 @@
-## [1138.字母板上的路径]
+## [1138.字母板上的路径](https://leetcode.cn/problems/alphabet-board-path/)
 <p>我们从一块字母板上的位置&nbsp;<code>(0, 0)</code>&nbsp;出发，该坐标对应的字符为&nbsp;<code>board[0][0]</code>。</p>
 
 <p>在本题里，字母板为<code>board = ["abcde", "fghij", "klmno", "pqrst", "uvwxy", "z"]</code>，如下所示。</p>

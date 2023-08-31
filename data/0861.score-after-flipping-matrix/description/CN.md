@@ -1,4 +1,4 @@
-## [861.翻转矩阵后的得分]
+## [861.翻转矩阵后的得分](https://leetcode.cn/problems/score-after-flipping-matrix/)
 <p>给你一个大小为 <code>m x n</code> 的二元矩阵 <code>grid</code> ，矩阵中每个元素的值为 <code>0</code> 或 <code>1</code> 。</p>
 
 <p>一次 <strong>移动</strong> 是指选择任一行或列，并转换该行或列中的每一个值：将所有 <code>0</code> 都更改为 <code>1</code>，将所有 <code>1</code> 都更改为 <code>0</code>。</p>

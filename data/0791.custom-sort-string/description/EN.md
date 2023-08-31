@@ -1,4 +1,4 @@
-## [791.Custom Sort String]
+## [791.Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
 <p>You are given two strings order and s. All the characters of <code>order</code> are <strong>unique</strong> and were sorted in some custom order previously.</p>
 
 <p>Permute the characters of <code>s</code> so that they match the order that <code>order</code> was sorted. More specifically, if a character <code>x</code> occurs before a character <code>y</code> in <code>order</code>, then <code>x</code> should occur before <code>y</code> in the permuted string.</p>

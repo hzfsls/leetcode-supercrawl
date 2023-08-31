@@ -1,3 +1,4 @@
+## [474.一和零 中文官方题解](https://leetcode.cn/problems/ones-and-zeroes/solutions/100000/yi-he-ling-by-leetcode-solution-u2z2)
 #### 方法一：动态规划
 
 这道题和经典的背包问题非常相似，但是和经典的背包问题只有一种容量不同，这道题有两种容量，即选取的字符串子集中的 $0$ 和 $1$ 的数量上限。

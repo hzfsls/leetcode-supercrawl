@@ -1,3 +1,4 @@
+## [1037.有效的回旋镖 中文官方题解](https://leetcode.cn/problems/valid-boomerang/solutions/100000/you-xiao-de-hui-xuan-biao-by-leetcode-so-yqby)
 #### 方法一：向量叉乘
 
 计算从 $\textit{points}[0]$ 开始，分别指向 $\textit{points}[1]$ 和 $\textit{points}[2]$ 的向量 $\vec{v}_1$ 和 $\vec{v}_2$。「三点各不相同且不在一条直线上」等价于「这两个向量的叉乘结果不为零」：

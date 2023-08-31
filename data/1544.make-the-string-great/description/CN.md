@@ -1,4 +1,4 @@
-## [1544.整理字符串]
+## [1544.整理字符串](https://leetcode.cn/problems/make-the-string-great/)
 <p>给你一个由大小写英文字母组成的字符串 <code>s</code> 。</p>
 
 <p>一个整理好的字符串中，两个相邻字符 <code>s[i]</code> 和 <code>s[i+1]</code>，其中 <code>0<= i <= s.length-2</code> ，要满足如下条件:</p>

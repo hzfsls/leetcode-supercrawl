@@ -1,4 +1,4 @@
-## [2717.半有序排列]
+## [2717.半有序排列](https://leetcode.cn/problems/semi-ordered-permutation/)
 <p>给你一个下标从 <strong>0</strong> 开始、长度为 <code>n</code> 的整数排列 <code>nums</code> 。</p>
 
 <p>如果排列的第一个数字等于 <code>1</code> 且最后一个数字等于 <code>n</code> ，则称其为 <strong>半有序排列</strong> 。你可以执行多次下述操作，直到将 <code>nums</code> 变成一个 <strong>半有序排列</strong> ：</p>

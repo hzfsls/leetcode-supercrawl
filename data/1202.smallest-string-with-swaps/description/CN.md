@@ -1,4 +1,4 @@
-## [1202.交换字符串中的元素]
+## [1202.交换字符串中的元素](https://leetcode.cn/problems/smallest-string-with-swaps/)
 <p>给你一个字符串&nbsp;<code>s</code>，以及该字符串中的一些「索引对」数组&nbsp;<code>pairs</code>，其中&nbsp;<code>pairs[i] =&nbsp;[a, b]</code>&nbsp;表示字符串中的两个索引（编号从 0 开始）。</p>
 
 <p>你可以 <strong>任意多次交换</strong> 在&nbsp;<code>pairs</code>&nbsp;中任意一对索引处的字符。</p>

@@ -1,4 +1,4 @@
-## [1522.N 叉树的直径]
+## [1522.N 叉树的直径](https://leetcode.cn/problems/diameter-of-n-ary-tree/)
 <p>给定一棵 N 叉树的根节点&nbsp;<code>root</code>&nbsp;，计算这棵树的直径长度。</p>
 
 <p>N 叉树的直径指的是树中任意两个节点间路径中<strong> 最长 </strong>路径的长度。这条路径可能经过根节点，也可能不经过根节点。</p>

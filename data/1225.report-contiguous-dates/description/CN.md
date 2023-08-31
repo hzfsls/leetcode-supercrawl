@@ -1,4 +1,4 @@
-## [1225.报告系统状态的连续日期]
+## [1225.报告系统状态的连续日期](https://leetcode.cn/problems/report-contiguous-dates/)
 <p>表：<code>Failed</code></p>
 
 <pre>

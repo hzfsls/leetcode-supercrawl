@@ -1,3 +1,4 @@
+## [1143.最长公共子序列 中文官方题解](https://leetcode.cn/problems/longest-common-subsequence/solutions/100000/zui-chang-gong-gong-zi-xu-lie-by-leetcod-y7u0)
 #### 方法一：动态规划
 
 最长公共子序列问题是典型的二维动态规划问题。

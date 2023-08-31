@@ -1,4 +1,4 @@
-## [2496.Maximum Value of a String in an Array]
+## [2496.Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
 <p>The <strong>value</strong> of an alphanumeric string can be defined as:</p>
 
 <ul>

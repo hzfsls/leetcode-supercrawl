@@ -1,3 +1,4 @@
+## [310.最小高度树 中文官方题解](https://leetcode.cn/problems/minimum-height-trees/solutions/100000/zui-xiao-gao-du-shu-by-leetcode-solution-6v6f)
 #### 方法一：广度优先搜索
 
 **思路与算法**

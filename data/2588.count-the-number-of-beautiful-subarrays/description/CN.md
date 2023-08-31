@@ -1,4 +1,4 @@
-## [2588.统计美丽子数组数目]
+## [2588.统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组<code>nums</code>&nbsp;。每次操作中，你可以：</p>
 
 <ul>

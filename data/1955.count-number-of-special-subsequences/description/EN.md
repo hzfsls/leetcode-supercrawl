@@ -1,4 +1,4 @@
-## [1955.Count Number of Special Subsequences]
+## [1955.Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)
 <p>A sequence is <strong>special</strong> if it consists of a <strong>positive</strong> number of <code>0</code>s, followed by a <strong>positive</strong> number of <code>1</code>s, then a <strong>positive</strong> number of <code>2</code>s.</p>
 
 <ul>

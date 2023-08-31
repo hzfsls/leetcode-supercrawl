@@ -1,4 +1,4 @@
-## [1848.Minimum Distance to the Target Element]
+## [1848.Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 <p>Given an integer array <code>nums</code> <strong>(0-indexed)</strong> and two integers <code>target</code> and <code>start</code>, find an index <code>i</code> such that <code>nums[i] == target</code> and <code>abs(i - start)</code> is <strong>minimized</strong>. Note that&nbsp;<code>abs(x)</code>&nbsp;is the absolute value of <code>x</code>.</p>
 
 <p>Return <code>abs(i - start)</code>.</p>

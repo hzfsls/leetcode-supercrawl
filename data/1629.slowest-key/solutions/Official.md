@@ -1,3 +1,4 @@
+## [1629.按键持续时间最长的键 中文官方题解](https://leetcode.cn/problems/slowest-key/solutions/100000/an-jian-chi-xu-shi-jian-zui-chang-de-jia-yn7u)
 #### 方法一：一次遍历
 
 对于 $0 \le i < n$，第 $i$ 个按下的键是 $\textit{keysPressed}[i]$，按键持续时间是 $\textit{releaseTimes}[i] - \textit{releaseTimes}[i - 1]$，这里规定 $\textit{releaseTimes}[-1] = 0$，因为第 $0$ 个键在时间 $0$ 被按下。

@@ -1,4 +1,4 @@
-## [2198.单因数三元组]
+## [2198.单因数三元组](https://leetcode.cn/problems/number-of-single-divisor-triplets/)
 <p>给定一个下标从 <strong>0</strong> 开始的正整数数组 <code>nums</code>。由三个&nbsp;<strong>不同&nbsp;</strong>索引&nbsp;<code>(i, j, k)</code> 组成的三元组，如果 <code>nums[i] + nums[j] + nums[k]</code> 能被 <code>nums[i]</code>、<code>nums[j]</code>&nbsp;或 <code>nums[k]</code> 中的&nbsp;<strong>一个&nbsp;</strong>整除，则称为 <code>nums</code> 的&nbsp;<strong>单因数三元组</strong>。</p>
 
 <p>返回 <em><code>nums</code> 的单因数三元组</em>。</p>

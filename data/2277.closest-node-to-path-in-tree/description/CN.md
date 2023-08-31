@@ -1,4 +1,4 @@
-## [2277.树中最接近路径的节点]
+## [2277.树中最接近路径的节点](https://leetcode.cn/problems/closest-node-to-path-in-tree/)
 <p>给定一个正整数 <code>n</code>，表示树中的节点数，编号从 <code>0</code> 到 <code>n - 1</code> (<strong>含边界</strong>)。还给定一个长度为 <code>n - 1</code> 的二维整数数组 <code>edges</code>，其中&nbsp;<code>edges[i] = [node1<sub>i</sub>, node2<sub>i</sub>]</code> 表示有一条&nbsp;<strong>双向&nbsp;</strong>边连接树中的 <code>node1<sub>i</sub></code> 和 <code>node2<sub>i</sub></code>。</p>
 
 <p>给定一个长度为 <code>m</code>&nbsp;，<strong>下标从 0 开始</strong>&nbsp;的整数数组 <code>query</code>，其中 <code>query[i] = [start<sub>i</sub>, end<sub>i</sub>, node<sub>i</sub>]</code>&nbsp;意味着对于第 <code>i</code> 个查询，您的任务是从 <code>start<sub>i</sub></code> 到 <code>end<sub>i</sub></code> 的路径上找到&nbsp;<strong>最接近</strong> <code>node<sub>i</sub></code><sub>&nbsp;</sub>的节点。</p>

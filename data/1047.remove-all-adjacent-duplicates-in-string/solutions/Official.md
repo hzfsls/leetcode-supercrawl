@@ -1,3 +1,4 @@
+## [1047.删除字符串中的所有相邻重复项 中文官方题解](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/solutions/100000/shan-chu-zi-fu-chuan-zhong-de-suo-you-xi-4ohr)
 #### 方法一：栈
 
 充分理解题意后，我们可以发现，当字符串中同时有多组相邻重复项时，我们无论是先删除哪一个，都不会影响最终的结果。因此我们可以从左向右顺次处理该字符串。

@@ -1,3 +1,4 @@
+## [2432.处理用时最长的那个任务的员工 中文官方题解](https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/solutions/100000/chu-li-yong-shi-zui-chang-de-na-ge-ren-w-calz)
 #### 方法一：枚举每一位员工
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1364.顾客的可信联系人数量]
+## [1364.顾客的可信联系人数量](https://leetcode.cn/problems/number-of-trusted-contacts-of-a-customer/)
 <p>顾客表：<code>Customers</code></p>
 
 <pre>+---------------+---------+

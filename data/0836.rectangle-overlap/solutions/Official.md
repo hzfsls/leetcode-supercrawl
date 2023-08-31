@@ -1,3 +1,4 @@
+## [836.矩形重叠 中文官方题解](https://leetcode.cn/problems/rectangle-overlap/solutions/100000/ju-xing-zhong-die-by-leetcode-solution)
 #### 方法一：检查位置
 
 **思路**

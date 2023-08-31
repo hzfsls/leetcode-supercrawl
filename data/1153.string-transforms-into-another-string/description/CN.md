@@ -1,4 +1,4 @@
-## [1153.字符串转化]
+## [1153.字符串转化](https://leetcode.cn/problems/string-transforms-into-another-string/)
 <p>给出两个长度相同的字符串&nbsp;<code>str1</code>&nbsp;和 <code>str2</code>。请你帮忙判断字符串 <code>str1</code> 能不能在 <strong>零次</strong>&nbsp;或 <strong>多次</strong>&nbsp;<em>转化</em>&nbsp;后变成字符串 <code>str2</code>。</p>
 
 <p>每一次转化时，你可以将 <code>str1</code> 中出现的&nbsp;<strong>所有</strong>&nbsp;相同字母变成其他&nbsp;<strong>任何</strong>&nbsp;小写英文字母。</p>

@@ -1,4 +1,4 @@
-## [1513.Number of Substrings With Only 1s]
+## [1513.Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
 <p>Given a binary string <code>s</code>, return <em>the number of substrings with all characters</em> <code>1</code><em>&#39;s</em>. Since the answer may be too large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>

@@ -1,4 +1,4 @@
-## [1045.Customers Who Bought All Products]
+## [1045.Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)
 <p>Table: <code>Customer</code></p>
 
 <pre>

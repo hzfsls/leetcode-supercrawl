@@ -1,4 +1,4 @@
-## [1066.Campus Bikes II]
+## [1066.Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)
 <p>On a campus represented as a 2D grid, there are <code>n</code> workers and <code>m</code> bikes, with <code>n &lt;= m</code>. Each worker and bike is a 2D coordinate on this grid.</p>
 
 <p>We assign one unique bike to each worker so that the sum of the <strong>Manhattan distances</strong> between each worker and their assigned bike is minimized.</p>

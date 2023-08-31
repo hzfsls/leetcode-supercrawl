@@ -1,4 +1,4 @@
-## [1471.The k Strongest Values in an Array]
+## [1471.The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)
 <p>Given an array of integers <code>arr</code> and an integer <code>k</code>.</p>
 
 <p>A value <code>arr[i]</code> is said to be stronger than a value <code>arr[j]</code> if <code>|arr[i] - m| &gt; |arr[j] - m|</code> where <code>m</code> is the <strong>median</strong> of the array.<br />

@@ -1,3 +1,4 @@
+## [1177.构建回文串检测 中文官方题解](https://leetcode.cn/problems/can-make-palindrome-from-substring/solutions/100000/gou-jian-hui-wen-chuan-jian-ce-by-leetco-e9i1)
 #### 方法一：前缀数组 + 位运算
 
 将 $26$ 个英文字母，对应 $26$ 个位来表示。比如字母 $\text{a}$ 对应 $1 << 0$, 字母 $\text{b}$ 对应 $1 << 1$，字母 $\text{c}$ 对应 $1 << 2$，以此类推。

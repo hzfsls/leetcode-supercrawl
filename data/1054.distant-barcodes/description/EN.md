@@ -1,4 +1,4 @@
-## [1054.Distant Barcodes]
+## [1054.Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
 <p>In a warehouse, there is a row of barcodes, where the <code>i<sup>th</sup></code> barcode is <code>barcodes[i]</code>.</p>
 
 <p>Rearrange the barcodes so that no two adjacent barcodes are equal. You may return any answer, and it is guaranteed an answer exists.</p>

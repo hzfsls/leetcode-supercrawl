@@ -1,3 +1,4 @@
+## [416.分割等和子集 中文官方题解](https://leetcode.cn/problems/partition-equal-subset-sum/solutions/100000/fen-ge-deng-he-zi-ji-by-leetcode-solution)
 ### 📺 视频题解  
 ![416.分割等和子集.mp4](1712d35b-f0ab-48aa-b964-fe22bf0a5931)
 

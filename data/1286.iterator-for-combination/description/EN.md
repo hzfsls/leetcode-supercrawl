@@ -1,4 +1,4 @@
-## [1286.Iterator for Combination]
+## [1286.Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
 <p>Design the <code>CombinationIterator</code> class:</p>
 
 <ul>

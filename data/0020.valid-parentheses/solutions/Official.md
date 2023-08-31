@@ -1,3 +1,4 @@
+## [20.有效的括号 中文官方题解](https://leetcode.cn/problems/valid-parentheses/solutions/100000/you-xiao-de-gua-hao-by-leetcode-solution)
 ### 📺 视频题解  
 ![20. 有效的括号(1).mp4](fd5011ac-7ea5-4797-86ae-56c2b5e2b21b)
 

@@ -1,3 +1,4 @@
+## [1043.分隔数组以得到最大和 中文官方题解](https://leetcode.cn/problems/partition-array-for-maximum-sum/solutions/100000/fen-ge-shu-zu-yi-de-dao-zui-da-he-by-lee-mydv)
 #### 方法一：动态规划
 
 **思路与算法**

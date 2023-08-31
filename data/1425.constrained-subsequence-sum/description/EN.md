@@ -1,4 +1,4 @@
-## [1425.Constrained Subsequence Sum]
+## [1425.Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
 <p>Given an integer array <code>nums</code> and an integer <code>k</code>, return the maximum sum of a <strong>non-empty</strong> subsequence of that array such that for every two <strong>consecutive</strong> integers in the subsequence, <code>nums[i]</code> and <code>nums[j]</code>, where <code>i &lt; j</code>, the condition <code>j - i &lt;= k</code> is satisfied.</p>
 
 <p>A <em>subsequence</em> of an array is obtained by deleting some number of elements (can be zero) from the array, leaving the remaining elements in their original order.</p>

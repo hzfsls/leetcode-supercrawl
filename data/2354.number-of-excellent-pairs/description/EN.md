@@ -1,4 +1,4 @@
-## [2354.Number of Excellent Pairs]
+## [2354.Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)
 <p>You are given a <strong>0-indexed</strong> positive integer array <code>nums</code> and a positive integer <code>k</code>.</p>
 
 <p>A pair of numbers <code>(num1, num2)</code> is called <strong>excellent</strong> if the following conditions are satisfied:</p>

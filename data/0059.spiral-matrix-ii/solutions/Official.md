@@ -1,3 +1,4 @@
+## [59.螺旋矩阵 II 中文官方题解](https://leetcode.cn/problems/spiral-matrix-ii/solutions/100000/luo-xuan-ju-zhen-ii-by-leetcode-solution-f7fp)
 #### 方法一：模拟
 
 模拟矩阵的生成。按照要求，初始位置设为矩阵的左上角，初始方向设为向右。若下一步的位置超出矩阵边界，或者是之前访问过的位置，则顺时针旋转，进入下一个方向。如此反复直至填入 $n^2$ 个元素。

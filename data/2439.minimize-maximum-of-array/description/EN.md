@@ -1,4 +1,4 @@
-## [2439.Minimize Maximum of Array]
+## [2439.Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)
 <p>You are given a <strong>0-indexed</strong> array <code>nums</code> comprising of <code>n</code> non-negative integers.</p>
 
 <p>In one operation, you must:</p>

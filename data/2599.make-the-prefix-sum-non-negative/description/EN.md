@@ -1,4 +1,4 @@
-## [2599.Make the Prefix Sum Non-negative]
+## [2599.Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. You can apply the following operation any number of times:</p>
 
 <ul>

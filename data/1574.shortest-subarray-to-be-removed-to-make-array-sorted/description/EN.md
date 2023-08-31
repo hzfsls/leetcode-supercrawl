@@ -1,4 +1,4 @@
-## [1574.Shortest Subarray to be Removed to Make Array Sorted]
+## [1574.Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
 <p>Given an integer array <code>arr</code>, remove a subarray (can be empty) from <code>arr</code> such that the remaining elements in <code>arr</code> are <strong>non-decreasing</strong>.</p>
 
 <p>Return <em>the length of the shortest subarray to remove</em>.</p>

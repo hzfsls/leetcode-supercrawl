@@ -1,3 +1,4 @@
+## [777.在LR字符串中交换相邻字符 中文官方题解](https://leetcode.cn/problems/swap-adjacent-in-lr-string/solutions/100000/zai-lrzi-fu-chuan-zhong-jiao-huan-xiang-rjaw8)
 #### 方法一：双指针
 
 每次移动操作将 $\text{``XL"}$ 替换成 $\text{``LX"}$，或将 $\text{``RX"}$ 替换成 $\text{``XR"}$，等价于如下操作：

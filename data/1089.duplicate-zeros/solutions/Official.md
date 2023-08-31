@@ -1,3 +1,4 @@
+## [1089.复写零 中文官方题解](https://leetcode.cn/problems/duplicate-zeros/solutions/100000/fu-xie-ling-by-leetcode-solution-7ael)
 #### 方法一：双指针
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1966.未排序数组中的可被二分搜索的数]
+## [1966.未排序数组中的可被二分搜索的数](https://leetcode.cn/problems/binary-searchable-numbers-in-an-unsorted-array/)
 <p>有一个 <strong>类似</strong> <a href="https://leetcode.com/explore/learn/card/binary-search/" target="_blank">二分搜索</a>的方法。 这个方法有两个入参: <code>sequence</code> 是一个整数数组， <code>target</code> 是一个整数。 这个方法可以判断 <code>target</code> 是否存在 <code>sequence</code>中。</p>
 
 <p>该方法的伪代码如下：</p>

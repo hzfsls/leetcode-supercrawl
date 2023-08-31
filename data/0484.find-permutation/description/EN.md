@@ -1,4 +1,4 @@
-## [484.Find Permutation]
+## [484.Find Permutation](https://leetcode.com/problems/find-permutation/)
 <p>A permutation <code>perm</code> of <code>n</code>&nbsp;integers of all the integers in the range <code>[1, n]</code> can be represented as a string <code>s</code> of length <code>n - 1</code> where:</p>
 
 <ul>

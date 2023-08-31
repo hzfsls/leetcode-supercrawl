@@ -1,4 +1,4 @@
-## [2168.每个数字的频率都相同的独特子字符串的数量]
+## [2168.每个数字的频率都相同的独特子字符串的数量](https://leetcode.cn/problems/unique-substrings-with-equal-digit-frequency/)
 给你一个由数字组成的字符串&nbsp;<code>s</code>，返回<em>&nbsp;</em><code>s</code><em>&nbsp;</em>中<strong>独特子字符串数量</strong>，其中的每一个数字出现的频率都相同<i>。</i>
 <p>&nbsp;</p>
 

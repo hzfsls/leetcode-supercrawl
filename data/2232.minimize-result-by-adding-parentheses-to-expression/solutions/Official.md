@@ -1,3 +1,4 @@
+## [2232.向表达式添加括号后的最小结果 中文官方题解](https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression/solutions/100000/xiang-biao-da-shi-tian-jia-gua-hao-hou-d-5ox4)
 #### 方法一：枚举
 
 **思路与算法**

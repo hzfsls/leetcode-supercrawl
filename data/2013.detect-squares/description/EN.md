@@ -1,4 +1,4 @@
-## [2013.Detect Squares]
+## [2013.Detect Squares](https://leetcode.com/problems/detect-squares/)
 <p>You are given a stream of points on the X-Y plane. Design an algorithm that:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [478.Generate Random Point in a Circle]
+## [478.Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
 <p>Given the radius and the position of the center of a circle, implement the function <code>randPoint</code> which generates a uniform random point inside the circle.</p>
 
 <p>Implement the <code>Solution</code> class:</p>

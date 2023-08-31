@@ -1,4 +1,4 @@
-## [1542.Find Longest Awesome Substring]
+## [1542.Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
 <p>You are given a string <code>s</code>. An <strong>awesome</strong> substring is a non-empty substring of <code>s</code> such that we can make any number of swaps in order to make it a palindrome.</p>
 
 <p>Return <em>the length of the maximum length <strong>awesome substring</strong> of</em> <code>s</code>.</p>

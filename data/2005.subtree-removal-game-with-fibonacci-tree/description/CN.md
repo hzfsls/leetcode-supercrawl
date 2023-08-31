@@ -1,4 +1,4 @@
-## [2005.斐波那契树的移除子树游戏]
+## [2005.斐波那契树的移除子树游戏](https://leetcode.cn/problems/subtree-removal-game-with-fibonacci-tree/)
 <p><strong>斐波那契</strong>树是一种按这种规则函数&nbsp;<code>order(n)</code>&nbsp;创建的二叉树：</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1513.仅含 1 的子串数 中文官方题解](https://leetcode.cn/problems/number-of-substrings-with-only-1s/solutions/100000/jin-han-1-de-zi-chuan-shu-by-leetcode-solution)
 #### 方法一：遍历字符串寻找最长子串
 
 如果一个所有字符都为 `1` 的字符串的长度为 `k`，则该字符串包含的所有字符都为 `1` 的子字符串（包括该字符串本身）的数量是 `k * (k + 1) / 2`。

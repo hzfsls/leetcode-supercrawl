@@ -1,3 +1,4 @@
+## [876.链表的中间结点 中文官方题解](https://leetcode.cn/problems/middle-of-the-linked-list/solutions/100000/lian-biao-de-zhong-jian-jie-dian-by-leetcode-solut)
 ### 📺 视频题解  
 ![876.链表的中间结点.mp4](6544e31e-367a-448b-92ec-566484b68874)
 

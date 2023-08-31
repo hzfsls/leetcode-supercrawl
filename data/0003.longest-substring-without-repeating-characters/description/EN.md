@@ -1,4 +1,4 @@
-## [3.Longest Substring Without Repeating Characters]
+## [3.Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 <p>Given a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty"><strong>substring</strong></span> without repeating characters.</p>
 
 <p>&nbsp;</p>

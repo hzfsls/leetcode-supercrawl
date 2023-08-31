@@ -1,3 +1,4 @@
+## [1221.分割平衡字符串 中文官方题解](https://leetcode.cn/problems/split-a-string-in-balanced-strings/solutions/100000/fen-ge-ping-heng-zi-fu-chuan-by-leetcode-7y8u)
 #### 方法一：贪心
 
 根据题意，对于一个平衡字符串 $s$，若 $s$ 能从中间某处分割成左右两个子串，若其中一个是平衡字符串，则另一个的 $\texttt{L}$ 和 $\texttt{R}$ 字符的数量必然是相同的，所以也一定是平衡字符串。

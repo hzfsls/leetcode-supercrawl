@@ -1,4 +1,4 @@
-## [637.Average of Levels in Binary Tree]
+## [637.Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 Given the <code>root</code> of a binary tree, return <em>the average value of the nodes on each level in the form of an array</em>. Answers within <code>10<sup>-5</sup></code> of the actual answer will be accepted.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

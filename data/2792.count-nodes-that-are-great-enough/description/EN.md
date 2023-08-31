@@ -1,4 +1,4 @@
-## [2792.Count Nodes That Are Great Enough]
+## [2792.Count Nodes That Are Great Enough](https://leetcode.com/problems/count-nodes-that-are-great-enough/)
 <p>You are given a <code>root</code> to a binary tree and an integer <code>k</code>. A node of this tree is called <strong>great enough</strong> if the followings hold:</p>
 
 <ul>

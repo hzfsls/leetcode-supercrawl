@@ -1,3 +1,4 @@
+## [1189.“气球” 的最大数量 中文官方题解](https://leetcode.cn/problems/maximum-number-of-balloons/solutions/100000/qi-qiu-de-zui-da-shu-liang-by-leetcode-s-nku5)
 #### 方法一：统计
 
 **思路**

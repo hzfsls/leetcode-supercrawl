@@ -1,4 +1,4 @@
-## [1087.花括号展开]
+## [1087.花括号展开](https://leetcode.cn/problems/brace-expansion/)
 <p>给定一个表示单词列表的字符串&nbsp;<code>s</code>&nbsp;。单词中的每个字母都有一个或多个选项。</p>
 
 <ul>

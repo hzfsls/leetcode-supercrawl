@@ -1,4 +1,4 @@
-## [1267.Count Servers that Communicate]
+## [1267.Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
 <p>You are given a map of a server center, represented as a <code>m * n</code> integer matrix&nbsp;<code>grid</code>, where 1 means that on that cell there is a server and 0 means that it is no server. Two servers are said to communicate if they are on the same row or on the same column.<br />
 <br />
 Return the number of servers&nbsp;that communicate with any other server.</p>

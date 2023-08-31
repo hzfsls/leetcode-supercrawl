@@ -1,4 +1,4 @@
-## [1386.安排电影院座位]
+## [1386.安排电影院座位](https://leetcode.cn/problems/cinema-seat-allocation/)
 <p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/03/21/cinema_seats_1.png" style="height: 149px; width: 400px;"></p>
 
 <p>如上图所示，电影院的观影厅中有 <code>n</code>&nbsp;行座位，行编号从 1&nbsp;到 <code>n</code>&nbsp;，且每一行内总共有 10 个座位，列编号从 1 到 10 。</p>

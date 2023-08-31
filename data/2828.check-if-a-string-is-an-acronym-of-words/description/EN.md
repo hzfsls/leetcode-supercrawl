@@ -1,4 +1,4 @@
-## [2828.Check if a String Is an Acronym of Words]
+## [2828.Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)
 <p>Given an array of strings <code>words</code> and a string <code>s</code>, determine if <code>s</code> is an <strong>acronym</strong> of words.</p>
 
 <p>The string <code>s</code> is considered an acronym of <code>words</code> if it can be formed by concatenating the <strong>first</strong> character of each string in <code>words</code> <strong>in order</strong>. For example, <code>&quot;ab&quot;</code> can be formed from <code>[&quot;apple&quot;, &quot;banana&quot;]</code>, but it can&#39;t be formed from <code>[&quot;bear&quot;, &quot;aardvark&quot;]</code>.</p>

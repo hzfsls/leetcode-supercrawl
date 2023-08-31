@@ -1,4 +1,4 @@
-## [1059.从始点到终点的所有路径]
+## [1059.从始点到终点的所有路径](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/)
 <p>给定有向图的边&nbsp;<code>edges</code>，以及该图的始点&nbsp;<code>source</code>&nbsp;和目标终点&nbsp;<code>destination</code>，确定从始点&nbsp;<code>source</code>&nbsp;出发的所有路径是否最终结束于目标终点&nbsp;<code>destination</code>，即：</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [1978.上级经理已离职的公司员工]
+## [1978.上级经理已离职的公司员工](https://leetcode.cn/problems/employees-whose-manager-left-the-company/)
 <p>表: <code>Employees</code></p>
 
 <pre>

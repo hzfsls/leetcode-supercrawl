@@ -1,4 +1,4 @@
-## [1182.与目标颜色间的最短距离]
+## [1182.与目标颜色间的最短距离](https://leetcode.cn/problems/shortest-distance-to-target-color/)
 <p>给你一个数组&nbsp;<code>colors</code>，里面有&nbsp;&nbsp;<code>1</code>、<code>2</code>、&nbsp;<code>3</code> 三种颜色。</p>
 
 <p>我们需要在&nbsp;<code>colors</code> 上进行一些查询操作 <code>queries</code>，其中每个待查项都由两个整数 <code>i</code> 和 <code>c</code> 组成。</p>

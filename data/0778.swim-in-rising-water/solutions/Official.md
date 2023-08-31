@@ -1,3 +1,4 @@
+## [778.水位上升的泳池中游泳 中文官方题解](https://leetcode.cn/problems/swim-in-rising-water/solutions/100000/shui-wei-shang-sheng-de-yong-chi-zhong-y-xm9i)
 #### 方法一：堆（优先队列）
 
 根据题意，假设在时间 $t$ 时能够到达方格 $(i,j)$，那么对于一个与之相邻的方格 $(i',j')$：

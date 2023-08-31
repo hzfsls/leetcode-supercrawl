@@ -1,4 +1,4 @@
-## [1515.Best Position for a Service Centre]
+## [1515.Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/)
 <p>A delivery company wants to build a new service center in a new city. The company knows the positions of all the customers in this city on a 2D-Map and wants to build the new center in a position such that <strong>the sum of the euclidean distances to all customers is minimum</strong>.</p>
 
 <p>Given an array <code>positions</code> where <code>positions[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> is the position of the <code>ith</code> customer on the map, return <em>the minimum sum of the euclidean distances</em> to all customers.</p>

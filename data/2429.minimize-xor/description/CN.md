@@ -1,4 +1,4 @@
-## [2429.最小 XOR]
+## [2429.最小 XOR](https://leetcode.cn/problems/minimize-xor/)
 <p>给你两个正整数 <code>num1</code> 和 <code>num2</code> ，找出满足下述条件的整数 <code>x</code> ：</p>
 
 <ul>

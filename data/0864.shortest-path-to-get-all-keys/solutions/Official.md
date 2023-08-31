@@ -1,3 +1,4 @@
+## [864.获取所有钥匙的最短路径 中文官方题解](https://leetcode.cn/problems/shortest-path-to-get-all-keys/solutions/100000/huo-qu-suo-you-yao-chi-de-zui-duan-lu-ji-uu5m)
 #### 方法一：状态压缩 + 广度优先搜索
 
 **思路与算法**

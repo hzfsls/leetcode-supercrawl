@@ -1,3 +1,4 @@
+## [870.优势洗牌 中文官方题解](https://leetcode.cn/problems/advantage-shuffle/solutions/100000/you-shi-xi-pai-by-leetcode-solution-sqsf)
 #### 方法一：贪心算法
 
 **思路与算法**

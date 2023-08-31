@@ -1,3 +1,4 @@
+## [830.较大分组的位置 中文官方题解](https://leetcode.cn/problems/positions-of-large-groups/solutions/100000/jiao-da-fen-zu-de-wei-zhi-by-leetcode-so-fi3n)
 #### 方法一：一次遍历
 
 **思路及解法**

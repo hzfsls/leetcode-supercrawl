@@ -1,4 +1,4 @@
-## [745.前缀和后缀搜索]
+## [745.前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/)
 <p>设计一个包含一些单词的特殊词典，并能够通过前缀和后缀来检索单词。</p>
 
 <p>实现 <code>WordFilter</code> 类：</p>

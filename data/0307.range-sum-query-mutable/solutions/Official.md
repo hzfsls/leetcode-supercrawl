@@ -1,3 +1,4 @@
+## [307.区域和检索 - 数组可修改 中文官方题解](https://leetcode.cn/problems/range-sum-query-mutable/solutions/100000/qu-yu-he-jian-suo-shu-zu-ke-xiu-gai-by-l-76xj)
 #### 方法一：分块处理
 
 **思路与算法**

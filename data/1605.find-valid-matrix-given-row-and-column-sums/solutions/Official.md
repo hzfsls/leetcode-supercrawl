@@ -1,3 +1,4 @@
+## [1605.给定行和列的和求可行矩阵 中文官方题解](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums/solutions/100000/gei-ding-xing-he-lie-de-he-qiu-ke-xing-j-u8dj)
 #### 方法一：贪心
 
 **思路与算法**

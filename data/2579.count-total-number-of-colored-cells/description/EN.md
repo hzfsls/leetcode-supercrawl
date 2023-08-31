@@ -1,4 +1,4 @@
-## [2579.Count Total Number of Colored Cells]
+## [2579.Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)
 <p>There exists an infinitely large two-dimensional grid of uncolored unit cells. You are given a positive integer <code>n</code>, indicating that you must do the following routine for <code>n</code> minutes:</p>
 
 <ul>

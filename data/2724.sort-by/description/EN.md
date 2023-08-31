@@ -1,4 +1,4 @@
-## [2724.Sort By]
+## [2724.Sort By](https://leetcode.com/problems/sort-by/)
 <p>Given an array <code>arr</code> and a function <code>fn</code>, return a sorted array <code>sortedArr</code>. You can assume&nbsp;<code>fn</code>&nbsp;only returns numbers and those numbers determine the sort order of&nbsp;<code>sortedArr</code>. <code>sortedArray</code> must be sorted in <strong>ascending order</strong> by <code>fn</code> output.</p>
 
 <p>You may assume that <code>fn</code> will never duplicate numbers for a given array.</p>

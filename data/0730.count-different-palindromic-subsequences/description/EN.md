@@ -1,4 +1,4 @@
-## [730.Count Different Palindromic Subsequences]
+## [730.Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
 <p>Given a string s, return <em>the number of different non-empty palindromic subsequences in</em> <code>s</code>. Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>A subsequence of a string is obtained by deleting zero or more characters from the string.</p>

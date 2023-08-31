@@ -1,3 +1,4 @@
+## [2465.不同的平均值数目 中文官方题解](https://leetcode.cn/problems/number-of-distinct-averages/solutions/100000/bu-tong-de-ping-jun-zhi-shu-mu-by-leetco-9279)
 #### 方法一：排序 + 哈希表
 
 **思路与算法**

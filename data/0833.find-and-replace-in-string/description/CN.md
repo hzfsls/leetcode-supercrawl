@@ -1,4 +1,4 @@
-## [833.字符串中的查找与替换]
+## [833.字符串中的查找与替换](https://leetcode.cn/problems/find-and-replace-in-string/)
 <p>你会得到一个字符串 <code>s</code>&nbsp;(索引从 0 开始)，你必须对它执行 <code>k</code> 个替换操作。替换操作以三个长度均为 <code>k</code> 的并行数组给出：<code>indices</code>,&nbsp;<code>sources</code>,&nbsp;&nbsp;<code>targets</code>。</p>
 
 <p>要完成第 <code>i</code> 个替换操作:</p>

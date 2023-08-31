@@ -1,4 +1,4 @@
-## [73.Set Matrix Zeroes]
+## [73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 <p>Given an <code>m x n</code> integer matrix <code>matrix</code>, if an element is <code>0</code>, set its entire row and column to <code>0</code>&#39;s.</p>
 
 <p>You must do it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in place</a>.</p>

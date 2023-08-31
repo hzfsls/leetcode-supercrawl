@@ -1,4 +1,4 @@
-## [2572.Count the Number of Square-Free Subsets]
+## [2572.Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)
 <p>You are given a positive integer <strong>0-indexed</strong>&nbsp;array <code>nums</code>.</p>
 
 <p>A subset of the array <code>nums</code> is <strong>square-free</strong> if the product of its elements is a <strong>square-free integer</strong>.</p>

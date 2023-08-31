@@ -1,4 +1,4 @@
-## [2346.以百分比计算排名]
+## [2346.以百分比计算排名](https://leetcode.cn/problems/compute-the-rank-as-a-percentage/)
 <p>表: <code>Students</code></p>
 
 <pre>

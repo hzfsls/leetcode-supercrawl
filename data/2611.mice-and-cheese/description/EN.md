@@ -1,4 +1,4 @@
-## [2611.Mice and Cheese]
+## [2611.Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)
 <p>There are two mice and <code>n</code> different types of cheese, each type of cheese should be eaten by exactly one mouse.</p>
 
 <p>A point of the cheese with index <code>i</code> (<strong>0-indexed</strong>) is:</p>

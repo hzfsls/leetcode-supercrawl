@@ -1,4 +1,4 @@
-## [1116.打印零与奇偶数]
+## [1116.打印零与奇偶数](https://leetcode.cn/problems/print-zero-even-odd/)
 <p>现有函数 <code>printNumber</code> 可以用一个整数参数调用，并输出该整数到控制台。</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [2371.Minimize Maximum Value in a Grid]
+## [2371.Minimize Maximum Value in a Grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid/)
 <p>You are given an <code>m x n</code> integer matrix <code>grid</code> containing <strong>distinct</strong> positive integers.</p>
 
 <p>You have to replace each integer in the matrix with a positive integer satisfying the following conditions:</p>

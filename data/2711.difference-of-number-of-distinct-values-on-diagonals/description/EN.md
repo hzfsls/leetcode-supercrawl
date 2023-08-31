@@ -1,4 +1,4 @@
-## [2711.Difference of Number of Distinct Values on Diagonals]
+## [2711.Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/)
 <p>Given a <strong>0-indexed</strong> 2D <code>grid</code> of size <code>m x n</code>, you should find the matrix <code>answer</code> of size <code>m x n</code>.</p>
 
 <p>The value of each cell <code>(r, c)</code> of the matrix <code>answer</code> is calculated in the following way:</p>

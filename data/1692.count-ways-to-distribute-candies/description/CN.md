@@ -1,4 +1,4 @@
-## [1692.计算分配糖果的不同方式]
+## [1692.计算分配糖果的不同方式](https://leetcode.cn/problems/count-ways-to-distribute-candies/)
 <p>现有 <code>n</code> 颗 <strong>不同</strong> 糖果（分别标记为 <code>1</code> 到 <code>n</code> ）和 <code>k</code> 个相同的手袋。请把糖果分配到各个手袋中并保证每个手袋里至少有一颗糖果。</p>
 
 <p>不考虑手袋和糖果的摆放顺序，会有多种不同的分配方式。如果某种分配方式中其中一个手袋里的糖果与另一种分配方式中所有手袋里的糖果都不相同，则认为这两种分配方式不同。</p>

@@ -1,3 +1,4 @@
+## [184.部门工资最高的员工 中文官方题解](https://leetcode.cn/problems/department-highest-salary/solutions/100000/bu-men-gong-zi-zui-gao-de-yuan-gong-by-l-jo1i)
 [TOC]
 
 ## 解决方案

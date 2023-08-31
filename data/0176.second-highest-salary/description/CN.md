@@ -1,4 +1,4 @@
-## [176.第二高的薪水]
+## [176.第二高的薪水](https://leetcode.cn/problems/second-highest-salary/)
 <code>Employee</code> 表：
 <div class="original__bRMd">
 <div>

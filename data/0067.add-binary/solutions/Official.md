@@ -1,3 +1,4 @@
+## [67.二进制求和 中文官方题解](https://leetcode.cn/problems/add-binary/solutions/100000/er-jin-zhi-qiu-he-by-leetcode-solution)
 #### 题目分析
 
 考虑一个最朴素的方法：先将 $a$ 和 $b$ 转化成十进制数，求和后再转化为二进制数。利用 Python 和 Java 自带的高精度运算，我们可以很简单地写出这个程序：

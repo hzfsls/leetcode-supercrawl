@@ -1,4 +1,4 @@
-## [2164.Sort Even and Odd Indices Independently]
+## [2164.Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. Rearrange the values of <code>nums</code> according to the following rules:</p>
 
 <ol>

@@ -1,4 +1,4 @@
-## [1724.检查边长度限制的路径是否存在 II]
+## [1724.检查边长度限制的路径是否存在 II](https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths-ii/)
 <p>一张有 <code>n</code> 个节点的无向图以边的列表 <code>edgeList</code> 的形式定义，其中 <code>edgeList[i] = [u<sub>i</sub>, v<sub>i</sub>, dis<sub>i</sub>]</code> 表示一条连接 <code>u<sub>i</sub></code> 和 <code>v<sub>i</sub></code> ，距离为 <code>dis<sub>i</sub></code> 的边。注意，同一对节点间可能有<strong>多条</strong>边，且该图可能不是连通的。</p>
 
 <p>实现 <code>DistanceLimitedPathsExist</code> 类：</p>

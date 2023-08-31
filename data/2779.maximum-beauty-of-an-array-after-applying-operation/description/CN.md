@@ -1,4 +1,4 @@
-## [2779.数组的最大美丽值]
+## [2779.数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 和一个 <strong>非负</strong> 整数 <code>k</code> 。</p>
 
 <p>在一步操作中，你可以执行下述指令：</p>

@@ -1,4 +1,4 @@
-## [1427.Perform String Shifts]
+## [1427.Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)
 <p>You are given a string <code>s</code> containing lowercase English letters, and a matrix <code>shift</code>, where <code>shift[i] = [direction<sub>i</sub>, amount<sub>i</sub>]</code>:</p>
 
 <ul>

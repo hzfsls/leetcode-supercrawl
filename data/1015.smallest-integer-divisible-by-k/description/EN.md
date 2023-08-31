@@ -1,4 +1,4 @@
-## [1015.Smallest Integer Divisible by K]
+## [1015.Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
 <p>Given a positive integer <code>k</code>, you need to find the <strong>length</strong> of the <strong>smallest</strong> positive integer <code>n</code> such that <code>n</code> is divisible by <code>k</code>, and <code>n</code> only contains the digit <code>1</code>.</p>
 
 <p>Return <em>the <strong>length</strong> of </em><code>n</code>. If there is no such <code>n</code>, return -1.</p>

@@ -1,4 +1,4 @@
-## [2137.通过倒水操作让所有的水桶所含水量相等]
+## [2137.通过倒水操作让所有的水桶所含水量相等](https://leetcode.cn/problems/pour-water-between-buckets-to-make-water-levels-equal/)
 <p>你有 <code>n</code> 个水桶，每个水桶中所含的水量用一个 <b>下标从 0 开始</b>&nbsp;的数组 <code>buckets</code> 给出，第 <code>i</code> 个水桶中有 <code>buckets[i]</code> 升水。</p>
 
 <p>你想让所有的水桶中所含的水量相同。你可以从一个水桶向其它任意一个水桶倒任意数量的水（可以不是整数）。但是，你每倒 <code>k</code> 升水，<strong>百分之</strong> <code>loss</code> 的水会洒掉。</p>

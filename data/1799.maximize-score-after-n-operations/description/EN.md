@@ -1,4 +1,4 @@
-## [1799.Maximize Score After N Operations]
+## [1799.Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
 <p>You are given <code>nums</code>, an array of positive integers of size <code>2 * n</code>. You must perform <code>n</code> operations on this array.</p>
 
 <p>In the <code>i<sup>th</sup></code> operation <strong>(1-indexed)</strong>, you will:</p>

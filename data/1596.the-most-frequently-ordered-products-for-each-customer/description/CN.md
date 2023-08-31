@@ -1,4 +1,4 @@
-## [1596.每位顾客最经常订购的商品]
+## [1596.每位顾客最经常订购的商品](https://leetcode.cn/problems/the-most-frequently-ordered-products-for-each-customer/)
 <p>表：<code>Customers</code></p>
 
 <pre>

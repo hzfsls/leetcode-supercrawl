@@ -1,4 +1,4 @@
-## [730.统计不同回文子序列]
+## [730.统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/)
 <p>给你一个字符串 <code>s</code> ，返回 <code>s</code>&nbsp;中不同的非空回文子序列个数 。由于答案可能很大，请返回对 <code>10<sup>9</sup> + 7</code> <strong>取余</strong> 的结果。</p>
 
 <p>字符串的子序列可以经由字符串删除 0 个或多个字符获得。</p>

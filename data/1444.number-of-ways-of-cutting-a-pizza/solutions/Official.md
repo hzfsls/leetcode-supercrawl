@@ -1,3 +1,4 @@
+## [1444.切披萨的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-of-cutting-a-pizza/solutions/100000/qie-pi-sa-de-fang-an-shu-by-leetcode-sol-7ik7)
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [625.最小因式分解 中文官方题解](https://leetcode.cn/problems/minimum-factorization/solutions/100000/zui-xiao-yin-shi-fen-jie-by-leetcode-sol-wb3r)
 [TOC]
 
  ## 解决方案

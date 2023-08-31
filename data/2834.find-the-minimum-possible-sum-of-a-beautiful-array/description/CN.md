@@ -1,4 +1,4 @@
-## [2834.找出美丽数组的最小和]
+## [2834.找出美丽数组的最小和](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)
 <p>给你两个正整数：<code>n</code> 和 <code>target</code> 。</p>
 
 <p>如果数组 <code>nums</code> 满足下述条件，则称其为 <strong>美丽数组</strong> 。</p>

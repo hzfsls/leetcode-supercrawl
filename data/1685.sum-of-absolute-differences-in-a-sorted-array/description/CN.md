@@ -1,4 +1,4 @@
-## [1685.有序数组中差绝对值之和]
+## [1685.有序数组中差绝对值之和](https://leetcode.cn/problems/sum-of-absolute-differences-in-a-sorted-array/)
 <p>给你一个 <strong>非递减 </strong>有序整数数组 <code>nums</code> 。</p>
 
 <p>请你建立并返回一个整数数组<em> </em><code>result</code>，它跟<em> </em><code>nums</code> 长度相同，且<code>result[i]</code> 等于<em> </em><code>nums[i]</code> 与数组中所有其他元素差的绝对值之和。</p>

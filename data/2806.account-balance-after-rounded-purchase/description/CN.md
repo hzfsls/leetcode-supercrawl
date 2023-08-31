@@ -1,4 +1,4 @@
-## [2806.取整购买后的账户余额]
+## [2806.取整购买后的账户余额](https://leetcode.cn/problems/account-balance-after-rounded-purchase/)
 <p>一开始，你的银行账户里有&nbsp;<code>100</code>&nbsp;块钱。</p>
 
 <p>给你一个整数<code>purchaseAmount</code>&nbsp;，它表示你在一次购买中愿意支出的金额。</p>

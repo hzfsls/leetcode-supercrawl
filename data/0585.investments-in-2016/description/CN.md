@@ -1,4 +1,4 @@
-## [585.2016年的投资]
+## [585.2016年的投资](https://leetcode.cn/problems/investments-in-2016/)
 <p><code>Insurance</code> 表：</p>
 
 <div class="original__bRMd">

@@ -1,4 +1,4 @@
-## [168.Excel表列名称]
+## [168.Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/)
 <p>给你一个整数 <code>columnNumber</code> ，返回它在 Excel 表中相对应的列名称。</p>
 
 <p>例如：</p>

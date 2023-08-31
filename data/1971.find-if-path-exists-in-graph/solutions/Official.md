@@ -1,3 +1,4 @@
+## [1971.寻找图中是否存在路径 中文官方题解](https://leetcode.cn/problems/find-if-path-exists-in-graph/solutions/100000/xun-zhao-tu-zhong-shi-fou-cun-zai-lu-jin-d0q0)
 #### 前言
 
 题目要求判断是否存在从起点 $\textit{source}$ 到终点 $\textit{destination}$ 的有效路径，等价于求图中两个顶点 $\textit{source},\textit{destination}$ 是否连通。两点连通性问题为经典问题，一般我们可以使用广度优先搜索或深度优先搜索，以及并查集来解决。

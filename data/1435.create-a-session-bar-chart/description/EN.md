@@ -1,4 +1,4 @@
-## [1435.Create a Session Bar Chart]
+## [1435.Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/)
 <p>Table: <code>Sessions</code></p>
 
 <pre>

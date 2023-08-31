@@ -1,4 +1,4 @@
-## [2544.交替数字和]
+## [2544.交替数字和](https://leetcode.cn/problems/alternating-digit-sum/)
 <p>给你一个正整数 <code>n</code> 。<code>n</code> 中的每一位数字都会按下述规则分配一个符号：</p>
 
 <ul>

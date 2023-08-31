@@ -1,4 +1,4 @@
-## [1718.Construct the Lexicographically Largest Valid Sequence]
+## [1718.Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)
 <p>Given an integer <code>n</code>, find a sequence that satisfies all of the following:</p>
 
 <ul>

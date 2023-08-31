@@ -1,4 +1,4 @@
-## [1120.Maximum Average Subtree]
+## [1120.Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)
 <p>Given the <code>root</code> of a binary tree, return <em>the maximum <strong>average</strong> value of a <strong>subtree</strong> of that tree</em>. Answers within <code>10<sup>-5</sup></code> of the actual answer will be accepted.</p>
 
 <p>A <strong>subtree</strong> of a tree is any node of that tree plus all its descendants.</p>

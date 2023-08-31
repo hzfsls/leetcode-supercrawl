@@ -1,4 +1,4 @@
-## [1728.Cat and Mouse II]
+## [1728.Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)
 <p>A game is played by a cat and a mouse named Cat and Mouse.</p>
 
 <p>The environment is represented by a <code>grid</code> of size <code>rows x cols</code>, where each element is a wall, floor, player (Cat, Mouse), or food.</p>

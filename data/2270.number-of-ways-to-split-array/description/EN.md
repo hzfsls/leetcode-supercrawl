@@ -1,4 +1,4 @@
-## [2270.Number of Ways to Split Array]
+## [2270.Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p><code>nums</code> contains a <strong>valid split</strong> at index <code>i</code> if the following are true:</p>

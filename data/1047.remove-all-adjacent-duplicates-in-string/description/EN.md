@@ -1,4 +1,4 @@
-## [1047.Remove All Adjacent Duplicates In String]
+## [1047.Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 <p>You are given a string <code>s</code> consisting of lowercase English letters. A <strong>duplicate removal</strong> consists of choosing two <strong>adjacent</strong> and <strong>equal</strong> letters and removing them.</p>
 
 <p>We repeatedly make <strong>duplicate removals</strong> on <code>s</code> until we no longer can.</p>

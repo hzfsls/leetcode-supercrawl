@@ -1,4 +1,4 @@
-## [2519.Count the Number of K-Big Indices]
+## [2519.Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a positive integer <code>k</code>.</p>
 
 <p>We call an index <code>i</code> <strong>k-big</strong> if the following conditions are satisfied:</p>

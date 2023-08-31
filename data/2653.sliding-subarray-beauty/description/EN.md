@@ -1,4 +1,4 @@
-## [2653.Sliding Subarray Beauty]
+## [2653.Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)
 <p>Given an integer array <code>nums</code> containing <code>n</code> integers, find the <strong>beauty</strong> of each subarray of size <code>k</code>.</p>
 
 <p>The <strong>beauty</strong> of a subarray is the <code>x<sup>th</sup></code><strong> smallest integer </strong>in the subarray if it is <strong>negative</strong>, or <code>0</code> if there are fewer than <code>x</code> negative integers.</p>

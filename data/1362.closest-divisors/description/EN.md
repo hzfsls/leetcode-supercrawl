@@ -1,4 +1,4 @@
-## [1362.Closest Divisors]
+## [1362.Closest Divisors](https://leetcode.com/problems/closest-divisors/)
 <p>Given an integer <code>num</code>, find the closest two integers in absolute difference whose product equals&nbsp;<code>num + 1</code>&nbsp;or <code>num + 2</code>.</p>
 
 <p>Return the two integers in any order.</p>

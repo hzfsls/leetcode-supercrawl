@@ -1,4 +1,4 @@
-## [1049.Last Stone Weight II]
+## [1049.Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
 <p>You are given an array of integers <code>stones</code> where <code>stones[i]</code> is the weight of the <code>i<sup>th</sup></code> stone.</p>
 
 <p>We are playing a game with the stones. On each turn, we choose any two stones and smash them together. Suppose the stones have weights <code>x</code> and <code>y</code> with <code>x &lt;= y</code>. The result of this smash is:</p>

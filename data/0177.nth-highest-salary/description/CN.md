@@ -1,4 +1,4 @@
-## [177.第N高的薪水]
+## [177.第N高的薪水](https://leetcode.cn/problems/nth-highest-salary/)
 <p>表:&nbsp;<code>Employee</code></p>
 
 <pre>

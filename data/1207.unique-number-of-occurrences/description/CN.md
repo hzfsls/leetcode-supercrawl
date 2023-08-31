@@ -1,4 +1,4 @@
-## [1207.独一无二的出现次数]
+## [1207.独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/)
 <p>给你一个整数数组&nbsp;<code>arr</code>，请你帮忙统计数组中每个数的出现次数。</p>
 
 <p>如果每个数的出现次数都是独一无二的，就返回&nbsp;<code>true</code>；否则返回 <code>false</code>。</p>

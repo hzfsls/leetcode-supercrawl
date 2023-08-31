@@ -1,4 +1,4 @@
-## [195.第十行]
+## [195.第十行](https://leetcode.cn/problems/tenth-line/)
 <p>给定一个文本文件&nbsp;<code>file.txt</code>，请只打印这个文件中的第十行。</p>
 
 <p><strong>示例:</strong></p>

@@ -1,4 +1,4 @@
-## [313.Super Ugly Number]
+## [313.Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
 <p>A <strong>super ugly number</strong> is a positive integer whose prime factors are in the array <code>primes</code>.</p>
 
 <p>Given an integer <code>n</code> and an array of integers <code>primes</code>, return <em>the</em> <code>n<sup>th</sup></code> <em><strong>super ugly number</strong></em>.</p>

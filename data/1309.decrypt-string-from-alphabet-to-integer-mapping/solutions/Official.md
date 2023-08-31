@@ -1,3 +1,4 @@
+## [1309.解码字母到整数映射 中文官方题解](https://leetcode.cn/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/100000/jie-ma-zi-mu-dao-zheng-shu-ying-she-by-leetcode-so)
 #### 方法一：遍历
 
 我们对字符串 `s` 进行顺序遍历。

@@ -1,4 +1,4 @@
-## [966.Vowel Spellchecker]
+## [966.Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
 <p>Given a <code>wordlist</code>, we want to implement a spellchecker that converts a query word into a correct word.</p>
 
 <p>For a given <code>query</code> word, the spell checker handles two categories of spelling mistakes:</p>

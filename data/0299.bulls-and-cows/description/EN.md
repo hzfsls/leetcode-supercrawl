@@ -1,4 +1,4 @@
-## [299.Bulls and Cows]
+## [299.Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 <p>You are playing the <strong><a href="https://en.wikipedia.org/wiki/Bulls_and_Cows" target="_blank">Bulls and Cows</a></strong> game with your friend.</p>
 
 <p>You write down a secret number and ask your friend to guess what the number is. When your friend makes a guess, you provide a hint with the following info:</p>

@@ -1,3 +1,4 @@
+## [39.组合总和 中文官方题解](https://leetcode.cn/problems/combination-sum/solutions/100000/zu-he-zong-he-by-leetcode-solution)
 #### 方法一：搜索回溯
 
 **思路与算法**

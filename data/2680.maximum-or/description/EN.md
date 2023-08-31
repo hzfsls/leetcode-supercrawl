@@ -1,4 +1,4 @@
-## [2680.Maximum OR]
+## [2680.Maximum OR](https://leetcode.com/problems/maximum-or/)
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>. In an operation, you can choose an element and multiply it by <code>2</code>.</p>
 
 <p>Return <em>the maximum possible value of </em><code>nums[0] | nums[1] | ... | nums[n - 1]</code> <em>that can be obtained after applying the operation on nums at most </em><code>k</code><em> times</em>.</p>

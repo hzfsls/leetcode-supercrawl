@@ -1,4 +1,4 @@
-## [762.二进制表示中质数个计算置位]
+## [762.二进制表示中质数个计算置位](https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/)
 <p>给你两个整数&nbsp;<code>left</code>&nbsp;和&nbsp;<code>right</code> ，在闭区间 <code>[left, right]</code>&nbsp;范围内，统计并返回 <strong>计算置位位数为质数</strong> 的整数个数。</p>
 
 <p><strong>计算置位位数</strong> 就是二进制表示中 <code>1</code> 的个数。</p>

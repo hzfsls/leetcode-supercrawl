@@ -1,3 +1,4 @@
+## [2225.找出输掉零场或一场比赛的玩家 中文官方题解](https://leetcode.cn/problems/find-players-with-zero-or-one-losses/solutions/100000/zhao-chu-shu-diao-ling-chang-huo-yi-chan-fpsj)
 #### 方法一：哈希表
 
 **思路与算法**

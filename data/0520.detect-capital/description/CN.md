@@ -1,4 +1,4 @@
-## [520.检测大写字母]
+## [520.检测大写字母](https://leetcode.cn/problems/detect-capital/)
 <p>我们定义，在以下情况时，单词的大写用法是正确的：</p>
 
 <ul>

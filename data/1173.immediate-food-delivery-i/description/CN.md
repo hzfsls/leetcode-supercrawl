@@ -1,4 +1,4 @@
-## [1173.即时食物配送 I]
+## [1173.即时食物配送 I](https://leetcode.cn/problems/immediate-food-delivery-i/)
 <p>配送表: <code>Delivery</code></p>
 
 <pre>

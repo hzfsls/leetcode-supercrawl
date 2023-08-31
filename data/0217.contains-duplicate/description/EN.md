@@ -1,4 +1,4 @@
-## [217.Contains Duplicate]
+## [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 <p>Given an integer array <code>nums</code>, return <code>true</code> if any value appears <strong>at least twice</strong> in the array, and return <code>false</code> if every element is distinct.</p>
 
 <p>&nbsp;</p>

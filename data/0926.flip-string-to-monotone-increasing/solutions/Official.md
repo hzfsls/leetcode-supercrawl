@@ -1,3 +1,4 @@
+## [926.将字符串翻转到单调递增 中文官方题解](https://leetcode.cn/problems/flip-string-to-monotone-increasing/solutions/100000/jiang-zi-fu-chuan-fan-zhuan-dao-dan-diao-stjd)
 #### 方法一：动态规划
 
 单调递增的字符串满足以下性质：

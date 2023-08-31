@@ -1,4 +1,4 @@
-## [2636.Promise 对象池]
+## [2636.Promise 对象池](https://leetcode.cn/problems/promise-pool/)
 <p>请你编写一个异步函数 <code>promisePool</code> ，它接收一个异步函数数组 <code>functions</code> 和 <strong>池限制</strong> <code>n</code>。它应该返回一个 promise 对象，当所有输入函数都执行完毕后，promise 对象就执行完毕。</p>
 
 <p><strong>池限制</strong> 定义是一次可以挂起的最多 promise 对象的数量。<code>promisePool</code> 应该开始执行尽可能多的函数，并在旧的 promise 执行完毕后继续执行新函数。<code>promisePool</code> 应该先执行 <code>functions[i]</code>，再执行 <code>functions[i + 1]</code>，然后执行&nbsp;<code>functions[i + 2]</code>，等等。当最后一个 promise 执行完毕时，<code>promisePool</code> 也应该执行完毕。</p>

@@ -1,3 +1,4 @@
+## [1002.查找共用字符 中文官方题解](https://leetcode.cn/problems/find-common-characters/solutions/100000/cha-zhao-chang-yong-zi-fu-by-leetcode-solution)
 #### 方法一：计数
 
 **思路与算法**

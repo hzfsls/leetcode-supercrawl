@@ -1,4 +1,4 @@
-## [997.Find the Town Judge]
+## [997.Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 <p>In a town, there are <code>n</code> people labeled from <code>1</code> to <code>n</code>. There is a rumor that one of these people is secretly the town judge.</p>
 
 <p>If the town judge exists, then:</p>

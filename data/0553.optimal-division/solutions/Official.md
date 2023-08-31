@@ -1,3 +1,4 @@
+## [553.最优除法 中文官方题解](https://leetcode.cn/problems/optimal-division/solutions/100000/zui-you-chu-fa-by-leetcode-solution-lf4c)
 #### 方法一：动态规划
 
 **思路**

@@ -1,3 +1,4 @@
+## [383.赎金信 中文官方题解](https://leetcode.cn/problems/ransom-note/solutions/100000/shu-jin-xin-by-leetcode-solution-ji8a)
 #### 方法一：字符统计
 
 题目要求使用字符串 $\textit{magazine}$ 中的字符来构建新的字符串 $\textit{ransomNote}$，且$\textit{ransomNote}$ 中的每个字符只能使用一次，只需要满足字符串 $\textit{magazine}$ 中的每个英文字母 $(\texttt{'a'-'z'})$ 的统计次数都大于等于 $\textit{ransomNote}$ 中相同字母的统计次数即可。

@@ -1,4 +1,4 @@
-## [1263.Minimum Moves to Move a Box to Their Target Location]
+## [1263.Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)
 <p>A storekeeper is a game in which the player pushes boxes around in a warehouse trying to get them to target locations.</p>
 
 <p>The game is represented by an <code>m x n</code> grid of characters <code>grid</code> where each element is a wall, floor, or box.</p>

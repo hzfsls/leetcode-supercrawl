@@ -1,3 +1,4 @@
+## [1553.吃掉 N 个橘子的最少天数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-days-to-eat-n-oranges/solutions/100000/chi-diao-n-ge-ju-zi-de-zui-shao-tian-shu-by-leetco)
 #### 前言
 
 我们可以容易地想出一种递推的做法。设 $f(i)$ 表示吃完 $i$ 个橘子需要的最少时间，则有递推式：

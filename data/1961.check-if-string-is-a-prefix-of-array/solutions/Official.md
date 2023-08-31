@@ -1,3 +1,4 @@
+## [1961.检查字符串是否为数组前缀 中文官方题解](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/solutions/100000/jian-cha-zi-fu-chuan-shi-fou-wei-shu-zu-xxpvl)
 #### 方法一：逐字符比较
 
 **思路与算法**

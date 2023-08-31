@@ -1,4 +1,4 @@
-## [478.在圆内随机生成点]
+## [478.在圆内随机生成点](https://leetcode.cn/problems/generate-random-point-in-a-circle/)
 <p>给定圆的半径和圆心的位置，实现函数 <code>randPoint</code> ，在圆中产生均匀随机点。</p>
 
 <p>实现&nbsp;<code>Solution</code>&nbsp;类:</p>

@@ -1,4 +1,4 @@
-## [1134.Armstrong Number]
+## [1134.Armstrong Number](https://leetcode.com/problems/armstrong-number/)
 <p>Given an integer <code>n</code>, return <code>true</code> <em>if and only if it is an <strong>Armstrong number</strong></em>.</p>
 
 <p>The <code>k</code>-digit number <code>n</code> is an Armstrong number if and only if the <code>k<sup>th</sup></code> power of each digit sums to <code>n</code>.</p>

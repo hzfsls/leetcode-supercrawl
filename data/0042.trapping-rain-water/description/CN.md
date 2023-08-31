@@ -1,4 +1,4 @@
-## [42.接雨水]
+## [42.接雨水](https://leetcode.cn/problems/trapping-rain-water/)
 <p>给定&nbsp;<code>n</code> 个非负整数表示每个宽度为 <code>1</code> 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水。</p>
 
 <p>&nbsp;</p>

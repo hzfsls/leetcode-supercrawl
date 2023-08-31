@@ -1,4 +1,4 @@
-## [2512.Reward Top K Students]
+## [2512.Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)
 <p>You are given two string arrays <code>positive_feedback</code> and <code>negative_feedback</code>, containing the words denoting positive and negative feedback, respectively. Note that <strong>no</strong> word is both positive and negative.</p>
 
 <p>Initially every student has <code>0</code> points. Each positive word in a feedback report <strong>increases</strong> the points of a student by <code>3</code>, whereas each negative word <strong>decreases</strong> the points by <code>1</code>.</p>

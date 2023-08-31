@@ -1,4 +1,4 @@
-## [2408.Design SQL]
+## [2408.Design SQL](https://leetcode.com/problems/design-sql/)
 <p>You are given <code>n</code> tables represented with two arrays <code>names</code> and <code>columns</code>, where <code>names[i]</code> is the name of the <code>i<sup>th</sup></code> table and <code>columns[i]</code> is the number of columns of the <code>i<sup>th</sup></code> table.</p>
 
 <p>You should be able to perform the following <strong>operations</strong>:</p>

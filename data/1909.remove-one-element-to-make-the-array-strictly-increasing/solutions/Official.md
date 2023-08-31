@@ -1,3 +1,4 @@
+## [1909.删除一个元素使数组严格递增 中文官方题解](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/solutions/100000/shan-chu-yi-ge-yuan-su-shi-shu-zu-yan-ge-tnr7)
 #### 方法一：寻找非递增相邻下标对
 
 **思路与算法**

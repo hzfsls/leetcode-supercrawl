@@ -1,3 +1,4 @@
+## [1732.找到最高海拔 中文官方题解](https://leetcode.cn/problems/find-the-highest-altitude/solutions/100000/zhao-dao-zui-gao-hai-ba-by-leetcode-solu-l01c)
 #### 方法一：前缀和
 
 **思路与算法**

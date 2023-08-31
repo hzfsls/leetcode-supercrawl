@@ -1,3 +1,4 @@
+## [1399.统计最大组的数目 中文官方题解](https://leetcode.cn/problems/count-largest-group/solutions/100000/tong-ji-zui-da-zu-de-shu-mu-by-leetcode-solution)
 #### 方法一：哈希表
 
 **思路**

@@ -1,4 +1,4 @@
-## [808.Soup Servings]
+## [808.Soup Servings](https://leetcode.com/problems/soup-servings/)
 <p>There are two types of soup: <strong>type A</strong> and <strong>type B</strong>. Initially, we have <code>n</code> ml of each type of soup. There are four kinds of operations:</p>
 
 <ol>

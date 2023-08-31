@@ -1,4 +1,4 @@
-## [1778.未知网格中的最短路径]
+## [1778.未知网格中的最短路径](https://leetcode.cn/problems/shortest-path-in-a-hidden-grid/)
 <p>这是一个<strong>交互式的问题。</strong></p>
 
 <p>一个未知的网格里有一个机器人，你需要让机器人从起点走到终点。这个网格的大小是 <code>m x n</code>，网格中的每个位置只会是可通行和不可通行两种状态。题目<strong>保证</strong>机器人的起点和终点不同，且都是可通行的。</p>

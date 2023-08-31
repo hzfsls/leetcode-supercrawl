@@ -1,3 +1,4 @@
+## [1562.查找大小为 M 的最新分组 中文官方题解](https://leetcode.cn/problems/find-latest-group-of-size-m/solutions/100000/cha-zhao-da-xiao-wei-m-de-zui-xin-fen-zu-by-leetco)
 #### 方法一：模拟
 
 **思路与算法**

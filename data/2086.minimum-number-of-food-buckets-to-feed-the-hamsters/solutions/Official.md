@@ -1,3 +1,4 @@
+## [2086.从房屋收集雨水需要的最少水桶数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/solutions/100000/cong-fang-wu-shou-ji-yu-shui-xu-yao-de-z-w2vj)
 #### 方法一：贪心
 
 **思路与算法**

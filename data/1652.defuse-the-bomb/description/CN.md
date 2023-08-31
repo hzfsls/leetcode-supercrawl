@@ -1,4 +1,4 @@
-## [1652.拆炸弹]
+## [1652.拆炸弹](https://leetcode.cn/problems/defuse-the-bomb/)
 <p>你有一个炸弹需要拆除，时间紧迫！你的情报员会给你一个长度为 <code>n</code> 的 <strong>循环</strong> 数组 <code>code</code> 以及一个密钥 <code>k</code> 。</p>
 
 <p>为了获得正确的密码，你需要替换掉每一个数字。所有数字会 <strong>同时</strong> 被替换。</p>

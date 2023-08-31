@@ -1,4 +1,4 @@
-## [1098.小众书籍]
+## [1098.小众书籍](https://leetcode.cn/problems/unpopular-books/)
 <p>书籍表&nbsp;<code>Books</code>：</p>
 
 <pre>

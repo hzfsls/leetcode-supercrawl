@@ -1,4 +1,4 @@
-## [244.Shortest Word Distance II]
+## [244.Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)
 <p>Design a data structure that will be initialized with a string array, and then it should answer queries of the shortest distance between two different strings from the array.</p>
 
 <p>Implement the <code>WordDistance</code> class:</p>

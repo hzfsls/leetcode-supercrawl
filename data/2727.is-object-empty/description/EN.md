@@ -1,4 +1,4 @@
-## [2727.Is Object Empty]
+## [2727.Is Object Empty](https://leetcode.com/problems/is-object-empty/)
 <p>Given an object or an array, return if it is empty.</p>
 
 <ul>

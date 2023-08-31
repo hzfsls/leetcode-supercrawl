@@ -1,3 +1,4 @@
+## [2180.统计各位数字之和为偶数的整数个数 中文官方题解](https://leetcode.cn/problems/count-integers-with-even-digit-sum/solutions/100000/tong-ji-ge-wei-shu-zi-zhi-he-wei-ou-shu-rvqol)
 #### 方法一：暴力枚举
 
 枚举位于区间 $[1, \textit{num}]$ 内的所有正整数，如果正整数的各位数字之和为偶数，那么将结果加 $1$，最后返回结果。

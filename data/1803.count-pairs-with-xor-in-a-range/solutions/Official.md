@@ -1,3 +1,4 @@
+## [1803.统计异或值在范围内的数对有多少 中文官方题解](https://leetcode.cn/problems/count-pairs-with-xor-in-a-range/solutions/100000/tong-ji-yi-huo-zhi-zai-fan-wei-nei-de-sh-cu18)
 #### 方法一：字典树
 
 **思路与算法**

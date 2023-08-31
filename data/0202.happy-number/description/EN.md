@@ -1,4 +1,4 @@
-## [202.Happy Number]
+## [202.Happy Number](https://leetcode.com/problems/happy-number/)
 <p>Write an algorithm to determine if a number <code>n</code> is happy.</p>
 
 <p>A <strong>happy number</strong> is a number defined by the following process:</p>

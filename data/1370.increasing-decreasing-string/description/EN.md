@@ -1,4 +1,4 @@
-## [1370.Increasing Decreasing String]
+## [1370.Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)
 <p>You are given a string <code>s</code>. Reorder the string using the following algorithm:</p>
 
 <ol>

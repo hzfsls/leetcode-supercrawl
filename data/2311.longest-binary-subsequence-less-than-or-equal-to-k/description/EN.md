@@ -1,4 +1,4 @@
-## [2311.Longest Binary Subsequence Less Than or Equal to K]
+## [2311.Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)
 <p>You are given a binary string <code>s</code> and a positive integer <code>k</code>.</p>
 
 <p>Return <em>the length of the <strong>longest</strong> subsequence of </em><code>s</code><em> that makes up a <strong>binary</strong> number less than or equal to</em> <code>k</code>.</p>

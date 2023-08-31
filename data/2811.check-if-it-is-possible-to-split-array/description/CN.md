@@ -1,4 +1,4 @@
-## [2811.判断是否能拆分数组]
+## [2811.判断是否能拆分数组](https://leetcode.cn/problems/check-if-it-is-possible-to-split-array/)
 <p>给你一个长度为 <code>n</code> 的数组 <code>nums</code> 和一个整数 <code>m</code> 。请你判断能否执行一系列操作，将数组拆分成 <code>n</code> 个 <strong>非空 </strong>数组。</p>
 
 <p>在每一步操作中，你可以选择一个 <strong>长度至少为 2</strong> 的现有数组（之前步骤的结果） 并将其拆分成 <strong>2</strong> 个子数组，而得到的 <strong>每个</strong> 子数组，<strong>至少</strong> 需要满足以下条件之一：</p>

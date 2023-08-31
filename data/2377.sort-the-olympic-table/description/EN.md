@@ -1,4 +1,4 @@
-## [2377.Sort the Olympic Table]
+## [2377.Sort the Olympic Table](https://leetcode.com/problems/sort-the-olympic-table/)
 <p>Table: <code>Olympic</code></p>
 
 <pre>

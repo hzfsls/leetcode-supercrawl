@@ -1,4 +1,4 @@
-## [2574.左右元素和的差值]
+## [2574.左右元素和的差值](https://leetcode.cn/problems/left-and-right-sum-differences/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> ，请你找出一个下标从 <strong>0</strong> 开始的整数数组 <code>answer</code> ，其中：</p>
 
 <ul>

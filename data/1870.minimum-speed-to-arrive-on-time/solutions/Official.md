@@ -1,3 +1,4 @@
+## [1870.准时到达的列车最小时速 中文官方题解](https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/solutions/100000/zhun-shi-dao-da-de-lie-che-zui-xiao-shi-tl9df)
 #### 方法一：二分查找
 
 **提示 $1$**

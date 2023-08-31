@@ -1,3 +1,4 @@
+## [1001.网格照明 中文官方题解](https://leetcode.cn/problems/grid-illumination/solutions/100000/wang-ge-zhao-ming-by-leetcode-solution-7omu)
 #### 方法一：哈希表
 
 **思路与算法**

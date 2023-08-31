@@ -1,4 +1,4 @@
-## [2189.Number of Ways to Build House of Cards]
+## [2189.Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/)
 <p>You are given an integer <code>n</code> representing the number of playing cards you have. A <strong>house of cards</strong> meets the following conditions:</p>
 
 <ul>

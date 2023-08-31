@@ -1,4 +1,4 @@
-## [2066.账户余额]
+## [2066.账户余额](https://leetcode.cn/problems/account-balance/)
 <p>表名: <code>Transactions</code></p>
 
 <pre>

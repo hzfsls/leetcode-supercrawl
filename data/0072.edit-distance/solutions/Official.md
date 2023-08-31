@@ -1,3 +1,4 @@
+## [72.编辑距离 中文官方题解](https://leetcode.cn/problems/edit-distance/solutions/100000/bian-ji-ju-chi-by-leetcode-solution)
 ### 📺 视频题解  
 ![72. 编辑距离.mp4](6b7a342c-64a1-4591-aa34-e36a752ed178)
 

@@ -1,4 +1,4 @@
-## [1429.First Unique Number]
+## [1429.First Unique Number](https://leetcode.com/problems/first-unique-number/)
 <p>You have a queue of integers, you need to retrieve the first unique integer in the queue.</p>
 
 <p>Implement the <code>FirstUnique</code>&nbsp;class:</p>

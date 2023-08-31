@@ -1,4 +1,4 @@
-## [1627.带阈值的图连通性]
+## [1627.带阈值的图连通性](https://leetcode.cn/problems/graph-connectivity-with-threshold/)
 <p>有 <code>n</code> 座城市，编号从 <code>1</code> 到 <code>n</code> 。编号为 <code>x</code> 和 <code>y</code> 的两座城市直接连通的前提是： <code>x</code> 和 <code>y</code> 的公因数中，至少有一个 <strong>严格大于</strong> 某个阈值 <code>threshold</code> 。更正式地说，如果存在整数 <code>z</code> ，且满足以下所有条件，则编号 <code>x</code> 和 <code>y</code> 的城市之间有一条道路：</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [2172.数组的最大与和 中文官方题解](https://leetcode.cn/problems/maximum-and-sum-of-array/solutions/100000/shu-zu-de-zui-da-yu-he-by-leetcode-solut-hjyv)
 #### 方法一：三进制状态压缩动态规划
 
 **思路与算法**

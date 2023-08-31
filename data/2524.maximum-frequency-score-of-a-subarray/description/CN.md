@@ -1,4 +1,4 @@
-## [2524.子数组的最大频率分数]
+## [2524.子数组的最大频率分数](https://leetcode.cn/problems/maximum-frequency-score-of-a-subarray/)
 <p>给定一个整数数组 <code>nums</code> 和一个 <strong>正</strong> 整数 <code>k</code> 。</p>
 
 <p>数组的 <strong>频率得分</strong> 是数组中 <strong>不同</strong> 值的 <strong>幂次</strong> 之和，并将和对&nbsp;<code>10<sup>9</sup>&nbsp;+ 7</code> <strong>取模</strong>。</p>

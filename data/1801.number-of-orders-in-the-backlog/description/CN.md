@@ -1,4 +1,4 @@
-## [1801.积压订单中的订单总数]
+## [1801.积压订单中的订单总数](https://leetcode.cn/problems/number-of-orders-in-the-backlog/)
 <p>给你一个二维整数数组 <code>orders</code> ，其中每个 <code>orders[i] = [price<sub>i</sub>, amount<sub>i</sub>, orderType<sub>i</sub>]</code> 表示有 <code>amount<sub>i</sub></code><sub> </sub>笔类型为 <code>orderType<sub>i</sub></code> 、价格为 <code>price<sub>i</sub></code> 的订单。</p>
 
 <p>订单类型 <code>orderType<sub>i</sub></code> 可以分为两种：</p>

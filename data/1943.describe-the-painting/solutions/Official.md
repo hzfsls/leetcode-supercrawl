@@ -1,3 +1,4 @@
+## [1943.描述绘画结果 中文官方题解](https://leetcode.cn/problems/describe-the-painting/solutions/100000/miao-shu-hui-hua-jie-guo-by-leetcode-sol-tnvy)
 #### 方法一：差分 + 前缀和
 
 **思路与算法**

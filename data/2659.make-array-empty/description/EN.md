@@ -1,4 +1,4 @@
-## [2659.Make Array Empty]
+## [2659.Make Array Empty](https://leetcode.com/problems/make-array-empty/)
 <p>You are given an integer array <code>nums</code> containing <strong>distinct</strong> numbers, and you can perform the following operations <strong>until the array is empty</strong>:</p>
 
 <ul>

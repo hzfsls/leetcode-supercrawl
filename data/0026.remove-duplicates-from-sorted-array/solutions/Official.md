@@ -1,3 +1,4 @@
+## [26.删除有序数组中的重复项 中文官方题解](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/solutions/100000/shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-tudo)
 ### 📺 视频题解  
 ![26. 删除排序数组中的重复项.mp4](539b4994-eb74-4041-ab3e-e949603c8d15)
 

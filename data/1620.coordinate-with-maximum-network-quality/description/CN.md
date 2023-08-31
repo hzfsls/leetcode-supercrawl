@@ -1,4 +1,4 @@
-## [1620.网络信号最好的坐标]
+## [1620.网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/)
 <p>给你一个数组 <code>towers</code>&nbsp;和一个整数 <code>radius</code> 。</p>
 
 <p>数组&nbsp; <code>towers</code>&nbsp; 中包含一些网络信号塔，其中&nbsp;<code>towers[i] = [x<sub>i</sub>, y<sub>i</sub>, q<sub>i</sub>]</code>&nbsp;表示第&nbsp;<code>i</code>&nbsp;个网络信号塔的坐标是&nbsp;<code>(x<sub>i</sub>, y<sub>i</sub>)</code>&nbsp;且信号强度参数为&nbsp;<code>q<sub>i</sub></code><sub>&nbsp;</sub>。所有坐标都是在&nbsp; X-Y 坐标系内的&nbsp;<strong>整数</strong>&nbsp;坐标。两个坐标之间的距离用 <strong>欧几里得距离</strong>&nbsp;计算。</p>

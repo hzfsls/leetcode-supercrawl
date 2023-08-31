@@ -1,3 +1,4 @@
+## [1705.吃苹果的最大数目 中文官方题解](https://leetcode.cn/problems/maximum-number-of-eaten-apples/solutions/100000/chi-ping-guo-de-zui-da-shu-mu-by-leetcod-93ka)
 #### 方法一：贪心 + 优先队列
 
 为了将吃苹果的数目最大化，应该使用贪心策略，在尚未腐烂的苹果中优先选择腐烂日期最早的苹果。

@@ -1,4 +1,4 @@
-## [2367.算术三元组的数目]
+## [2367.算术三元组的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/)
 <p>给你一个下标从 <strong>0</strong> 开始、<strong>严格递增</strong> 的整数数组 <code>nums</code> 和一个正整数 <code>diff</code> 。如果满足下述全部条件，则三元组 <code>(i, j, k)</code> 就是一个 <strong>算术三元组</strong> ：</p>
 
 <ul>

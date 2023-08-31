@@ -1,4 +1,4 @@
-## [715.Range 模块]
+## [715.Range 模块](https://leetcode.cn/problems/range-module/)
 <p>Range模块是跟踪数字范围的模块。设计一个数据结构来跟踪表示为 <strong>半开区间</strong> 的范围并查询它们。</p>
 
 <p><strong>半开区间</strong>&nbsp;<code>[left, right)</code>&nbsp;表示所有&nbsp;<code>left &lt;= x &lt; right</code>&nbsp;的实数 <code>x</code> 。</p>

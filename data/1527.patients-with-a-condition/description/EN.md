@@ -1,4 +1,4 @@
-## [1527.Patients With a Condition]
+## [1527.Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)
 <p>Table: <code>Patients</code></p>
 
 <pre>

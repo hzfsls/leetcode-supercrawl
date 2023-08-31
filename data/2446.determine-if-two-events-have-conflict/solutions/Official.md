@@ -1,3 +1,4 @@
+## [2446.判断两个事件是否存在冲突 中文官方题解](https://leetcode.cn/problems/determine-if-two-events-have-conflict/solutions/100000/pan-duan-liang-ge-shi-jian-shi-fou-cun-z-cqcv)
 #### 方法一：直接比较字符串
 
 **思路**

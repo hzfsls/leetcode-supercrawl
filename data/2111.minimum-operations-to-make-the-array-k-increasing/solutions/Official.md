@@ -1,3 +1,4 @@
+## [2111.使数组 K 递增的最少操作次数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-make-the-array-k-increasing/solutions/100000/shi-shu-zu-k-di-zeng-de-zui-shao-cao-zuo-3e62)
 #### 方法一：动态规划
 
 **提示 $1$**

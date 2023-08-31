@@ -1,4 +1,4 @@
-## [2796.Repeat String]
+## [2796.Repeat String](https://leetcode.com/problems/repeat-string/)
 <p>Write code that enhances all strings such that you can call the&nbsp;<code>string.replicate(x)</code>&nbsp;method on any string and it will return repeated string <code>x</code> times.</p>
 
 <p>Try to implement it without using the built-in method <code>string.repeat</code>.</p>

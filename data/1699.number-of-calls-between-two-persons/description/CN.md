@@ -1,4 +1,4 @@
-## [1699.两人之间的通话次数]
+## [1699.两人之间的通话次数](https://leetcode.cn/problems/number-of-calls-between-two-persons/)
 <p>表：&nbsp;<code>Calls</code></p>
 
 <pre>

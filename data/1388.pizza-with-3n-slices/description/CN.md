@@ -1,4 +1,4 @@
-## [1388.3n 块披萨]
+## [1388.3n 块披萨](https://leetcode.cn/problems/pizza-with-3n-slices/)
 <p>给你一个披萨，它由 3n 块不同大小的部分组成，现在你和你的朋友们需要按照如下规则来分披萨：</p>
 
 <ul>

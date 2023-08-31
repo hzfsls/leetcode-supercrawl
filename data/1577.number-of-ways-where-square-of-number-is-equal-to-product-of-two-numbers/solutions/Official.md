@@ -1,3 +1,4 @@
+## [1577.数的平方等于两数乘积的方法数 中文官方题解](https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/solutions/100000/shu-de-ping-fang-deng-yu-liang-shu-cheng-ji-de-fan)
 #### 方法一：哈希表
 
 直观的做法是暴力枚举符合规则的三元组的数目。寻找类型 $1$ 的三元组时，首先遍历数组 $\textit{nums}_1$，对于其中的每个元素，遍历数组 $\textit{nums}_2$ 中的**每一对**元素，找到符合规则的三元组的数目。然后使用同样的方法寻找类型 $2$ 的三元组。假设数组 $\textit{nums}_1$ 和 $\textit{nums}_2$ 的长度分别为 $m$ 和 $n$，则暴力法的时间复杂度为 $O(mn^2+m^2n)$。

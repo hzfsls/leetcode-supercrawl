@@ -1,3 +1,4 @@
+## [999.可以被一步捕获的棋子数 中文官方题解](https://leetcode.cn/problems/available-captures-for-rook/solutions/100000/che-de-ke-yong-bu-huo-liang-by-leetcode-solution)
 #### 方法一：模拟
 
 **思路和算法**

@@ -1,4 +1,4 @@
-## [1199.建造街区的最短时间]
+## [1199.建造街区的最短时间](https://leetcode.cn/problems/minimum-time-to-build-blocks/)
 <p>你是个城市规划工作者，手里负责管辖一系列的街区。在这个街区列表中&nbsp;<code>blocks[i] = t</code>&nbsp;意味着第 &nbsp;<code>i</code>&nbsp;个街区需要&nbsp;<code>t</code>&nbsp;个单位的时间来建造。</p>
 
 <p>由于一个街区只能由一个工人来完成建造。</p>

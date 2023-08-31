@@ -1,3 +1,4 @@
+## [514.自由之路 中文官方题解](https://leetcode.cn/problems/freedom-trail/solutions/100000/zi-you-zhi-lu-by-leetcode-solution)
 #### 方法一：动态规划
 
 定义 $\textit{dp}[i][j]$ 表示从前往后拼写出 $\textit{key}$ 的第 $i$ 个字符， $\textit{ring}$ 的第 $j$ 个字符与 $12:00$ 方向对齐的最少步数（下标均从 $0$ 开始）。

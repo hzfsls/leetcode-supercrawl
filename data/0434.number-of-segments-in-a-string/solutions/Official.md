@@ -1,3 +1,4 @@
+## [434.字符串中的单词数 中文官方题解](https://leetcode.cn/problems/number-of-segments-in-a-string/solutions/100000/zi-fu-chuan-zhong-de-dan-ci-shu-by-leetc-igfb)
 #### 方法一：原地法
 
 **思路与算法**

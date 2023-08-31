@@ -1,4 +1,4 @@
-## [2829.k-avoiding 数组的最小总和]
+## [2829.k-avoiding 数组的最小总和](https://leetcode.cn/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)
 <p>给你两个整数 <code>n</code> 和 <code>k</code> 。</p>
 
 <p>对于一个由 <strong>不同</strong> 正整数组成的数组，如果其中不存在任何求和等于 k 的不同元素对，则称其为 <strong>k-avoiding</strong> 数组。</p>

@@ -1,3 +1,4 @@
+## [582.杀掉进程 中文官方题解](https://leetcode.cn/problems/kill-process/solutions/100000/sha-diao-jin-cheng-by-leetcode-solution-urj1)
 [TOC]  
 
  ## 解决方案

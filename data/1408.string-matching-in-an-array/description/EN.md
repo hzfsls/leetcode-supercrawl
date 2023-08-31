@@ -1,4 +1,4 @@
-## [1408.String Matching in an Array]
+## [1408.String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
 <p>Given an array of string <code>words</code>, return <em>all strings in </em><code>words</code><em> that is a <strong>substring</strong> of another word</em>. You can return the answer in <strong>any order</strong>.</p>
 
 <p>A <strong>substring</strong> is a contiguous sequence of characters within a string</p>

@@ -1,4 +1,4 @@
-## [2806.Account Balance After Rounded Purchase]
+## [2806.Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/)
 <p>Initially, you have a bank account balance of <code>100</code> dollars.</p>
 
 <p>You are given an integer <code>purchaseAmount</code> representing the amount you will spend on a purchase in dollars.</p>

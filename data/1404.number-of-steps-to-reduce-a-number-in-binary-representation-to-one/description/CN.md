@@ -1,4 +1,4 @@
-## [1404.将二进制表示减到 1 的步骤数]
+## [1404.将二进制表示减到 1 的步骤数](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
 <p>给你一个以二进制形式表示的数字 <code>s</code> 。请你返回按下述规则将其减少到 1 所需要的步骤数：</p>
 
 <ul>

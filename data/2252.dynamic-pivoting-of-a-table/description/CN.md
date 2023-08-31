@@ -1,4 +1,4 @@
-## [2252.表的动态旋转]
+## [2252.表的动态旋转](https://leetcode.cn/problems/dynamic-pivoting-of-a-table/)
 <p>表: <code>Products</code></p>
 
 <pre>

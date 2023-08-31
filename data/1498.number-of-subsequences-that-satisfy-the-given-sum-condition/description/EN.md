@@ -1,4 +1,4 @@
-## [1498.Number of Subsequences That Satisfy the Given Sum Condition]
+## [1498.Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 <p>You are given an array of integers <code>nums</code> and an integer <code>target</code>.</p>
 
 <p>Return <em>the number of <strong>non-empty</strong> subsequences of </em><code>nums</code><em> such that the sum of the minimum and maximum element on it is less or equal to </em><code>target</code>. Since the answer may be too large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>

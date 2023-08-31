@@ -1,3 +1,4 @@
+## [2146.价格范围内最高排名的 K 样物品 中文官方题解](https://leetcode.cn/problems/k-highest-ranked-items-within-a-price-range/solutions/100000/jie-ge-fan-wei-nei-zui-gao-pai-ming-de-k-yxh2)
 #### 方法一：广度优先搜索
 
 **思路与算法**

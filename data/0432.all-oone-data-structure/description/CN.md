@@ -1,4 +1,4 @@
-## [432.全 O(1) 的数据结构]
+## [432.全 O(1) 的数据结构](https://leetcode.cn/problems/all-oone-data-structure/)
 <p>请你设计一个用于存储字符串计数的数据结构，并能够返回计数最小和最大的字符串。</p>
 
 <p>实现 <code>AllOne</code> 类：</p>

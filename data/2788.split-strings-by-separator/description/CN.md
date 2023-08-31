@@ -1,4 +1,4 @@
-## [2788.按分隔符拆分字符串]
+## [2788.按分隔符拆分字符串](https://leetcode.cn/problems/split-strings-by-separator/)
 <p>给你一个字符串数组 <code>words</code> 和一个字符 <code>separator</code> ，请你按 <code>separator</code> 拆分 <code>words</code> 中的每个字符串。</p>
 
 <p>返回一个由拆分后的新字符串组成的字符串数组，<strong>不包括空字符串</strong> 。</p>

@@ -1,4 +1,4 @@
-## [1504.Count Submatrices With All Ones]
+## [1504.Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
 <p>Given an <code>m x n</code> binary matrix <code>mat</code>, <em>return the number of <strong>submatrices</strong> that have all ones</em>.</p>
 
 <p>&nbsp;</p>

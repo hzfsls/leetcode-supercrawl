@@ -1,4 +1,4 @@
-## [2306.Naming a Company]
+## [2306.Naming a Company](https://leetcode.com/problems/naming-a-company/)
 <p>You are given an array of strings <code>ideas</code> that represents a list of names to be used in the process of naming a company. The process of naming a company is as follows:</p>
 
 <ol>

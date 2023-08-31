@@ -1,3 +1,4 @@
+## [671.二叉树中第二小的节点 中文官方题解](https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree/solutions/100000/er-cha-shu-zhong-di-er-xiao-de-jie-dian-bhxiw)
 #### 方法一：深度优先搜索
 
 **思路**

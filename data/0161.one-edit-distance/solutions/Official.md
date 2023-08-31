@@ -1,3 +1,4 @@
+## [161.相隔为 1 的编辑距离 中文官方题解](https://leetcode.cn/problems/one-edit-distance/solutions/100000/xiang-ge-wei-1-de-bian-ji-ju-chi-by-leet-8bu4)
 #### 方法一：分情况讨论
 
 假设字符串 $s$ 和 $t$ 的长度分别是 $m$ 和 $n$。

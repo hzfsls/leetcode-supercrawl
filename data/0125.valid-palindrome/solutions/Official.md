@@ -1,3 +1,4 @@
+## [125.验证回文串 中文官方题解](https://leetcode.cn/problems/valid-palindrome/solutions/100000/yan-zheng-hui-wen-chuan-by-leetcode-solution)
 ### 📺 视频题解 
 ![...5. 验证回文串 - Lizzi.mp4](98a47d9e-6ecd-4e24-a5b8-88f62f6cac57)
 

@@ -1,3 +1,4 @@
+## [2160.拆分数位后四位数字的最小和 中文官方题解](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/solutions/100000/chai-fen-shu-wei-hou-si-wei-shu-zi-de-zu-6awh)
 #### 方法一：贪心
 
 **提示 $1$**

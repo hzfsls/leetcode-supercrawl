@@ -1,4 +1,4 @@
-## [723.粉碎糖果]
+## [723.粉碎糖果](https://leetcode.cn/problems/candy-crush/)
 <p>这个问题是实现一个简单的消除算法。</p>
 
 <p>给定一个&nbsp;<code>m x n</code>&nbsp;的二维整数数组 <code>board</code> 代表糖果所在的方格，不同的正整数 <code>board[i][j]</code> 代表不同种类的糖果，如果 <code>board[i][j] == 0</code> 代表&nbsp;<code>(i, j)</code> 这个位置是空的。</p>

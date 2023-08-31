@@ -1,4 +1,4 @@
-## [684.Redundant Connection]
+## [684.Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 <p>In this problem, a tree is an <strong>undirected graph</strong> that is connected and has no cycles.</p>
 
 <p>You are given a graph that started as a tree with <code>n</code> nodes labeled from <code>1</code> to <code>n</code>, with one additional edge added. The added edge has two <strong>different</strong> vertices chosen from <code>1</code> to <code>n</code>, and was not an edge that already existed. The graph is represented as an array <code>edges</code> of length <code>n</code> where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that there is an edge between nodes <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code> in the graph.</p>

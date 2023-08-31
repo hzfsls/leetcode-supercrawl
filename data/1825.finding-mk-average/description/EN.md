@@ -1,4 +1,4 @@
-## [1825.Finding MK Average]
+## [1825.Finding MK Average](https://leetcode.com/problems/finding-mk-average/)
 <p>You are given two integers, <code>m</code> and <code>k</code>, and a stream of integers. You are tasked to implement a data structure that calculates the <strong>MKAverage</strong> for the stream.</p>
 
 <p>The <strong>MKAverage</strong> can be calculated using these steps:</p>

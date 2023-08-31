@@ -1,4 +1,4 @@
-## [1243.Array Transformation]
+## [1243.Array Transformation](https://leetcode.com/problems/array-transformation/)
 <p>Given an initial array <code>arr</code>, every day you produce a new array using the array of the previous day.</p>
 
 <p>On the <code>i</code>-th day, you do the following operations on the array of day&nbsp;<code>i-1</code>&nbsp;to produce the array of day <code>i</code>:</p>

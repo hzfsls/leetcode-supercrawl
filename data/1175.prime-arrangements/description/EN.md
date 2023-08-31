@@ -1,4 +1,4 @@
-## [1175.Prime Arrangements]
+## [1175.Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)
 <p>Return the number of permutations of 1 to <code>n</code> so that prime numbers are at prime indices (1-indexed.)</p>
 
 <p><em>(Recall that an integer&nbsp;is prime if and only if it is greater than 1, and cannot be written as a product of two positive integers&nbsp;both smaller than it.)</em></p>

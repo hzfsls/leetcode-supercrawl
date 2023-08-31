@@ -1,4 +1,4 @@
-## [2104.Sum of Subarray Ranges]
+## [2104.Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)
 <p>You are given an integer array <code>nums</code>. The <strong>range</strong> of a subarray of <code>nums</code> is the difference between the largest and smallest element in the subarray.</p>
 
 <p>Return <em>the <strong>sum of all</strong> subarray ranges of </em><code>nums</code><em>.</em></p>

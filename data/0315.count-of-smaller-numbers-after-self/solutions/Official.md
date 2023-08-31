@@ -1,3 +1,4 @@
+## [315.计算右侧小于当前元素的个数 中文官方题解](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/solutions/100000/ji-suan-you-ce-xiao-yu-dang-qian-yuan-su-de-ge-s-7)
 #### 方法一：离散化树状数组
 
 **预备知识**

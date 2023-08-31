@@ -1,4 +1,4 @@
-## [1711.Count Good Meals]
+## [1711.Count Good Meals](https://leetcode.com/problems/count-good-meals/)
 <p>A <strong>good meal</strong> is a meal that contains <strong>exactly two different food items</strong> with a sum of deliciousness equal to a power of two.</p>
 
 <p>You can pick <strong>any</strong> two different foods to make a good meal.</p>

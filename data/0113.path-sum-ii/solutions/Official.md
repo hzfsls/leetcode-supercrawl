@@ -1,3 +1,4 @@
+## [113.路径总和 II 中文官方题解](https://leetcode.cn/problems/path-sum-ii/solutions/100000/lu-jing-zong-he-ii-by-leetcode-solution)
 #### 前言
 
 注意到本题的要求是，找到**所有**满足从「根节点」到某个「叶子节点」经过的路径上的节点之和等于目标和的路径。核心思想是对树进行一次遍历，在遍历时记录从根节点到当前节点的路径和，以防止重复计算。

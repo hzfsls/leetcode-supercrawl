@@ -1,4 +1,4 @@
-## [2394.Employees With Deductions]
+## [2394.Employees With Deductions](https://leetcode.com/problems/employees-with-deductions/)
 <p>Table: <code>Employees</code></p>
 
 <pre>

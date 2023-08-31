@@ -1,4 +1,4 @@
-## [1934.Confirmation Rate]
+## [1934.Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)
 <p>Table: <code>Signups</code></p>
 
 <pre>

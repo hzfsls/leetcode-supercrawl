@@ -1,4 +1,4 @@
-## [2570.合并两个二维数组 - 求和法]
+## [2570.合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)
 <p>给你两个 <strong>二维</strong> 整数数组 <code>nums1</code> 和 <code>nums2.</code></p>
 
 <ul>

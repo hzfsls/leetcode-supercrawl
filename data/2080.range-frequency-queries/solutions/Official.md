@@ -1,3 +1,4 @@
+## [2080.区间内查询数字的频率 中文官方题解](https://leetcode.cn/problems/range-frequency-queries/solutions/100000/qu-jian-nei-cha-xun-shu-zi-de-pin-lu-by-wh4ez)
 #### 方法一：哈希表 + 二分查找
 
 **思路与算法**

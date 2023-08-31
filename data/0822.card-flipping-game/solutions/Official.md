@@ -1,3 +1,4 @@
+## [822.翻转卡片游戏 中文官方题解](https://leetcode.cn/problems/card-flipping-game/solutions/100000/fan-zhuan-qia-pian-you-xi-by-leetcode-so-acbj)
 #### 方法一：哈希集
 
 **思路与算法**

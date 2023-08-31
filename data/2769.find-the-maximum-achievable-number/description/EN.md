@@ -1,4 +1,4 @@
-## [2769.Find the Maximum Achievable Number]
+## [2769.Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 <p>You are given two integers, <code>num</code> and <code>t</code>.</p>
 
 <p>An integer <code>x</code> is called <b>achievable</b> if it can become equal to <code>num</code> after applying the following operation no more than <code>t</code> times:</p>

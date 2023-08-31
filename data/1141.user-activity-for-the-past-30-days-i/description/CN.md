@@ -1,4 +1,4 @@
-## [1141.查询近30天活跃用户数]
+## [1141.查询近30天活跃用户数](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/)
 <p>表：<code>Activity</code></p>
 
 <pre>

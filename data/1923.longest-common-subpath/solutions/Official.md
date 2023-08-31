@@ -1,3 +1,4 @@
+## [1923.最长公共子路径 中文官方题解](https://leetcode.cn/problems/longest-common-subpath/solutions/100000/zui-chang-gong-gong-zi-lu-jing-by-leetco-ypip)
 #### 前言
 
 本题为[「718. 最长重复子数组」](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)的扩展题，需要求出多个数组的最长重复子数组。

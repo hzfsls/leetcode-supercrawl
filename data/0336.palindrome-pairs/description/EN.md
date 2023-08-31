@@ -1,4 +1,4 @@
-## [336.Palindrome Pairs]
+## [336.Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
 <p>You are given a <strong>0-indexed</strong> array of <strong>unique</strong> strings <code>words</code>.</p>
 
 <p>A <strong>palindrome pair</strong> is a pair of integers <code>(i, j)</code> such that:</p>

@@ -1,4 +1,4 @@
-## [1297.Maximum Number of Occurrences of a Substring]
+## [1297.Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)
 <p>Given a string <code>s</code>, return the maximum number of occurrences of <strong>any</strong> substring under the following rules:</p>
 
 <ul>

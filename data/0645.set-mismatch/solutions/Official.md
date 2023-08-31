@@ -1,3 +1,4 @@
+## [645.错误的集合 中文官方题解](https://leetcode.cn/problems/set-mismatch/solutions/100000/cuo-wu-de-ji-he-by-leetcode-solution-1ea4)
 #### 方法一：排序
 
 将数组排序之后，比较每对相邻的元素，即可找到错误的集合。

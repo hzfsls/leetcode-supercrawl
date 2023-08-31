@@ -1,4 +1,4 @@
-## [1677.发票中的产品金额]
+## [1677.发票中的产品金额](https://leetcode.cn/problems/products-worth-over-invoices/)
 <p><code>Product</code> 表：</p>
 
 <pre>

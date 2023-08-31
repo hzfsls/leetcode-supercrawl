@@ -1,4 +1,4 @@
-## [2826.将三个组排序]
+## [2826.将三个组排序](https://leetcode.cn/problems/sorting-three-groups/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始长度为 <code>n</code>&nbsp;的整数数组&nbsp;<code>nums</code>&nbsp;。<br />
 <br />
 从&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n - 1</code>&nbsp;的数字被分为编号从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>3</code>&nbsp;的三个组，数字&nbsp;<code>i</code>&nbsp;属于组&nbsp;<code>nums[i]</code>&nbsp;。注意，有的组可能是&nbsp;<strong>空的</strong>&nbsp;。<br />

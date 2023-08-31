@@ -1,4 +1,4 @@
-## [270.最接近的二叉搜索树值]
+## [270.最接近的二叉搜索树值](https://leetcode.cn/problems/closest-binary-search-tree-value/)
 给你二叉搜索树的根节点 <code>root</code> 和一个目标值 <code>target</code> ，请在该二叉搜索树中找到最接近目标值 <code>target</code> 的数值。如果有多个答案，返回最小的那个。
 <p>&nbsp;</p>
 

@@ -1,4 +1,4 @@
-## [702.Search in a Sorted Array of Unknown Size]
+## [702.Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 <p>This is an <strong><em>interactive problem</em></strong>.</p>
 
 <p>You have a sorted array of <strong>unique</strong> elements and an <strong>unknown size</strong>. You do not have an access to the array but you can use the <code>ArrayReader</code> interface to access it. You can call <code>ArrayReader.get(i)</code> that:</p>

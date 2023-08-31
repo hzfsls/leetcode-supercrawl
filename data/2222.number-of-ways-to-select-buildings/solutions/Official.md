@@ -1,3 +1,4 @@
+## [2222.选择建筑的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-select-buildings/solutions/100000/xuan-ze-jian-zhu-de-fang-an-shu-by-leetc-jhup)
 #### 方法一：枚举中间元素
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [651.4键键盘]
+## [651.4键键盘](https://leetcode.cn/problems/4-keys-keyboard/)
 <p>假设你有一个特殊的键盘包含下面的按键：</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1546.和为目标值且不重叠的非空子数组的最大数目 中文官方题解](https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/solutions/100000/he-wei-mu-biao-zhi-de-zui-da-shu-mu-bu-zhong-die-f)
 #### 方法一：贪心
 
 **思路与算法**

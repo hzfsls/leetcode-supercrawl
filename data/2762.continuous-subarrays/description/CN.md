@@ -1,4 +1,4 @@
-## [2762.不间断子数组]
+## [2762.不间断子数组](https://leetcode.cn/problems/continuous-subarrays/)
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>nums</code>&nbsp;。<code>nums</code>&nbsp;的一个子数组如果满足以下条件，那么它是 <strong>不间断</strong> 的：</p>
 
 <ul>

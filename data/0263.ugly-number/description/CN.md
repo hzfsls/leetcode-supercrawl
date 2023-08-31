@@ -1,4 +1,4 @@
-## [263.丑数]
+## [263.丑数](https://leetcode.cn/problems/ugly-number/)
 <p><strong>丑数 </strong>就是只包含质因数&nbsp;<code>2</code>、<code>3</code> 和 <code>5</code>&nbsp;的正整数。</p>
 
 <p>给你一个整数 <code>n</code> ，请你判断 <code>n</code> 是否为 <strong>丑数</strong> 。如果是，返回 <code>true</code> ；否则，返回 <code>false</code> 。</p>

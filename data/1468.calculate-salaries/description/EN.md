@@ -1,4 +1,4 @@
-## [1468.Calculate Salaries]
+## [1468.Calculate Salaries](https://leetcode.com/problems/calculate-salaries/)
 <p>Table <code>Salaries</code>:</p>
 
 <pre>

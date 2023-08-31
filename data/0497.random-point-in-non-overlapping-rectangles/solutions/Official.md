@@ -1,3 +1,4 @@
+## [497.非重叠矩形中的随机点 中文官方题解](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/solutions/100000/fei-zhong-die-ju-xing-zhong-de-sui-ji-di-6s33)
 #### 方法一：前缀和 + 二分查找
 
 **思路**

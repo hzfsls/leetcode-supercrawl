@@ -1,4 +1,4 @@
-## [2818.操作使得分最大]
+## [2818.操作使得分最大](https://leetcode.cn/problems/apply-operations-to-maximize-score/)
 <p>给你一个长度为 <code>n</code>&nbsp;的正整数数组&nbsp;<code>nums</code>&nbsp;和一个整数 <code>k</code>&nbsp;。</p>
 
 <p>一开始，你的分数为 <code>1</code>&nbsp;。你可以进行以下操作至多 <code>k</code>&nbsp;次，目标是使你的分数最大：</p>

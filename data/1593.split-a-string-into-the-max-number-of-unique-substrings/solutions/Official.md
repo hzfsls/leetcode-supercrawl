@@ -1,3 +1,4 @@
+## [1593.拆分字符串使唯一子字符串的数目最大 中文官方题解](https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings/solutions/100000/chai-fen-zi-fu-chuan-shi-wei-yi-zi-zi-fu-chuan-de-)
 #### 方法一：回溯
 
 拆分给定的字符串，要求拆分后的每个子字符串唯一，求子字符串的最大数目，可以通过回溯算法实现。

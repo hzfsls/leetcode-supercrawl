@@ -1,4 +1,4 @@
-## [2652.Sum Multiples]
+## [2652.Sum Multiples](https://leetcode.com/problems/sum-multiples/)
 <p>Given a positive integer <code>n</code>, find the sum of all integers in the range <code>[1, n]</code> <strong>inclusive</strong> that are divisible by <code>3</code>, <code>5</code>, or <code>7</code>.</p>
 
 <p>Return <em>an integer denoting the sum of all numbers in the given range satisfying&nbsp;the constraint.</em></p>

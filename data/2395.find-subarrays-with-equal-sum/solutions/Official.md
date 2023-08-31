@@ -1,3 +1,4 @@
+## [2395.和相等的子数组 中文官方题解](https://leetcode.cn/problems/find-subarrays-with-equal-sum/solutions/100000/he-xiang-deng-de-zi-shu-zu-by-leetcode-s-3945)
 #### 方法一：哈希表
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1799.N 次操作后的最大分数和]
+## [1799.N 次操作后的最大分数和](https://leetcode.cn/problems/maximize-score-after-n-operations/)
 <p>给你 <code>nums</code> ，它是一个大小为 <code>2 * n</code> 的正整数数组。你必须对这个数组执行 <code>n</code> 次操作。</p>
 
 <p>在第 <code>i</code> 次操作时（操作编号从 <strong>1</strong> 开始），你需要：</p>

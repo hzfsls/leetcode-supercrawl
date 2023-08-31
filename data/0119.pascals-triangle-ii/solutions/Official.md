@@ -1,3 +1,4 @@
+## [119.杨辉三角 II 中文官方题解](https://leetcode.cn/problems/pascals-triangle-ii/solutions/100000/yang-hui-san-jiao-ii-by-leetcode-solutio-shuk)
 #### 方法一：递推
 
 杨辉三角，是二项式系数在三角形中的一种几何排列。它是中国古代数学的杰出研究成果之一，它把二项式系数图形化，把组合数内在的一些代数性质直观地从图形中体现出来，是一种离散型的数与形的结合。

@@ -1,4 +1,4 @@
-## [2434.Using a Robot to Print the Lexicographically Smallest String]
+## [2434.Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)
 <p>You are given a string <code>s</code> and a robot that currently holds an empty string <code>t</code>. Apply one of the following operations until <code>s</code> and <code>t</code> <strong>are both empty</strong>:</p>
 
 <ul>

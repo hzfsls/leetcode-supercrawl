@@ -1,4 +1,4 @@
-## [2321.拼接数组的最大分数]
+## [2321.拼接数组的最大分数](https://leetcode.cn/problems/maximum-score-of-spliced-array/)
 <p>给你两个下标从 <strong>0</strong> 开始的整数数组 <code>nums1</code> 和 <code>nums2</code> ，长度都是 <code>n</code> 。</p>
 
 <p>你可以选择两个整数 <code>left</code> 和 <code>right</code> ，其中 <code>0 &lt;= left &lt;= right &lt; n</code> ，接着 <strong>交换</strong> 两个子数组 <code>nums1[left...right]</code> 和 <code>nums2[left...right]</code> 。</p>

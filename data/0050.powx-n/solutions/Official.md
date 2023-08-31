@@ -1,3 +1,4 @@
+## [50.Pow(x, n) 中文官方题解](https://leetcode.cn/problems/powx-n/solutions/100000/powx-n-by-leetcode-solution)
 ### 📺视频题解
 ![50. Pow(x, n).mp4](455b3b25-2007-4d4c-85c8-844bff5f7a38)
 

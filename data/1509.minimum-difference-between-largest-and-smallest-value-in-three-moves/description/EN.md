@@ -1,4 +1,4 @@
-## [1509.Minimum Difference Between Largest and Smallest Value in Three Moves]
+## [1509.Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)
 <p>You are given an integer array <code>nums</code>.</p>
 
 <p>In one move, you can choose one element of <code>nums</code> and change it to <strong>any value</strong>.</p>

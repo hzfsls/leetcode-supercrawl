@@ -1,4 +1,4 @@
-## [70.爬楼梯]
+## [70.爬楼梯](https://leetcode.cn/problems/climbing-stairs/)
 <p>假设你正在爬楼梯。需要 <code>n</code>&nbsp;阶你才能到达楼顶。</p>
 
 <p>每次你可以爬 <code>1</code> 或 <code>2</code> 个台阶。你有多少种不同的方法可以爬到楼顶呢？</p>

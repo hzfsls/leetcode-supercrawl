@@ -1,4 +1,4 @@
-## [2296.Design a Text Editor]
+## [2296.Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
 <p>Design a text editor with a cursor that can do the following:</p>
 
 <ul>

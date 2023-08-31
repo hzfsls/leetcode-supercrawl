@@ -1,3 +1,4 @@
+## [904.水果成篮 中文官方题解](https://leetcode.cn/problems/fruit-into-baskets/solutions/100000/shui-guo-cheng-lan-by-leetcode-solution-1uyu)
 #### 方法一：滑动窗口
 
 **思路与算法**

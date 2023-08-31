@@ -1,3 +1,4 @@
+## [382.链表随机节点 中文官方题解](https://leetcode.cn/problems/linked-list-random-node/solutions/100000/lian-biao-sui-ji-jie-dian-by-leetcode-so-x6it)
 #### 方法一：记录所有链表元素
 
 我们可以在初始化时，用一个数组记录链表中的所有元素，这样随机选择链表的一个节点，就变成在数组中随机选择一个元素。

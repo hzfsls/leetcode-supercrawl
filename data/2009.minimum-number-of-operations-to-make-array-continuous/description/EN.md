@@ -1,4 +1,4 @@
-## [2009.Minimum Number of Operations to Make Array Continuous]
+## [2009.Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
 <p>You are given an integer array <code>nums</code>. In one operation, you can replace <strong>any</strong> element in <code>nums</code> with <strong>any</strong> integer.</p>
 
 <p><code>nums</code> is considered <strong>continuous</strong> if both of the following conditions are fulfilled:</p>

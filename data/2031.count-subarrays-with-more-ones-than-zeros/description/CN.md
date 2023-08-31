@@ -1,4 +1,4 @@
-## [2031.1 比 0 多的子数组个数]
+## [2031.1 比 0 多的子数组个数](https://leetcode.cn/problems/count-subarrays-with-more-ones-than-zeros/)
 <p>给你一个只包含 <code>0</code> 和 <code>1</code> 的数组 <code>nums</code>，请返回 <code>1</code> 的数量 <strong>大于 </strong><code>0</code> 的数量的子数组的个数。由于答案可能很大，请返回答案对&nbsp;<code>10<sup>9</sup>&nbsp;+ 7</code>&nbsp;<strong>取余</strong>&nbsp;的结果。</p>
 
 <p>一个 <strong>子数组</strong> 指的是原数组中连续的一个子序列。</p>

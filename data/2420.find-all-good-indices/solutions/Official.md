@@ -1,3 +1,4 @@
+## [2420.找到所有好下标 中文官方题解](https://leetcode.cn/problems/find-all-good-indices/solutions/100000/zhao-dao-suo-you-hao-xia-biao-by-leetcod-w5ar)
 #### 方法一：动态规划
 
 **思路**

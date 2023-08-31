@@ -1,3 +1,4 @@
+## [1356.根据数字二进制下 1 的数目排序 中文官方题解](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/solutions/100000/gen-ju-shu-zi-er-jin-zhi-xia-1-de-shu-mu-pai-xu-by)
 #### 前言
 
 题目本身很简单，只要调用系统自带的排序函数，然后自己改写排序规则即可，所以这里主要讲解如何计算数字二进制下 $1$ 的个数。

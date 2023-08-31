@@ -1,4 +1,4 @@
-## [2704.相等还是不相等]
+## [2704.相等还是不相等](https://leetcode.cn/problems/to-be-or-not-to-be/)
 <p>请你编写一个名为 <code>expect</code> 的函数，用于帮助开发人员测试他们的代码。它应该接受任何值 <code>val</code> 并返回一个包含以下两个函数的对象。</p>
 
 <ul>

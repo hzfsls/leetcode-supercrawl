@@ -1,4 +1,4 @@
-## [1543.Fix Product Name Format]
+## [1543.Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format/)
 <p>Table: <code>Sales</code></p>
 
 <pre>

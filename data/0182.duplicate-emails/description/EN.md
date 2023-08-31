@@ -1,4 +1,4 @@
-## [182.Duplicate Emails]
+## [182.Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 <p>Table: <code>Person</code></p>
 
 <pre>

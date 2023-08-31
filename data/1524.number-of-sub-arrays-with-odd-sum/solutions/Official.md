@@ -1,3 +1,4 @@
+## [1524.和为奇数的子数组数目 中文官方题解](https://leetcode.cn/problems/number-of-sub-arrays-with-odd-sum/solutions/100000/he-wei-qi-shu-de-zi-shu-zu-shu-mu-by-leetcode-solu)
 #### 方法一：前缀和 + 数学
 
 这道题要求返回和为奇数的子数组数目。为了快速计算任意子数组的和，可以通过维护前缀和的方式。这道题只需要知道每个子数组的和的奇偶性，不需要知道子数组的和的具体值，因此不需要维护每一个前缀和，只需要维护奇数前缀和的数量与偶数前缀和的数量。

@@ -1,3 +1,4 @@
+## [524.通过删除字母匹配到字典里最长单词 中文官方题解](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/solutions/100000/tong-guo-shan-chu-zi-mu-pi-pei-dao-zi-di-at66)
 #### 方法一：双指针
 
 **思路和算法**

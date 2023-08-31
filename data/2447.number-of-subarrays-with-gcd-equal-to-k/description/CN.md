@@ -1,4 +1,4 @@
-## [2447.最大公因数等于 K 的子数组数目]
+## [2447.最大公因数等于 K 的子数组数目](https://leetcode.cn/problems/number-of-subarrays-with-gcd-equal-to-k/)
 <p>给你一个整数数组&nbsp;<code>nums</code>&nbsp;和一个整数&nbsp;<code>k</code> ，请你统计并返回 <code>nums</code>&nbsp;的子数组中元素的最大公因数等于 <code>k</code>&nbsp;的子数组数目。</p>
 
 <p><strong>子数组</strong> 是数组中一个连续的非空序列。</p>

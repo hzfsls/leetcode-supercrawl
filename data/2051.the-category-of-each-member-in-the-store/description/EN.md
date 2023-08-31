@@ -1,4 +1,4 @@
-## [2051.The Category of Each Member in the Store]
+## [2051.The Category of Each Member in the Store](https://leetcode.com/problems/the-category-of-each-member-in-the-store/)
 <p>Table: <code>Members</code></p>
 
 <pre>

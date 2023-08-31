@@ -1,3 +1,4 @@
+## [1782.统计点对的数目 中文官方题解](https://leetcode.cn/problems/count-pairs-of-nodes/solutions/100000/tong-ji-dian-dui-de-shu-mu-by-leetcode-s-yxlv)
 #### 方法一: 二分查找
 
 **思路与算法**

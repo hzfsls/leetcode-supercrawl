@@ -1,4 +1,4 @@
-## [529.扫雷游戏]
+## [529.扫雷游戏](https://leetcode.cn/problems/minesweeper/)
 <p>让我们一起来玩扫雷游戏！</p>
 
 <p>给你一个大小为 <code>m x n</code> 二维字符矩阵&nbsp;<code>board</code> ，表示扫雷游戏的盘面，其中：</p>

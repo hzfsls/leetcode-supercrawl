@@ -1,4 +1,4 @@
-## [2565.Subsequence With the Minimum Score]
+## [2565.Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/)
 <p>You are given two strings <code>s</code> and <code>t</code>.</p>
 
 <p>You are allowed to remove any number of characters from the string <code>t</code>.</p>

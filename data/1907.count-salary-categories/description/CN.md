@@ -1,4 +1,4 @@
-## [1907.按分类统计薪水]
+## [1907.按分类统计薪水](https://leetcode.cn/problems/count-salary-categories/)
 <p>表: <code>Accounts</code></p>
 
 <pre>

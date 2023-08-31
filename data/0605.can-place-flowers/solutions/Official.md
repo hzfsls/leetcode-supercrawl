@@ -1,3 +1,4 @@
+## [605.种花问题 中文官方题解](https://leetcode.cn/problems/can-place-flowers/solutions/100000/chong-hua-wen-ti-by-leetcode-solution-sojr)
 #### 方法一：贪心
 
 判断能否在不打破种植规则的情况下在花坛内种入 $n$ 朵花，从贪心的角度考虑，应该在不打破种植规则的情况下种入尽可能多的花，然后判断可以种入的花的最多数量是否大于或等于 $n$。

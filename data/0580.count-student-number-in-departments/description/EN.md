@@ -1,4 +1,4 @@
-## [580.Count Student Number in Departments]
+## [580.Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/)
 <p>Table: <code>Student</code></p>
 
 <pre>

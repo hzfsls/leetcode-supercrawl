@@ -1,4 +1,4 @@
-## [2667.Create Hello World Function]
+## [2667.Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)
 Write a function&nbsp;<code>createHelloWorld</code>.&nbsp;It should return a new function that always returns&nbsp;<code>&quot;Hello World&quot;</code>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

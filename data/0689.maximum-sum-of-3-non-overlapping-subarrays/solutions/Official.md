@@ -1,3 +1,4 @@
+## [689.三个无重叠子数组的最大和 中文官方题解](https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/solutions/100000/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb)
 要计算三个无重叠子数组的最大和，我们可以枚举第三个子数组的位置，同时维护前两个无重叠子数组的最大和及其位置。
 
 要计算两个无重叠子数组的最大和，我们可以枚举第二个子数组的位置，同时维护第一个子数组的最大和及其位置。

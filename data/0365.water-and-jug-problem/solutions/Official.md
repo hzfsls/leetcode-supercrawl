@@ -1,3 +1,4 @@
+## [365.水壶问题 中文官方题解](https://leetcode.cn/problems/water-and-jug-problem/solutions/100000/shui-hu-wen-ti-by-leetcode-solution)
 ### 方法一：深度优先搜索
 
 **思路及算法**

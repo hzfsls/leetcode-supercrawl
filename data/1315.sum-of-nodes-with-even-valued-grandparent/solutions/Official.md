@@ -1,3 +1,4 @@
+## [1315.祖父节点值为偶数的节点和 中文官方题解](https://leetcode.cn/problems/sum-of-nodes-with-even-valued-grandparent/solutions/100000/zu-fu-jie-dian-zhi-wei-ou-shu-de-jie-dian-he-by-2)
 #### 方法一：深度优先搜索
 
 我们可以通过深度优先搜索找出所有满足题目要求的节点。

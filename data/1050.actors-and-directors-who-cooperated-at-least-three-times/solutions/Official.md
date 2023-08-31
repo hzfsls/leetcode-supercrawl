@@ -1,3 +1,4 @@
+## [1050.合作过至少三次的演员和导演 中文官方题解](https://leetcode.cn/problems/actors-and-directors-who-cooperated-at-least-three-times/solutions/100000/he-zuo-guo-zhi-shao-san-ci-de-yan-yuan-h-2ubf)
 [TOC]
 
 ## 解决方案

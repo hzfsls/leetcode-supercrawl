@@ -1,4 +1,4 @@
-## [2773.特殊二叉树的高度]
+## [2773.特殊二叉树的高度](https://leetcode.cn/problems/height-of-special-binary-tree/)
 <p>给定一棵具有 <code>n</code> 个节点的 <strong>特殊</strong> 二叉树的根节点 <code>root</code> 。特殊二叉树的节点编号从 <code>1</code> 到 <code>n</code> 。假设这棵树有 <code>k</code> 个叶子，顺序如下：<code>b<sub>1</sub> &lt; b<sub>2</sub> &lt; ... &lt; b<sub>k</sub></code> 。</p>
 
 <p>这棵树的叶子节点有一个 <strong>特殊</strong> 属性 ！对于每个叶子节点 <code>b<sub>i</sub></code> ，满足以下条件：</p>

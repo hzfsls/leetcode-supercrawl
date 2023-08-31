@@ -1,4 +1,4 @@
-## [2563.统计公平数对的数目]
+## [2563.统计公平数对的数目](https://leetcode.cn/problems/count-the-number-of-fair-pairs/)
 <p>给你一个下标从 <strong>0</strong> 开始、长度为 <code>n</code> 的整数数组&nbsp;<code>nums</code>&nbsp;，和两个整数&nbsp;<code>lower</code> 和&nbsp;<code>upper</code> ，返回 <strong>公平数对的数目</strong> 。</p>
 
 <p>如果&nbsp;<code>(i, j)</code>&nbsp;数对满足以下情况，则认为它是一个 <strong>公平数对</strong>&nbsp;：</p>

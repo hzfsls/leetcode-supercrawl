@@ -1,4 +1,4 @@
-## [2572.无平方子集计数]
+## [2572.无平方子集计数](https://leetcode.cn/problems/count-the-number-of-square-free-subsets/)
 <p>给你一个正整数数组 <code>nums</code> 。</p>
 
 <p>如果数组 <code>nums</code> 的子集中的元素乘积是一个 <strong>无平方因子数</strong> ，则认为该子集是一个 <strong>无平方</strong> 子集。</p>

@@ -1,4 +1,4 @@
-## [588.设计内存文件系统]
+## [588.设计内存文件系统](https://leetcode.cn/problems/design-in-memory-file-system/)
 <p>设计一个内存文件系统，模拟以下功能：</p>
 
 <p>实现文件系统类:</p>

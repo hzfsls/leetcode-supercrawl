@@ -1,4 +1,4 @@
-## [1273.删除树节点]
+## [1273.删除树节点](https://leetcode.cn/problems/delete-tree-nodes/)
 <p>给你一棵以节点 0 为根节点的树，定义如下：</p>
 
 <ul>

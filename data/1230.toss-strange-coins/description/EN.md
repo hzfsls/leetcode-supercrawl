@@ -1,4 +1,4 @@
-## [1230.Toss Strange Coins]
+## [1230.Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/)
 <p>You have some coins.&nbsp; The <code>i</code>-th&nbsp;coin has a probability&nbsp;<code>prob[i]</code> of facing heads when tossed.</p>
 
 <p>Return the probability that the number of coins facing heads equals <code>target</code> if you toss every coin exactly once.</p>

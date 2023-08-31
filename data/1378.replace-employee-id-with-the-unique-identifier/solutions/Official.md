@@ -1,3 +1,4 @@
+## [1378.使用唯一标识码替换员工ID 中文官方题解](https://leetcode.cn/problems/replace-employee-id-with-the-unique-identifier/solutions/100000/shi-yong-wei-yi-biao-shi-ma-ti-huan-yuan-0inw)
 [TOC]
 
 ## 解决方案

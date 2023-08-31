@@ -1,4 +1,4 @@
-## [276.Paint Fence]
+## [276.Paint Fence](https://leetcode.com/problems/paint-fence/)
 <p>You are painting a fence of <code>n</code> posts with <code>k</code> different colors. You must paint the posts following these rules:</p>
 
 <ul>

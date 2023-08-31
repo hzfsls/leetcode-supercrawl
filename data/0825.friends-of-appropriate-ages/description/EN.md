@@ -1,4 +1,4 @@
-## [825.Friends Of Appropriate Ages]
+## [825.Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
 <p>There are <code>n</code> persons on a social media website. You are given an integer array <code>ages</code> where <code>ages[i]</code> is the age of the <code>i<sup>th</sup></code> person.</p>
 
 <p>A Person <code>x</code> will not send a friend request to a person <code>y</code> (<code>x != y</code>) if any of the following conditions is true:</p>

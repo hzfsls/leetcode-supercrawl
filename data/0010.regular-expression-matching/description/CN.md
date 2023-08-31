@@ -1,4 +1,4 @@
-## [10.正则表达式匹配]
+## [10.正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/)
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;和一个字符规律&nbsp;<code>p</code>，请你来实现一个支持 <code>'.'</code>&nbsp;和&nbsp;<code>'*'</code>&nbsp;的正则表达式匹配。</p>
 
 <ul>

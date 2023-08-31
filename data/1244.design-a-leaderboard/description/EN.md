@@ -1,4 +1,4 @@
-## [1244.Design A Leaderboard]
+## [1244.Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)
 <p>Design a Leaderboard class, which has 3 functions:</p>
 
 <ol>

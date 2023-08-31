@@ -1,3 +1,4 @@
+## [1844.将所有数字用字符替换 中文官方题解](https://leetcode.cn/problems/replace-all-digits-with-characters/solutions/100000/jiang-suo-you-shu-zi-yong-zi-fu-ti-huan-r77zx)
 #### 方法一：模拟
 
 **思路与算法**

@@ -1,4 +1,4 @@
-## [1331.Rank Transform of an Array]
+## [1331.Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
 <p>Given an array of integers&nbsp;<code>arr</code>, replace each element with its rank.</p>
 
 <p>The rank represents how large the element is. The rank has the following rules:</p>

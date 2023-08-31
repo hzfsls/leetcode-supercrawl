@@ -1,4 +1,4 @@
-## [2419.按位与最大的最长子数组]
+## [2419.按位与最大的最长子数组](https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/)
 <p>给你一个长度为 <code>n</code> 的整数数组 <code>nums</code> 。</p>
 
 <p>考虑 <code>nums</code> 中进行 <strong>按位与（bitwise AND）</strong>运算得到的值 <strong>最大</strong> 的 <strong>非空</strong> 子数组。</p>

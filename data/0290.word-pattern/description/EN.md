@@ -1,4 +1,4 @@
-## [290.Word Pattern]
+## [290.Word Pattern](https://leetcode.com/problems/word-pattern/)
 <p>Given a <code>pattern</code> and a string <code>s</code>, find if <code>s</code>&nbsp;follows the same pattern.</p>
 
 <p>Here <b>follow</b> means a full match, such that there is a bijection between a letter in <code>pattern</code> and a <b>non-empty</b> word in <code>s</code>.</p>

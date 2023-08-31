@@ -1,4 +1,4 @@
-## [1124.Longest Well-Performing Interval]
+## [1124.Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)
 <p>We are given <code>hours</code>, a list of the number of hours worked per day for a given employee.</p>
 
 <p>A day is considered to be a <em>tiring day</em> if and only if the number of hours worked is (strictly) greater than <code>8</code>.</p>

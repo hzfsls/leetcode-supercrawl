@@ -1,4 +1,4 @@
-## [1158.Market Analysis I]
+## [1158.Market Analysis I](https://leetcode.com/problems/market-analysis-i/)
 <p>Table: <code>Users</code></p>
 
 <pre>

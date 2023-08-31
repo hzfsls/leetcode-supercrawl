@@ -1,4 +1,4 @@
-## [422.Valid Word Square]
+## [422.Valid Word Square](https://leetcode.com/problems/valid-word-square/)
 <p>Given an array of strings <code>words</code>, return <code>true</code> <em>if it forms a valid <strong>word square</strong></em>.</p>
 
 <p>A sequence of strings forms a valid <strong>word square</strong> if the <code>k<sup>th</sup></code> row and column read the same string, where <code>0 &lt;= k &lt; max(numRows, numColumns)</code>.</p>

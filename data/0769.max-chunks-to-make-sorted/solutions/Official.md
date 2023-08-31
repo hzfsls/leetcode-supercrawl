@@ -1,3 +1,4 @@
+## [769.最多能完成排序的块 中文官方题解](https://leetcode.cn/problems/max-chunks-to-make-sorted/solutions/100000/zui-duo-neng-wan-cheng-pai-xu-de-kuai-by-gc4k)
 #### 方法一：贪心
 
 根据题意我们可以得到以下两个定理：

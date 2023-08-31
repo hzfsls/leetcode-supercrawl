@@ -1,4 +1,4 @@
-## [1664.生成平衡数组的方案数]
+## [1664.生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array/)
 <p>给你一个整数数组 <code>nums</code> 。你需要选择 <strong>恰好</strong> 一个下标（下标从 <strong>0</strong> 开始）并删除对应的元素。请注意剩下元素的下标可能会因为删除操作而发生改变。</p>
 
 <p>比方说，如果 <code>nums = [6,1,7,4,1]</code> ，那么：</p>

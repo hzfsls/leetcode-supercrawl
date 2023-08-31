@@ -1,4 +1,4 @@
-## [609.在系统中查找重复文件]
+## [609.在系统中查找重复文件](https://leetcode.cn/problems/find-duplicate-file-in-system/)
 <p>给你一个目录信息列表&nbsp;<code>paths</code> ，包括目录路径，以及该目录中的所有文件及其内容，请你按路径返回文件系统中的所有重复文件。答案可按 <strong>任意顺序</strong> 返回。</p>
 
 <p>一组重复的文件至少包括 <strong>两个 </strong>具有完全相同内容的文件。</p>

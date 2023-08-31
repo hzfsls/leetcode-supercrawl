@@ -1,3 +1,4 @@
+## [391.完美矩形 中文官方题解](https://leetcode.cn/problems/perfect-rectangle/solutions/100000/wan-mei-ju-xing-by-leetcode-solution-ty8q)
 #### 方法一：哈希表
 
 **精确覆盖**意味着：

@@ -1,4 +1,4 @@
-## [1392.最长快乐前缀]
+## [1392.最长快乐前缀](https://leetcode.cn/problems/longest-happy-prefix/)
 <p><strong>「快乐前缀」</strong>&nbsp;是在原字符串中既是&nbsp;<strong>非空</strong> 前缀也是后缀（不包括原字符串自身）的字符串。</p>
 
 <p>给你一个字符串 <code>s</code>，请你返回它的 <strong>最长快乐前缀</strong>。如果不存在满足题意的前缀，则返回一个空字符串<meta charset="UTF-8" />&nbsp;<code>""</code>&nbsp;。</p>

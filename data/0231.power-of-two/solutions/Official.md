@@ -1,3 +1,4 @@
+## [231.2 的幂 中文官方题解](https://leetcode.cn/problems/power-of-two/solutions/100000/2de-mi-by-leetcode-solution-rny3)
 #### 方法一：二进制表示
 
 **思路与算法**

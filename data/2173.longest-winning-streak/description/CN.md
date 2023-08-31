@@ -1,4 +1,4 @@
-## [2173.最多连胜的次数]
+## [2173.最多连胜的次数](https://leetcode.cn/problems/longest-winning-streak/)
 <p>表: <code>Matches</code></p>
 
 <pre>

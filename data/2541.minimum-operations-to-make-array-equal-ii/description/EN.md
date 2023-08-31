@@ -1,4 +1,4 @@
-## [2541.Minimum Operations to Make Array Equal II]
+## [2541.Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/)
 <p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> of equal length <code>n</code> and an integer <code>k</code>. You can perform the following operation on <code>nums1</code>:</p>
 
 <ul>

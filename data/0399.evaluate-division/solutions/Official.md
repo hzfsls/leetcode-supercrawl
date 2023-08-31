@@ -1,3 +1,4 @@
+## [399.除法求值 中文官方题解](https://leetcode.cn/problems/evaluate-division/solutions/100000/chu-fa-qiu-zhi-by-leetcode-solution-8nxb)
 #### 方法一：广度优先搜索
 
 我们可以将整个问题建模成一张图：给定图中的一些点（变量），以及某些边的权值（两个变量的比值），试对任意两点（两个变量）求出其路径长（两个变量的比值）。

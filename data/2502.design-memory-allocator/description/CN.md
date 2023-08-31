@@ -1,4 +1,4 @@
-## [2502.设计内存分配器]
+## [2502.设计内存分配器](https://leetcode.cn/problems/design-memory-allocator/)
 <p>给你一个整数 <code>n</code> ，表示下标从 <strong>0</strong> 开始的内存数组的大小。所有内存单元开始都是空闲的。</p>
 
 <p>请你设计一个具备以下功能的内存分配器：</p>

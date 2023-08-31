@@ -1,3 +1,4 @@
+## [169.多数元素 中文官方题解](https://leetcode.cn/problems/majority-element/solutions/100000/duo-shu-yuan-su-by-leetcode-solution)
 #### 说明
 
 最简单的暴力方法是，枚举数组中的每个元素，再遍历一遍数组统计其出现次数。该方法的时间复杂度是 $O(n^2)$，会超出时间限制，因此我们需要找出时间复杂度小于 $O(n^2)$ 的优秀做法。

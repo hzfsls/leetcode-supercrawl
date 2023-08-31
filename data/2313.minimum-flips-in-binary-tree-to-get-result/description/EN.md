@@ -1,4 +1,4 @@
-## [2313.Minimum Flips in Binary Tree to Get Result]
+## [2313.Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/)
 <p>You are given the <code>root</code> of a <strong>binary tree</strong> with the following properties:</p>
 
 <ul>

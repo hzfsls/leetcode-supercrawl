@@ -1,4 +1,4 @@
-## [211.Design Add and Search Words Data Structure]
+## [211.Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 <p>Design a data structure that supports adding new words and finding if a string matches any previously added string.</p>
 
 <p>Implement the <code>WordDictionary</code> class:</p>

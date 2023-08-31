@@ -1,4 +1,4 @@
-## [2790.长度递增组的最大数目]
+## [2790.长度递增组的最大数目](https://leetcode.cn/problems/maximum-number-of-groups-with-increasing-length/)
 <p>给你一个下标从 <strong>0</strong> 开始、长度为 <code>n</code> 的数组 <code>usageLimits</code> 。</p>
 
 <p>你的任务是使用从 <code>0</code> 到 <code>n - 1</code> 的数字创建若干组，并确保每个数字 <code>i</code> 在 <strong>所有组</strong> 中使用的次数总共不超过 <code>usageLimits[i]</code> 次。此外，还必须满足以下条件：</p>

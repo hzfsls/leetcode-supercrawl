@@ -1,3 +1,4 @@
+## [621.任务调度器 中文官方题解](https://leetcode.cn/problems/task-scheduler/solutions/100000/ren-wu-diao-du-qi-by-leetcode-solution-ur9w)
 #### 方法一：模拟
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [1906.查询差绝对值的最小值 中文官方题解](https://leetcode.cn/problems/minimum-absolute-difference-queries/solutions/100000/cha-xun-chai-jue-dui-zhi-de-zui-xiao-zhi-fjjq)
 #### 方法一：前缀和
 
 **提示 $1$**

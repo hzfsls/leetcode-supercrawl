@@ -1,4 +1,4 @@
-## [2005.Subtree Removal Game with Fibonacci Tree]
+## [2005.Subtree Removal Game with Fibonacci Tree](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/)
 <p>A <strong>Fibonacci</strong> tree is a binary tree created using the order function <code>order(n)</code>:</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1981.最小化目标值与所选元素的差 中文官方题解](https://leetcode.cn/problems/minimize-the-difference-between-target-and-chosen-elements/solutions/100000/zui-xiao-hua-mu-biao-zhi-yu-suo-xuan-yua-mlym)
 #### 方法一：背包型动态规划
 
 **思路与算法**

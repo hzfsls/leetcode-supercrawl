@@ -1,3 +1,4 @@
+## [2045.到达目的地的第二短时间 中文官方题解](https://leetcode.cn/problems/second-minimum-time-to-reach-destination/solutions/100000/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0)
 #### 方法一：广度优先搜索
 
 **思路与算法**

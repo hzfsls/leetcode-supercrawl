@@ -1,3 +1,4 @@
+## [1817.查找用户活跃分钟数 中文官方题解](https://leetcode.cn/problems/finding-the-users-active-minutes/solutions/100000/cha-zhao-yong-hu-huo-yue-fen-zhong-shu-b-p5f6)
 #### 方法一：哈希表
 
 这道题要求对于 $1 \le j \le k$ 的每个 $j$ 计算用户活跃分钟数等于 $j$ 的用户数。需要首先得到每个用户的用户活跃分钟数，然后计算用户活跃分钟数等于特定值的用户数。

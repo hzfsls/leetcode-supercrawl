@@ -1,4 +1,4 @@
-## [1062.Longest Repeating Substring]
+## [1062.Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/)
 <p>Given a string <code>s</code>, return <em>the length of the longest repeating substrings</em>. If no repeating substring exists, return <code>0</code>.</p>
 
 <p>&nbsp;</p>

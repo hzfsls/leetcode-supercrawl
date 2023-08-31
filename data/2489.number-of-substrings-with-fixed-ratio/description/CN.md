@@ -1,4 +1,4 @@
-## [2489.固定比率的子字符串数]
+## [2489.固定比率的子字符串数](https://leetcode.cn/problems/number-of-substrings-with-fixed-ratio/)
 <p>给定一个二进制字符串 <code>s</code>&nbsp;和两个整数 <code>num1</code> 和 <code>num2</code>。<code>num1</code> 和 <code>num2</code> 为互质。</p>
 
 <p><strong>比率子串&nbsp;</strong>是 s 的子串，其中子串中 <code>0</code> 的数量与 <code>1</code>&nbsp;的数量之比正好是&nbsp;<code>num1 : num2</code>。</p>

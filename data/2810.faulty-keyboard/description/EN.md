@@ -1,4 +1,4 @@
-## [2810.Faulty Keyboard]
+## [2810.Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)
 <p>Your laptop keyboard is faulty, and whenever you type a character <code>&#39;i&#39;</code> on it, it reverses the string that you have written. Typing other characters works as expected.</p>
 
 <p>You are given a <strong>0-indexed</strong> string <code>s</code>, and you type each character of <code>s</code> using your faulty keyboard.</p>

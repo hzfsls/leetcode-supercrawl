@@ -1,3 +1,4 @@
+## [2192.有向无环图中一个节点的所有祖先 中文官方题解](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/solutions/100000/you-xiang-wu-huan-tu-zhong-yi-ge-jie-dia-6ed5)
 #### 方法一：拓扑排序
 
 **提示 $1$**

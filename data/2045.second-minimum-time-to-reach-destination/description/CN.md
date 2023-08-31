@@ -1,4 +1,4 @@
-## [2045.到达目的地的第二短时间]
+## [2045.到达目的地的第二短时间](https://leetcode.cn/problems/second-minimum-time-to-reach-destination/)
 <p>城市用一个 <strong>双向连通</strong> 图表示，图中有 <code>n</code> 个节点，从 <code>1</code> 到 <code>n</code> 编号（包含 <code>1</code> 和 <code>n</code>）。图中的边用一个二维整数数组 <code>edges</code> 表示，其中每个 <code>edges[i] = [u<sub>i</sub>, v<sub>i</sub>]</code>&nbsp;表示一条节点&nbsp;<code>u<sub>i</sub></code> 和节点&nbsp;<code>v<sub>i</sub></code> 之间的双向连通边。每组节点对由 <strong>最多一条</strong> 边连通，顶点不存在连接到自身的边。穿过任意一条边的时间是 <code>time</code>&nbsp;分钟。</p>
 
 <p>每个节点都有一个交通信号灯，每 <code>change</code> 分钟改变一次，从绿色变成红色，再由红色变成绿色，循环往复。所有信号灯都&nbsp;<strong>同时</strong> 改变。你可以在 <strong>任何时候</strong> 进入某个节点，但是 <strong>只能</strong> 在节点&nbsp;<strong>信号灯是绿色时</strong> 才能离开。如果信号灯是&nbsp; <strong>绿色</strong> ，你 <strong>不能</strong> 在节点等待，必须离开。</p>

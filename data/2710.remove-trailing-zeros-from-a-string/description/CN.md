@@ -1,4 +1,4 @@
-## [2710.移除字符串中的尾随零]
+## [2710.移除字符串中的尾随零](https://leetcode.cn/problems/remove-trailing-zeros-from-a-string/)
 <p>给你一个用字符串表示的正整数 <code>num</code> ，请你以字符串形式返回不含尾随零的整数<em> </em><code>num</code><em> </em>。</p>
 
 <p>&nbsp;</p>

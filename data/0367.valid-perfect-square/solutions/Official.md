@@ -1,3 +1,4 @@
+## [367.有效的完全平方数 中文官方题解](https://leetcode.cn/problems/valid-perfect-square/solutions/100000/you-xiao-de-wan-quan-ping-fang-shu-by-le-wkee)
 #### 前言
 
 在方法一中，我们使用内置的库函数来解决问题。

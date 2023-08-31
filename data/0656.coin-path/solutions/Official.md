@@ -1,3 +1,4 @@
+## [656.金币路径 中文官方题解](https://leetcode.cn/problems/coin-path/solutions/100000/jin-bi-lu-jing-by-leetcode-solution-jcnv)
 [TOC]
 
 ## 解决方案

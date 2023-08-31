@@ -1,4 +1,4 @@
-## [517.超级洗衣机]
+## [517.超级洗衣机](https://leetcode.cn/problems/super-washing-machines/)
 <p>假设有 <code>n</code><strong>&nbsp;</strong>台超级洗衣机放在同一排上。开始的时候，每台洗衣机内可能有一定量的衣服，也可能是空的。</p>
 
 <p>在每一步操作中，你可以选择任意 <code>m</code> (<code>1 &lt;= m &lt;= n</code>) 台洗衣机，与此同时将每台洗衣机的一件衣服送到相邻的一台洗衣机。</p>

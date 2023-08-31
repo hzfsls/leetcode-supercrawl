@@ -1,4 +1,4 @@
-## [639.Decode Ways II]
+## [639.Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
 <p>A message containing letters from <code>A-Z</code> can be <strong>encoded</strong> into numbers using the following mapping:</p>
 
 <pre>

@@ -1,3 +1,4 @@
+## [1900.最佳运动员的比拼回合 中文官方题解](https://leetcode.cn/problems/the-earliest-and-latest-rounds-where-players-compete/solutions/100000/zui-jia-yun-dong-yuan-de-bi-pin-hui-he-b-lhuo)
 #### 方法一：分析本质不同的站位情况 + 记忆化搜索
 
 **前言**

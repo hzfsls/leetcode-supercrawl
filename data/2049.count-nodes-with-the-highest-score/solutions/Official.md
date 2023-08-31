@@ -1,3 +1,4 @@
+## [2049.统计最高分的节点数目 中文官方题解](https://leetcode.cn/problems/count-nodes-with-the-highest-score/solutions/100000/tong-ji-zui-gao-fen-de-jie-dian-shu-mu-b-n810)
 #### 方法一：深度优先搜索
 
 **思路**

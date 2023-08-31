@@ -1,3 +1,4 @@
+## [854.相似度为 K 的字符串 中文官方题解](https://leetcode.cn/problems/k-similar-strings/solutions/100000/xiang-si-du-wei-k-de-zi-fu-chuan-by-leet-8z10)
 #### 方法一：广度优先搜索
 
 由于题目中给定的字符串的长度范围为 $[1,20]$ 且只包含 $6$ 种不同的字符，因此我们可以枚举所有可能的交换方案，在搜索时进行减枝从而提高搜索效率，最终找到最小的交换次数。

@@ -1,4 +1,4 @@
-## [2324.Product Sales Analysis IV]
+## [2324.Product Sales Analysis IV](https://leetcode.com/problems/product-sales-analysis-iv/)
 <p>Table: <code>Sales</code></p>
 
 <pre>

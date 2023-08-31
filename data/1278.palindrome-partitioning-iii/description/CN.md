@@ -1,4 +1,4 @@
-## [1278.分割回文串 III]
+## [1278.分割回文串 III](https://leetcode.cn/problems/palindrome-partitioning-iii/)
 <p>给你一个由小写字母组成的字符串&nbsp;<code>s</code>，和一个整数&nbsp;<code>k</code>。</p>
 
 <p>请你按下面的要求分割字符串：</p>

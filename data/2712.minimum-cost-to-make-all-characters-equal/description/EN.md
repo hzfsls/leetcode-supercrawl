@@ -1,4 +1,4 @@
-## [2712.Minimum Cost to Make All Characters Equal]
+## [2712.Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/)
 <p>You are given a <strong>0-indexed</strong> binary string <code>s</code> of length <code>n</code> on which you can apply two types of operations:</p>
 
 <ul>

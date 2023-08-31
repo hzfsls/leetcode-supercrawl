@@ -1,4 +1,4 @@
-## [706.Design HashMap]
+## [706.Design HashMap](https://leetcode.com/problems/design-hashmap/)
 <p>Design a HashMap without using any built-in hash table libraries.</p>
 
 <p>Implement the <code>MyHashMap</code> class:</p>

@@ -1,4 +1,4 @@
-## [1506.Find Root of N-Ary Tree]
+## [1506.Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/)
 <p>You are given all the nodes of an <strong><a href="https://leetcode.com/explore/learn/card/n-ary-tree/">N-ary tree</a></strong> as an array of <code>Node</code> objects, where each node has a <strong>unique value</strong>.</p>
 
 <p>Return <em>the <strong>root</strong> of the N-ary tree</em>.</p>

@@ -1,4 +1,4 @@
-## [1537.最大得分]
+## [1537.最大得分](https://leetcode.cn/problems/get-the-maximum-score/)
 <p>你有两个 <strong>有序</strong>&nbsp;且数组内元素互不相同的数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>&nbsp;。</p>
 
 <p>一条&nbsp;<strong>合法路径</strong>&nbsp;定义如下：</p>

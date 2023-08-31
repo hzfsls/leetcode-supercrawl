@@ -1,3 +1,4 @@
+## [2319.判断矩阵是否是一个 X 矩阵 中文官方题解](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/solutions/100000/pan-duan-ju-zhen-shi-fou-shi-yi-ge-x-ju-aloq7)
 #### 方法一：数学
 
 **思路与算法**

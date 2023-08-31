@@ -1,4 +1,4 @@
-## [2620.Counter]
+## [2620.Counter](https://leetcode.com/problems/counter/)
 <p>Given an integer&nbsp;<code>n</code>,&nbsp;return a <code>counter</code> function. This <code>counter</code> function initially returns&nbsp;<code>n</code>&nbsp;and then returns 1 more than the previous value every subsequent time it is called (<code>n</code>, <code>n + 1</code>, <code>n + 2</code>, etc).</p>
 
 <p>&nbsp;</p>

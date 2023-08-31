@@ -1,3 +1,4 @@
+## [287.寻找重复数 中文官方题解](https://leetcode.cn/problems/find-the-duplicate-number/solutions/100000/xun-zhao-zhong-fu-shu-by-leetcode-solution)
 ### 📺 视频题解  
 ![287. 寻找重复数.mp4](95ade126-7621-420e-97fb-4fe2784fad01)
 

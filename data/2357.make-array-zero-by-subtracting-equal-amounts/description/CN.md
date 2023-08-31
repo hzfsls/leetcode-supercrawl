@@ -1,4 +1,4 @@
-## [2357.使数组中所有元素都等于零]
+## [2357.使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)
 <p>给你一个非负整数数组 <code>nums</code> 。在一步操作中，你必须：</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [56.合并区间 中文官方题解](https://leetcode.cn/problems/merge-intervals/solutions/100000/he-bing-qu-jian-by-leetcode-solution)
 #### 方法一：排序
 
 **思路**

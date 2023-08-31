@@ -1,3 +1,4 @@
+## [2226.每个小孩最多能分到多少糖果 中文官方题解](https://leetcode.cn/problems/maximum-candies-allocated-to-k-children/solutions/100000/mei-ge-xiao-hai-zui-duo-neng-fen-dao-duo-2717)
 #### 方法一：二分查找转化为判定问题
 
 **提示 $1$**

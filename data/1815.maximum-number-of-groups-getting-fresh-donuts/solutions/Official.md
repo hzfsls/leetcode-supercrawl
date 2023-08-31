@@ -1,3 +1,4 @@
+## [1815.得到新鲜甜甜圈的最多组数 中文官方题解](https://leetcode.cn/problems/maximum-number-of-groups-getting-fresh-donuts/solutions/100000/de-dao-xin-xian-tian-tian-quan-de-zui-du-pzra)
 #### 方法一：状态压缩动态规划
 
 **思路与算法**

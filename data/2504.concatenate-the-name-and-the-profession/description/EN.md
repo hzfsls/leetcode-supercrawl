@@ -1,4 +1,4 @@
-## [2504.Concatenate the Name and the Profession]
+## [2504.Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession/)
 <p>Table: <code>Person</code></p>
 
 <pre>

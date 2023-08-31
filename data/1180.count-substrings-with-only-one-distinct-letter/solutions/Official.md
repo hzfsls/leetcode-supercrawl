@@ -1,3 +1,4 @@
+## [1180.统计只含单一字母的子串 中文官方题解](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/solutions/100000/tong-ji-zhi-han-dan-yi-zi-mu-de-zi-chuan-by-leetco)
 #### 方法一：分组计算
 
 **思路**

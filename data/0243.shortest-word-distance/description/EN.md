@@ -1,4 +1,4 @@
-## [243.Shortest Word Distance]
+## [243.Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
 <p>Given an array of strings <code>wordsDict</code> and two different strings that already exist in the array <code>word1</code> and <code>word2</code>, return <em>the shortest distance between these two words in the list</em>.</p>
 
 <p>&nbsp;</p>

@@ -1,3 +1,4 @@
+## [2029.石子游戏 IX 中文官方题解](https://leetcode.cn/problems/stone-game-ix/solutions/100000/shi-zi-you-xi-ix-by-leetcode-solution-kk5f)
 #### 方法一：构造
 
 **思路与算法**

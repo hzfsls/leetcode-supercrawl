@@ -1,4 +1,4 @@
-## [1682.Longest Palindromic Subsequence II]
+## [1682.Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/)
 <p>A subsequence of a string <code>s</code> is considered a <strong>good palindromic subsequence</strong> if:</p>
 
 <ul>

@@ -1,4 +1,4 @@
-## [1632.Rank Transform of a Matrix]
+## [1632.Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)
 <p>Given an <code>m x n</code> <code>matrix</code>, return <em>a new matrix </em><code>answer</code><em> where </em><code>answer[row][col]</code><em> is the </em><em><strong>rank</strong> of </em><code>matrix[row][col]</code>.</p>
 
 <p>The <strong>rank</strong> is an <strong>integer</strong> that represents how large an element is compared to other elements. It is calculated using the following rules:</p>

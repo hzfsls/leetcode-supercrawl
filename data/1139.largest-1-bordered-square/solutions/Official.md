@@ -1,3 +1,4 @@
+## [1139.最大的以 1 为边界的正方形 中文官方题解](https://leetcode.cn/problems/largest-1-bordered-square/solutions/100000/zui-da-de-yi-1-wei-bian-jie-de-zheng-fan-74ce)
 #### 方法一：动态规划
 
 **思路与算法**

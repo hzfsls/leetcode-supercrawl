@@ -1,4 +1,4 @@
-## [1628.设计带解析函数的表达式树]
+## [1628.设计带解析函数的表达式树](https://leetcode.cn/problems/design-an-expression-tree-with-evaluate-function/)
 <p>给定一个算术表达式的后缀表示法的标记（token）&nbsp;<code>postfix</code>&nbsp;，构造并返回该表达式对应的二叉表达式树。</p>
 
 <p><b>后缀</b>表示法是一种将操作数写在运算符之前的表示法。例如，表达式&nbsp;<code>4*(5-(2+7))</code>&nbsp;的后缀表示法表示为数组&nbsp;<code>postfix = ["4","5","7","2","+","-","*"]</code>&nbsp;。</p>

@@ -1,4 +1,4 @@
-## [1712.Ways to Split Array Into Three Subarrays]
+## [1712.Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
 <p>A split of an integer array is <strong>good</strong> if:</p>
 
 <ul>

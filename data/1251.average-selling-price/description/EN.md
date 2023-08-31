@@ -1,4 +1,4 @@
-## [1251.Average Selling Price]
+## [1251.Average Selling Price](https://leetcode.com/problems/average-selling-price/)
 <p>Table: <code>Prices</code></p>
 
 <pre>

@@ -1,3 +1,4 @@
+## [878.第 N 个神奇数字 中文官方题解](https://leetcode.cn/problems/nth-magical-number/solutions/100000/di-n-ge-shen-qi-shu-zi-by-leetcode-solut-6vyy)
 #### 方法一：容斥原理 + 二分查找
 
 **思路与算法**

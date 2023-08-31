@@ -1,4 +1,4 @@
-## [1842.Next Palindrome Using Same Digits]
+## [1842.Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits/)
 <p>You are given a numeric string <code>num</code>, representing a very large <strong>palindrome</strong>.</p>
 
 <p>Return<em> the <strong>smallest palindrome larger than </strong></em><code>num</code><em> that can be created by rearranging its digits. If no such palindrome exists, return an empty string </em><code>&quot;&quot;</code>.</p>

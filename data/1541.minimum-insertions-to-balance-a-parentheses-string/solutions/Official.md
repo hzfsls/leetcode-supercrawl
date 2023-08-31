@@ -1,3 +1,4 @@
+## [1541.平衡括号字符串的最少插入次数 中文官方题解](https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/solutions/100000/ping-heng-gua-hao-zi-fu-chuan-de-zui-shao-cha-ru-2)
 #### 方法一：贪心
 
 这道题是括号匹配的题目。每个左括号必须对应两个连续的右括号，而且左括号必须在对应的连续两个右括号之前。

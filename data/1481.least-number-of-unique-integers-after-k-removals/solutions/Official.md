@@ -1,3 +1,4 @@
+## [1481.不同整数的最少数目 中文官方题解](https://leetcode.cn/problems/least-number-of-unique-integers-after-k-removals/solutions/100000/bu-tong-zheng-shu-de-zui-shao-shu-mu-by-h6h4i)
 #### 方法一：排序 + 贪心
 
 对于数组 $\textit{arr}$ 中的任意一个整数 $x$，如果它一共出现了 $y$ 次，那么我们必须将这 $y$ 个 $x$ 全部移除，才能使得数组 $\textit{arr}$ 中不同整数的数目减少 $1$。因此，要想使得不同整数的数目最少，我们应当优先删除出现次数少的那些整数。

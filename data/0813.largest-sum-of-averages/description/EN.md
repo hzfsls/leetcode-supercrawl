@@ -1,4 +1,4 @@
-## [813.Largest Sum of Averages]
+## [813.Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>. You can partition the array into <strong>at most</strong> <code>k</code> non-empty adjacent subarrays. The <strong>score</strong> of a partition is the sum of the averages of each subarray.</p>
 
 <p>Note that the partition must use every integer in <code>nums</code>, and that the score is not necessarily an integer.</p>

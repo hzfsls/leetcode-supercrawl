@@ -1,4 +1,4 @@
-## [604.迭代压缩字符串]
+## [604.迭代压缩字符串](https://leetcode.cn/problems/design-compressed-string-iterator/)
 <p>设计并实现一个迭代压缩字符串的数据结构。给定的压缩字符串的形式是，每个字母后面紧跟一个正整数，表示该字母在原始未压缩字符串中出现的次数。</p>
 
 <p>设计一个数据结构，它支持如下两种操作：&nbsp;<code>next</code>&nbsp;和&nbsp;<code>hasNext</code>。</p>

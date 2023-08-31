@@ -1,4 +1,4 @@
-## [1428.至少有一个 1 的最左端列]
+## [1428.至少有一个 1 的最左端列](https://leetcode.cn/problems/leftmost-column-with-at-least-a-one/)
 <p><em>（这是一个<strong>交互题</strong>）</em></p>
 
 <p>我们称只包含元素&nbsp;<code>0</code>&nbsp;或&nbsp;<code>1</code>&nbsp;的矩阵为二进制矩阵。矩阵中每个<strong>单独</strong>的行都按非递减顺序排序。</p>

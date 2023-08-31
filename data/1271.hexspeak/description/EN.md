@@ -1,4 +1,4 @@
-## [1271.Hexspeak]
+## [1271.Hexspeak](https://leetcode.com/problems/hexspeak/)
 <p>A decimal number can be converted to its <strong>Hexspeak representation</strong> by first converting it to an uppercase hexadecimal string, then replacing all occurrences of the digit <code>&#39;0&#39;</code> with the letter <code>&#39;O&#39;</code>, and the digit <code>&#39;1&#39;</code> with the letter <code>&#39;I&#39;</code>. Such a representation is valid if and only if it consists only of the letters in the set <code>{&#39;A&#39;, &#39;B&#39;, &#39;C&#39;, &#39;D&#39;, &#39;E&#39;, &#39;F&#39;, &#39;I&#39;, &#39;O&#39;}</code>.</p>
 
 <p>Given a string <code>num</code> representing a decimal integer <code>n</code>, <em>return the <strong>Hexspeak representation</strong> of </em><code>n</code><em> if it is valid, otherwise return </em><code>&quot;ERROR&quot;</code>.</p>

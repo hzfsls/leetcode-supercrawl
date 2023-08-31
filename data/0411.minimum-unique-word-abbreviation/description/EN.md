@@ -1,4 +1,4 @@
-## [411.Minimum Unique Word Abbreviation]
+## [411.Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/)
 <p>A string can be <strong>abbreviated</strong> by replacing any number of <strong>non-adjacent</strong> substrings with their lengths. For example, a string such as <code>&quot;substitution&quot;</code> could be abbreviated as (but not limited to):</p>
 
 <ul>

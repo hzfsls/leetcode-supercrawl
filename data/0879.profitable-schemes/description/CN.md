@@ -1,4 +1,4 @@
-## [879.盈利计划]
+## [879.盈利计划](https://leetcode.cn/problems/profitable-schemes/)
 <p>集团里有 <code>n</code> 名员工，他们可以完成各种各样的工作创造利润。</p>
 
 <p>第 <code>i</code> 种工作会产生 <code>profit[i]</code> 的利润，它要求 <code>group[i]</code> 名成员共同参与。如果成员参与了其中一项工作，就不能参与另一项工作。</p>

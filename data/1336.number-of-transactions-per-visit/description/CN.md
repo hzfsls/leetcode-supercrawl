@@ -1,4 +1,4 @@
-## [1336.每次访问的交易次数]
+## [1336.每次访问的交易次数](https://leetcode.cn/problems/number-of-transactions-per-visit/)
 <p>表: <code>Visits</code></p>
 
 <pre>

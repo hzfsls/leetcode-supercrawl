@@ -1,4 +1,4 @@
-## [2361.乘坐火车路线的最少费用]
+## [2361.乘坐火车路线的最少费用](https://leetcode.cn/problems/minimum-costs-using-the-train-line/)
 <p>城市中的火车有两条路线，分别是常规路线和特快路线。两条路线经过 <strong>相同 </strong>的 <code>n + 1</code> 个车站，车站编号从 <code>0</code> 到 <code>n</code>。初始时，你位于车站 <code>0</code> 的常规路线。</p>
 
 <p>给你两个<strong> 下标从 1 开始 </strong>、长度均为 <code>n</code> 的两个整数数组 <code>regular</code> 和 <code>express</code> ，其中 <code>regular[i]</code> 表示乘坐常规路线从车站&nbsp;<code>i - 1</code> 到车站&nbsp;<code>i</code> 的费用，<code>express[i]</code> 表示乘坐特快路线从车站&nbsp;<code>i - 1</code> 到车站&nbsp;<code>i</code> 的费用。</p>

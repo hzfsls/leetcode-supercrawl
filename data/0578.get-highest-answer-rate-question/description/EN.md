@@ -1,4 +1,4 @@
-## [578.Get Highest Answer Rate Question]
+## [578.Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/)
 <p>Table: <code>SurveyLog</code></p>
 
 <pre>

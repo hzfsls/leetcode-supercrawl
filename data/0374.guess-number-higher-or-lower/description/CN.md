@@ -1,4 +1,4 @@
-## [374.猜数字大小]
+## [374.猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)
 <p>猜数字游戏的规则如下：</p>
 
 <ul>

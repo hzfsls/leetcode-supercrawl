@@ -1,4 +1,4 @@
-## [432.All O`one Data Structure]
+## [432.All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
 <p>Design a data structure to store the strings&#39; count with the ability to return the strings with minimum and maximum counts.</p>
 
 <p>Implement the <code>AllOne</code> class:</p>

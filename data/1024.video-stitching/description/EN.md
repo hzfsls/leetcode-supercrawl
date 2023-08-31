@@ -1,4 +1,4 @@
-## [1024.Video Stitching]
+## [1024.Video Stitching](https://leetcode.com/problems/video-stitching/)
 <p>You are given a series of video clips from a sporting event that lasted <code>time</code> seconds. These video clips can be overlapping with each other and have varying lengths.</p>
 
 <p>Each video clip is described by an array <code>clips</code> where <code>clips[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> indicates that the ith clip started at <code>start<sub>i</sub></code> and ended at <code>end<sub>i</sub></code>.</p>

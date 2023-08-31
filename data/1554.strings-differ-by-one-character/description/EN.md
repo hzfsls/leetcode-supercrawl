@@ -1,4 +1,4 @@
-## [1554.Strings Differ by One Character]
+## [1554.Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/)
 <p>Given a list of strings <code>dict</code> where all the strings are of the same length.</p>
 
 <p>Return <code>true</code> if there are 2 strings that only differ by 1 character in the same index, otherwise return <code>false</code>.</p>

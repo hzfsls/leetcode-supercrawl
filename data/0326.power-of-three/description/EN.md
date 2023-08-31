@@ -1,4 +1,4 @@
-## [326.Power of Three]
+## [326.Power of Three](https://leetcode.com/problems/power-of-three/)
 <p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of three. Otherwise, return <code>false</code></em>.</p>
 
 <p>An integer <code>n</code> is a power of three, if there exists an integer <code>x</code> such that <code>n == 3<sup>x</sup></code>.</p>

@@ -1,4 +1,4 @@
-## [1152.用户网站访问行为分析]
+## [1152.用户网站访问行为分析](https://leetcode.cn/problems/analyze-user-website-visit-pattern/)
 <p>给定两个字符串数组&nbsp;<code>username</code>&nbsp;和&nbsp;<code>website</code>&nbsp;和一个整数数组&nbsp;<code>timestamp</code>&nbsp;。给定的数组长度相同，其中元组&nbsp;<code>[username[i], website[i], timestamp[i]]</code>&nbsp;表示用户&nbsp;<code>username[i]</code>&nbsp;在时间&nbsp;<code>timestamp[i]</code>&nbsp;访问了网站&nbsp;<code>website[i]</code>&nbsp;。</p>
 
 <p><strong>访问模式</strong> 是包含三个网站的列表(不一定是完全不同的)。</p>

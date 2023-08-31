@@ -1,4 +1,4 @@
-## [2247.K 条高速公路的最大旅行费用]
+## [2247.K 条高速公路的最大旅行费用](https://leetcode.cn/problems/maximum-cost-of-trip-with-k-highways/)
 <p>一系列高速公路连接从 <code>0</code> 到 <code>n - 1</code> 的 <code>n</code> 个城市。给定一个二维整数数组 <code>highways</code>，其中 <code>highways[i] = [city1<sub>i</sub>, city2<sub>i</sub>, toll<sub>i</sub>]</code> 表示有一条高速公路连接 <code>city1<sub>i</sub></code> 和<code>city2<sub>i</sub></code>，允许一辆汽车从 <code>city1<sub>i</sub></code> 前往 <code>city2<sub>i</sub></code>，<strong>反之亦然</strong>，费用为 <code>toll<sub>i</sub></code>。</p>
 
 <p>给你一个整数 <code>k</code>，你要<strong>正好</strong>经过 <code>k</code> 条公路。你可以从任何一个城市出发，但在旅途中每个城市<strong>最多</strong>只能访问一次。</p>

@@ -1,4 +1,4 @@
-## [1835.Find XOR Sum of All Pairs Bitwise AND]
+## [1835.Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
 <p>The <strong>XOR sum</strong> of a list is the bitwise <code>XOR</code> of all its elements. If the list only contains one element, then its <strong>XOR sum</strong> will be equal to this element.</p>
 
 <ul>

@@ -1,3 +1,4 @@
+## [1563.石子游戏 V 中文官方题解](https://leetcode.cn/problems/stone-game-v/solutions/100000/shi-zi-you-xi-v-by-leetcode-solution)
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [2060.同源字符串检测 中文官方题解](https://leetcode.cn/problems/check-if-an-original-string-exists-given-two-encoded-strings/solutions/100000/tong-yuan-zi-fu-chuan-jian-ce-by-leetcod-mwva)
 #### 方法一：动态规划
 
 **思路与算法**

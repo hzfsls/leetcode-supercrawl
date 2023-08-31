@@ -1,4 +1,4 @@
-## [379.电话目录管理系统]
+## [379.电话目录管理系统](https://leetcode.cn/problems/design-phone-directory/)
 <p>设计一个电话目录管理系统，让它支持以下功能：</p>
 
 <ol>

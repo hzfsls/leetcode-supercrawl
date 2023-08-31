@@ -1,3 +1,4 @@
+## [1342.将数字变成 0 的操作次数 中文官方题解](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/solutions/100000/jiang-shu-zi-bian-cheng-0-de-cao-zuo-ci-ucaa4)
 #### 方法一：模拟
 
 **思路与算法**

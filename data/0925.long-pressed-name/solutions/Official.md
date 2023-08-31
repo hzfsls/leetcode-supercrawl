@@ -1,3 +1,4 @@
+## [925.长按键入 中文官方题解](https://leetcode.cn/problems/long-pressed-name/solutions/100000/chang-an-jian-ru-by-leetcode-solution)
 #### 方法一：双指针
 
 **思路与算法**

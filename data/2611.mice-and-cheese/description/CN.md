@@ -1,4 +1,4 @@
-## [2611.老鼠和奶酪]
+## [2611.老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese/)
 <p>有两只老鼠和&nbsp;<code>n</code>&nbsp;块不同类型的奶酪，每块奶酪都只能被其中一只老鼠吃掉。</p>
 
 <p>下标为 <code>i</code>&nbsp;处的奶酪被吃掉的得分为：</p>

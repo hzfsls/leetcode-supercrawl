@@ -1,4 +1,4 @@
-## [2486.Append Characters to String to Make Subsequence]
+## [2486.Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)
 <p>You are given two strings <code>s</code> and <code>t</code> consisting of only lowercase English letters.</p>
 
 <p>Return <em>the minimum number of characters that need to be appended to the end of </em><code>s</code><em> so that </em><code>t</code><em> becomes a <strong>subsequence</strong> of </em><code>s</code>.</p>

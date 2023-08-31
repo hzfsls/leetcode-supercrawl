@@ -1,4 +1,4 @@
-## [254.因子的组合]
+## [254.因子的组合](https://leetcode.cn/problems/factor-combinations/)
 <p>整数可以被看作是其因子的乘积。</p>
 
 <p>例如：</p>

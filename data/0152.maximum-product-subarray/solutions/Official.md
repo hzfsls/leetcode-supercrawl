@@ -1,3 +1,4 @@
+## [152.乘积最大子数组 中文官方题解](https://leetcode.cn/problems/maximum-product-subarray/solutions/100000/cheng-ji-zui-da-zi-shu-zu-by-leetcode-solution)
 #### 方法一：动态规划
 
 **思路和算法**

@@ -1,4 +1,4 @@
-## [767.重构字符串]
+## [767.重构字符串](https://leetcode.cn/problems/reorganize-string/)
 <p>给定一个字符串&nbsp;<code>s</code>&nbsp;，检查是否能重新排布其中的字母，使得两相邻的字符不同。</p>
 
 <p>返回<em> <code>s</code>&nbsp;的任意可能的重新排列。若不可行，返回空字符串&nbsp;<code>""</code></em>&nbsp;。</p>

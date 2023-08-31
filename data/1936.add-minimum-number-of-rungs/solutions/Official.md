@@ -1,3 +1,4 @@
+## [1936.新增的最少台阶数 中文官方题解](https://leetcode.cn/problems/add-minimum-number-of-rungs/solutions/100000/xin-zeng-de-zui-shao-tai-jie-shu-by-leet-y0de)
 #### 方法一：模拟 + 贪心
 
 **思路与算法**

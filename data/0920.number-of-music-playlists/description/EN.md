@@ -1,4 +1,4 @@
-## [920.Number of Music Playlists]
+## [920.Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
 <p>Your music player contains <code>n</code> different songs. You want to listen to <code>goal</code> songs (not necessarily different) during your trip. To avoid boredom, you will create a playlist so that:</p>
 
 <ul>

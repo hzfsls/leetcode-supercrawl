@@ -1,3 +1,4 @@
+## [849.到最近的人的最大距离 中文官方题解](https://leetcode.cn/problems/maximize-distance-to-closest-person/solutions/100000/dao-zui-jin-de-ren-de-zui-da-ju-chi-by-l-zboe)
 #### 方法一：双指针 + 贪心
 
 **思路与算法**

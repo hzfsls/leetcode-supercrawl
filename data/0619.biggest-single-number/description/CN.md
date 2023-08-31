@@ -1,4 +1,4 @@
-## [619.只出现一次的最大数字]
+## [619.只出现一次的最大数字](https://leetcode.cn/problems/biggest-single-number/)
 <p><code>MyNumbers</code> 表：</p>
 
 <div class="original__bRMd">

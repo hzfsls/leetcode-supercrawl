@@ -1,4 +1,4 @@
-## [784.Letter Case Permutation]
+## [784.Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 <p>Given a string <code>s</code>, you&nbsp;can transform every letter individually to be lowercase or uppercase to create another string.</p>
 
 <p>Return <em>a list of all possible strings we could create</em>. Return the output in <strong>any order</strong>.</p>

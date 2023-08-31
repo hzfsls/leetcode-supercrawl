@@ -1,3 +1,4 @@
+## [2312.卖木头块 中文官方题解](https://leetcode.cn/problems/selling-pieces-of-wood/solutions/100000/mai-mu-tou-kuai-by-leetcode-solution-gflg)
 #### 方法一：动态规划 / 记忆化搜索
 
 **思路与算法**

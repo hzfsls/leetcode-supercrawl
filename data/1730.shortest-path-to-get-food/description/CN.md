@@ -1,4 +1,4 @@
-## [1730.获取食物的最短路径]
+## [1730.获取食物的最短路径](https://leetcode.cn/problems/shortest-path-to-get-food/)
 <p>你现在很饿，想要尽快找东西吃。你需要找到最短的路径到达一个食物所在的格子。</p>
 
 <p>给定一个&nbsp;<code>m x n</code>&nbsp;的字符矩阵&nbsp;<code>grid</code>&nbsp;，包含下列不同类型的格子：</p>

@@ -1,4 +1,4 @@
-## [800.相似 RGB 颜色]
+## [800.相似 RGB 颜色](https://leetcode.cn/problems/similar-rgb-color/)
 <p>RGB 颜色 <code>"#AABBCC"</code>&nbsp;可以简写成&nbsp;<code>"#ABC"</code> 。</p>
 
 <ul>

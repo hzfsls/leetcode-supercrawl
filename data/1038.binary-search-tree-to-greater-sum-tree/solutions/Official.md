@@ -1,3 +1,4 @@
+## [1038.从二叉搜索树到更大和树 中文官方题解](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/solutions/100000/cong-er-cha-sou-suo-shu-dao-geng-da-he-shu-by-leet)
 #### 前言
 
 二叉搜索树是一棵空树，或者是具有下列性质的二叉树：

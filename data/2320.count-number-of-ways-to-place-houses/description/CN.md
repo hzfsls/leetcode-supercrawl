@@ -1,4 +1,4 @@
-## [2320.统计放置房子的方式数]
+## [2320.统计放置房子的方式数](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/)
 <p>一条街道上共有 <code>n * 2</code> 个 <strong>地块</strong> ，街道的两侧各有 <code>n</code> 个地块。每一边的地块都按从 <code>1</code> 到 <code>n</code> 编号。每个地块上都可以放置一所房子。</p>
 
 <p>现要求街道同一侧不能存在两所房子相邻的情况，请你计算并返回放置房屋的方式数目。由于答案可能很大，需要对 <code>10<sup>9</sup> + 7</code> 取余后再返回。</p>

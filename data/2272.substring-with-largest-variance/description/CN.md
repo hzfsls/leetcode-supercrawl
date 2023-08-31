@@ -1,4 +1,4 @@
-## [2272.最大波动的子字符串]
+## [2272.最大波动的子字符串](https://leetcode.cn/problems/substring-with-largest-variance/)
 <p>字符串的 <strong>波动</strong>&nbsp;定义为子字符串中出现次数 <strong>最多</strong>&nbsp;的字符次数与出现次数 <strong>最少</strong>&nbsp;的字符次数之差。</p>
 
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;，它只包含小写英文字母。请你返回 <code>s</code>&nbsp;里所有 <strong>子字符串的</strong>&nbsp;<strong>最大波动</strong>&nbsp;值。</p>

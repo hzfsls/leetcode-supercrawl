@@ -1,3 +1,4 @@
+## [1614.括号的最大嵌套深度 中文官方题解](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/solutions/100000/gua-hao-de-zui-da-qian-tao-shen-du-by-le-av5b)
 #### 方法一：遍历
 
 对于括号计算类题目，我们往往可以用栈来思考。

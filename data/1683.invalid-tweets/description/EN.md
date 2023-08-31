@@ -1,4 +1,4 @@
-## [1683.Invalid Tweets]
+## [1683.Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
 <p>Table: <code>Tweets</code></p>
 
 <pre>

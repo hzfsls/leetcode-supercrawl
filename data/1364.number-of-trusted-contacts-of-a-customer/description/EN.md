@@ -1,4 +1,4 @@
-## [1364.Number of Trusted Contacts of a Customer]
+## [1364.Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/)
 <p>Table: <code>Customers</code></p>
 
 <pre>

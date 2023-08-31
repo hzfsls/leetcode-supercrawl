@@ -1,3 +1,4 @@
+## [385.迷你语法分析器 中文官方题解](https://leetcode.cn/problems/mini-parser/solutions/100000/mi-ni-yu-fa-fen-xi-qi-by-leetcode-soluti-l2ma)
 #### 方法一：深度优先搜索
 
 **思路**

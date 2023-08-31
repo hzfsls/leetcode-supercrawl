@@ -1,4 +1,4 @@
-## [2336.Smallest Number in Infinite Set]
+## [2336.Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 <p>You have a set which contains all positive integers <code>[1, 2, 3, 4, 5, ...]</code>.</p>
 
 <p>Implement the <code>SmallestInfiniteSet</code> class:</p>

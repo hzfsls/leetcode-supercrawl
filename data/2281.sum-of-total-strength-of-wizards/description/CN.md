@@ -1,4 +1,4 @@
-## [2281.巫师的总力量和]
+## [2281.巫师的总力量和](https://leetcode.cn/problems/sum-of-total-strength-of-wizards/)
 <p>作为国王的统治者，你有一支巫师军队听你指挥。</p>
 
 <p>给你一个下标从 <strong>0</strong>&nbsp;开始的整数数组&nbsp;<code>strength</code>&nbsp;，其中&nbsp;<code>strength[i]</code>&nbsp;表示第&nbsp;<code>i</code>&nbsp;位巫师的力量值。对于连续的一组巫师（也就是这些巫师的力量值是&nbsp;<code>strength</code>&nbsp;的&nbsp;<strong>子数组</strong>），<strong>总力量</strong>&nbsp;定义为以下两个值的&nbsp;<strong>乘积</strong>&nbsp;：</p>

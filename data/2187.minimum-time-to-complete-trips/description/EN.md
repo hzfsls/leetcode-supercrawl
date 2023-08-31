@@ -1,4 +1,4 @@
-## [2187.Minimum Time to Complete Trips]
+## [2187.Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
 <p>You are given an array <code>time</code> where <code>time[i]</code> denotes the time taken by the <code>i<sup>th</sup></code> bus to complete <strong>one trip</strong>.</p>
 
 <p>Each bus can make multiple trips <strong>successively</strong>; that is, the next trip can start <strong>immediately after</strong> completing the current trip. Also, each bus operates <strong>independently</strong>; that is, the trips of one bus do not influence the trips of any other bus.</p>

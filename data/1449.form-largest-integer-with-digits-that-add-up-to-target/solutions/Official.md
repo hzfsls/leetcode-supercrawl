@@ -1,3 +1,4 @@
+## [1449.数位成本和为目标值的最大数字 中文官方题解](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/solutions/100000/shu-wei-cheng-ben-he-wei-mu-biao-zhi-de-dnh86)
 #### 方法一：动态规划
 
 若两个整数位数不同，位数更多的整数必然大于位数小的整数。因此我们需要先计算出可以得到的整数的最大位数。

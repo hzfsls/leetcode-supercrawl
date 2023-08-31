@@ -1,4 +1,4 @@
-## [268.丢失的数字]
+## [268.丢失的数字](https://leetcode.cn/problems/missing-number/)
 <p>给定一个包含 <code>[0, n]</code>&nbsp;中&nbsp;<code>n</code>&nbsp;个数的数组 <code>nums</code> ，找出 <code>[0, n]</code> 这个范围内没有出现在数组中的那个数。</p>
 
 <ul>

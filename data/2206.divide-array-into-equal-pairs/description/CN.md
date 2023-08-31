@@ -1,4 +1,4 @@
-## [2206.将数组划分成相等数对]
+## [2206.将数组划分成相等数对](https://leetcode.cn/problems/divide-array-into-equal-pairs/)
 <p>给你一个整数数组&nbsp;<code>nums</code>&nbsp;，它包含&nbsp;<code>2 * n</code>&nbsp;个整数。</p>
 
 <p>你需要将&nbsp;<code>nums</code> 划分成&nbsp;<code>n</code>&nbsp;个数对，满足：</p>

@@ -1,4 +1,4 @@
-## [705.Design HashSet]
+## [705.Design HashSet](https://leetcode.com/problems/design-hashset/)
 <p>Design a HashSet without using any built-in hash table libraries.</p>
 
 <p>Implement <code>MyHashSet</code> class:</p>

@@ -1,4 +1,4 @@
-## [728.Self Dividing Numbers]
+## [728.Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 <p>A <strong>self-dividing number</strong> is a number that is divisible by every digit it contains.</p>
 
 <ul>

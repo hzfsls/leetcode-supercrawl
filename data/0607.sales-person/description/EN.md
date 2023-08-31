@@ -1,4 +1,4 @@
-## [607.Sales Person]
+## [607.Sales Person](https://leetcode.com/problems/sales-person/)
 <p>Table: <code>SalesPerson</code></p>
 
 <pre>

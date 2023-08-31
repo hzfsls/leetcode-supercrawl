@@ -1,4 +1,4 @@
-## [1181.Before and After Puzzle]
+## [1181.Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/)
 <p>Given a list of <code>phrases</code>, generate a list of&nbsp;Before and After puzzles.</p>
 
 <p>A <em>phrase</em> is a string that consists of lowercase English letters and spaces only. No space appears in the start or the end of a phrase. There are&nbsp;no consecutive spaces&nbsp;in a phrase.</p>

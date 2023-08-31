@@ -1,4 +1,4 @@
-## [2823.深度对象筛选]
+## [2823.深度对象筛选](https://leetcode.cn/problems/deep-object-filter/)
 <p>给定一个对象 <code>obj</code> 和一个函数 <code>fn</code>，返回一个经过筛选的对象 <code>filteredObject</code>。</p>
 
 <p>函数 <code>deepFilter</code> 应该在对象 <code>obj</code> 上执行深度筛选操作。深度筛选操作应该移除筛选函数 <code>fn</code> 输出为 <code>false</code> 的属性，以及在键被移除后仍然存在的任何空对象或数组。</p>

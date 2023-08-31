@@ -1,4 +1,4 @@
-## [1534.Count Good Triplets]
+## [1534.Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
 <p>Given an array of integers <code>arr</code>, and three integers&nbsp;<code>a</code>,&nbsp;<code>b</code>&nbsp;and&nbsp;<code>c</code>. You need to find the number of good triplets.</p>
 
 <p>A triplet <code>(arr[i], arr[j], arr[k])</code>&nbsp;is <strong>good</strong> if the following conditions are true:</p>

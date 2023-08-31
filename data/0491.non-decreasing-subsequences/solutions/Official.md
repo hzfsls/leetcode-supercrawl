@@ -1,3 +1,4 @@
+## [491.递增子序列 中文官方题解](https://leetcode.cn/problems/non-decreasing-subsequences/solutions/100000/di-zeng-zi-xu-lie-by-leetcode-solution)
 #### 方法一：二进制枚举 + 哈希
 
 **思路与算法**

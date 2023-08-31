@@ -1,3 +1,4 @@
+## [580.统计各专业学生人数 中文官方题解](https://leetcode.cn/problems/count-student-number-in-departments/solutions/100000/tong-ji-ge-zhuan-ye-xue-sheng-ren-shu-by-zy81)
 [TOC]
 
 ## 解决方案

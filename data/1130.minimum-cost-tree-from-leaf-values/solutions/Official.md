@@ -1,3 +1,4 @@
+## [1130.叶值的最小代价生成树 中文官方题解](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/solutions/100000/xie-zhi-de-zui-xiao-dai-jie-sheng-cheng-26ozf)
 #### 方法一：动态规划
 
 已知数组 $\textit{arr}$ 与二叉树的中序遍历的所有叶子节点对应，并且二叉树的每个节点都有 $0$ 个节点或 $2$ 个节点。考虑数组 $\textit{arr}$ 可以生成的所有二叉树，我们可以将 $\textit{arr}$ 切分成任意两个非空子数组，分别对应左子树和右子树，然后递归地对两个非空子树组执行相同的操作，直到子数组大小等于 $1$，即叶子节点，那么一种切分方案对应一个合法的二叉树。

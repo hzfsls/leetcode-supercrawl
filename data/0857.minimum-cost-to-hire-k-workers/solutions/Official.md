@@ -1,3 +1,4 @@
+## [857.雇佣 K 名工人的最低成本 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-hire-k-workers/solutions/100000/gu-yong-k-ming-gong-ren-de-zui-di-cheng-rsz3t)
 #### 方法一：贪心 + 优先队列
 
 **思路与算法**

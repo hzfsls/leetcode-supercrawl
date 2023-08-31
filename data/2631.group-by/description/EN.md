@@ -1,4 +1,4 @@
-## [2631.Group By]
+## [2631.Group By](https://leetcode.com/problems/group-by/)
 <p>Write code that enhances all arrays such that you can call the&nbsp;<code>array.groupBy(fn)</code>&nbsp;method on any array and it will return a <strong>grouped</strong>&nbsp;version of the array.</p>
 
 <p>A&nbsp;<strong>grouped</strong>&nbsp;array is an object where each&nbsp;key&nbsp;is&nbsp;the output of&nbsp;<code>fn(arr[i])</code>&nbsp;and each&nbsp;value is an array containing all items in the original array with that key.</p>

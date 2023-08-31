@@ -1,4 +1,4 @@
-## [600.Non-negative Integers without Consecutive Ones]
+## [600.Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
 <p>Given a positive integer <code>n</code>, return the number of the integers in the range <code>[0, n]</code> whose binary representations <strong>do not</strong> contain consecutive ones.</p>
 
 <p>&nbsp;</p>

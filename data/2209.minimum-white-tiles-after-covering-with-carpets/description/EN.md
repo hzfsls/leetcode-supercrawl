@@ -1,4 +1,4 @@
-## [2209.Minimum White Tiles After Covering With Carpets]
+## [2209.Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
 <p>You are given a <strong>0-indexed binary</strong> string <code>floor</code>, which represents the colors of tiles on a floor:</p>
 
 <ul>

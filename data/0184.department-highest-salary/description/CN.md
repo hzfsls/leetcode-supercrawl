@@ -1,4 +1,4 @@
-## [184.部门工资最高的员工]
+## [184.部门工资最高的员工](https://leetcode.cn/problems/department-highest-salary/)
 <p>表：&nbsp;<code>Employee</code></p>
 
 <pre>

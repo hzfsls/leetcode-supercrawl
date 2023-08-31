@@ -1,4 +1,4 @@
-## [298.Binary Tree Longest Consecutive Sequence]
+## [298.Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 <p>Given the <code>root</code> of a binary tree, return <em>the length of the longest <strong>consecutive sequence path</strong></em>.</p>
 
 <p>A <strong>consecutive sequence path</strong> is a path where the values <strong>increase by one</strong> along the path.</p>

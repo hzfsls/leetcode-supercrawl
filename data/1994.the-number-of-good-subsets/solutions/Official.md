@@ -1,3 +1,4 @@
+## [1994.好子集的数目 中文官方题解](https://leetcode.cn/problems/the-number-of-good-subsets/solutions/100000/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65)
 #### 方法一：状态压缩动态规划
 
 **思路与算法**

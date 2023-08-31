@@ -1,3 +1,4 @@
+## [279.完全平方数 中文官方题解](https://leetcode.cn/problems/perfect-squares/solutions/100000/wan-quan-ping-fang-shu-by-leetcode-solut-t99c)
 #### 方法一：动态规划
 
 **思路及算法**

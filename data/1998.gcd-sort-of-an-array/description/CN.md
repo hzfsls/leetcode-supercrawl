@@ -1,4 +1,4 @@
-## [1998.数组的最大公因数排序]
+## [1998.数组的最大公因数排序](https://leetcode.cn/problems/gcd-sort-of-an-array/)
 <p>给你一个整数数组 <code>nums</code> ，你可以在 <code>nums</code> 上执行下述操作 <strong>任意次</strong> ：</p>
 
 <ul>

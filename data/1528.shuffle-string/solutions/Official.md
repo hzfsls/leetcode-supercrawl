@@ -1,3 +1,4 @@
+## [1528.重新排列字符串 中文官方题解](https://leetcode.cn/problems/shuffle-string/solutions/100000/zhong-xin-pai-lie-zi-fu-chuan-by-leetcode-solution)
 #### 方法一：模拟
 
 **思路与算法**

@@ -1,3 +1,4 @@
+## [90.子集 II 中文官方题解](https://leetcode.cn/problems/subsets-ii/solutions/100000/zi-ji-ii-by-leetcode-solution-7inq)
 #### 前言
 
 本题解基于「[78. 子集的官方题解](https://leetcode-cn.com/problems/subsets/solution/zi-ji-by-leetcode-solution/)」，请读者在充分理解该题解后继续阅读。

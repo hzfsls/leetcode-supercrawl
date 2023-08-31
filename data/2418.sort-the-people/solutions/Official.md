@@ -1,3 +1,4 @@
+## [2418.按身高排序 中文官方题解](https://leetcode.cn/problems/sort-the-people/solutions/100000/an-shen-gao-pai-xu-by-leetcode-solution-p6bk)
 #### 方法一：排序
 
 **思路与算法**

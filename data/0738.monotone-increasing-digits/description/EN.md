@@ -1,4 +1,4 @@
-## [738.Monotone Increasing Digits]
+## [738.Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
 <p>An integer has <strong>monotone increasing digits</strong> if and only if each pair of adjacent digits <code>x</code> and <code>y</code> satisfy <code>x &lt;= y</code>.</p>
 
 <p>Given an integer <code>n</code>, return <em>the largest number that is less than or equal to </em><code>n</code><em> with <strong>monotone increasing digits</strong></em>.</p>

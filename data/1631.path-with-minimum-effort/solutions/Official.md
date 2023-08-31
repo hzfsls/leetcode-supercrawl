@@ -1,3 +1,4 @@
+## [1631.最小体力消耗路径 中文官方题解](https://leetcode.cn/problems/path-with-minimum-effort/solutions/100000/zui-xiao-ti-li-xiao-hao-lu-jing-by-leetc-3q2j)
 #### 前言
 
 我们可以将本题抽象成如下的一个图论模型：

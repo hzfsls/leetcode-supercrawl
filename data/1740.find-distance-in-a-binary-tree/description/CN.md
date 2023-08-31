@@ -1,4 +1,4 @@
-## [1740.找到二叉树中的距离]
+## [1740.找到二叉树中的距离](https://leetcode.cn/problems/find-distance-in-a-binary-tree/)
 <p>给定一棵二叉树的根节点 <code>root</code> 以及两个整数 <code>p</code> 和 <code>q</code> ，返回该二叉树中值为 <code>p</code> 的结点与值为 <code>q</code> 的结点间的 <strong>距离 </strong>。</p>
 
 <p>两个结点间的<strong> 距离 </strong>就是从一个结点到另一个结点的路径上边的数目。</p>

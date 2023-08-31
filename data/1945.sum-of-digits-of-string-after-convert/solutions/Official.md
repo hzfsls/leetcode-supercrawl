@@ -1,3 +1,4 @@
+## [1945.字符串转化后的各位数字之和 中文官方题解](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/solutions/100000/zi-fu-chuan-zhuan-hua-hou-de-ge-wei-shu-bhdx4)
 #### 方法一：模拟
 
 **思路与算法**

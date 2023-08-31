@@ -1,4 +1,4 @@
-## [2701.Consecutive Transactions with Increasing Amounts]
+## [2701.Consecutive Transactions with Increasing Amounts](https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/)
 <p>Table: <code>Transactions</code></p>
 
 <pre>

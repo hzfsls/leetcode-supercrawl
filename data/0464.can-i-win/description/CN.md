@@ -1,4 +1,4 @@
-## [464.我能赢吗]
+## [464.我能赢吗](https://leetcode.cn/problems/can-i-win/)
 <p>在 "100 game" 这个游戏中，两名玩家轮流选择从 <code>1</code> 到 <code>10</code> 的任意整数，累计整数和，先使得累计整数和 <strong>达到或超过</strong>&nbsp; 100 的玩家，即为胜者。</p>
 
 <p>如果我们将游戏规则改为 “玩家 <strong>不能</strong> 重复使用整数” 呢？</p>

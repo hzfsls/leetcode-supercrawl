@@ -1,3 +1,4 @@
+## [1560.圆形赛道上经过次数最多的扇区 中文官方题解](https://leetcode.cn/problems/most-visited-sector-in-a-circular-track/solutions/100000/yuan-xing-sai-dao-shang-jing-guo-ci-shu-zui-duo--2)
 #### 方法一：模拟
 
 **思路与算法**

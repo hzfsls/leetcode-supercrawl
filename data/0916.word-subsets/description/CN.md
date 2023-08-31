@@ -1,4 +1,4 @@
-## [916.单词子集]
+## [916.单词子集](https://leetcode.cn/problems/word-subsets/)
 <p>给你两个字符串数组 <code>words1</code>&nbsp;和&nbsp;<code>words2</code>。</p>
 
 <p>现在，如果&nbsp;<code>b</code> 中的每个字母都出现在 <code>a</code> 中，<strong>包括重复出现的字母</strong>，那么称字符串 <code>b</code> 是字符串 <code>a</code> 的 <strong>子集</strong> 。</p>

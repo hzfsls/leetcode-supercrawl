@@ -1,3 +1,4 @@
+## [1947.最大兼容性评分和 中文官方题解](https://leetcode.cn/problems/maximum-compatibility-score-sum/solutions/100000/zui-da-jian-rong-xing-ping-fen-he-by-lee-be2l)
 #### 方法一：枚举排列
 
 **思路与算法**

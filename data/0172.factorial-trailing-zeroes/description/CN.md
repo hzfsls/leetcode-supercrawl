@@ -1,4 +1,4 @@
-## [172.阶乘后的零]
+## [172.阶乘后的零](https://leetcode.cn/problems/factorial-trailing-zeroes/)
 <p>给定一个整数 <code>n</code> ，返回 <code>n!</code> 结果中尾随零的数量。</p>
 
 <p>提示&nbsp;<code>n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1</code></p>

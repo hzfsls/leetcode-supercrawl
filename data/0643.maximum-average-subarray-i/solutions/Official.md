@@ -1,3 +1,4 @@
+## [643.子数组最大平均数 I 中文官方题解](https://leetcode.cn/problems/maximum-average-subarray-i/solutions/100000/zi-shu-zu-zui-da-ping-jun-shu-i-by-leetc-us1k)
 #### 方法一：滑动窗口
 
 由于规定了子数组的长度为 $k$，因此可以通过寻找子数组的最大元素和的方式寻找子数组的最大平均数，元素和最大的子数组对应的平均数也是最大的。证明如下：

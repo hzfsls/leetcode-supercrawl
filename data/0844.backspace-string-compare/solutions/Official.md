@@ -1,3 +1,4 @@
+## [844.比较含退格的字符串 中文官方题解](https://leetcode.cn/problems/backspace-string-compare/solutions/100000/bi-jiao-han-tui-ge-de-zi-fu-chuan-by-leetcode-solu)
 #### 方法一：重构字符串
 
 **思路及算法**

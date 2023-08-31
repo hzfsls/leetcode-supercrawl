@@ -1,4 +1,4 @@
-## [1501.Countries You Can Safely Invest In]
+## [1501.Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/)
 <p>Table <code>Person</code>:</p>
 
 <pre>

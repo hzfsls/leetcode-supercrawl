@@ -1,4 +1,4 @@
-## [870.Advantage Shuffle]
+## [870.Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
 <p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> both of the same length. The <strong>advantage</strong> of <code>nums1</code> with respect to <code>nums2</code> is the number of indices <code>i</code> for which <code>nums1[i] &gt; nums2[i]</code>.</p>
 
 <p>Return <em>any permutation of </em><code>nums1</code><em> that maximizes its <strong>advantage</strong> with respect to </em><code>nums2</code>.</p>

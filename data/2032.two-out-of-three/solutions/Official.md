@@ -1,3 +1,4 @@
+## [2032.至少在两个数组中出现的值 中文官方题解](https://leetcode.cn/problems/two-out-of-three/solutions/100000/zhi-shao-zai-liang-ge-shu-zu-zhong-chu-x-5131)
 #### 方法一：哈希表
 
 **思路与算法**

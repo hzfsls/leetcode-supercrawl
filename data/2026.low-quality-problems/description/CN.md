@@ -1,4 +1,4 @@
-## [2026.低质量的问题]
+## [2026.低质量的问题](https://leetcode.cn/problems/low-quality-problems/)
 <p>表：&nbsp;<code>Problems</code></p>
 
 <pre>

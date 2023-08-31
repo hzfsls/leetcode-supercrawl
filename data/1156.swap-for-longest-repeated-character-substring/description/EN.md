@@ -1,4 +1,4 @@
-## [1156.Swap For Longest Repeated Character Substring]
+## [1156.Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)
 <p>You are given a string <code>text</code>. You can swap two of the characters in the <code>text</code>.</p>
 
 <p>Return <em>the length of the longest substring with repeated characters</em>.</p>

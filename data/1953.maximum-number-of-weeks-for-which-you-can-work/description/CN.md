@@ -1,4 +1,4 @@
-## [1953.你可以工作的最大周数]
+## [1953.你可以工作的最大周数](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/)
 <p>给你&nbsp;<code>n</code> 个项目，编号从 <code>0</code> 到 <code>n - 1</code> 。同时给你一个整数数组 <code>milestones</code> ，其中每个 <code>milestones[i]</code> 表示第 <code>i</code> 个项目中的阶段任务数量。</p>
 
 <p>你可以按下面两个规则参与项目中的工作：</p>

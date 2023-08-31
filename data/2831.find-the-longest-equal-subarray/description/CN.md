@@ -1,4 +1,4 @@
-## [2831.找出最长等值子数组]
+## [2831.找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/)
 <p>给你一个下标从 <strong>0</strong> 开始的整数数组 <code>nums</code> 和一个整数 <code>k</code> 。</p>
 
 <p>如果子数组中所有元素都相等，则认为子数组是一个 <strong>等值子数组</strong> 。注意，空数组是 <strong>等值子数组</strong> 。</p>

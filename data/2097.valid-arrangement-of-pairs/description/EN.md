@@ -1,4 +1,4 @@
-## [2097.Valid Arrangement of Pairs]
+## [2097.Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
 <p>You are given a <strong>0-indexed</strong> 2D integer array <code>pairs</code> where <code>pairs[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>. An arrangement of <code>pairs</code> is <strong>valid</strong> if for every index <code>i</code> where <code>1 &lt;= i &lt; pairs.length</code>, we have <code>end<sub>i-1</sub> == start<sub>i</sub></code>.</p>
 
 <p>Return <em><strong>any</strong> valid arrangement of </em><code>pairs</code>.</p>

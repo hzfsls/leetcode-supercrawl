@@ -1,4 +1,4 @@
-## [2694.事件发射器]
+## [2694.事件发射器](https://leetcode.cn/problems/event-emitter/)
 <p>设计一个 <code>EventEmitter</code> 类。这个接口与 Node.js 或 DOM 的 Event Target 接口相似，但有一些差异。<code>EventEmitter</code> 应该允许订阅事件和触发事件。</p>
 
 <p>你的 <code>EventEmitter</code> 类应该有以下两个方法：</p>

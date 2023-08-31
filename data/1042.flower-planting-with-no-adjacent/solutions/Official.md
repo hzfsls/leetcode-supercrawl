@@ -1,3 +1,4 @@
+## [1042.不邻接植花 中文官方题解](https://leetcode.cn/problems/flower-planting-with-no-adjacent/solutions/100000/bu-lin-jie-zhi-hua-by-leetcode-solution-bv74)
 #### 方法一：颜色标记
 
 **思路与算法**

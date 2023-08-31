@@ -1,4 +1,4 @@
-## [638.Shopping Offers]
+## [638.Shopping Offers](https://leetcode.com/problems/shopping-offers/)
 <p>In LeetCode Store, there are <code>n</code> items to sell. Each item has a price. However, there are some special offers, and a special offer consists of one or more different kinds of items with a sale price.</p>
 
 <p>You are given an integer array <code>price</code> where <code>price[i]</code> is the price of the <code>i<sup>th</sup></code> item, and an integer array <code>needs</code> where <code>needs[i]</code> is the number of pieces of the <code>i<sup>th</sup></code> item you want to buy.</p>

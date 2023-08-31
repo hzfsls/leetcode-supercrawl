@@ -1,4 +1,4 @@
-## [2432.The Employee That Worked on the Longest Task]
+## [2432.The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)
 <p>There are <code>n</code> employees, each with a unique id from <code>0</code> to <code>n - 1</code>.</p>
 
 <p>You are given a 2D integer array <code>logs</code> where <code>logs[i] = [id<sub>i</sub>, leaveTime<sub>i</sub>]</code> where:</p>

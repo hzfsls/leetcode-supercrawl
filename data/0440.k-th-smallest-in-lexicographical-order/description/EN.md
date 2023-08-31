@@ -1,4 +1,4 @@
-## [440.K-th Smallest in Lexicographical Order]
+## [440.K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
 <p>Given two integers <code>n</code> and <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>lexicographically smallest integer in the range</em> <code>[1, n]</code>.</p>
 
 <p>&nbsp;</p>

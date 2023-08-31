@@ -1,4 +1,4 @@
-## [1936.Add Minimum Number of Rungs]
+## [1936.Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)
 <p>You are given a <strong>strictly increasing</strong> integer array <code>rungs</code> that represents the <strong>height</strong> of rungs on a ladder. You are currently on the <strong>floor</strong> at height <code>0</code>, and you want to reach the last rung.</p>
 
 <p>You are also given an integer <code>dist</code>. You can only climb to the next highest rung if the distance between where you are currently at (the floor or on a rung) and the next rung is <strong>at most</strong> <code>dist</code>. You are able to insert rungs at any positive <strong>integer</strong> height if a rung is not already there.</p>

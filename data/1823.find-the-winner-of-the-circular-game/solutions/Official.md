@@ -1,3 +1,4 @@
+## [1823.找出游戏的获胜者 中文官方题解](https://leetcode.cn/problems/find-the-winner-of-the-circular-game/solutions/100000/zhao-chu-you-xi-de-huo-sheng-zhe-by-leet-w2jd)
 #### 方法一：模拟 + 队列
 
 最直观的方法是模拟游戏过程。使用队列存储圈子中的小伙伴编号，初始时将 $1$ 到 $n$ 的所有编号依次加入队列，队首元素即为第 $1$ 名小伙伴的编号。

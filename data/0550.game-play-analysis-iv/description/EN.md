@@ -1,4 +1,4 @@
-## [550.Game Play Analysis IV]
+## [550.Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)
 <p>Table: <code>Activity</code></p>
 
 <pre>

@@ -1,4 +1,4 @@
-## [2488.统计中位数为 K 的子数组]
+## [2488.统计中位数为 K 的子数组](https://leetcode.cn/problems/count-subarrays-with-median-k/)
 <p>给你一个长度为 <code>n</code> 的数组 <code>nums</code> ，该数组由从 <code>1</code> 到 <code>n</code> 的 <strong>不同</strong> 整数组成。另给你一个正整数 <code>k</code> 。</p>
 
 <p>统计并返回 <code>nums</code> 中的 <strong>中位数</strong> 等于 <code>k</code> 的非空子数组的数目。</p>

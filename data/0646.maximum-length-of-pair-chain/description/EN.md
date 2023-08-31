@@ -1,4 +1,4 @@
-## [646.Maximum Length of Pair Chain]
+## [646.Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 <p>You are given an array of <code>n</code> pairs <code>pairs</code> where <code>pairs[i] = [left<sub>i</sub>, right<sub>i</sub>]</code> and <code>left<sub>i</sub> &lt; right<sub>i</sub></code>.</p>
 
 <p>A pair <code>p2 = [c, d]</code> <strong>follows</strong> a pair <code>p1 = [a, b]</code> if <code>b &lt; c</code>. A <strong>chain</strong> of pairs can be formed in this fashion.</p>

@@ -1,3 +1,4 @@
+## [725.分隔链表 中文官方题解](https://leetcode.cn/problems/split-linked-list-in-parts/solutions/100000/fen-ge-lian-biao-by-leetcode-solution-wevt)
 #### 方法一：拆分链表
 
 题目要求将给定的链表分隔成 $k$ 个连续的部分。由于分隔成的每个部分的长度和原始链表的长度有关，因此需要首先遍历链表，得到链表的长度 $n$。

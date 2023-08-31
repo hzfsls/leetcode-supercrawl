@@ -1,4 +1,4 @@
-## [691.Stickers to Spell Word]
+## [691.Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
 <p>We are given <code>n</code> different types of <code>stickers</code>. Each sticker has a lowercase English word on it.</p>
 
 <p>You would like to spell out the given string <code>target</code> by cutting individual letters from your collection of stickers and rearranging them. You can use each sticker more than once if you want, and you have infinite quantities of each sticker.</p>

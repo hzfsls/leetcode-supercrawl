@@ -1,3 +1,4 @@
+## [111.二叉树的最小深度 中文官方题解](https://leetcode.cn/problems/minimum-depth-of-binary-tree/solutions/100000/er-cha-shu-de-zui-xiao-shen-du-by-leetcode-solutio)
 #### 方法一：深度优先搜索
 
 **思路及解法**

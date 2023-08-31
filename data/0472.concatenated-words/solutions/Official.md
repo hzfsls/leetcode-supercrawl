@@ -1,3 +1,4 @@
+## [472.连接词 中文官方题解](https://leetcode.cn/problems/concatenated-words/solutions/100000/lian-jie-ci-by-leetcode-solution-mj4d)
 #### 前言
 
 本文的解法需要使用字典树。如果读者对字典树不了解，建议首先阅读「[208. 实现 Trie (前缀树) 的官方题解](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shi-xian-trie-qian-zhui-shu-by-leetcode-ti500/)」，在理解字典树的实现之后继续阅读本文。
