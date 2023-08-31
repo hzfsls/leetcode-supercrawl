@@ -1,4 +1,5 @@
 ## [45.跳跃游戏 II 中文官方题解](https://leetcode.cn/problems/jump-game-ii/solutions/100000/tiao-yue-you-xi-ii-by-leetcode-solution)
+
 #### 解题思路
 
 这道题是典型的贪心算法，通过局部最优解得到全局最优解。以下两种方法都是使用贪心算法实现，只是贪心的策略不同。

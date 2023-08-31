@@ -1,4 +1,5 @@
 ## [1567.乘积为正数的最长子数组长度 中文官方题解](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/solutions/100000/cheng-ji-wei-zheng-shu-de-zui-chang-zi-shu-zu-ch-3)
+
 #### 方法一：动态规划
 
 可以使用动态规划得到乘积为正数的最长子数组长度。定义两个数组 $\textit{positive}$ 和 $\textit{negative}$，其中 $\textit{positive}[i]$ 表示以下标 $i$ 结尾的乘积为正数的最长子数组长度，$\textit{negative}[i]$ 表示乘积为负数的最长子数组长度。

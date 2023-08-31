@@ -1,4 +1,5 @@
 ## [36.有效的数独 中文官方题解](https://leetcode.cn/problems/valid-sudoku/solutions/100000/you-xiao-de-shu-du-by-leetcode-solution-50m6)
+
 #### 方法一：一次遍历
 
 有效的数独满足以下三个条件：

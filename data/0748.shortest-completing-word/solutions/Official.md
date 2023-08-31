@@ -1,4 +1,5 @@
 ## [748.最短补全词 中文官方题解](https://leetcode.cn/problems/shortest-completing-word/solutions/100000/zui-duan-bu-quan-ci-by-leetcode-solution-35pt)
+
 #### 方法一：统计字符出现次数
 
 根据题意，我们先统计 $\textit{licensePlate}$ 中每个字母的出现次数（忽略大小写），然后遍历 $\textit{words}$ 中的每个单词，若 $26$ 个字母在该单词中的出现次数均不小于在 $\textit{licensePlate}$ 中的出现次数，则该单词是一个补全词。返回最短且最靠前的补全词。

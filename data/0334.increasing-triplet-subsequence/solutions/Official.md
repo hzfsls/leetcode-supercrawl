@@ -1,4 +1,5 @@
 ## [334.递增的三元子序列 中文官方题解](https://leetcode.cn/problems/increasing-triplet-subsequence/solutions/100000/di-zeng-de-san-yuan-zi-xu-lie-by-leetcod-dp2r)
+
 #### 方法一：双向遍历
 
 如果数组 $\textit{nums}$ 中存在一个下标 $i$ 满足 $1 \le i < n - 1$，使得在 $\textit{nums}[i]$ 的左边存在一个元素小于 $\textit{nums}[i]$ 且在 $\textit{nums}[i]$ 的右边存在一个元素大于 $\textit{nums}[i]$，则数组 $\textit{nums}$ 中存在递增的三元子序列。

@@ -1,4 +1,5 @@
 ## [1004.最大连续1的个数 III 中文官方题解](https://leetcode.cn/problems/max-consecutive-ones-iii/solutions/100000/zui-da-lian-xu-1de-ge-shu-iii-by-leetcod-hw12)
+
 #### 前言
 
 对于数组 $A$ 的区间 $[\textit{left}, \textit{right}]$ 而言，只要它包含不超过 $k$ 个 $0$，我们就可以根据它构造出一段满足要求，并且长度为 $\textit{right} - \textit{left} + 1$ 的区间。

@@ -1,4 +1,5 @@
 ## [480.滑动窗口中位数 中文官方题解](https://leetcode.cn/problems/sliding-window-median/solutions/100000/hua-dong-chuang-kou-zhong-wei-shu-by-lee-7ai6)
+
 #### 前言
 
 本题是「[295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)」的进阶版本。

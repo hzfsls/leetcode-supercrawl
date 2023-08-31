@@ -1,4 +1,5 @@
 ## [954.二倍数对数组 中文官方题解](https://leetcode.cn/problems/array-of-doubled-pairs/solutions/100000/er-bei-shu-dui-shu-zu-by-leetcode-soluti-2mqj)
+
 #### 方法一：哈希表 + 排序
 
 设 $\textit{arr}$ 的长度为 $n$，题目本质上是问 $\textit{arr}$ 能否分成 $\dfrac{n}{2}$ 对元素，每对元素中一个数是另一个数的两倍。

@@ -1,4 +1,5 @@
 ## [675.为高尔夫比赛砍树 中文官方题解](https://leetcode.cn/problems/cut-off-trees-for-golf-event/solutions/100000/wei-gao-er-fu-bi-sai-kan-shu-by-leetcode-rlrc)
+
 #### 前言
 
 题目要求从 $(0, 0)$ 开始并按照树的高度大小进行砍树并求出最小步数，假设所有树按照从高度从小到大的排序顺序为 $t_1, t_2, t_3, t_4, \cdots, t_n$，设 $d(x, y)$ 表示从 $x$ 到 $y$ 之间的步数，设 $t_0 = (0, 0)$ ，则可推出砍树的总的步数为 $\textit{total} = \sum_{i=0}^{n-1} d(t_i, t_i+1)$，若使得 $\textit{total}$ 最小，只需满足所有的 $d(i, i+1)$ 都为最小，即可使得 $\textit{total}$ 最小，该题即转为求相邻树的两点之间的最短距离。

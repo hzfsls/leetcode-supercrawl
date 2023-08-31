@@ -1,4 +1,5 @@
 ## [1402.做菜顺序 中文官方题解](https://leetcode.cn/problems/reducing-dishes/solutions/100000/zuo-cai-shun-xu-by-leetcode-solution)
+
 #### 方法一：贪心算法
 
 **分析**

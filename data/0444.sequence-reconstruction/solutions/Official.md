@@ -1,4 +1,5 @@
 ## [444.序列重建 中文官方题解](https://leetcode.cn/problems/sequence-reconstruction/solutions/100000/xu-lie-zhong-jian-by-leetcode-solution-x337)
+
 #### 方法一：拓扑排序
 
 **思路和算法**

@@ -1,4 +1,5 @@
 ## [1869.哪种连续子字符串更长 中文官方题解](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/solutions/100000/na-chong-lian-xu-zi-zi-fu-chuan-geng-cha-loxt)
+
 #### 方法一：遍历字符串
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [34.在排序数组中查找元素的第一个和最后一个位置 中文官方题解](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/100000/zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-su-de-di-3-4)
+
 ### 📺 视频题解  
 ![...中查找元素的第一个和最后一个位置.mp4](213522fb-128b-4c73-bb88-efd20280c04d)
 

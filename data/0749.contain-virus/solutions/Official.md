@@ -1,4 +1,5 @@
 ## [749.隔离病毒 中文官方题解](https://leetcode.cn/problems/contain-virus/solutions/100000/ge-chi-bing-du-by-leetcode-solution-vn9m)
+
 #### 方法一：广度优先搜索
 
 **思路与算法**

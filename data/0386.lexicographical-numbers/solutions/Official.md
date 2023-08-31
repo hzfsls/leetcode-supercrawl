@@ -1,4 +1,5 @@
 ## [386.字典序排数 中文官方题解](https://leetcode.cn/problems/lexicographical-numbers/solutions/100000/zi-dian-xu-pai-shu-by-leetcode-solution-98mz)
+
 #### 方法一：深度优先搜索
 
 **思路与算法**

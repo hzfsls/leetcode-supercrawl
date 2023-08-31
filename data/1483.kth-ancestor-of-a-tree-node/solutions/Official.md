@@ -1,4 +1,5 @@
 ## [1483.树节点的第 K 个祖先 中文官方题解](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/solutions/100000/shu-jie-dian-de-di-k-ge-zu-xian-by-leetc-hdxd)
+
 #### 方法一：倍增
 
 **思路**

@@ -1,4 +1,5 @@
 ## [304.二维区域和检索 - 矩阵不可变 中文官方题解](https://leetcode.cn/problems/range-sum-query-2d-immutable/solutions/100000/er-wei-qu-yu-he-jian-suo-ju-zhen-bu-ke-b-2z5n)
+
 #### 前言
 
 这道题是「[303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable)」的进阶，第 303 题是在一维数组中做区域和检索，这道题是在二维矩阵中做区域和检索。

@@ -1,4 +1,5 @@
 ## [901.股票价格跨度 中文官方题解](https://leetcode.cn/problems/online-stock-span/solutions/100000/gu-piao-jie-ge-kua-du-by-leetcode-soluti-5cm7)
+
 #### 方法一：单调栈
 
 **思路**

@@ -1,4 +1,5 @@
 ## [1845.座位预约管理系统 中文官方题解](https://leetcode.cn/problems/seat-reservation-manager/solutions/100000/zuo-wei-yu-yue-guan-li-xi-tong-by-leetco-wj45)
+
 #### 方法一：最小堆（优先队列）
 
 **提示 $1$**

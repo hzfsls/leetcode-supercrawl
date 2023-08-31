@@ -1,4 +1,5 @@
 ## [1719.重构一棵树的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-reconstruct-a-tree/solutions/100000/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1)
+
 #### 方法一：直接模拟
 
 **思路**

@@ -1,4 +1,5 @@
 ## [804.唯一摩尔斯密码词 中文官方题解](https://leetcode.cn/problems/unique-morse-code-words/solutions/100000/wei-yi-mo-er-si-mi-ma-ci-by-leetcode-sol-9n7w)
+
 #### 方法一：哈希表
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [376.摆动序列 中文官方题解](https://leetcode.cn/problems/wiggle-subsequence/solutions/100000/bai-dong-xu-lie-by-leetcode-solution-yh2m)
+
 #### 写在前面
 
 解决本题前，我们先进行一些约定：

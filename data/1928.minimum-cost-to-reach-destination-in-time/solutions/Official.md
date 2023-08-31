@@ -1,4 +1,5 @@
 ## [1928.规定时间内到达终点的最小花费 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/solutions/100000/gui-ding-shi-jian-nei-dao-da-zhong-dian-n3ews)
+
 #### 方法一：动态规划
 
 **思路与算法**

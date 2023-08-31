@@ -1,4 +1,5 @@
 ## [405.数字转换为十六进制数 中文官方题解](https://leetcode.cn/problems/convert-a-number-to-hexadecimal/solutions/100000/shu-zi-zhuan-huan-wei-shi-liu-jin-zhi-sh-2srt)
+
 #### 方法一：位运算
 
 题目要求将给定的整数 $\textit{num}$ 转换为十六进制数，负整数使用补码运算方法。

@@ -1,4 +1,5 @@
 ## [455.分发饼干 中文官方题解](https://leetcode.cn/problems/assign-cookies/solutions/100000/fen-fa-bing-gan-by-leetcode-solution-50se)
+
 #### 方法一：排序 + 双指针 + 贪心
 
 为了尽可能满足最多数量的孩子，从贪心的角度考虑，应该按照孩子的胃口从小到大的顺序依次满足每个孩子，且对于每个孩子，应该选择可以满足这个孩子的胃口且尺寸最小的饼干。证明如下。

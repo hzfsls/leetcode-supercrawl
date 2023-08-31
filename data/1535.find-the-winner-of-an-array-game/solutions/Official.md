@@ -1,4 +1,5 @@
 ## [1535.找出数组游戏的赢家 中文官方题解](https://leetcode.cn/problems/find-the-winner-of-an-array-game/solutions/100000/zhao-chu-shu-zu-you-xi-de-ying-jia-by-leetcode-sol)
+
 #### 方法一：模拟
 
 由于数组 $\textit{arr}$ 中的整数各不相同，因此数组中的任意两个整数之间的游戏一定能分出胜负。

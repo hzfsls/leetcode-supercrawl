@@ -1,4 +1,5 @@
 ## [606.根据二叉树创建字符串 中文官方题解](https://leetcode.cn/problems/construct-string-from-binary-tree/solutions/100000/gen-ju-er-cha-shu-chuang-jian-zi-fu-chua-e1af)
+
 #### 方法一：递归
 
 我们可以使用递归的方法得到二叉树的前序遍历，并在递归时加上额外的括号。

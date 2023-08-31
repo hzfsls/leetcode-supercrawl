@@ -1,4 +1,5 @@
 ## [1144.递减元素使数组呈锯齿状 中文官方题解](https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/solutions/100000/di-jian-yuan-su-shi-shu-zu-cheng-ju-chi-o30ye)
+
 #### 方法一：贪心 + 分类讨论
 
 **思路与算法**

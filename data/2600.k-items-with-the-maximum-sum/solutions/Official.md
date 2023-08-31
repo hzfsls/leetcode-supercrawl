@@ -1,4 +1,5 @@
 ## [2600.K 件物品的最大和 中文官方题解](https://leetcode.cn/problems/k-items-with-the-maximum-sum/solutions/100000/k-jian-wu-pin-de-zui-da-he-by-leetcode-s-a97g)
+
 #### 方法一：贪心
 
 题目的物品分为 $1$，$0$ 和 $-1$ 三种，要想选出 $k$ 件物品，使得和最大，那么贪心地选择前 $k$ 大的物品是最优的。根据 $k$ 的取值，有情况：

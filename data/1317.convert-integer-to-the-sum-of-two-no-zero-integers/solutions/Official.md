@@ -1,4 +1,5 @@
 ## [1317.将整数转换为两个无零整数的和 中文官方题解](https://leetcode.cn/problems/convert-integer-to-the-sum-of-two-no-zero-integers/solutions/100000/jiang-zheng-shu-zhuan-huan-wei-liang-ge-wu-ling-3)
+
 #### 方法一：枚举
 
 由于题目中给出的 `n` 的范围 `[2, 10000]` 较小，因此我们可以直接在 `[1, n)` 的范围内枚举 `A`，并通过 `n - A` 得到 `B`，再判断 `A` 和 `B` 是否均不包含 `0` 即可。

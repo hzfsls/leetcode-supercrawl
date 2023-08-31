@@ -1,4 +1,5 @@
 ## [1016.子串能表示从 1 到 N 数字的二进制串 中文官方题解](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n/solutions/100000/zi-chuan-neng-biao-shi-cong-1-dao-n-shu-ojtz8)
+
 #### 方法一：数学 + 滑动窗口 + 哈希表
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2475.数组中不等三元组的数目 中文官方题解](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/solutions/100000/shu-zu-zhong-bu-deng-san-yuan-zu-de-shu-lnpsn)
+
 #### 方法一：枚举
 
 记数组 $\textit{nums}$ 的大小为 $n$，使用三重循环，枚举所有 $0 \le i \lt j \lt k \lt n$ 的三元组，如果三元组 $(i, j, k)$ 满足 $\textit{nums}[i] \ne \textit{nums}[j]$、$\textit{nums}[i] \ne \textit{nums}[k]$ 且 $\textit{nums}[j] \ne \textit{nums}[k]$，那么将结果加 $1$，枚举结束后返回最终结果。

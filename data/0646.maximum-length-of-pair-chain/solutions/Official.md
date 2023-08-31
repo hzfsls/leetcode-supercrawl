@@ -1,4 +1,5 @@
 ## [646.最长数对链 中文官方题解](https://leetcode.cn/problems/maximum-length-of-pair-chain/solutions/100000/zui-chang-shu-dui-lian-by-leetcode-solut-ifpn)
+
 #### 前言
 
 这题和「[435. 无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/)」类似，区别就是：

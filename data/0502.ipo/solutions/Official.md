@@ -1,4 +1,5 @@
 ## [502.IPO 中文官方题解](https://leetcode.cn/problems/ipo/solutions/100000/ipo-by-leetcode-solution-89zm)
+
 #### 方法一：利用堆的贪心算法
 
 **思路与算法**

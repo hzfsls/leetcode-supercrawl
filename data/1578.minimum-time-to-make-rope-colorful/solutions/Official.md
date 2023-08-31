@@ -1,4 +1,5 @@
 ## [1578.使绳子变成彩色的最短时间 中文官方题解](https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/solutions/100000/bi-mian-zhong-fu-zi-mu-de-zui-xiao-shan-chu-chen-4)
+
 #### 方法一：贪心
 
 **思路与算法**

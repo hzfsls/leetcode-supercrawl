@@ -1,4 +1,5 @@
 ## [744.寻找比目标字母大的最小字母 中文官方题解](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/solutions/100000/xun-zhao-bi-mu-biao-zi-mu-da-de-zui-xiao-lhm7)
+
 #### 方法一：线性查找
 
 由于给定的列表已经按照递增顺序排序，因此可以从左到右遍历列表，找到第一个比目标字母大的字母，即为比目标字母大的最小字母。

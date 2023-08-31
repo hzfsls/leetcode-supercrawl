@@ -1,4 +1,5 @@
 ## [1855.下标对中的最大距离 中文官方题解](https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/solutions/100000/xia-biao-dui-zhong-de-zui-da-ju-chi-by-l-dsou)
+
 #### 方法一：双指针
 
 **提示 $1$**

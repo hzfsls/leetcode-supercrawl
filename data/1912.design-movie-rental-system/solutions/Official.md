@@ -1,4 +1,5 @@
 ## [1912.设计电影租借系统 中文官方题解](https://leetcode.cn/problems/design-movie-rental-system/solutions/100000/she-ji-dian-ying-zu-jie-xi-tong-by-leetc-dv3z)
+
 #### 方法一：使用合适的数据结构
 
 **提示 $1$**

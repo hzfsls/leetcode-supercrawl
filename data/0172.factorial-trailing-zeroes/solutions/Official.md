@@ -1,4 +1,5 @@
 ## [172.阶乘后的零 中文官方题解](https://leetcode.cn/problems/factorial-trailing-zeroes/solutions/100000/jie-cheng-hou-de-ling-by-leetcode-soluti-1egk)
+
 #### 方法一：数学
 
 $n!$ 尾零的数量即为 $n!$ 中因子 $10$ 的个数，而 $10=2\times 5$，因此转换成求 $n!$ 中质因子 $2$ 的个数和质因子 $5$ 的个数的较小值。

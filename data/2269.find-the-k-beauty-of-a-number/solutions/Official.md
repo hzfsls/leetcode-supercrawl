@@ -1,4 +1,5 @@
 ## [2269.找到一个数字的 K 美丽值 中文官方题解](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/solutions/100000/zhao-dao-yi-ge-shu-zi-de-k-mei-li-zhi-by-jn5i)
+
 #### 方法一：枚举
 
 **思路与算法**

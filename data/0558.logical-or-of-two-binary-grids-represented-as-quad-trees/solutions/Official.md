@@ -1,4 +1,5 @@
 ## [558.四叉树交集 中文官方题解](https://leetcode.cn/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/solutions/100000/si-cha-shu-jiao-ji-by-leetcode-solution-wy1u)
+
 #### 方法一：分治
 
 **思路与算法**

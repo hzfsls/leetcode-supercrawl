@@ -1,4 +1,5 @@
 ## [1092.最短公共超序列 中文官方题解](https://leetcode.cn/problems/shortest-common-supersequence/solutions/100000/zui-duan-gong-gong-chao-xu-lie-by-leetco-c1tu)
+
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2379.得到 K 个黑块的最少涂色次数 中文官方题解](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/solutions/100000/de-dao-kge-hei-kuai-de-zui-shao-tu-se-ci-gjb0)
+
 #### 方法一：滑动窗口
 
 **思路与算法**

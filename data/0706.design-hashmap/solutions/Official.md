@@ -1,4 +1,5 @@
 ## [706.设计哈希映射 中文官方题解](https://leetcode.cn/problems/design-hashmap/solutions/100000/she-ji-ha-xi-ying-she-by-leetcode-soluti-klu9)
+
 #### 方法一：链地址法
 
 我们假定读者已经完成了「[705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)」这一题目。

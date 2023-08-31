@@ -1,4 +1,5 @@
 ## [118.杨辉三角 中文官方题解](https://leetcode.cn/problems/pascals-triangle/solutions/100000/yang-hui-san-jiao-by-leetcode-solution-lew9)
+
 ### 📺 视频题解  
 ![118.杨辉三角.mp4](015836d3-6ee5-495e-94cc-724ee29a8432)
 

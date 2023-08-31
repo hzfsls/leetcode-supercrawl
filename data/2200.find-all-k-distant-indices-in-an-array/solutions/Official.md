@@ -1,4 +1,5 @@
 ## [2200.找出数组中的所有 K 近邻下标 中文官方题解](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/solutions/100000/zhao-chu-shu-zu-zhong-de-suo-you-k-jin-l-b3k2)
+
 #### 方法一：枚举
 
 **思路与算法**

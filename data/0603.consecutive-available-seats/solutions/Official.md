@@ -1,4 +1,5 @@
 ## [603.连续空余座位 中文官方题解](https://leetcode.cn/problems/consecutive-available-seats/solutions/100000/lian-xu-kong-yu-zuo-wei-by-leetcode-solu-9c3y)
+
 [TOC]
 
 ## 解决方案 

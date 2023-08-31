@@ -1,4 +1,5 @@
 ## [1920.基于排列构建数组 中文官方题解](https://leetcode.cn/problems/build-array-from-permutation/solutions/100000/ji-yu-pai-lie-gou-jian-shu-zu-by-leetcod-gjcn)
+
 #### 方法一：按要求构建
 
 **思路与算法**

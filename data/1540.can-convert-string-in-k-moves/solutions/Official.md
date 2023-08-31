@@ -1,4 +1,5 @@
 ## [1540.K 次操作转变字符串 中文官方题解](https://leetcode.cn/problems/can-convert-string-in-k-moves/solutions/100000/k-ci-cao-zuo-zhuan-bian-zi-fu-chuan-by-leetcode-so)
+
 #### 方法一：统计操作次数
 
 由于每次操作只是切换字符串中的字符，不会改变字符串的长度，因此只有当字符串 $s$ 和 $t$ 的长度相等时，才可能将 $s$ 转变成 $t$。如果 $s$ 和 $t$ 的长度不相等，直接返回 $\text{false}$ 即可。

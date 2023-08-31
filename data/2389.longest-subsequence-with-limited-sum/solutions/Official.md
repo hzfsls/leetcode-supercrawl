@@ -1,4 +1,5 @@
 ## [2389.和有限的最长子序列 中文官方题解](https://leetcode.cn/problems/longest-subsequence-with-limited-sum/solutions/100000/he-you-xian-de-zui-chang-zi-xu-lie-by-le-xqox)
+
 #### 方法一：二分查找
 
 由题意可知，$\textit{nums}$ 的元素次序对结果无影响，因此我们对 $\textit{nums}$ 从小到大进行排序。显然和有限的最长子序列由最小的前几个数组成。使用数组 $f$ 保存 $\textit{nums}$ 的前缀和，其中 $f[i]$ 表示前 $i$ 个元素之和（不包括 $\textit{nums}[i]$）。遍历 $\textit{queries}$，假设当前查询值为 $q$，使用二分查找获取满足 $f[i] \gt q$ 的最小的 $i$，那么和小于等于 $q$ 的最长子序列长度为 $i-1$。

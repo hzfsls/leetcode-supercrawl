@@ -1,4 +1,5 @@
 ## [1888.使二进制字符串字符交替的最少反转次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/solutions/100000/shi-er-jin-zhi-zi-fu-chuan-zi-fu-jiao-ti-i52p)
+
 #### 方法一：分析 + 前缀和 + 后缀和
 
 **提示 $1$**

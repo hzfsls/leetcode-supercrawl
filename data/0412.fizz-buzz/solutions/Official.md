@@ -1,4 +1,5 @@
 ## [412.Fizz Buzz 中文官方题解](https://leetcode.cn/problems/fizz-buzz/solutions/100000/fizz-buzz-by-leetcode-solution-s0s5)
+
 ### 📺 视频题解  
 ![....Fizz Buzz-栗子小笼包.mp4](4f7068a3-a78d-4962-8597-c6260e87544f)
 

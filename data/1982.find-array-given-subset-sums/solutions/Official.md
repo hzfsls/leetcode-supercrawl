@@ -1,4 +1,5 @@
 ## [1982.从子集的和还原数组 中文官方题解](https://leetcode.cn/problems/find-array-given-subset-sums/solutions/100000/cong-zi-ji-de-he-huan-yuan-shu-zu-by-lee-aj8o)
+
 #### 方法一：每次还原一个数
 
 **提示 $1$**

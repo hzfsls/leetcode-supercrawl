@@ -1,4 +1,5 @@
 ## [1035.不相交的线 中文官方题解](https://leetcode.cn/problems/uncrossed-lines/solutions/100000/bu-xiang-jiao-de-xian-by-leetcode-soluti-6tqz)
+
 #### 方法一：动态规划
 
 给定两个数组 $\textit{nums}_1$ 和 $\textit{nums}_2$，当 $\textit{nums}_1[i]=\textit{nums}_2[j]$ 时，可以用一条直线连接 $\textit{nums}_1[i]$ 和 $\textit{nums}_2[j]$。假设一共绘制了 $k$ 条互不相交的直线，其中第 $x$ 条直线连接 $\textit{nums}_1[i_x]$ 和 $\textit{nums}_2[j_x]$，则对于任意 $1 \le x \le k$ 都有 $\textit{nums}_1[i_x]=\textit{nums}_2[j_x]$，其中 $i_1<i_2<\ldots<i_k$，$j_1<j_2<\ldots<j_k$。

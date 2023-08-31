@@ -1,4 +1,5 @@
 ## [1561.你可以获得的最大硬币数目 中文官方题解](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/solutions/100000/ni-ke-yi-huo-de-de-zui-da-ying-bi-shu-mu-by-leetco)
+
 #### 方法一：贪心
 
 由于一共有 $3n$ 堆硬币，每个人都会取走 $n$ 堆硬币，因此在取走的硬币堆的数量确定的情况下，为了获得最大硬币数目，在每次取走一堆硬币时，应取走数量最多的一堆硬币。

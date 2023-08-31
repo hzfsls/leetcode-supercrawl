@@ -1,4 +1,5 @@
 ## [2070.每一个查询的最大美丽值 中文官方题解](https://leetcode.cn/problems/most-beautiful-item-for-each-query/solutions/100000/mei-yi-ge-cha-xun-de-zui-da-mei-li-zhi-b-d8jw)
+
 #### 方法一：排序 + 二分查找
 
 **思路与算法**

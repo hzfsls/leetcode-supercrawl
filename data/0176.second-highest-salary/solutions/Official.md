@@ -1,4 +1,5 @@
 ## [176.第二高的薪水 中文官方题解](https://leetcode.cn/problems/second-highest-salary/solutions/100000/di-er-gao-de-xin-shui-by-leetcode-soluti-9gf6)
+
 [TOC]
 
 ## 解决方案

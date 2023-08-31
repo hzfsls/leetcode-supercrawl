@@ -1,4 +1,5 @@
 ## [1299.将每个元素替换为右侧最大元素 中文官方题解](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/solutions/100000/jiang-mei-ge-yuan-su-ti-huan-wei-you-ce-zui-da-y-5)
+
 #### 方法一：逆序遍历
 
 本题等价于对于数组 `arr` 中的每个元素 `arr[i]`，将其替换成 `arr[i + 1], arr[i + 2], ..., arr[n - 1]` 中的最大值。因此我们可以逆序地遍历整个数组，同时维护从数组右端到当前位置所有元素的最大值。

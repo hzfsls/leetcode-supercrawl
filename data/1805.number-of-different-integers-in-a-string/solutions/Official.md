@@ -1,4 +1,5 @@
 ## [1805.字符串中不同整数的数目 中文官方题解](https://leetcode.cn/problems/number-of-different-integers-in-a-string/solutions/100000/zi-fu-chuan-zhong-bu-tong-zheng-shu-de-s-vxly)
+
 #### 方法一：双指针
 
 对于每个字符串中的整数部分，使用指针 $p_1$ 指向整数部分的第一个字符，指针 $p_2$ 指向整数部分最后一个字符的下一个位置。为了去除前导零，如果 $p_2 - p_1 \gt 1$ 且 $\textit{word}[p_1] = `0’$，我们将 $p_1$ 前移一位，即 $p_1 = p_1+1$。将区间 $[p_1, p_2)$ 对应的字符串插入到哈希集合中，最终字符串中不同整数的数目等于哈希集合的元素数目。

@@ -1,4 +1,5 @@
 ## [60.排列序列 中文官方题解](https://leetcode.cn/problems/permutation-sequence/solutions/100000/di-kge-pai-lie-by-leetcode-solution)
+
 #### 方法一：数学 + 缩小问题规模
 
 **思路**

@@ -1,4 +1,5 @@
 ## [871.最低加油次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-refueling-stops/solutions/100000/zui-di-jia-you-ci-shu-by-leetcode-soluti-nmga)
+
 #### 方法一：动态规划
 
 由于数组 $\textit{stations}$ 按照加油站的位置非递减排序，因此从左到右遍历数组 $\textit{stations}$ 的过程中，当遍历到一个加油站时，位置小于该加油站的所有加油站都已经被遍历过。

@@ -1,4 +1,5 @@
 ## [538.把二叉搜索树转换为累加树 中文官方题解](https://leetcode.cn/problems/convert-bst-to-greater-tree/solutions/100000/ba-er-cha-sou-suo-shu-zhuan-huan-wei-lei-jia-sh-14)
+
 #### 前言
 
 二叉搜索树是一棵空树，或者是具有下列性质的二叉树：

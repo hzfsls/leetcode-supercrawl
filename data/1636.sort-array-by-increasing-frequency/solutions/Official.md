@@ -1,4 +1,5 @@
 ## [1636.按照频率将数组升序排序 中文官方题解](https://leetcode.cn/problems/sort-array-by-increasing-frequency/solutions/100000/an-zhao-pin-lu-jiang-shu-zu-sheng-xu-pai-z2db)
+
 #### 方法一：模拟
 
 **思路**

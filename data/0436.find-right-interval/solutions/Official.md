@@ -1,4 +1,5 @@
 ## [436.寻找右区间 中文官方题解](https://leetcode.cn/problems/find-right-interval/solutions/100000/xun-zhao-you-qu-jian-by-leetcode-solutio-w2ic)
+
 #### 方法一：二分查找
 
 **思路与算法**

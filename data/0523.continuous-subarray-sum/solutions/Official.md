@@ -1,4 +1,5 @@
 ## [523.连续的子数组和 中文官方题解](https://leetcode.cn/problems/continuous-subarray-sum/solutions/100000/lian-xu-de-zi-shu-zu-he-by-leetcode-solu-rdzi)
+
 #### 方法一：前缀和 + 哈希表
 
 朴素的思路是遍历数组 $\textit{nums}$ 的每个大小至少为 $2$ 的子数组并计算每个子数组的元素和，判断是否存在一个子数组的元素和为 $k$ 的倍数。当数组 $\textit{nums}$ 的长度为 $m$ 时，上述思路需要用 $O(m^2)$ 的时间遍历全部子数组，对于每个子数组需要 $O(m)$ 的时间计算元素和，因此时间复杂度是 $O(m^3)$，会超出时间限制，因此必须优化。

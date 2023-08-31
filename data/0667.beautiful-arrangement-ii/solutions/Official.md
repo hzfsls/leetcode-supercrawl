@@ -1,4 +1,5 @@
 ## [667.优美的排列 II 中文官方题解](https://leetcode.cn/problems/beautiful-arrangement-ii/solutions/100000/you-mei-de-pai-lie-ii-by-leetcode-soluti-qkrs)
+
 #### 方法一：从特殊情况到一般情况
 
 **思路与算法**

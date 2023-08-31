@@ -1,4 +1,5 @@
 ## [168.Excel表列名称 中文官方题解](https://leetcode.cn/problems/excel-sheet-column-title/solutions/100000/excelbiao-lie-ming-cheng-by-leetcode-sol-hgj4)
+
 #### 方法一：数学
 
 在考虑如何将列序号转换成列名称之前，先考虑相反的问题，即如何将列名称转换成列序号。读者可以参考「[171. Excel表列序号的官方题解](https://leetcode-cn.com/problems/excel-sheet-column-number/solution/excelbiao-lie-xu-hao-by-leetcode-solutio-r29l/)」。

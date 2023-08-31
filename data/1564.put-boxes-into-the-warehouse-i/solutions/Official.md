@@ -1,4 +1,5 @@
 ## [1564.把箱子放进仓库里 I 中文官方题解](https://leetcode.cn/problems/put-boxes-into-the-warehouse-i/solutions/100000/ba-xiang-zi-fang-jin-cang-ku-li-i-by-lee-kpx5)
+
 [TOC]
 
 ## 概览

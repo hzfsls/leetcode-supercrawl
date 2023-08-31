@@ -1,4 +1,5 @@
 ## [1656.设计有序流 中文官方题解](https://leetcode.cn/problems/design-an-ordered-stream/solutions/100000/she-ji-you-xu-liu-by-leetcode-solution-3imb)
+
 #### 方法一：使用数组存储 + 遍历
 
 **思路与算法**

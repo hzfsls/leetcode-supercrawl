@@ -1,4 +1,5 @@
 ## [2043.简易银行系统 中文官方题解](https://leetcode.cn/problems/simple-bank-system/solutions/100000/jian-yi-yin-xing-xi-tong-by-leetcode-sol-q3o7)
+
 #### 方法一：模拟
 
 **思路与算法**

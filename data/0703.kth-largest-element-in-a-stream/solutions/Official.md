@@ -1,4 +1,5 @@
 ## [703.数据流中的第 K 大元素 中文官方题解](https://leetcode.cn/problems/kth-largest-element-in-a-stream/solutions/100000/shu-ju-liu-zhong-de-di-k-da-yuan-su-by-l-woz8)
+
 #### 方法一：优先队列
 
 我们可以使用一个大小为 $k$ 的优先队列来存储前 $k$ 大的元素，其中优先队列的队头为队列中最小的元素，也就是第 $k$ 大的元素。

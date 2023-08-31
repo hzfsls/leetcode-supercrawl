@@ -1,4 +1,5 @@
 ## [992.K 个不同整数的子数组 中文官方题解](https://leetcode.cn/problems/subarrays-with-k-different-integers/solutions/100000/k-ge-bu-tong-zheng-shu-de-zi-shu-zu-by-l-9ylo)
+
 #### 方法一：滑动窗口
 
 **思路及算法**

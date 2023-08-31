@@ -1,4 +1,5 @@
 ## [2151.基于陈述统计最多好人数 中文官方题解](https://leetcode.cn/problems/maximum-good-people-based-on-statements/solutions/100000/ji-yu-chen-shu-tong-ji-zui-duo-hao-ren-s-lfn9)
+
 #### 方法一：使用状态压缩枚举所有可能的情况
 
 **思路与算法**

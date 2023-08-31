@@ -1,4 +1,5 @@
 ## [1526.形成目标数组的子数组最少增加次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/solutions/100000/xing-cheng-mu-biao-shu-zu-de-zi-shu-zu-zui-shao-ze)
+
 #### 前言
 
 相信看过本题各种参考代码的读者都会抱着复杂的心情：本题是第 31 场双周赛的最后一题，难度为 $\red{困难}$，但只需要五行代码，即：

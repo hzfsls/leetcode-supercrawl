@@ -1,4 +1,5 @@
 ## [1557.可以到达所有点的最少点数目 中文官方题解](https://leetcode.cn/problems/minimum-number-of-vertices-to-reach-all-nodes/solutions/100000/ke-yi-dao-da-suo-you-dian-de-zui-shao-dian-shu-m-2)
+
 #### 方法一：寻找入度为零的节点
 
 对于任意节点 $x$，如果其入度不为零，则一定存在节点 $y$ 指向节点 $x$，从节点 $y$ 出发即可到达节点 $y$ 和节点 $x$，因此如果从节点 $y$ 出发，节点 $x$ 和节点 $y$ 都可以到达，且从节点 $y$ 出发可以到达的节点比从节点 $x$ 出发可以到达的节点更多。

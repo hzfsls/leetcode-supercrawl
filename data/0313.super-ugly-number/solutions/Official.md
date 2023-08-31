@@ -1,4 +1,5 @@
 ## [313.超级丑数 中文官方题解](https://leetcode.cn/problems/super-ugly-number/solutions/100000/chao-ji-chou-shu-by-leetcode-solution-uzff)
+
 #### 前言
 
 这道题和「[264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii)」相似，区别在于，第 264 题规定丑数是只包含质因数 $2$、$3$ 和 $5$ 的正整数，这道题规定超级丑数是只包含数组 $\textit{primes}$ 中的质因数的正整数。

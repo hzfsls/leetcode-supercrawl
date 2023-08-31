@@ -1,4 +1,5 @@
 ## [970.强整数 中文官方题解](https://leetcode.cn/problems/powerful-integers/solutions/100000/qiang-zheng-shu-by-leetcode-solution-0lzr)
+
 #### 方法一：枚举
 
 **思路**

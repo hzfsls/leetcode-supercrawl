@@ -1,4 +1,5 @@
 ## [392.判断子序列 中文官方题解](https://leetcode.cn/problems/is-subsequence/solutions/100000/pan-duan-zi-xu-lie-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![392. 判断子序列.mp4](6d295ed5-bfef-4917-bed7-afb83b5642a1)
 

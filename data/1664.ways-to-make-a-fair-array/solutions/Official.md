@@ -1,4 +1,5 @@
 ## [1664.生成平衡数组的方案数 中文官方题解](https://leetcode.cn/problems/ways-to-make-a-fair-array/solutions/100000/sheng-cheng-ping-heng-shu-zu-de-fang-an-0mkaj)
+
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2441.与对应负数同时存在的最大正整数 中文官方题解](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/solutions/100000/yu-dui-ying-fu-shu-tong-shi-cun-zai-de-z-kg8f)
+
 #### 方法一：暴力枚举
 
 遍历整数数组 $\textit{nums}$，使用整数 $k$ 记录符合条件的最大整数，假设当前访问的元素为 $x$，如果 $-x$ 存在于整数数组 $\textit{nums}$ 中，我们使用 $x$ 更新 $k$。（不需要判断 $x$ 的正负，因为一对相反数都会被用来更新 $k$）

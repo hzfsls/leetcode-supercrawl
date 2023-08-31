@@ -1,4 +1,5 @@
 ## [70.爬楼梯 中文官方题解](https://leetcode.cn/problems/climbing-stairs/solutions/100000/pa-lou-ti-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![70.爬楼梯.mp4](7f0841fe-83c6-4fab-9702-9eb8932cb037)
 

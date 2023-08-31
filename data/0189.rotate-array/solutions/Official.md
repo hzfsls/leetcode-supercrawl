@@ -1,4 +1,5 @@
 ## [189.轮转数组 中文官方题解](https://leetcode.cn/problems/rotate-array/solutions/100000/xuan-zhuan-shu-zu-by-leetcode-solution-nipk)
+
 #### 方法一：使用额外的数组
 
 我们可以使用额外的数组来将每个元素放至正确的位置。用 $n$ 表示数组的长度，我们遍历原数组，将原数组下标为 $i$ 的元素放至新数组下标为 $(i+k)\bmod n$ 的位置，最后将新数组拷贝至原数组即可。

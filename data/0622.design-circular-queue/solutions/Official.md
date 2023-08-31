@@ -1,4 +1,5 @@
 ## [622.设计循环队列 中文官方题解](https://leetcode.cn/problems/design-circular-queue/solutions/100000/she-ji-xun-huan-dui-lie-by-leetcode-solu-1w0a)
+
 #### 方法一：数组
 
 关于循环队列的概念可以参考：「[循环队列](https://baike.baidu.com/item/%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97/3685773?fr=aladdin)」，我们可以通过一个数组进行模拟，通过操作数组的索引构建一个虚拟的首尾相连的环。在循环队列结构中，设置一个队尾 $\textit{rear}$ 与队首 $\textit{front}$，且大小固定，结构如下图所示:

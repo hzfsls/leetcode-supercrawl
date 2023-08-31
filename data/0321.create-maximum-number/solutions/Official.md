@@ -1,4 +1,5 @@
 ## [321.拼接最大数 中文官方题解](https://leetcode.cn/problems/create-maximum-number/solutions/100000/pin-jie-zui-da-shu-by-leetcode-solution)
+
 #### 方法一：单调栈
 
 为了找到长度为 $k$ 的最大数，需要从两个数组中分别选出最大的子序列，这两个子序列的长度之和为 $k$，然后将这两个子序列合并得到最大数。两个子序列的长度最小为 $0$，最大不能超过 $k$ 且不能超过对应的数组长度。

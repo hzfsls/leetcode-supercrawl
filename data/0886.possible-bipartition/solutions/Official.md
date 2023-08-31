@@ -1,4 +1,5 @@
 ## [886.可能的二分法 中文官方题解](https://leetcode.cn/problems/possible-bipartition/solutions/100000/ke-neng-de-er-fen-fa-by-leetcode-solutio-guo7)
+
 #### 方法一：深度优先搜索
 
 **思路与算法**

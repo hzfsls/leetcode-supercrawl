@@ -1,4 +1,5 @@
 ## [2309.兼具大小写的最好英文字母 中文官方题解](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/solutions/100000/jian-ju-da-xiao-xie-de-zui-hao-ying-wen-o5u2s)
+
 #### 方法一：哈希表
 
 使用哈希表 $\textit{ht}$ 保存字符串 $s$ 出现过的字符。遍历字符串 $s$，将当前字符 $c$ 加入到哈希表 $\textit{ht}$ 中。

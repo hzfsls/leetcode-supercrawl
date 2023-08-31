@@ -1,4 +1,5 @@
 ## [1455.检查单词是否为句中其他单词的前缀 中文官方题解](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/solutions/100000/jian-cha-dan-ci-shi-fou-wei-ju-zhong-qi-pqpu2)
+
 #### 方法一：双指针
 
 使用 $\textit{start}$ 记录单词的起始，$\textit{end}$ 记录单词结尾的下一个位置。我们遍历字符串 $\textit{sentence}$ 并不断地分割单词，对于区间 $[\textit{start}, \textit{end})$ 对应的单词，判断它是否存在某一前缀等于 $\textit{searchWord}$，如果存在直接返回该单词对应的下标 $\textit{index}$；如果遍历完所有单词都不符合条件，返回 $-1$。

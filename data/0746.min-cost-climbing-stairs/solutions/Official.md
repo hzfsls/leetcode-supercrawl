@@ -1,4 +1,5 @@
 ## [746.使用最小花费爬楼梯 中文官方题解](https://leetcode.cn/problems/min-cost-climbing-stairs/solutions/100000/shi-yong-zui-xiao-hua-fei-pa-lou-ti-by-l-ncf8)
+
 #### 方法一：动态规划
 
 假设数组 $\textit{cost}$ 的长度为 $n$，则 $n$ 个阶梯分别对应下标 $0$ 到 $n-1$，楼层顶部对应下标 $n$，问题等价于计算达到下标 $n$ 的最小花费。可以通过动态规划求解。

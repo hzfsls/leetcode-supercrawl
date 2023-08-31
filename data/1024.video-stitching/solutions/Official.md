@@ -1,4 +1,5 @@
 ## [1024.视频拼接 中文官方题解](https://leetcode.cn/problems/video-stitching/solutions/100000/shi-pin-pin-jie-by-leetcode-solution)
+
 #### 前言
 
 本题要求从一系列视频子区间中选出尽可能少的一部分，使得这部分视频子区间能够重新剪出一个完整的视频。我们可以这样理解：给定区间 $[0,\textit{time})$ 的一系列子区间（可能重叠），要求从中选出尽可能少的子区间，使得这些子区间能够完全覆盖区间 $[0,\textit{time})$。

@@ -1,4 +1,5 @@
 ## [1128.等价多米诺骨牌对的数量 中文官方题解](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/solutions/100000/deng-jie-duo-mi-nuo-gu-pai-dui-de-shu-li-yjlz)
+
 #### 方法一：二元组表示 + 计数
 
 **思路及解法**

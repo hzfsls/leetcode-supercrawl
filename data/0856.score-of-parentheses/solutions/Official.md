@@ -1,4 +1,5 @@
 ## [856.括号的分数 中文官方题解](https://leetcode.cn/problems/score-of-parentheses/solutions/100000/gua-hao-de-fen-shu-by-leetcode-solution-we6b)
+
 #### 方法一：分治
 
 根据题意，一个平衡括号字符串 $s$ 可以被分解为 $A+B$ 或 $(A)$ 的形式，因此我们可以对 $s$ 进行分解，分而治之。

@@ -1,4 +1,5 @@
 ## [1967.作为子字符串出现在单词中的字符串数目 中文官方题解](https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/solutions/100000/zuo-wei-zi-zi-fu-chuan-chu-xian-zai-dan-wmsp4)
+
 #### 方法一：暴力匹配
 
 **思路与算法**

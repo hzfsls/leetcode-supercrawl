@@ -1,4 +1,5 @@
 ## [531.孤独像素 I 中文官方题解](https://leetcode.cn/problems/lonely-pixel-i/solutions/100000/gu-du-xiang-su-i-by-leetcode-solution)
+
 #### 方法一：暴力
 
 根据题意可以知道我们要统计所有满足条件的**黑色像素**，那么我们枚举所有的黑色像素，检查是否满足条件即可。

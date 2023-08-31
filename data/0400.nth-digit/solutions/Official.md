@@ -1,4 +1,5 @@
 ## [400.第 N 位数字 中文官方题解](https://leetcode.cn/problems/nth-digit/solutions/100000/di-n-wei-shu-zi-by-leetcode-solution-mdl2)
+
 #### 方法一：二分查找
 
 为了得到无限整数序列中的第 $n$ 位数字，需要知道第 $n$ 位数字是哪一个整数的第几位。如果知道第 $n$ 位数字所在整数是几位数，就能计算得到第 $n$ 位数字是哪一个整数的第几位。

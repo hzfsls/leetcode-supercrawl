@@ -1,4 +1,5 @@
 ## [2165.重排数字的最小值 中文官方题解](https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/solutions/100000/zhong-pai-shu-zi-de-zui-xiao-zhi-by-leet-p06c)
+
 #### 方法一：排序
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2399.检查相同字母间的距离 中文官方题解](https://leetcode.cn/problems/check-distances-between-same-letters/solutions/100000/jian-cha-xiang-tong-zi-mu-jian-de-ju-chi-gxqg)
+
 #### 方法一：枚举
 
 **思路与算法**

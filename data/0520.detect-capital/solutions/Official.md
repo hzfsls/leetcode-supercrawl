@@ -1,4 +1,5 @@
 ## [520.检测大写字母 中文官方题解](https://leetcode.cn/problems/detect-capital/solutions/100000/jian-ce-da-xie-zi-mu-by-leetcode-solutio-449z)
+
 #### 方法一：根据题目要求实现
 
 **思路和算法**

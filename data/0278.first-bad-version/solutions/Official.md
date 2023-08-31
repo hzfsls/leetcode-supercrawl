@@ -1,4 +1,5 @@
 ## [278.第一个错误的版本 中文官方题解](https://leetcode.cn/problems/first-bad-version/solutions/100000/di-yi-ge-cuo-wu-de-ban-ben-by-leetcode-s-pf8h)
+
 #### 方法一：二分查找
 
 **思路及算法**

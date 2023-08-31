@@ -1,4 +1,5 @@
 ## [704.二分查找 中文官方题解](https://leetcode.cn/problems/binary-search/solutions/100000/er-fen-cha-zhao-by-leetcode-solution-f0xw)
+
 #### 方法一：二分查找
 
 在升序数组 $\textit{nums}$ 中寻找目标值 $\textit{target}$，对于特定下标 $i$，比较 $\textit{nums}[i]$ 和 $\textit{target}$ 的大小：

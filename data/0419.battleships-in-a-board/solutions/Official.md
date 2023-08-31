@@ -1,4 +1,5 @@
 ## [419.甲板上的战舰 中文官方题解](https://leetcode.cn/problems/battleships-in-a-board/solutions/100000/jia-ban-shang-de-zhan-jian-by-leetcode-s-kxpc)
+
 #### 方法一：遍历扫描
 
 题目要求找到矩阵中战舰的数量，战舰用 $\texttt{'X'}$ 表示，空位用 $\texttt{'.'}$，而矩阵中的战舰的满足以下两个条件：

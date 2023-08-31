@@ -1,4 +1,5 @@
 ## [1251.平均售价 中文官方题解](https://leetcode.cn/problems/average-selling-price/solutions/100000/ping-jun-shou-jie-by-leetcode-solution)
+
 #### 方法一：`JOIN`
 
 **思路**

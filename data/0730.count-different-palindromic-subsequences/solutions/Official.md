@@ -1,4 +1,5 @@
 ## [730.统计不同回文子序列 中文官方题解](https://leetcode.cn/problems/count-different-palindromic-subsequences/solutions/100000/tong-ji-bu-tong-hui-wen-zi-xu-lie-by-lee-7slg)
+
 #### 方法一：动态规划（使用三维数组）
 
 **思路与算法**

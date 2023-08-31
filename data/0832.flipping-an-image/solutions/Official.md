@@ -1,4 +1,5 @@
 ## [832.翻转图像 中文官方题解](https://leetcode.cn/problems/flipping-an-image/solutions/100000/fan-zhuan-tu-xiang-by-leetcode-solution-yljd)
+
 #### 方法一：模拟优化 + 双指针
 
 最直观的做法是首先对矩阵 $\textit{image}$ 的每一行进行水平翻转操作，然后对矩阵中的每个元素进行反转操作。该做法需要遍历矩阵两次。

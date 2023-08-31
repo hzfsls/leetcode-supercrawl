@@ -1,4 +1,5 @@
 ## [2096.从二叉树一个节点到另一个节点每一步的方向 中文官方题解](https://leetcode.cn/problems/step-by-step-directions-from-a-binary-tree-node-to-another/solutions/100000/cong-er-cha-shu-yi-ge-jie-dian-dao-ling-hsoh1)
+
 #### 方法一：深度优先搜索
 
 **提示 $1$**

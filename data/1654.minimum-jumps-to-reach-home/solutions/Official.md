@@ -1,4 +1,5 @@
 ## [1654.到家的最少跳跃次数 中文官方题解](https://leetcode.cn/problems/minimum-jumps-to-reach-home/solutions/100000/dao-jia-de-zui-shao-tiao-yue-ci-shu-by-l-sza1)
+
 #### 方法一：广度优先搜索
 
 **思路**

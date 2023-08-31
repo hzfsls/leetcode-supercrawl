@@ -1,4 +1,5 @@
 ## [1122.数组的相对排序 中文官方题解](https://leetcode.cn/problems/relative-sort-array/solutions/100000/shu-zu-de-xiang-dui-pai-xu-by-leetcode-solution)
+
 #### 方法一：自定义排序
 
 一种容易想到的方法是使用排序并自定义比较函数。

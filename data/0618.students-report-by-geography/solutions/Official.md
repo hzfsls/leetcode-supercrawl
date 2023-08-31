@@ -1,4 +1,5 @@
 ## [618.学生地理信息报告 中文官方题解](https://leetcode.cn/problems/students-report-by-geography/solutions/100000/xue-sheng-di-li-xin-xi-bao-gao-by-leetco-vy1x)
+
 [TOC]
 
 ## 解决方案 

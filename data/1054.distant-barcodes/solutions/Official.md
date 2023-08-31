@@ -1,4 +1,5 @@
 ## [1054.距离相等的条形码 中文官方题解](https://leetcode.cn/problems/distant-barcodes/solutions/100000/ju-chi-xiang-deng-de-tiao-xing-ma-by-lee-31qt)
+
 #### 方法一：最大堆
 
 **思路**

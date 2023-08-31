@@ -1,4 +1,5 @@
 ## [710.黑名单中的随机数 中文官方题解](https://leetcode.cn/problems/random-pick-with-blacklist/solutions/100000/hei-ming-dan-zhong-de-sui-ji-shu-by-leet-cyrx)
+
 #### 方法一：黑名单映射
 
 设 $\textit{blacklist}$ 的长度为 $m$。

@@ -1,4 +1,5 @@
 ## [1688.比赛中的配对次数 中文官方题解](https://leetcode.cn/problems/count-of-matches-in-tournament/solutions/100000/bi-sai-zhong-de-pei-dui-ci-shu-by-leetco-ugvj)
+
 #### 方法一：模拟
 
 **思路与算法**

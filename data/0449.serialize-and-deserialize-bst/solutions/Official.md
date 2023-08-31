@@ -1,4 +1,5 @@
 ## [449.序列化和反序列化二叉搜索树 中文官方题解](https://leetcode.cn/problems/serialize-and-deserialize-bst/solutions/100000/xu-lie-hua-he-fan-xu-lie-hua-er-cha-sou-5m9r4)
+
 #### 前言
 
 二叉搜索树是一种特殊的二叉树，序列化和反序列化过程也可以参照「[297. 二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/solution/er-cha-shu-de-xu-lie-hua-yu-fan-xu-lie-hua-by-le-2/)」的过程。二叉搜索树的特殊之处在于其中序遍历是有序的，可以利用这一点来优化时间和空间复杂度。

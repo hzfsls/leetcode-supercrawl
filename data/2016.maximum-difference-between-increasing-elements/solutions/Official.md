@@ -1,4 +1,5 @@
 ## [2016.增量元素之间的最大差值 中文官方题解](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/solutions/100000/zeng-liang-yuan-su-zhi-jian-de-zui-da-ch-i0wk)
+
 #### 方法一：前缀最小值
 
 **思路与算法**

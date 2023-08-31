@@ -1,4 +1,5 @@
 ## [1232.缀点成线 中文官方题解](https://leetcode.cn/problems/check-if-it-is-a-straight-line/solutions/100000/zhui-dian-cheng-xian-by-leetcode-solutio-lpt6)
+
 #### 方法一：数学
 
 **思路**

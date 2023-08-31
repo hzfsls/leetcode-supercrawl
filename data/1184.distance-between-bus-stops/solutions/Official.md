@@ -1,4 +1,5 @@
 ## [1184.公交站间的距离 中文官方题解](https://leetcode.cn/problems/distance-between-bus-stops/solutions/100000/gong-jiao-zhan-jian-de-ju-chi-by-leetcod-o737)
+
 #### 方法一：一次遍历
 
 记数组 $\textit{distance}$ 的长度为 $n$。假设 $\textit{start} \le \textit{destination}$，那么我们可以：

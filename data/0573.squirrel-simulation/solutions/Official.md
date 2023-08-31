@@ -1,4 +1,5 @@
 ## [573.松鼠模拟 中文官方题解](https://leetcode.cn/problems/squirrel-simulation/solutions/100000/song-shu-mo-ni-by-leetcode-solution)
+
 #### 方法一：模拟路径
 首先要知道，从地图上的任意一点到另外一点，最短距离为 x 轴的距离加上 y 轴的距离。
 

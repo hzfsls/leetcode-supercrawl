@@ -1,4 +1,5 @@
 ## [1857.有向图中最大颜色值 中文官方题解](https://leetcode.cn/problems/largest-color-value-in-a-directed-graph/solutions/100000/you-xiang-tu-zhong-zui-da-yan-se-zhi-by-dmtaa)
+
 #### 方法一：拓扑排序 + 动态规划
 
 **提示 $1$**

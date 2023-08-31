@@ -1,4 +1,5 @@
 ## [1799.N 次操作后的最大分数和 中文官方题解](https://leetcode.cn/problems/maximize-score-after-n-operations/solutions/100000/n-ci-cao-zuo-hou-de-zui-da-fen-shu-he-by-i9k5)
+
 #### 方法一：状态压缩 + 动态规划
 
 **思路与算法**

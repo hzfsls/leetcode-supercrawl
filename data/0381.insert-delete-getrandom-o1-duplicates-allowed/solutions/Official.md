@@ -1,4 +1,5 @@
 ## [381.O(1) 时间插入、删除和获取随机元素 - 允许重复 中文官方题解](https://leetcode.cn/problems/insert-delete-getrandom-o1-duplicates-allowed/solutions/100000/o1-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-ji-yua-5)
+
 #### 方法一：哈希表
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2259.移除指定数字得到的最大结果 中文官方题解](https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/solutions/100000/yi-chu-zhi-ding-shu-zi-de-dao-de-zui-da-ikpqo)
+
 #### 方法一：枚举移除下标
 
 **思路与算法**

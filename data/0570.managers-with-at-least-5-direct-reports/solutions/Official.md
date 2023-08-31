@@ -1,4 +1,5 @@
 ## [570.至少有5名直接下属的经理 中文官方题解](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports/solutions/100000/zhi-shao-you-5ming-zhi-jie-xia-shu-de-ji-syvu)
+
 [TOC]
 
 ## 解决方案

@@ -1,4 +1,5 @@
 ## [1204.最后一个能进入巴士的人 中文官方题解](https://leetcode.cn/problems/last-person-to-fit-in-the-bus/solutions/100000/zui-hou-yi-ge-neng-jin-ru-dian-ti-de-ren-by-leetco)
+
 #### 方法一：自连接
 
 **思路**

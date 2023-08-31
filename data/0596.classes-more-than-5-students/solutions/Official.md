@@ -1,4 +1,5 @@
 ## [596.超过5名学生的课 中文官方题解](https://leetcode.cn/problems/classes-more-than-5-students/solutions/100000/chao-guo-5ming-xue-sheng-de-ke-by-leetco-l4es)
+
 [TOC]
 
 ## 解决方案

@@ -1,4 +1,5 @@
 ## [774.最小化去加油站的最大距离 中文官方题解](https://leetcode.cn/problems/minimize-max-distance-to-gas-station/solutions/100000/zui-xiao-hua-qu-jia-you-zhan-de-zui-da-j-7qiz)
+
 [TOC]
 
 ---

@@ -1,4 +1,5 @@
 ## [289.生命游戏 中文官方题解](https://leetcode.cn/problems/game-of-life/solutions/100000/sheng-ming-you-xi-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![289.生命游戏.mp4](d8b9131f-e15e-49bc-acd6-b55aa2342b07)
 

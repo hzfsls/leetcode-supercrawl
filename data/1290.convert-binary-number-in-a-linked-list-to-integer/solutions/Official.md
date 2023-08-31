@@ -1,4 +1,5 @@
 ## [1290.二进制链表转整数 中文官方题解](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/solutions/100000/er-jin-zhi-lian-biao-zhuan-zheng-shu-by-leetcode-s)
+
 ### 方法一：模拟
 
 由于链表中从高位到低位存放了数字的二进制表示，因此我们可以使用二进制转十进制的方法，在遍历一遍链表的同时得到数字的十进制值。

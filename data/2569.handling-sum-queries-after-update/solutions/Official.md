@@ -1,4 +1,5 @@
 ## [2569.更新数组后处理求和查询 中文官方题解](https://leetcode.cn/problems/handling-sum-queries-after-update/solutions/100000/geng-xin-shu-zu-hou-chu-li-qiu-he-cha-xu-kv6u)
+
 #### 前言
 
 线段树是一个二叉树，每个结点保存数组 $\textit{nums}$ 在区间 $[s,e]$ 的最小值、最大值或者总和等信息。线段树可以用树也可以用数组（堆式存储）来实现。对于数组实现，假设根结点的下标为 $1$，如果一个结点在数组的下标为 $\textit{node}$，那么它的左子结点下标为 $\textit{node} \times 2$，右子结点下标为 $\textit{node} \times 2 + 1$，线段树可以在 $O(\log N)$ 的时间复杂度内实现单点修改、区间修改、区间查询（区间求和，求区间最大值，求区间最小值）等操作，关于线段树的详细描述可以参考「[线段树](https://oi-wiki.org/ds/seg)」。

@@ -1,4 +1,5 @@
 ## [1743.从相邻元素对还原数组 中文官方题解](https://leetcode.cn/problems/restore-the-array-from-adjacent-pairs/solutions/100000/cong-xiang-lin-yuan-su-dui-huan-yuan-shu-v55t)
+
 #### 方法一：哈希表
 
 **思路及算法**

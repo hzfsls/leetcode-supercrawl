@@ -1,4 +1,5 @@
 ## [1489.找到最小生成树里的关键边和伪关键边 中文官方题解](https://leetcode.cn/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/solutions/100000/zhao-dao-zui-xiao-sheng-cheng-shu-li-de-gu57q)
+
 #### 前言
 
 要想解决本题，需要用到「[最小生成树](https://baike.baidu.com/item/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91)」以及对应求解最小生成树的「[$\texttt{Kruskal}$ 算法](https://baike.baidu.com/item/%E5%85%8B%E9%B2%81%E6%96%AF%E5%8D%A1%E5%B0%94%E7%AE%97%E6%B3%95)」。

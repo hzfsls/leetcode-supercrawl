@@ -1,4 +1,5 @@
 ## [1301.最大得分的路径数目 中文官方题解](https://leetcode.cn/problems/number-of-paths-with-max-score/solutions/100000/zui-da-de-fen-de-lu-jing-shu-mu-by-leetcode-soluti)
+
 #### 方法一：动态规划
 
 根据题意，我们从右下角 `"S"` 出发后，只能向上、左或左上移动，那么我们不会重复经过数组 `board` 中的位置，因此我们可以使用动态规划的方法来解决这个问题。

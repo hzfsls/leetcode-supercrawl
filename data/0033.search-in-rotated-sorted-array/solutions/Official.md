@@ -1,4 +1,5 @@
 ## [33.搜索旋转排序数组 中文官方题解](https://leetcode.cn/problems/search-in-rotated-sorted-array/solutions/100000/sou-suo-xuan-zhuan-pai-xu-shu-zu-by-leetcode-solut)
+
 ### 📺 视频题解
 
 ![33. 搜索旋转排序数组_1.mp4](791f4a50-ba15-468d-8d0a-0fedfdc814c4)

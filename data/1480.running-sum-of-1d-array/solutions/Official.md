@@ -1,4 +1,5 @@
 ## [1480.一维数组的动态和 中文官方题解](https://leetcode.cn/problems/running-sum-of-1d-array/solutions/100000/yi-wei-shu-zu-de-dong-tai-he-by-leetcode-flkm)
+
 #### 方法一：原地修改
 
 **思路和算法**

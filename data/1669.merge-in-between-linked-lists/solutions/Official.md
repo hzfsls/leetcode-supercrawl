@@ -1,4 +1,5 @@
 ## [1669.合并两个链表 中文官方题解](https://leetcode.cn/problems/merge-in-between-linked-lists/solutions/100000/he-bing-liang-ge-lian-biao-by-leetcode-s-alt8)
+
 #### 方法一：模拟
 
 **思路与算法**

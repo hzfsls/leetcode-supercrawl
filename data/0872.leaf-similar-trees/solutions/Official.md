@@ -1,4 +1,5 @@
 ## [872.叶子相似的树 中文官方题解](https://leetcode.cn/problems/leaf-similar-trees/solutions/100000/xie-zi-xiang-si-de-shu-by-leetcode-solut-z0w6)
+
 #### 方法一：深度优先搜索
 
 **思路与算法**

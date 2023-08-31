@@ -1,4 +1,5 @@
 ## [1220.统计元音字母序列的数目 中文官方题解](https://leetcode.cn/problems/count-vowels-permutation/solutions/100000/tong-ji-yuan-yin-zi-mu-xu-lie-de-shu-mu-jxo09)
+
 #### 方法一：动态规划
 
 **思路**

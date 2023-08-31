@@ -1,4 +1,5 @@
 ## [1108.IP 地址无效化 中文官方题解](https://leetcode.cn/problems/defanging-an-ip-address/solutions/100000/ip-di-zhi-wu-xiao-hua-by-leetcode-soluti-7q15)
+
 #### 方法一：直接遍历
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2303.计算应缴税款总额 中文官方题解](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/solutions/100000/ji-suan-ying-jiao-shui-kuan-zong-e-by-le-jv5s)
+
 #### 方法一：直接模拟
 
 **思路与算法**

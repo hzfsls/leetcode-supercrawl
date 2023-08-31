@@ -1,4 +1,5 @@
 ## [244.最短单词距离 II 中文官方题解](https://leetcode.cn/problems/shortest-word-distance-ii/solutions/100000/zui-duan-dan-ci-ju-chi-ii-by-leetcode-so-no7m)
+
 #### 方法一：哈希表 + 双指针
 
 这道题是「[243. 最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance)」的进阶版本，和第 243 题的区别在于这道题要求实现一个数据结构，该数据结构支持计算两个单词的最短距离。

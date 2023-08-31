@@ -1,4 +1,5 @@
 ## [1404.将二进制表示减到 1 的步骤数 中文官方题解](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solutions/100000/jiang-er-jin-zhi-biao-shi-jian-dao-1-de-bu-zou-shu)
+
 #### 方法一：模拟
 
 我们可以直接模拟题目中的过程：

@@ -1,4 +1,5 @@
 ## [1218.最长定差子序列 中文官方题解](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/solutions/100000/zui-chang-ding-chai-zi-xu-lie-by-leetcod-xkua)
+
 #### 方法一：动态规划
 
 下文为方便叙述将 $\textit{difference}$ 简写成 $d$。

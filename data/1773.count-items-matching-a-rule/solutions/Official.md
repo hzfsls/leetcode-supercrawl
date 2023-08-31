@@ -1,4 +1,5 @@
 ## [1773.统计匹配检索规则的物品数量 中文官方题解](https://leetcode.cn/problems/count-items-matching-a-rule/solutions/100000/tong-ji-pi-pei-jian-suo-gui-ze-de-wu-pin-3qod)
+
 #### 方法一：模拟
 
 **思路**

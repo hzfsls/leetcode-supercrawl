@@ -1,4 +1,5 @@
 ## [1150.检查一个数是否在数组中占绝大多数 中文官方题解](https://leetcode.cn/problems/check-if-a-number-is-majority-element-in-a-sorted-array/solutions/100000/jian-cha-yi-ge-shu-shi-fou-zai-shu-zu-zhong-zhan-2)
+
 #### 方法一：遍历
 
 **思路**

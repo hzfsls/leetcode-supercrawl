@@ -1,4 +1,5 @@
 ## [394.字符串解码 中文官方题解](https://leetcode.cn/problems/decode-string/solutions/100000/zi-fu-chuan-jie-ma-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![394. 字符串解码.mp4](2a9aeb51-59d9-4cc3-9d02-4ac416c29cef)
 

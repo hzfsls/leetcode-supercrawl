@@ -1,4 +1,5 @@
 ## [266.回文排列 中文官方题解](https://leetcode.cn/problems/palindrome-permutation/solutions/100000/hui-wen-pai-lie-by-leetcode-solution-s681)
+
 [TOC]
 
  ## 解决方案

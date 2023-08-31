@@ -1,4 +1,5 @@
 ## [701.二叉搜索树中的插入操作 中文官方题解](https://leetcode.cn/problems/insert-into-a-binary-search-tree/solutions/100000/er-cha-sou-suo-shu-zhong-de-cha-ru-cao-zuo-by-le-3)
+
 #### 方法一：模拟
 
 **思路与算法**

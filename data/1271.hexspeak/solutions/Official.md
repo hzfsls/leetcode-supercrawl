@@ -1,4 +1,5 @@
 ## [1271.十六进制魔术数字 中文官方题解](https://leetcode.cn/problems/hexspeak/solutions/100000/shi-liu-jin-zhi-mo-zhu-shu-zi-by-leetcode-solution)
+
 **方法一：模拟**
 
 我们首先将输入的字符串 `num` 从十进制转换为十六进制，随后我们遍历该十六进制数的每一位，如果它不在 `"01ABCDEF"` 中，则返回 `"ERROR"`，否则根据题目要求，将 `"0"` 变为 `"O"`，`"1"` 变为 `"I"`，其余字母不变。

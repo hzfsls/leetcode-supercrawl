@@ -1,4 +1,5 @@
 ## [1158.市场分析 I 中文官方题解](https://leetcode.cn/problems/market-analysis-i/solutions/100000/shi-chang-fen-xi-i-by-leetcode-solution)
+
 #### 预备知识
 
 本题使用到的 `MySQL` 函数的说明：

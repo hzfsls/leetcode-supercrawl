@@ -1,4 +1,5 @@
 ## [1048.最长字符串链 中文官方题解](https://leetcode.cn/problems/longest-string-chain/solutions/100000/zui-chang-zi-fu-chuan-lian-by-leetcode-s-4uoe)
+
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1834.单线程 CPU 中文官方题解](https://leetcode.cn/problems/single-threaded-cpu/solutions/100000/single-threaded-cpu-by-leetcode-solution-suki)
+
 #### 方法一：排序 + 优先队列
 
 **提示 $1$**

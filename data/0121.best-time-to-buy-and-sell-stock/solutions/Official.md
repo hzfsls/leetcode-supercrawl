@@ -1,4 +1,5 @@
 ## [121.买卖股票的最佳时机 中文官方题解](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/solutions/100000/121-mai-mai-gu-piao-de-zui-jia-shi-ji-by-leetcode-)
+
 ### 📺 视频题解
 ![LeetCode 121买卖股票的最佳时机.mp4](8191f465-1b9c-46d9-9be6-23e68f604b59)
 

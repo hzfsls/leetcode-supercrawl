@@ -1,4 +1,5 @@
 ## [339.嵌套列表权重和 中文官方题解](https://leetcode.cn/problems/nested-list-weight-sum/solutions/100000/qian-tao-lie-biao-quan-zhong-he-by-leetc-1wmf)
+
 [TOC] 
 
  ## 解决方案

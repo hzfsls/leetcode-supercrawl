@@ -1,4 +1,5 @@
 ## [2206.将数组划分成相等数对 中文官方题解](https://leetcode.cn/problems/divide-array-into-equal-pairs/solutions/100000/jiang-shu-zu-hua-fen-cheng-xiang-deng-sh-vrd5)
+
 #### 方法一：哈希表
 
 **思路与算法**

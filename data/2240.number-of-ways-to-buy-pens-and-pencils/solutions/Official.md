@@ -1,4 +1,5 @@
 ## [2240.买钢笔和铅笔的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/solutions/100000/mai-gang-bi-he-qian-bi-de-fang-an-shu-by-83nk)
+
 #### 方法一：枚举
 
 **思路与算法**

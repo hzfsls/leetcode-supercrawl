@@ -1,4 +1,5 @@
 ## [456.132 模式 中文官方题解](https://leetcode.cn/problems/132-pattern/solutions/100000/132mo-shi-by-leetcode-solution-ye89)
+
 #### 前言
 
 由于本题中 $n$ 的最大值可以到 $2 \times 10^5$，因此对于一个满足 $132$ 模式的三元组下标 $(i, j, k)$，枚举其中的 $2$ 个下标时间复杂度为 $O(n^2)$，会超出时间限制。

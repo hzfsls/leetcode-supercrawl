@@ -1,4 +1,5 @@
 ## [2248.多个数组求交集 中文官方题解](https://leetcode.cn/problems/intersection-of-multiple-arrays/solutions/100000/duo-ge-shu-zu-qiu-jiao-ji-by-leetcode-so-5c9z)
+
 #### 方法一：模拟
 
 **思路与算法**

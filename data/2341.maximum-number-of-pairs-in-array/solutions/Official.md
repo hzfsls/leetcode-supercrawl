@@ -1,4 +1,5 @@
 ## [2341.数组能形成多少数对 中文官方题解](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/solutions/100000/shu-zu-neng-xing-cheng-duo-shao-shu-dui-jq01j)
+
 #### 方法一：哈希表
 
 **思路**

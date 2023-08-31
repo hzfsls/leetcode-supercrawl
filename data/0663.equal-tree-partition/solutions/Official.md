@@ -1,4 +1,5 @@
 ## [663.均匀树划分 中文官方题解](https://leetcode.cn/problems/equal-tree-partition/solutions/100000/jun-yun-shu-hua-fen-by-leetcode-solution-y1wk)
+
 [TOC]
 
 #### 方法 1：深度优先搜索

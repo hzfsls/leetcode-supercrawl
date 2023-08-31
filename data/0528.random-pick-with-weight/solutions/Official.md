@@ -1,4 +1,5 @@
 ## [528.按权重随机选择 中文官方题解](https://leetcode.cn/problems/random-pick-with-weight/solutions/100000/an-quan-zhong-sui-ji-xuan-ze-by-leetcode-h13t)
+
 #### 方法一：前缀和 + 二分查找
 
 **思路与算法**

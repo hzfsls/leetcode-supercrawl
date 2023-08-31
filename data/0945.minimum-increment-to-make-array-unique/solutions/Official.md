@@ -1,4 +1,5 @@
 ## [945.使数组唯一的最小增量 中文官方题解](https://leetcode.cn/problems/minimum-increment-to-make-array-unique/solutions/100000/shi-shu-zu-wei-yi-de-zui-xiao-zeng-liang-by-leet-2)
+
 #### 方法一：计数
 
 **思路**

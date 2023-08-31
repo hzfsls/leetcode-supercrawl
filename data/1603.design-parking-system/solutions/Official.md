@@ -1,4 +1,5 @@
 ## [1603.设计停车系统 中文官方题解](https://leetcode.cn/problems/design-parking-system/solutions/100000/she-ji-ting-che-xi-tong-by-leetcode-solu-p52h)
+
 #### 方法一：模拟
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1005.K 次取反后最大化的数组和 中文官方题解](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/solutions/100000/k-ci-qu-fan-hou-zui-da-hua-de-shu-zu-he-4r5lb)
+
 #### 方法一：从小到大修改每个负数
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2243.计算字符串的数字和 中文官方题解](https://leetcode.cn/problems/calculate-digit-sum-of-a-string/solutions/100000/ji-suan-zi-fu-chuan-de-shu-zi-he-by-leet-pfuh)
+
 #### 方法一：模拟
 
 **思路与算法**

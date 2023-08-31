@@ -1,4 +1,5 @@
 ## [377.组合总和 Ⅳ 中文官方题解](https://leetcode.cn/problems/combination-sum-iv/solutions/100000/zu-he-zong-he-iv-by-leetcode-solution-q8zv)
+
 #### 方法一：动态规划
 
 这道题中，给定数组 $\textit{nums}$ 和目标值 $\textit{target}$，要求计算从 $\textit{nums}$ 中选取若干个元素，使得它们的和等于 $\textit{target}$ 的方案数。其中，$\textit{nums}$ 的每个元素可以选取多次，且需要考虑选取元素的顺序。由于需要考虑选取元素的顺序，因此这道题需要计算的是选取元素的**排列**数。

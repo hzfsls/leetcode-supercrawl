@@ -1,4 +1,5 @@
 ## [1395.统计作战单位数 中文官方题解](https://leetcode.cn/problems/count-number-of-teams/solutions/100000/tong-ji-zuo-zhan-dan-wei-shu-by-leetcode-solution)
+
 #### 方法一：枚举三元组
 
 我们可以直接根据题目要求，枚举三元组 $(i, j, k)$ 表示三名士兵，其中 $i < j < k$。在枚举过程中，我们只需要判断这三名士兵的评分是否严格单调递增

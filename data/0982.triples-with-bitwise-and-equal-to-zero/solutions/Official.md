@@ -1,4 +1,5 @@
 ## [982.按位与为零的三元组 中文官方题解](https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/solutions/100000/an-wei-yu-wei-ling-de-san-yuan-zu-by-lee-gjud)
+
 #### 方法一：枚举
 
 **思路与算法**

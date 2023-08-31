@@ -1,4 +1,5 @@
 ## [2058.找出临界点之间的最小和最大距离 中文官方题解](https://leetcode.cn/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solutions/100000/zhao-chu-lin-jie-dian-zhi-jian-de-zui-xi-b08v)
+
 #### 方法一：维护上一个和第一个临界点的位置
 
 **思路与算法**

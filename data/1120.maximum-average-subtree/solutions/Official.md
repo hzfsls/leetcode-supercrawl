@@ -1,4 +1,5 @@
 ## [1120.子树的最大平均值 中文官方题解](https://leetcode.cn/problems/maximum-average-subtree/solutions/100000/zi-shu-de-zui-da-ping-jun-zhi-by-leetcod-ynv5)
+
 [TOC] 
 
  ## 解决方案 

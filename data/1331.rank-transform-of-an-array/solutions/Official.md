@@ -1,4 +1,5 @@
 ## [1331.数组序号转换 中文官方题解](https://leetcode.cn/problems/rank-transform-of-an-array/solutions/100000/shu-zu-xu-hao-zhuan-huan-by-leetcode-sol-8zlu)
+
 #### 方法一：排序 + 哈希表
 
 **思路** 

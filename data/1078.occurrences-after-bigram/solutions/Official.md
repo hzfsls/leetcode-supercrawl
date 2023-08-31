@@ -1,4 +1,5 @@
 ## [1078.Bigram 分词 中文官方题解](https://leetcode.cn/problems/occurrences-after-bigram/solutions/100000/bigram-fen-ci-by-leetcode-solution-7q3e)
+
 #### 方法一：遍历
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2423.删除字符使频率相同 中文官方题解](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/solutions/100000/shan-chu-zi-fu-shi-pin-lu-xiang-tong-by-bz1ix)
+
 #### 方法一：枚举
 
 **思路与算法**

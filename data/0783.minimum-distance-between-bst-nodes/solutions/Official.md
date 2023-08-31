@@ -1,4 +1,5 @@
 ## [783.二叉搜索树节点最小距离 中文官方题解](https://leetcode.cn/problems/minimum-distance-between-bst-nodes/solutions/100000/er-cha-sou-suo-shu-jie-dian-zui-xiao-ju-8u87w)
+
 #### 方法一：中序遍历
 
 **思路与算法**

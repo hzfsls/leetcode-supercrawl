@@ -1,4 +1,5 @@
 ## [978.最长湍流子数组 中文官方题解](https://leetcode.cn/problems/longest-turbulent-subarray/solutions/100000/zui-chang-tuan-liu-zi-shu-zu-by-leetcode-t4d8)
+
 #### 方法一：滑动窗口
 
 设数组 $\textit{arr}$ 的长度为 $n$，窗口 $[\textit{left},\textit{right}](0 \le \textit{left} \le \textit{right} \le n-1)$ 为当前的窗口，窗口内构成了一个「湍流子数组」。随后，我们要考虑下一个窗口的位置。

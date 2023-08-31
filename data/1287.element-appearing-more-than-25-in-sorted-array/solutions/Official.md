@@ -1,4 +1,5 @@
 ## [1287.有序数组中出现次数超过25%的元素 中文官方题解](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/solutions/100000/you-xu-shu-zu-zhong-chu-xian-ci-shu-chao-guo-25d-3)
+
 ### 方法一：遍历
 
 由于数组 `arr` 已经有序，那么相同的数在 `arr` 中出现的位置也是连续的。因此我们可以对数组进行一次遍历，并统计每个数出现的次数。只要发现某个数出现的次数超过数组 `arr` 长度的 25%，那么这个数即为答案。

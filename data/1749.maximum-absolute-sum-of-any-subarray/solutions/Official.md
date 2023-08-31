@@ -1,4 +1,5 @@
 ## [1749.任意子数组和的绝对值的最大值 中文官方题解](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/solutions/100000/ren-yi-zi-shu-zu-he-de-jue-dui-zhi-de-zu-qerr)
+
 #### 方法一：动态规划 + 分情况讨论
 
 **思路**

@@ -1,4 +1,5 @@
 ## [513.找树左下角的值 中文官方题解](https://leetcode.cn/problems/find-bottom-left-tree-value/solutions/100000/zhao-shu-zuo-xia-jiao-de-zhi-by-leetcode-weeh)
+
 #### 方法一：深度优先搜索
 
 使用 $\textit{height}$ 记录遍历到的节点的高度，$\textit{curVal}$ 记录高度在 $\textit{curHeight}$ 的最左节点的值。在深度优先搜索时，我们先搜索当前节点的左子节点，再搜索当前节点的右子节点，然后判断当前节点的高度 $\textit{height}$ 是否大于 $\textit{curHeight}$，如果是，那么将 $\textit{curVal}$ 设置为当前结点的值，$\textit{curHeight}$ 设置为 $\textit{height}$。

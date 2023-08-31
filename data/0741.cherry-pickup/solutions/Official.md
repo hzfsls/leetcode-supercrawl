@@ -1,4 +1,5 @@
 ## [741.摘樱桃 中文官方题解](https://leetcode.cn/problems/cherry-pickup/solutions/100000/zhai-ying-tao-by-leetcode-solution-1h3k)
+
 #### 方法一：动态规划
 
 由于从 $(N-1,N-1)$ 返回 $(0,0)$ 的这条路径，可以等价地看成从 $(0,0)$ 到 $(N-1,N-1)$ 的路径，因此问题可以等价转换成，有两个人从 $(0,0)$ 出发，向下或向右走到 $(N-1,N-1)$ 时，摘到的樱桃个数之和的最大值。

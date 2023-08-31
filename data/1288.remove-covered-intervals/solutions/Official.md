@@ -1,4 +1,5 @@
 ## [1288.删除被覆盖区间 中文官方题解](https://leetcode.cn/problems/remove-covered-intervals/solutions/100000/shan-chu-bei-fu-gai-qu-jian-by-leetcode-solution)
+
 ### 方法一：枚举
 
 对于列表中的每个区间 `p`，我们可以枚举其余的所有区间，并依次判断区间 `p` 是否被某个区间所覆盖。

@@ -1,4 +1,5 @@
 ## [1792.最大平均通过率 中文官方题解](https://leetcode.cn/problems/maximum-average-pass-ratio/solutions/100000/zui-da-ping-jun-tong-guo-lu-by-leetcode-dm7y3)
+
 #### 方法一：优先队列
 
 **思路与算法**

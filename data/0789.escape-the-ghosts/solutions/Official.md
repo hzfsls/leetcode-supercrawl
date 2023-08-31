@@ -1,4 +1,5 @@
 ## [789.逃脱阻碍者 中文官方题解](https://leetcode.cn/problems/escape-the-ghosts/solutions/100000/tao-tuo-zu-ai-zhe-by-leetcode-solution-gjga)
+
 #### 方法一：曼哈顿距离
 
 为了逃脱阻碍者，玩家应按照最短路径向目的地移动。阻碍者为了抓住玩家，也会按照最短路径向目的地移动。由于每次移动为向四个方向之一移动一个单位，因此对于玩家和阻碍者而言，到达目的地的最短路径的距离为当前所在位置和目的地的曼哈顿距离。

@@ -1,4 +1,5 @@
 ## [301.删除无效的括号 中文官方题解](https://leetcode.cn/problems/remove-invalid-parentheses/solutions/100000/shan-chu-wu-xiao-de-gua-hao-by-leetcode-9w8au)
+
 #### 背景知识
 
 1. **有效的「括号」**：题目输入的字符串由一系列「左括号」和「右括号」组成，但是有一些额外的括号，使得括号不能正确配对。对于括号配对规则如果还不太清楚的读者，可以先完成问题「[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)」。

@@ -1,4 +1,5 @@
 ## [1163.按字典序排在最后的子串 中文官方题解](https://leetcode.cn/problems/last-substring-in-lexicographical-order/solutions/100000/an-zi-dian-xu-pai-zai-zui-hou-de-zi-chua-31yl)
+
 #### 方法一：双指针
 
 记字符串 $s$ 的长度为 $n$。首先并非所有的子字符串都需要被考虑到，只有后缀子字符串才可能是排在最后的子字符串。

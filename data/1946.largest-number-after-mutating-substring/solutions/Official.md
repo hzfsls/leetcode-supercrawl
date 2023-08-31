@@ -1,4 +1,5 @@
 ## [1946.子字符串突变后可能得到的最大整数 中文官方题解](https://leetcode.cn/problems/largest-number-after-mutating-substring/solutions/100000/zi-zi-fu-chuan-tu-bian-hou-ke-neng-de-da-giig)
+
 #### 方法一：贪心
 
 **提示 $1$**

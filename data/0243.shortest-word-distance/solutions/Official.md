@@ -1,4 +1,5 @@
 ## [243.最短单词距离 中文官方题解](https://leetcode.cn/problems/shortest-word-distance/solutions/100000/zui-duan-dan-ci-ju-chi-by-leetcode-solut-86bt)
+
 #### 方法一：一次遍历
 
 最直观的做法是遍历数组 $\textit{wordsDict}$，对于数组中的每个 $\textit{word}_1$，遍历数组 $\textit{wordsDict}$ 找到每个 $\textit{word}_2$ 并计算距离。该做法在最坏情况下的时间复杂度是 $O(n^2)$，需要优化。

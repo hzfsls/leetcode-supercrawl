@@ -1,4 +1,5 @@
 ## [1441.用栈操作构建数组 中文官方题解](https://leetcode.cn/problems/build-an-array-with-stack-operations/solutions/100000/yong-zhan-cao-zuo-gou-jian-shu-zu-by-lee-omde)
+
 #### 方法一：模拟
 
 **思路**

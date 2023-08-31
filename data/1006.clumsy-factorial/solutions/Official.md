@@ -1,4 +1,5 @@
 ## [1006.笨阶乘 中文官方题解](https://leetcode.cn/problems/clumsy-factorial/solutions/100000/ben-jie-cheng-by-leetcode-solution-deh2)
+
 #### 方法一：使用栈模拟
 
 **思路**

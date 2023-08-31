@@ -1,4 +1,5 @@
 ## [1238.循环码排列 中文官方题解](https://leetcode.cn/problems/circular-permutation-in-binary-representation/solutions/100000/xun-huan-ma-pai-lie-by-leetcode-solution-6e40)
+
 #### 前言
 
 本题和「[89. 格雷编码](https://leetcode.cn/problems/gray-code/)」非常相似，区别在于「[89. 格雷编码](https://leetcode.cn/problems/gray-code/)」要求第一个整数是 $0$，而本题要求第一个整数是 $\textit{start}$，因此只需要将求出的结果的每一项都与 $\textit{start}$ 进行按位异或运算即可。

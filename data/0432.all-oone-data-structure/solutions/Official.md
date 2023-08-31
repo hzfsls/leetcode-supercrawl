@@ -1,4 +1,5 @@
 ## [432.全 O(1) 的数据结构 中文官方题解](https://leetcode.cn/problems/all-oone-data-structure/solutions/100000/quan-o1-de-shu-ju-jie-gou-by-leetcode-so-7gdv)
+
 #### 方法一：双向链表 + 哈希表
 
 本题要求每次操作的时间复杂度均为 $O(1)$（字符串长度视作常数）。我们可以结合双向链表和哈希表来实现，具体如下：

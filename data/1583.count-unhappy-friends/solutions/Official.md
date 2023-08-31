@@ -1,4 +1,5 @@
 ## [1583.统计不开心的朋友 中文官方题解](https://leetcode.cn/problems/count-unhappy-friends/solutions/100000/tong-ji-bu-kai-xin-de-peng-you-by-leetcode-solutio)
+
 #### 方法一：模拟
 
 这道题看似复杂，其实只要进行模拟，即可得到答案。

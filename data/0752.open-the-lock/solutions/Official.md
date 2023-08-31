@@ -1,4 +1,5 @@
 ## [752.打开转盘锁 中文官方题解](https://leetcode.cn/problems/open-the-lock/solutions/100000/da-kai-zhuan-pan-suo-by-leetcode-solutio-l0xo)
+
 #### 方法一：广度优先搜索
 
 **思路与算法**

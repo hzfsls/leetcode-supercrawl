@@ -1,4 +1,5 @@
 ## [761.特殊的二进制序列 中文官方题解](https://leetcode.cn/problems/special-binary-string/solutions/100000/te-shu-de-er-jin-zhi-xu-lie-by-leetcode-sb7ry)
+
 #### 方法一：分治
 
 **前言**

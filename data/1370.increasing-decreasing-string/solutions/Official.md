@@ -1,4 +1,5 @@
 ## [1370.上升下降字符串 中文官方题解](https://leetcode.cn/problems/increasing-decreasing-string/solutions/100000/shang-sheng-xia-jiang-zi-fu-chuan-by-leetcode-solu)
+
 #### 方法一：桶计数
 
 **思路及解法**

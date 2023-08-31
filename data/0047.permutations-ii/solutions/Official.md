@@ -1,4 +1,5 @@
 ## [47.全排列 II 中文官方题解](https://leetcode.cn/problems/permutations-ii/solutions/100000/quan-pai-lie-ii-by-leetcode-solution)
+
 #### 方法一：搜索回溯
 
 **思路和算法**

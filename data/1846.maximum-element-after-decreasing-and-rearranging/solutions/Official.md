@@ -1,4 +1,5 @@
 ## [1846.减小和重新排列数组后的最大元素 中文官方题解](https://leetcode.cn/problems/maximum-element-after-decreasing-and-rearranging/solutions/100000/jian-xiao-he-zhong-xin-pai-lie-shu-zu-ho-mzee)
+
 #### 方法一：排序 + 贪心
 
 提示 $1$

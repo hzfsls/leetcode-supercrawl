@@ -1,4 +1,5 @@
 ## [1542.找出最长的超赞子字符串 中文官方题解](https://leetcode.cn/problems/find-longest-awesome-substring/solutions/100000/zhao-chu-zui-chang-de-chao-zan-zi-zi-fu-chuan-by-l)
+
 #### 方法一：状态压缩 + 哈希表
 
 **思路与算法**

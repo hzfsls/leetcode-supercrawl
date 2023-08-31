@@ -1,4 +1,5 @@
 ## [1372.二叉树中的最长交错路径 中文官方题解](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/solutions/100000/er-cha-shu-zhong-de-zui-chang-jiao-cuo-lu-jing-b-2)
+
 #### 题目分析
 
 题目要求我们找到树当中一条最长的左右交错的路径。

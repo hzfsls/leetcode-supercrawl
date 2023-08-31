@@ -1,4 +1,5 @@
 ## [295.数据流的中位数 中文官方题解](https://leetcode.cn/problems/find-median-from-data-stream/solutions/100000/shu-ju-liu-de-zhong-wei-shu-by-leetcode-ktkst)
+
 #### 方法一：优先队列
 
 **思路和算法**

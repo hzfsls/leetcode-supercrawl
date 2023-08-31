@@ -1,4 +1,5 @@
 ## [1862.向下取整数对和 中文官方题解](https://leetcode.cn/problems/sum-of-floored-pairs/solutions/100000/xiang-xia-qu-zheng-shu-dui-he-by-leetcod-u3eg)
+
 #### 方法一：逆向思维
 
 **提示 $1$**

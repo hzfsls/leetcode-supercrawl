@@ -1,4 +1,5 @@
 ## [1921.消灭怪物的最大数量 中文官方题解](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/solutions/100000/xiao-mie-guai-wu-de-zui-da-shu-liang-by-0ou2p)
+
 #### 方法一：贪心 + 排序
 
 **思路**

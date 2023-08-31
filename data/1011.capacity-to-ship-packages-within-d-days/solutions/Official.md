@@ -1,4 +1,5 @@
 ## [1011.在 D 天内送达包裹的能力 中文官方题解](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/solutions/100000/zai-d-tian-nei-song-da-bao-guo-de-neng-l-ntml)
+
 #### 方法一：二分查找转化为判定问题
 
 **思路与算法**

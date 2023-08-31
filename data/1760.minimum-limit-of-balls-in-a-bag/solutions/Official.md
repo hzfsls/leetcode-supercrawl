@@ -1,4 +1,5 @@
 ## [1760.袋子里最少数目的球 中文官方题解](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/solutions/100000/dai-zi-li-zui-shao-shu-mu-de-qiu-by-leet-boay)
+
 #### 方法一：二分查找
 
 **思路与算法**

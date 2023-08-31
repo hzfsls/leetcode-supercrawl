@@ -1,4 +1,5 @@
 ## [1339.分裂二叉树的最大乘积 中文官方题解](https://leetcode.cn/problems/maximum-product-of-splitted-binary-tree/solutions/100000/fen-lie-er-cha-shu-de-zui-da-cheng-ji-by-leetcode-)
+
 #### 方法一：数学
 
 记二叉树中所有元素的值之和为 `sum_r`。

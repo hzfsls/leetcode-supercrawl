@@ -1,4 +1,5 @@
 ## [2065.最大化一张图中的路径价值 中文官方题解](https://leetcode.cn/problems/maximum-path-quality-of-a-graph/solutions/100000/zui-da-hua-yi-zhang-tu-zhong-de-lu-jing-yim5i)
+
 #### 方法一：枚举所有可能的路径
 
 **思路与算法**

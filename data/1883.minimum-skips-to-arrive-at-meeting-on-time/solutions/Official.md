@@ -1,4 +1,5 @@
 ## [1883.准时抵达会议现场的最小跳过休息次数 中文官方题解](https://leetcode.cn/problems/minimum-skips-to-arrive-at-meeting-on-time/solutions/100000/minimum-skips-to-arrive-at-meeting-on-ti-dp7v)
+
 #### 方法一：动态规划
 
 **思路与算法**

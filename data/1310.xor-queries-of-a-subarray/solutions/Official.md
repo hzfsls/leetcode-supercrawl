@@ -1,4 +1,5 @@
 ## [1310.子数组异或查询 中文官方题解](https://leetcode.cn/problems/xor-queries-of-a-subarray/solutions/100000/zi-shu-zu-yi-huo-cha-xun-by-leetcode-solution)
+
 #### 方法一：前缀异或
 
 朴素的想法是，对每个查询，计算数组中的对应下标范围内的元素的异或结果。每个查询的计算时间取决于查询对应的下标范围的长度。如果数组 $\textit{arr}$ 的长度为 $n$，数组 $\textit{queries}$ 的长度为 $m$（即有 $m$ 个查询），则最坏情况下每个查询都需要 $O(n)$ 的时间计算结果，总时间复杂度是 $O(nm)$，会超出时间限制，因此必须优化。

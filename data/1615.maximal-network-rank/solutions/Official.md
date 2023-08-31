@@ -1,4 +1,5 @@
 ## [1615.最大网络秩 中文官方题解](https://leetcode.cn/problems/maximal-network-rank/solutions/100000/zui-da-wang-luo-zhi-by-leetcode-solution-x4gx)
+
 #### 方法一：枚举
 
 **思路与算法**

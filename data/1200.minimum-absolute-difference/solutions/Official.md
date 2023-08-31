@@ -1,4 +1,5 @@
 ## [1200.最小绝对差 中文官方题解](https://leetcode.cn/problems/minimum-absolute-difference/solutions/100000/zui-xiao-jue-dui-chai-by-leetcode-soluti-7g0e)
+
 #### 方法一：排序 + 一次遍历
 
 **思路与算法**

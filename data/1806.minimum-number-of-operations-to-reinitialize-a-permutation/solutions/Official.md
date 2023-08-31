@@ -1,4 +1,5 @@
 ## [1806.还原排列的最少操作步数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation/solutions/100000/huan-yuan-pai-lie-de-zui-shao-cao-zuo-bu-d9cn)
+
 #### 方法一：直接模拟
 
 **思路与算法**

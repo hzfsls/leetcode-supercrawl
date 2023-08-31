@@ -1,4 +1,5 @@
 ## [1367.二叉树中的链表 中文官方题解](https://leetcode.cn/problems/linked-list-in-binary-tree/solutions/100000/er-cha-shu-zhong-de-lie-biao-by-leetcode-solution)
+
 #### 方法一：枚举
 
 枚举二叉树中的每个节点为起点往下的路径是否有与链表相匹配的路径。为了判断是否匹配我们设计一个递归函数 $dfs(rt,\textit{head})$ ，其中 $rt$ 表示当前匹配到的二叉树节点，$head$ 表示当前匹配到的链表节点，整个函数返回布尔值表示是否有一条该节点往下的路径与 $head$ 节点开始的链表匹配，如匹配返回 $\textit{true}$，否则返回 $\textit{false}$ ，一共有四种情况：

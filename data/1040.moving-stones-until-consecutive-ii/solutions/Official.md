@@ -1,4 +1,5 @@
 ## [1040.移动石子直到连续 II 中文官方题解](https://leetcode.cn/problems/moving-stones-until-consecutive-ii/solutions/100000/yi-dong-shi-zi-zhi-dao-lian-xu-ii-by-lee-8u5g)
+
 #### 方法一：双指针
 
 **思路与算法**

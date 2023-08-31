@@ -1,4 +1,5 @@
 ## [1324.竖直打印单词 中文官方题解](https://leetcode.cn/problems/print-words-vertically/solutions/100000/shu-zhi-da-yin-dan-ci-by-leetcode-solution)
+
 #### 方法一：模拟
 
 我们只需要顺着题目的要求进行模拟即可：

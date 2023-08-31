@@ -1,4 +1,5 @@
 ## [1159.市场分析 II 中文官方题解](https://leetcode.cn/problems/market-analysis-ii/solutions/100000/shi-chang-fen-xi-ii-by-leetcode-solution)
+
 #### 预备知识
 
 1. MySQL 中，使用 `@` 来定义一个变量。比如：`@a`。

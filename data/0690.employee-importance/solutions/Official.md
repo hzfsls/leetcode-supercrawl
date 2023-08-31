@@ -1,4 +1,5 @@
 ## [690.员工的重要性 中文官方题解](https://leetcode.cn/problems/employee-importance/solutions/100000/yuan-gong-de-zhong-yao-xing-by-leetcode-h6xre)
+
 #### 前言
 
 由于一个员工最多有一个直系领导，可以有零个或若干个直系下属，因此员工之间的领导和下属关系构成树的结构。给定一个员工编号，要求计算这个员工及其所有下属的重要性之和，即为找到以该员工为根节点的子树的结构中，每个员工的重要性之和。

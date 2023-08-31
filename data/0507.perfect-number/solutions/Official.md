@@ -1,4 +1,5 @@
 ## [507.完美数 中文官方题解](https://leetcode.cn/problems/perfect-number/solutions/100000/wan-mei-shu-by-leetcode-solution-d5pw)
+
 #### 方法一：枚举
 
 我们可以枚举 $\textit{num}$ 的所有真因子，累加所有真因子之和，记作 $\textit{sum}$。若 $\textit{sum}=\textit{num}$ 则返回 $\texttt{true}$，否则返回 $\texttt{false}$。

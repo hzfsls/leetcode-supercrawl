@@ -1,4 +1,5 @@
 ## [1872.石子游戏 VIII 中文官方题解](https://leetcode.cn/problems/stone-game-viii/solutions/100000/shi-zi-you-xi-viii-by-leetcode-solution-e8dx)
+
 #### 方法一：动态规划
 
 **提示 $1$**

@@ -1,4 +1,5 @@
 ## [1368.使网格图至少有一条有效路径的最小代价 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/solutions/100000/shi-wang-ge-tu-zhi-shao-you-yi-tiao-you-xiao-lu-2)
+
 #### 分析
 
 如果没有「每个格子中的数字只能修改一次」这个条件，我们可以很轻松地将本题建模成一个求最短路径的问题：

@@ -1,4 +1,5 @@
 ## [1925.统计平方和三元组的数目 中文官方题解](https://leetcode.cn/problems/count-square-sum-triples/solutions/100000/tong-ji-ping-fang-he-san-yuan-zu-de-shu-dfenx)
+
 #### 方法一：枚举
 
 **思路与算法**

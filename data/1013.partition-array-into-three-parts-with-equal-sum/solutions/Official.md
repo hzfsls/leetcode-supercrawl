@@ -1,4 +1,5 @@
 ## [1013.将数组分成和相等的三个部分 中文官方题解](https://leetcode.cn/problems/partition-array-into-three-parts-with-equal-sum/solutions/100000/1013-jiang-shu-zu-fen-cheng-he-xiang-deng-de-san-2)
+
 ### 📺 视频题解  
 ![...3. 将数组分成和相等的三个部分.mp4](fcc421bb-4f9e-4417-8665-7eb6edf58c3a)
 

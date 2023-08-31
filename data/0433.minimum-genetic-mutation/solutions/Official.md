@@ -1,4 +1,5 @@
 ## [433.最小基因变化 中文官方题解](https://leetcode.cn/problems/minimum-genetic-mutation/solutions/100000/zui-xiao-ji-yin-bian-hua-by-leetcode-sol-lhwy)
+
 #### 方法一：广度优先搜索
 
 **思路与算法**

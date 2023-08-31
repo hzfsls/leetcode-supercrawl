@@ -1,4 +1,5 @@
 ## [698.划分为k个相等的子集 中文官方题解](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/solutions/100000/hua-fen-wei-kge-xiang-deng-de-zi-ji-by-l-v66o)
+
 #### 方法一：状态压缩 + 记忆化搜索
 
 **思路与算法**

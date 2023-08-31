@@ -1,4 +1,5 @@
 ## [1509.三次操作后最大值与最小值的最小差 中文官方题解](https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/solutions/100000/san-ci-cao-zuo-hou-zui-da-zhi-yu-zui-xiao-zhi-de-2)
+
 #### 前言
 
 当给定的数组长度不超过 $4$ 时，我们总可以让所有的数字相同，所以我们直接考虑长度超过 $4$ 的数组。

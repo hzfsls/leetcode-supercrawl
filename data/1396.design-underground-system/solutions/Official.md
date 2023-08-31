@@ -1,4 +1,5 @@
 ## [1396.设计地铁系统 中文官方题解](https://leetcode.cn/problems/design-underground-system/solutions/100000/she-ji-di-tie-xi-tong-by-leetcode-solution)
+
 #### 方法一：哈希映射
 
 我们需要两张哈希表。一张用来存编号为 `id` 的乘客的进站信息，键为 `id`，值需要保存两个信息：站点名字和进站时间。另一张用来存放以 `s` 为起点站，`e` 为终点站的已经出站的乘客的信息，键为 `(s, e)`，值也需要保存两个信息：花费的总时间和已经出站的总人数。

@@ -1,4 +1,5 @@
 ## [331.验证二叉树的前序序列化 中文官方题解](https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree/solutions/100000/yan-zheng-er-cha-shu-de-qian-xu-xu-lie-h-jghn)
+
 #### 方法一：栈
 
 我们可以定义一个概念，叫做槽位。一个槽位可以被看作「当前二叉树中正在等待被节点填充」的那些位置。

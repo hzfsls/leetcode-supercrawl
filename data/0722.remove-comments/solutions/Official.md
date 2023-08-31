@@ -1,4 +1,5 @@
 ## [722.删除注释 中文官方题解](https://leetcode.cn/problems/remove-comments/solutions/100000/shan-chu-zhu-shi-by-leetcode-solution-lb9x)
+
 #### 方法一：模拟
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1260.二维网格迁移 中文官方题解](https://leetcode.cn/problems/shift-2d-grid/solutions/100000/er-wei-wang-ge-qian-yi-by-leetcode-solut-ploz)
+
 #### 方法一：一维展开
 
 设 $m$ 和 $n$ 分别为网格的行列数，我们将网格 $\textit{grid}$ 想象成由多个一维数组 $\big \{\textit{grid}[i]; 0 \le i \lt n \big \}$ 按顺序拼接而成的一维数组，那么元素 $\textit{grid}[i][j]$ 在该一维数组的下标为 $\textit{index} = i \times n + j$。

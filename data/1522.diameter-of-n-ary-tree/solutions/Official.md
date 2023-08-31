@@ -1,4 +1,5 @@
 ## [1522.N 叉树的直径 中文官方题解](https://leetcode.cn/problems/diameter-of-n-ary-tree/solutions/100000/n-cha-shu-de-lu-jing-by-leetcode-solutio-be6k)
+
 [TOC]
 
  ## 解决方案

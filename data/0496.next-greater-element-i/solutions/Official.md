@@ -1,4 +1,5 @@
 ## [496.下一个更大元素 I 中文官方题解](https://leetcode.cn/problems/next-greater-element-i/solutions/100000/xia-yi-ge-geng-da-yuan-su-i-by-leetcode-bfcoj)
+
 #### 方法一：暴力
 
 **思路和算法**

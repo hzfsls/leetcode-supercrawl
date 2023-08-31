@@ -1,4 +1,5 @@
 ## [2177.找到和为给定整数的三个连续整数 中文官方题解](https://leetcode.cn/problems/find-three-consecutive-integers-that-sum-to-a-given-number/solutions/100000/zhao-dao-he-wei-gei-ding-zheng-shu-de-sa-f454)
+
 #### 方法一：数学
 
 **思路与算法**

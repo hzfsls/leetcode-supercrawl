@@ -1,4 +1,5 @@
 ## [500.键盘行 中文官方题解](https://leetcode.cn/problems/keyboard-row/solutions/100000/jian-pan-xing-by-leetcode-solution-bj5e)
+
 #### 方法一：遍历
 
 我们为每一个英文字母标记其对应键盘上的行号，然后检测字符串中所有字符对应的行号是否相同。

@@ -1,4 +1,5 @@
 ## [1100.长度为 K 的无重复字符子串 中文官方题解](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/solutions/100000/chang-du-wei-k-de-wu-zhong-fu-zi-fu-zi-c-r9u7)
+
 ## 题解
 
 #### 方法 1：暴力法 

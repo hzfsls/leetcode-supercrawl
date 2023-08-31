@@ -1,4 +1,5 @@
 ## [1304.和为零的 N 个不同整数 中文官方题解](https://leetcode.cn/problems/find-n-unique-integers-sum-up-to-zero/solutions/100000/he-wei-ling-de-nge-wei-yi-zheng-shu-by-leetcode-so)
+
 #### 方法一：构造
 
 我们首先将最小的 `n - 1` 个自然数 `0, 1, 2, ..., n - 2` 放入数组中，它们的和为 `sum`。对于剩下的 `1` 个数，我们可以令其为 `-sum`，此时这 `n` 个数的和为 `0`，并且：

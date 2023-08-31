@@ -1,4 +1,5 @@
 ## [522.最长特殊序列 II 中文官方题解](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/solutions/100000/zui-chang-te-shu-xu-lie-ii-by-leetcode-s-bo2e)
+
 #### 方法一：枚举每个字符串
 
 **思路与算法**

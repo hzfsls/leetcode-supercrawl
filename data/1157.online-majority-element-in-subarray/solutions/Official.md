@@ -1,4 +1,5 @@
 ## [1157.子数组中占绝大多数的元素 中文官方题解](https://leetcode.cn/problems/online-majority-element-in-subarray/solutions/100000/zi-shu-zu-zhong-zhan-jue-da-duo-shu-de-y-k1we)
+
 #### 方法一：随机化 + 二分查找
 
 **思路与算法**

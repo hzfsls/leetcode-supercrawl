@@ -1,4 +1,5 @@
 ## [2122.还原原数组 中文官方题解](https://leetcode.cn/problems/recover-the-original-array/solutions/100000/huan-yuan-yuan-shu-zu-by-leetcode-soluti-nizi)
+
 #### 方法一：枚举 + 双指针
 
 **思路与算法**

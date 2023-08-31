@@ -1,4 +1,5 @@
 ## [2367.算术三元组的数目 中文官方题解](https://leetcode.cn/problems/number-of-arithmetic-triplets/solutions/100000/suan-zhu-san-yuan-zu-de-shu-mu-by-leetco-ldq4)
+
 #### 方法一：暴力枚举
 
 为了得到算术三元组的数目，最直观的做法是使用三重循环暴力枚举数组中的每个三元组，判断每个三元组是否为算术三元组，枚举结束之后即可得到算术三元组的数目。

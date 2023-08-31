@@ -1,4 +1,5 @@
 ## [1460.通过翻转子数组使两个数组相等 中文官方题解](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/100000/tong-guo-fan-zhuan-zi-shu-zu-shi-liang-g-dueo)
+
 #### 方法一：哈希表判断数组元素是否相同
 
 **思路**

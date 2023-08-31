@@ -1,4 +1,5 @@
 ## [685.冗余连接 II 中文官方题解](https://leetcode.cn/problems/redundant-connection-ii/solutions/100000/rong-yu-lian-jie-ii-by-leetcode-solution)
+
 #### 方法一：并查集
 
 **思路与算法**

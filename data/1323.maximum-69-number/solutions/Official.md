@@ -1,4 +1,5 @@
 ## [1323.6 和 9 组成的最大数字 中文官方题解](https://leetcode.cn/problems/maximum-69-number/solutions/100000/6-he-9-zu-cheng-de-zui-da-shu-zi-by-leetcode-solut)
+
 #### 方法一：模拟
 
 现在把 `9` 翻转成 `6` 是不合理的，因为它会使得数字变小。因此我们应当找到 `num` 中最高位的 `6`，将其翻转成 `9`。

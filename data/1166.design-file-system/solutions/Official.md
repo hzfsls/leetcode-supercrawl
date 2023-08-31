@@ -1,4 +1,5 @@
 ## [1166.设计文件系统 中文官方题解](https://leetcode.cn/problems/design-file-system/solutions/100000/she-ji-wen-jian-xi-tong-by-leetcode-solution)
+
 [TOC]
 
 ## 解决方案

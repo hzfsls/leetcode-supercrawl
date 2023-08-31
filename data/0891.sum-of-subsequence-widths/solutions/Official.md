@@ -1,4 +1,5 @@
 ## [891.子序列宽度之和 中文官方题解](https://leetcode.cn/problems/sum-of-subsequence-widths/solutions/100000/zi-xu-lie-kuan-du-zhi-he-by-leetcode-sol-649q)
+
 #### 方法一：数学
 
 根据子序列的定义，我们可以知道数组元素的顺序对最终结果无影响，因此我们首先对数组从小到大进行排序。对于两个元素 $\textit{nums}[i]$ 和 $\textit{nums}[j]$，其中 $i \lt j$，以 $\textit{nums}[i]$ 和 $\textit{nums}[j]$ 为最小值和最大值的子序列数目（两个元素相等时，我们以下标大小判断元素大小）为 $2^{j-i-1}$。那么所有以 $\textit{nums}[j]$ 为最大值的子序列宽度之和为（长度为 $1$ 的子序列对结果无影响）：

@@ -1,4 +1,5 @@
 ## [648.单词替换 中文官方题解](https://leetcode.cn/problems/replace-words/solutions/100000/dan-ci-ti-huan-by-leetcode-solution-pl6v)
+
 #### 方法一：哈希集合
 
 **思路**

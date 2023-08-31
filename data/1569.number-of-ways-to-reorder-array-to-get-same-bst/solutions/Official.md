@@ -1,4 +1,5 @@
 ## [1569.将子数组重新排序得到同一个二叉搜索树的方案数 中文官方题解](https://leetcode.cn/problems/number-of-ways-to-reorder-array-to-get-same-bst/solutions/100000/jiang-zi-shu-zu-zhong-xin-pai-xu-de-dao-tong-yi-2)
+
 #### 方法一：动态规划 + 组合计数
 
 **前言**

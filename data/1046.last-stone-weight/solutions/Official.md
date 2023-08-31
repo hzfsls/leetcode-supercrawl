@@ -1,4 +1,5 @@
 ## [1046.最后一块石头的重量 中文官方题解](https://leetcode.cn/problems/last-stone-weight/solutions/100000/zui-hou-yi-kuai-shi-tou-de-zhong-liang-b-xgsx)
+
 #### 方法一：最大堆
 
 将所有石头的重量放入最大堆中。每次依次从队列中取出最重的两块石头 $a$ 和 $b$，必有 $a \ge b$。如果 $a>b$，则将新石头 $a-b$ 放回到最大堆中；如果 $a=b$，两块石头完全被粉碎，因此不会产生新的石头。重复上述操作，直到剩下的石头少于 $2$ 块。

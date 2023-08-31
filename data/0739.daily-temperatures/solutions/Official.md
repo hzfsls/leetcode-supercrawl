@@ -1,4 +1,5 @@
 ## [739.每日温度 中文官方题解](https://leetcode.cn/problems/daily-temperatures/solutions/100000/mei-ri-wen-du-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![739. 每日温度.mp4](c5bccc21-dd3e-47c4-94ff-7a66bbfb5564)
 

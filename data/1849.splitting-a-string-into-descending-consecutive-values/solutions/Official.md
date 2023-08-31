@@ -1,4 +1,5 @@
 ## [1849.将字符串拆分为递减的连续值 中文官方题解](https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values/solutions/100000/jiang-zi-fu-chuan-chai-fen-wei-di-jian-d-ggl2)
+
 #### 方法一：枚举第一个子字符串
 
 **提示 $1$**

@@ -1,4 +1,5 @@
 ## [2427.公因子的数目 中文官方题解](https://leetcode.cn/problems/number-of-common-factors/solutions/100000/gong-yin-zi-de-shu-mu-by-leetcode-soluti-u9sl)
+
 #### 方法一：枚举到较小值
 
 **思路与算法**

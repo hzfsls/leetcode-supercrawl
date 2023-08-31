@@ -1,4 +1,5 @@
 ## [1475.商品折扣后的最终价格 中文官方题解](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/solutions/100000/shang-pin-zhe-kou-hou-de-zui-zhong-jie-g-ind3)
+
 #### 方法一：直接遍历
 
 对于第 $i$ 件商品的价格为 $\textit{prices}[i]$，我们需要查找到相应可能的折扣。按照题目要求，我们从第 $i + 1$ 件商品开始依次向后遍历，直到找到第一个满足 $\textit{prices}[j] \le \textit{prices}[i]$ 的下标 $j$ 即可求出该物品的最终折扣价格。我们按照题目要求依次遍历即可。

@@ -1,4 +1,5 @@
 ## [1812.判断国际象棋棋盘中一个格子的颜色 中文官方题解](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/solutions/100000/pan-duan-guo-ji-xiang-qi-qi-pan-zhong-yi-8dv4)
+
 #### 方法一：数学
 
 **思路**

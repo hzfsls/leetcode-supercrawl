@@ -1,4 +1,5 @@
 ## [1907.按分类统计薪水 中文官方题解](https://leetcode.cn/problems/count-salary-categories/solutions/100000/an-fen-lei-tong-ji-xin-shui-by-leetcode-wr0c5)
+
 [TOC]
 
 ## 解决方案

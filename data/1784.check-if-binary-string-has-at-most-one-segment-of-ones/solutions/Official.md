@@ -1,4 +1,5 @@
 ## [1784.检查二进制字符串字段 中文官方题解](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/solutions/100000/jian-cha-er-jin-zhi-zi-fu-chuan-zi-duan-b1phi)
+
 #### 方法一：寻找 $01$ 串
 
 **思路与算法**

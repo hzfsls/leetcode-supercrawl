@@ -1,4 +1,5 @@
 ## [1922.统计好数字的数目 中文官方题解](https://leetcode.cn/problems/count-good-numbers/solutions/100000/tong-ji-hao-shu-zi-de-shu-mu-by-leetcode-53jj)
+
 #### 方法一：快速幂
 
 **思路与算法**

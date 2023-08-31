@@ -1,4 +1,5 @@
 ## [1518.换水问题 中文官方题解](https://leetcode.cn/problems/water-bottles/solutions/100000/huan-jiu-wen-ti-by-leetcode-solution)
+
 #### 前言
 
 记一开始有 $b$ 瓶酒，$e$ 个空瓶换一瓶酒。

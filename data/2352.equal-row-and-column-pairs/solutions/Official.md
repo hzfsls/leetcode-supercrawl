@@ -1,4 +1,5 @@
 ## [2352.相等行列对 中文官方题解](https://leetcode.cn/problems/equal-row-and-column-pairs/solutions/100000/xiang-deng-xing-lie-dui-by-leetcode-solu-gvcg)
+
 #### 方法一：模拟
 
 **思路**

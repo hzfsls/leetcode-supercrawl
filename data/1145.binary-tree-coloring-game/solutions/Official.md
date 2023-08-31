@@ -1,4 +1,5 @@
 ## [1145.二叉树着色游戏 中文官方题解](https://leetcode.cn/problems/binary-tree-coloring-game/solutions/100000/er-cha-shu-zhao-se-you-xi-by-leetcode-so-ruys)
+
 #### 方法一：深度优先搜索
 
 由于二叉树中的每个节点的值各不相同，因此可以根据节点值唯一地确定二叉树中的节点。

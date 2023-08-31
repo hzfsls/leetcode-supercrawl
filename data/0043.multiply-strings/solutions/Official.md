@@ -1,4 +1,5 @@
 ## [43.字符串相乘 中文官方题解](https://leetcode.cn/problems/multiply-strings/solutions/100000/zi-fu-chuan-xiang-cheng-by-leetcode-solution)
+
 #### 方法一：做加法
 
 如果 $\textit{num}_1$ 和 $\textit{num}_2$ 之一是 $0$，则直接将 $0$ 作为结果返回即可。

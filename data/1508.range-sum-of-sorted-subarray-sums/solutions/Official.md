@@ -1,4 +1,5 @@
 ## [1508.子数组和排序后的区间和 中文官方题解](https://leetcode.cn/problems/range-sum-of-sorted-subarray-sums/solutions/100000/zi-shu-zu-he-pai-xu-hou-de-qu-jian-he-by-leetcode-)
+
 #### 方法一：排序
 
 对于长度为 $n$ 的数组，其中的非空连续子数组一共有 $\frac{n(n+1)}{2}$ 个，对应的子数组的和也一共有 $\frac{n(n+1)}{2}$ 个。

@@ -1,4 +1,5 @@
 ## [280.摆动排序 中文官方题解](https://leetcode.cn/problems/wiggle-sort/solutions/100000/bai-dong-pai-xu-by-leetcode-solution-gv1e)
+
 [TOC]
 
  ## 解决方案

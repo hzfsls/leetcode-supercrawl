@@ -1,4 +1,5 @@
 ## [1437.是否所有 1 都至少相隔 k 个元素 中文官方题解](https://leetcode.cn/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/100000/shi-fou-suo-you-1-du-zhi-shao-xiang-ge-k-bxwl)
+
 #### 方法一：遍历
 
 「所有 $1$ 都至少相隔 $k$ 个元素」等价于「任意两个相邻的 $1$ 都至少相隔 $k$ 个元素」，因此我们只需要从左到右遍历数组，并记录上一个 $1$ 出现的位置。

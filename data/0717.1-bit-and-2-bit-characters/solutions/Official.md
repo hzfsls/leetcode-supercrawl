@@ -1,4 +1,5 @@
 ## [717.1 比特与 2 比特字符 中文官方题解](https://leetcode.cn/problems/1-bit-and-2-bit-characters/solutions/100000/1bi-te-yu-2bi-te-zi-fu-by-leetcode-solut-rhrh)
+
 #### 方法一：正序遍历
 
 根据题意，第一种字符一定以 $0$ 开头，第二种字符一定以 $1$ 开头。

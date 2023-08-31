@@ -1,4 +1,5 @@
 ## [1693.每天的领导和合伙人 中文官方题解](https://leetcode.cn/problems/daily-leads-and-partners/solutions/100000/mei-tian-de-ling-dao-he-he-huo-ren-by-le-jet2)
+
 [TOC]
 
 ## 解决方案

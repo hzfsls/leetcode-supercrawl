@@ -1,4 +1,5 @@
 ## [1337.矩阵中战斗力最弱的 K 行 中文官方题解](https://leetcode.cn/problems/the-k-weakest-rows-in-a-matrix/solutions/100000/fang-zhen-zhong-zhan-dou-li-zui-ruo-de-k-xing-by-l)
+
 #### 前言
 
 由于本题中的矩阵行数 $m$ 和列数 $n$ 均不超过 $100$，数据规模较小，因此我们可以设计出一些时间复杂度较高的方法，例如直接对整个矩阵进行一次遍历，计算出每一行的战斗力，再进行排序并返回最弱的 $k$ 行的索引。

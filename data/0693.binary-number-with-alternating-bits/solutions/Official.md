@@ -1,4 +1,5 @@
 ## [693.交替位二进制数 中文官方题解](https://leetcode.cn/problems/binary-number-with-alternating-bits/solutions/100000/jiao-ti-wei-er-jin-zhi-shu-by-leetcode-s-bmxd)
+
 #### 方法一：模拟
 
 **思路**

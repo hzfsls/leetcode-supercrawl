@@ -1,4 +1,5 @@
 ## [2488.统计中位数为 K 的子数组 中文官方题解](https://leetcode.cn/problems/count-subarrays-with-median-k/solutions/100000/tong-ji-zhong-wei-shu-wei-k-de-zi-shu-zu-ryix)
+
 #### 方法一：前缀和
 
 由于数组 $\textit{nums}$ 的长度是 $n$，数组由从 $1$ 到 $n$ 的不同整数组成，因此数组中的元素各不相同，满足 $1 \le k \le n$ 的正整数 $k$ 在数组中恰好出现一次。

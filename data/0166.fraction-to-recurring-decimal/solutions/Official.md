@@ -1,4 +1,5 @@
 ## [166.分数到小数 中文官方题解](https://leetcode.cn/problems/fraction-to-recurring-decimal/solutions/100000/fen-shu-dao-xiao-shu-by-leetcode-solutio-tqdw)
+
 #### 方法一：长除法
 
 题目要求根据给定的分子和分母，将分数转成整数或小数。由于给定的分子和分母的取值范围都是 $[-2^{31}, 2^{31}-1]$，为了防止计算过程中产生溢出，需要将分子和分母转成 $64$ 位整数表示。

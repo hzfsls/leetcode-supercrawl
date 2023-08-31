@@ -1,4 +1,5 @@
 ## [1959.K 次调整数组大小浪费的最小总空间 中文官方题解](https://leetcode.cn/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/100000/k-ci-diao-zheng-shu-zu-da-xiao-lang-fei-wxg6y)
+
 #### 方法一：动态规划 + 预处理
 
 **思路与算法**

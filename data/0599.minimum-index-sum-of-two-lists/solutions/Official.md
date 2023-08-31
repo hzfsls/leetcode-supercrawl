@@ -1,4 +1,5 @@
 ## [599.两个列表的最小索引总和 中文官方题解](https://leetcode.cn/problems/minimum-index-sum-of-two-lists/solutions/100000/liang-ge-lie-biao-de-zui-xiao-suo-yin-zo-5m9w)
+
 #### 方法一：哈希表
 
 **思路与算法**

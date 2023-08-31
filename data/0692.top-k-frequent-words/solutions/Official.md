@@ -1,4 +1,5 @@
 ## [692.前K个高频单词 中文官方题解](https://leetcode.cn/problems/top-k-frequent-words/solutions/100000/qian-kge-gao-pin-dan-ci-by-leetcode-solu-3qk0)
+
 #### 方法一：哈希表 + 排序
 
 **思路及算法**

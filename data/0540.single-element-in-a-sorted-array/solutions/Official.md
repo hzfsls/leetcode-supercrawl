@@ -1,4 +1,5 @@
 ## [540.有序数组中的单一元素 中文官方题解](https://leetcode.cn/problems/single-element-in-a-sorted-array/solutions/100000/you-xu-shu-zu-zhong-de-dan-yi-yuan-su-by-y8gh)
+
 #### 方法一：全数组的二分查找
 
 **思路和算法**

@@ -1,4 +1,5 @@
 ## [483.最小好进制 中文官方题解](https://leetcode.cn/problems/smallest-good-base/solutions/100000/zui-xiao-hao-jin-zhi-by-leetcode-solutio-csqn)
+
 #### 方法一：数学
 
 **思路及解法**

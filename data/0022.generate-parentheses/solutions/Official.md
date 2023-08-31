@@ -1,4 +1,5 @@
 ## [22.括号生成 中文官方题解](https://leetcode.cn/problems/generate-parentheses/solutions/100000/gua-hao-sheng-cheng-by-leetcode-solution)
+
 ### 📺 视频题解 
 ![22. 括号生成v2.mp4](50358f3a-2331-4604-a089-a4bf80c4cc61)
 

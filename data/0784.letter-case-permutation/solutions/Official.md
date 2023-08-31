@@ -1,4 +1,5 @@
 ## [784.字母大小写全排列 中文官方题解](https://leetcode.cn/problems/letter-case-permutation/solutions/100000/zi-mu-da-xiao-xie-quan-pai-lie-by-leetco-cwpx)
+
 #### 方法一：广度优先搜索
 
 从左往右依次遍历字符，在队列中存储当前为已遍历过字符的字母大小全排列。例如当前字符串为:

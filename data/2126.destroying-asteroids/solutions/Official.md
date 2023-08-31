@@ -1,4 +1,5 @@
 ## [2126.摧毁小行星 中文官方题解](https://leetcode.cn/problems/destroying-asteroids/solutions/100000/cui-hui-xiao-xing-xing-by-leetcode-solut-ng2v)
+
 #### 方法一：贪心
 
 **提示 $1$**

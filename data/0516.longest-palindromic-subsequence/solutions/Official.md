@@ -1,4 +1,5 @@
 ## [516.最长回文子序列 中文官方题解](https://leetcode.cn/problems/longest-palindromic-subsequence/solutions/100000/zui-chang-hui-wen-zi-xu-lie-by-leetcode-hcjqp)
+
 #### 方法一：动态规划
 
 对于一个子序列而言，如果它是回文子序列，并且长度大于 $2$，那么将它首尾的两个字符去除之后，它仍然是个回文子序列。因此可以用动态规划的方法计算给定字符串的最长回文子序列。

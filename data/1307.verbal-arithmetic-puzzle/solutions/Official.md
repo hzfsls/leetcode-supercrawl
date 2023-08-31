@@ -1,4 +1,5 @@
 ## [1307.口算难题 中文官方题解](https://leetcode.cn/problems/verbal-arithmetic-puzzle/solutions/100000/suan-nan-ti-by-leetcode-solution)
+
 #### 说明
 
 本题在时间复杂度的数量级上并没有很大的优化空间，不存在多项式时间复杂度的算法。我们必须枚举所有字母与数字的映射情况，并判断它们是否满足要求。因此，我们需要做的是尽量对这个搜索过程进行优化，舍弃不必要的搜索，减小搜索空间，也就是所谓的「搜索剪枝」。

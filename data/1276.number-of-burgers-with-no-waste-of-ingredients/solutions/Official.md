@@ -1,4 +1,5 @@
 ## [1276.不浪费原料的汉堡制作方案 中文官方题解](https://leetcode.cn/problems/number-of-burgers-with-no-waste-of-ingredients/solutions/100000/bu-lang-fei-yuan-liao-de-yi-bao-zhi-zuo-fang-an-2)
+
 ### 方法一：数学
 
 设巨无霸汉堡有 $x$ 个，皇堡有 $y$ 个，由于所有的材料都需要用完，因此我们可以得到二元一次方程组：

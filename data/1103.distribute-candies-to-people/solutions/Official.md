@@ -1,4 +1,5 @@
 ## [1103.分糖果 II 中文官方题解](https://leetcode.cn/problems/distribute-candies-to-people/solutions/100000/fen-tang-guo-ii-by-leetcode-solution)
+
 #### 方法一：暴力
 **思路**
 

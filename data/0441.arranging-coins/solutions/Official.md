@@ -1,4 +1,5 @@
 ## [441.排列硬币 中文官方题解](https://leetcode.cn/problems/arranging-coins/solutions/100000/pai-lie-ying-bi-by-leetcode-solution-w52c)
+
 #### 方法一：二分查找
 
 **思路和算法**

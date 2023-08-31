@@ -1,4 +1,5 @@
 ## [2119.反转两次的数字 中文官方题解](https://leetcode.cn/problems/a-number-after-a-double-reversal/solutions/100000/fan-zhuan-liang-ci-de-shu-zi-by-leetcode-w9j4)
+
 #### 方法一：数学
 
 **提示 $1$**

@@ -1,4 +1,5 @@
 ## [2108.找出数组中的第一个回文字符串 中文官方题解](https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/solutions/100000/zhao-chu-shu-zu-zhong-de-di-yi-ge-hui-we-mo3m)
+
 #### 方法一：逐个判断
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1704.判断字符串的两半是否相似 中文官方题解](https://leetcode.cn/problems/determine-if-string-halves-are-alike/solutions/100000/pan-duan-zi-fu-chuan-de-liang-ban-shi-fo-d21g)
+
 #### 方法一：计数
 
 **思路与算法**

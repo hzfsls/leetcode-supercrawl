@@ -1,4 +1,5 @@
 ## [594.最长和谐子序列 中文官方题解](https://leetcode.cn/problems/longest-harmonious-subsequence/solutions/100000/zui-chang-he-xie-zi-xu-lie-by-leetcode-s-8cyr)
+
 #### 方法一：枚举
 
 **思路与算法**

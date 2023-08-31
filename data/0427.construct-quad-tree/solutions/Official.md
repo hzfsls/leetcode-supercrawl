@@ -1,4 +1,5 @@
 ## [427.建立四叉树 中文官方题解](https://leetcode.cn/problems/construct-quad-tree/solutions/100000/jian-li-si-cha-shu-by-leetcode-solution-gcru)
+
 #### 方法一：递归
 
 **思路与算法**

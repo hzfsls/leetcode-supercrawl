@@ -1,4 +1,5 @@
 ## [1338.数组大小减半 中文官方题解](https://leetcode.cn/problems/reduce-array-size-to-the-half/solutions/100000/shu-zu-da-xiao-jian-ban-by-leetcode-solution)
+
 #### 方法一：贪心算法
 
 在每一步操作中，我们需要选择一个数 `x`，并且删除数组 `arr` 中所有的 `x`。显然选择的数 `x` 在数组 `arr` 中出现的次数越多越好。因此我们可以统计数组 `arr` 中每个数出现的次数，并进行降序排序。在得到了排序的结果之后，我们依次选择这些数进行删除，直到删除了至少一半的数。

@@ -1,4 +1,5 @@
 ## [1019.链表中的下一个更大节点 中文官方题解](https://leetcode.cn/problems/next-greater-node-in-linked-list/solutions/100000/lian-biao-zhong-de-xia-yi-ge-geng-da-jie-u9yo)
+
 #### 方法一：单调栈
 
 **思路与算法**

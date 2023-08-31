@@ -1,4 +1,5 @@
 ## [1938.查询最大基因差 中文官方题解](https://leetcode.cn/problems/maximum-genetic-difference-query/solutions/100000/cha-xun-zui-da-ji-yin-chai-by-leetcode-s-sybl)
+
 #### 前言
 
 本题与[「1707. 与数组中元素的最大异或值」](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/)是非常相似的题，读者只需要掌握[「1707. 与数组中元素的最大异或值」的官方题解](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/solution/yu-shu-zu-zhong-yuan-su-de-zui-da-yi-huo-7erc/)中的方法一，即可顺利地解决本题。

@@ -1,4 +1,5 @@
 ## [9.回文数 中文官方题解](https://leetcode.cn/problems/palindrome-number/solutions/100000/hui-wen-shu-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![9. 回文数.mp4](48824bbe-da02-49df-8a33-ec48320414ed)
 

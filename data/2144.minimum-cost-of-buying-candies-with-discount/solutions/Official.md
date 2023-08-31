@@ -1,4 +1,5 @@
 ## [2144.打折购买糖果的最小开销 中文官方题解](https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/solutions/100000/da-zhe-gou-mai-tang-guo-de-zui-xiao-kai-yns06)
+
 #### 方法一：贪心
 
 **提示 $1$**

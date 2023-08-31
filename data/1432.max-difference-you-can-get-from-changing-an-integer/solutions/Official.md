@@ -1,4 +1,5 @@
 ## [1432.改变一个整数能得到的最大差值 中文官方题解](https://leetcode.cn/problems/max-difference-you-can-get-from-changing-an-integer/solutions/100000/gai-bian-yi-ge-zheng-shu-neng-de-dao-de-0byhw)
+
 #### 分析
 
 要想使得 $a$ 和 $b$ 的差值尽可能大，我们应该找到从 $\textit{num}$ 可以得到的最大以及最小的整数分别作为 $a$ 和 $b$。

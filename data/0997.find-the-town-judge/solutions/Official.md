@@ -1,4 +1,5 @@
 ## [997.找到小镇的法官 中文官方题解](https://leetcode.cn/problems/find-the-town-judge/solutions/100000/zhao-dao-xiao-zhen-de-fa-guan-by-leetcod-0dcg)
+
 #### 预备知识
 
 本题需要用到有向图中节点的入度和出度的概念。在有向图中，一个节点的入度是指向该节点的边的数量；而一个节点的出度是从该节点出发的边的数量。

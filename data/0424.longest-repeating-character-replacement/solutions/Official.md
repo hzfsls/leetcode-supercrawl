@@ -1,4 +1,5 @@
 ## [424.替换后的最长重复字符 中文官方题解](https://leetcode.cn/problems/longest-repeating-character-replacement/solutions/100000/ti-huan-hou-de-zui-chang-zhong-fu-zi-fu-n6aza)
+
 #### 方法一：双指针
 
 我们可以枚举字符串中的每一个位置作为右端点，然后找到其最远的左端点的位置，满足该区间内除了出现次数最多的那一类字符之外，剩余的字符（即非最长重复字符）数量不超过 $k$ 个。

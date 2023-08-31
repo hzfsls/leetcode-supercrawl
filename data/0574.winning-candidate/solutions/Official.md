@@ -1,4 +1,5 @@
 ## [574.当选者 中文官方题解](https://leetcode.cn/problems/winning-candidate/solutions/100000/dang-xuan-zhe-by-leetcode-solution)
+
 ####  方法：使用临时表进行连接
 **算法：**
 

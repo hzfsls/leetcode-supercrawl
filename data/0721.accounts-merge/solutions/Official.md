@@ -1,4 +1,5 @@
 ## [721.账户合并 中文官方题解](https://leetcode.cn/problems/accounts-merge/solutions/100000/zhang-hu-he-bing-by-leetcode-solution-3dyq)
+
 #### 方法一：哈希表 + 并查集
 
 两个账户需要合并，当且仅当两个账户至少有一个共同的邮箱地址，因此这道题的实质是判断所有的邮箱地址中有哪些邮箱地址必定属于同一人，可以使用并查集实现。

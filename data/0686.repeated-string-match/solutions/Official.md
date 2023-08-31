@@ -1,4 +1,5 @@
 ## [686.重复叠加字符串匹配 中文官方题解](https://leetcode.cn/problems/repeated-string-match/solutions/100000/zhong-fu-die-jia-zi-fu-chuan-pi-pei-by-l-vnye)
+
 #### 方法一：Rabin-Karp 算法
 
 **思路与算法**

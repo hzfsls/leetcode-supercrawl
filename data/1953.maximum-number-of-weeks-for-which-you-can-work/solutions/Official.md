@@ -1,4 +1,5 @@
 ## [1953.你可以工作的最大周数 中文官方题解](https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/solutions/100000/ni-ke-yi-gong-zuo-de-zui-da-zhou-shu-by-rbidw)
+
 #### 方法一：贪心
 
 **提示 $1$**

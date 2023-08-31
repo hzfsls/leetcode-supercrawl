@@ -1,4 +1,5 @@
 ## [2121.相同元素的间隔之和 中文官方题解](https://leetcode.cn/problems/intervals-between-identical-elements/solutions/100000/xiang-tong-yuan-su-de-jian-ge-zhi-he-by-8r26b)
+
 #### 方法一：数学
 
 **思路与算法**

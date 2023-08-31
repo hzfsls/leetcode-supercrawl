@@ -1,4 +1,5 @@
 ## [506.相对名次 中文官方题解](https://leetcode.cn/problems/relative-ranks/solutions/100000/xiang-dui-ming-ci-by-leetcode-solution-5sua)
+
 #### 方法一：排序
 
 题目要求找到每个运动员的相对名次，并同时给前三名标记为 $\texttt{"Gold Medal", "Silver Medal", "Bronze Medal"}$，其余的运动员则标记为其相对名次。

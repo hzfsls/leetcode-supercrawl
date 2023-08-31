@@ -1,4 +1,5 @@
 ## [388.文件的最长绝对路径 中文官方题解](https://leetcode.cn/problems/longest-absolute-file-path/solutions/100000/wen-jian-de-zui-chang-jue-dui-lu-jing-by-fi0r)
+
 #### 方法一：栈
 
 **思路与算法**

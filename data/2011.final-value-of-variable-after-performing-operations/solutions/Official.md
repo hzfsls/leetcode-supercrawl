@@ -1,4 +1,5 @@
 ## [2011.执行操作后的变量值 中文官方题解](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/solutions/100000/zhi-xing-cao-zuo-hou-de-bian-liang-zhi-b-knvg)
+
 #### 方法一：模拟
 
 初始时令 $x=0$，遍历字符串数组 $\textit{operations}$，遇到 $\text{``++X"}$ 或 $\text{``X++"}$ 时，将 $x$ 加 $1$，否则将 $x$ 减 $1$。

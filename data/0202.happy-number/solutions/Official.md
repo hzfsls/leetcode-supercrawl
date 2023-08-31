@@ -1,4 +1,5 @@
 ## [202.快乐数 中文官方题解](https://leetcode.cn/problems/happy-number/solutions/100000/kuai-le-shu-by-leetcode-solution)
+
 ### 📺 视频题解
 
 ![202. 快乐数 - Lizzi.mp4](9d8ce931-e835-45d1-a3d2-ab54b52b5377)

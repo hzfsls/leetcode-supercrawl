@@ -1,4 +1,5 @@
 ## [1519.子树中标签相同的节点数 中文官方题解](https://leetcode.cn/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/solutions/100000/zi-shu-zhong-biao-qian-xiang-tong-de-jie-dian-sh-3)
+
 #### 方法一：深度优先搜索
 
 这道题中，树的表示方法是一个连通的**无环无向图**。树中包含编号从 $0$ 到 $n-1$ 的 $n$ 个节点，其中根节点为节点 $0$，以及 $n-1$ 条**无向**边。由于给出的边是无向的，因此不能直接从边的节点先后顺序判断父节点和子节点。

@@ -1,4 +1,5 @@
 ## [35.搜索插入位置 中文官方题解](https://leetcode.cn/problems/search-insert-position/solutions/100000/sou-suo-cha-ru-wei-zhi-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![35. 搜索插入的位置.mp4](340b43f1-c2f6-45cf-aa63-d0c9f78fc0c5)
 

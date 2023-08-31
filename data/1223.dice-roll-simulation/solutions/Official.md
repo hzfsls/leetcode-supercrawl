@@ -1,4 +1,5 @@
 ## [1223.掷骰子模拟 中文官方题解](https://leetcode.cn/problems/dice-roll-simulation/solutions/100000/zhi-tou-zi-mo-ni-by-leetcode-solution-yg0s)
+
 #### 方法一：动态规划
 
 **思路与算法**

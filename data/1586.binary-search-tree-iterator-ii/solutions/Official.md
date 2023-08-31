@@ -1,4 +1,5 @@
 ## [1586.二叉搜索树迭代器 II 中文官方题解](https://leetcode.cn/problems/binary-search-tree-iterator-ii/solutions/100000/er-cha-sou-suo-shu-die-dai-qi-ii-by-leet-3o49)
+
 [TOC]
 
 ## 解决方案

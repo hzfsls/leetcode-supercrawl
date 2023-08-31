@@ -1,4 +1,5 @@
 ## [1556.千位分隔数 中文官方题解](https://leetcode.cn/problems/thousand-separator/solutions/100000/qian-wei-fen-ge-shu-by-leetcode-solution)
+
 #### 方法一：模拟
 
 **思路与算法**

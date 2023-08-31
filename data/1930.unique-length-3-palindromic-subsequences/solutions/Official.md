@@ -1,4 +1,5 @@
 ## [1930.长度为 3 的不同回文子序列 中文官方题解](https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/solutions/100000/chang-du-wei-3-de-bu-tong-hui-wen-zi-xu-21trj)
+
 #### 方法一：枚举两侧的字符
 
 **思路与算法**

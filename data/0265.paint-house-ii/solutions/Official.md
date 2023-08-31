@@ -1,4 +1,5 @@
 ## [265.粉刷房子 II 中文官方题解](https://leetcode.cn/problems/paint-house-ii/solutions/100000/fen-shua-fang-zi-ii-by-leetcode-solution-jz9b)
+
 #### 方法一：动态规划
 
 这道题是「[256. 粉刷房子](https://leetcode.cn/problems/paint-house/)」的进阶，每个房子可以被粉刷成 $k$ 种颜色中的一种。和第 256 题相似，这道题可以使用动态规划计算最小花费成本。

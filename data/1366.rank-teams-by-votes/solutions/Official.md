@@ -1,4 +1,5 @@
 ## [1366.通过投票对团队排名 中文官方题解](https://leetcode.cn/problems/rank-teams-by-votes/solutions/100000/tong-guo-tou-piao-dui-tuan-dui-pai-ming-by-leetcod)
+
 #### 方法一：排序
 
 设参与排名的人数为 $n$（即数组 $\textit{votes}$ 中任一字符串的长度），我们可以用一个哈希映射（HashMap）存储每一个人的排名情况。对于哈希映射中的每个键值对，键为一个在数组 $\textit{votes}$ 中出现的大写英文字母，表示一个参与排名的人；值为一个长度为 $n$ 的数组 $\textit{rank}$，表示这个人的排名情况，其中 $\textit{rank}[i]$ 表示这个人排名为 $i$ 的次数。

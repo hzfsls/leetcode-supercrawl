@@ -1,4 +1,5 @@
 ## [1637.两点之间不包含任何点的最宽垂直区域 中文官方题解](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/solutions/100000/liang-dian-zhi-jian-bu-bao-han-ren-he-di-ol9u)
+
 #### 方法一：排序
 
 **思路**

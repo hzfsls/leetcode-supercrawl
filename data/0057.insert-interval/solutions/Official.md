@@ -1,4 +1,5 @@
 ## [57.插入区间 中文官方题解](https://leetcode.cn/problems/insert-interval/solutions/100000/cha-ru-qu-jian-by-leetcode-solution)
+
 #### 前言
 
 对于区间 $S_1 = [l_1, r_1]$ 和 $S_2 = [l_2, r_2]$，如果它们之间没有重叠（没有交集），说明要么 $S_1$ 在 $S_2$ 的左侧，此时有 $r_1 < l_2$；要么 $S_1$ 在 $S_2$ 的右侧，此时有 $l_1 > r_2$。

@@ -1,4 +1,5 @@
 ## [42.接雨水 中文官方题解](https://leetcode.cn/problems/trapping-rain-water/solutions/100000/jie-yu-shui-by-leetcode-solution-tuvc)
+
 ### 📺 视频题解  
 ![42. 接雨水.mp4](21f6ec58-ab28-4e14-9fd0-bcd7d68f35b1)
 

@@ -1,4 +1,5 @@
 ## [228.汇总区间 中文官方题解](https://leetcode.cn/problems/summary-ranges/solutions/100000/hui-zong-qu-jian-by-leetcode-solution-6zrs)
+
 #### 方法一：一次遍历
 
 我们从数组的位置 $0$ 出发，向右遍历。每次遇到相邻元素之间的差值大于 $1$ 时，我们就找到了一个区间。遍历完数组之后，就能得到一系列的区间的列表。

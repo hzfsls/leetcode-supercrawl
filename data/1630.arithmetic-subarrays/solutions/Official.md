@@ -1,4 +1,5 @@
 ## [1630.等差子数组 中文官方题解](https://leetcode.cn/problems/arithmetic-subarrays/solutions/100000/deng-chai-zi-shu-zu-by-leetcode-solution-pmrp)
+
 #### 方法一：多次遍历 + 枚举
 
 **思路与算法**

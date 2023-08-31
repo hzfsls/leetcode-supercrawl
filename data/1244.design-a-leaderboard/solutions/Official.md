@@ -1,4 +1,5 @@
 ## [1244.力扣排行榜 中文官方题解](https://leetcode.cn/problems/design-a-leaderboard/solutions/100000/li-kou-pai-xing-bang-by-leetcode-solutio-kwv2)
+
 [TOC]
 ---
 

@@ -1,4 +1,5 @@
 ## [478.在圆内随机生成点 中文官方题解](https://leetcode.cn/problems/generate-random-point-in-a-circle/solutions/100000/zai-yuan-nei-sui-ji-sheng-cheng-dian-by-qp342)
+
 #### 前言
 
 下面的所有方法基于假设：语言提供的生成浮点数的 API 得到的结果是**均匀**的。

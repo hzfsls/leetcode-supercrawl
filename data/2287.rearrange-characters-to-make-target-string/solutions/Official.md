@@ -1,4 +1,5 @@
 ## [2287.重排字符形成目标字符串 中文官方题解](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/solutions/100000/zhong-pai-zi-fu-xing-cheng-mu-biao-zi-fu-v5te)
+
 #### 方法一：哈希表计数
 
 这道题要求计算使用 $s$ 中的字符可以形成的 $\textit{target}$ 的最大副本数，因此需要统计 $\textit{target}$ 中的每个字符的出现次数，以及统计这些字符在 $s$ 中的出现次数。

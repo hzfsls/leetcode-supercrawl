@@ -1,4 +1,5 @@
 ## [298.二叉树最长连续序列 中文官方题解](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence/solutions/100000/er-cha-shu-zui-chang-lian-xu-xu-lie-by-l-m6oh)
+
 [TOC]
 
 ## 解决方案

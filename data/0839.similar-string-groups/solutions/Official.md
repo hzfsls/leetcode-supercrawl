@@ -1,4 +1,5 @@
 ## [839.相似字符串组 中文官方题解](https://leetcode.cn/problems/similar-string-groups/solutions/100000/xiang-si-zi-fu-chuan-zu-by-leetcode-solu-8jt9)
+
 #### 方法一：并查集
 
 **思路及解法**

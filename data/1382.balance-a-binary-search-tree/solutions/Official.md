@@ -1,4 +1,5 @@
 ## [1382.将二叉搜索树变平衡 中文官方题解](https://leetcode.cn/problems/balance-a-binary-search-tree/solutions/100000/jiang-er-cha-sou-suo-shu-bian-ping-heng-by-leetcod)
+
 #### 方法一：贪心构造
 
 **思路**

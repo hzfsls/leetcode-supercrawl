@@ -1,4 +1,5 @@
 ## [1545.找出第 N 个二进制字符串中的第 K 位 中文官方题解](https://leetcode.cn/problems/find-kth-bit-in-nth-binary-string/solutions/100000/zhao-chu-di-n-ge-er-jin-zhi-zi-fu-chuan-zhong-de-2)
+
 #### 方法一：递归
 
 观察二进制字符串 $S_n$，可以发现，当 $n>1$ 时，$S_n$ 是在 $S_{n-1}$ 的基础上形成的。用 $\text{len}_n$ 表示 $S_n$ 的长度，则 $S_n$ 的前 $\text{len}_{n-1}$ 个字符与 $S_{n-1}$ 相同。还可以发现，当 $n>1$ 时，$\text{len}_n=\text{len}_{n-1} \times 2 + 1$，根据 $\text{len}_1=1$ 可知 $\text{len}_n=2^n-1$。

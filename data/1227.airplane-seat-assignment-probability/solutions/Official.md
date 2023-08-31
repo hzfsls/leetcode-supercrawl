@@ -1,4 +1,5 @@
 ## [1227.飞机座位分配概率 中文官方题解](https://leetcode.cn/problems/airplane-seat-assignment-probability/solutions/100000/fei-ji-zuo-wei-fen-pei-gai-lu-by-leetcod-gyw4)
+
 #### 方法一：数学
 
 用 $f(n)$ 表示当有 $n$ 位乘客登机时，第 $n$ 位乘客坐在自己的座位上的概率。从最简单的情况开始考虑：

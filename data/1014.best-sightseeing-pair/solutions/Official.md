@@ -1,4 +1,5 @@
 ## [1014.最佳观光组合 中文官方题解](https://leetcode.cn/problems/best-sightseeing-pair/solutions/100000/zui-jia-guan-guang-zu-he-by-leetcode-solution)
+
 #### 方法一：遍历
 
 **思路和算法**

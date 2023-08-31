@@ -1,4 +1,5 @@
 ## [1354.多次求和构造目标数组 中文官方题解](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/solutions/100000/duo-ci-qiu-he-gou-zao-mu-biao-shu-zu-by-leetcode-s)
+
 #### 解题思路：
 
 注意到这个操作是可逆的，即数组中最大的数肯定是最后一次被替换后的数，也即上一轮的数组和，我们记这个最大的数为 $s$ ，这一轮的数组和为 $sum$ ，则我们可以知道被替换的数就是

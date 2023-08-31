@@ -1,4 +1,5 @@
 ## [1568.使陆地分离的最少天数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-days-to-disconnect-island/solutions/100000/shi-lu-di-fen-chi-de-zui-shao-tian-shu-by-leetcode)
+
 #### 方法一：分类讨论
 
 **思路与算法**

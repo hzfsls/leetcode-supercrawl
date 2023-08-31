@@ -1,4 +1,5 @@
 ## [658.找到 K 个最接近的元素 中文官方题解](https://leetcode.cn/problems/find-k-closest-elements/solutions/100000/zhao-dao-k-ge-zui-jie-jin-de-yuan-su-by-ekwtd)
+
 #### 方法一：排序
 
 首先将数组 $\textit{arr}$ 按照「更接近」的定义进行排序，如果 $a$ 比 $b$ 更接近 $x$，那么 $a$ 将排在 $b$ 前面。排序完成之后，$k$ 个最接近的元素就是数组 $\textit{arr}$ 的前 $k$ 个元素，将这 $k$ 个元素从小到大进行排序后，直接返回。

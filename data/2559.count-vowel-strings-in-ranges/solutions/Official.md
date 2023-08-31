@@ -1,4 +1,5 @@
 ## [2559.统计范围内的元音字符串数 中文官方题解](https://leetcode.cn/problems/count-vowel-strings-in-ranges/solutions/100000/tong-ji-fan-wei-nei-de-yuan-yin-zi-fu-ch-5k8q)
+
 #### 方法一：前缀和
 
 为方便表述，以下将以元音开头和结尾的字符串称为「元音字符串」。

@@ -1,4 +1,5 @@
 ## [2280.表示一个折线图的最少线段数 中文官方题解](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart/solutions/100000/biao-shi-yi-ge-zhe-xian-tu-de-zui-shao-x-gwnk)
+
 #### 方法一：排序 + 遍历统计
 
 **思路与算法**

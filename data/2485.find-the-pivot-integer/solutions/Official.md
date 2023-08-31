@@ -1,4 +1,5 @@
 ## [2485.找出中枢整数 中文官方题解](https://leetcode.cn/problems/find-the-pivot-integer/solutions/100000/zhao-chu-zhong-shu-zheng-shu-by-leetcode-t7gn)
+
 #### 方法一：数学
 
 **思路与算法** 

@@ -1,4 +1,5 @@
 ## [1332.删除回文子序列 中文官方题解](https://leetcode.cn/problems/remove-palindromic-subsequences/solutions/100000/shan-chu-hui-wen-zi-xu-lie-by-leetcode-s-tqtb)
+
 #### 方法一：直接判断
 
 由于字符串本身只含有字母 $\texttt{`a'}$ 和 $\texttt{`b'}$ 两种字符，题目要求每次删除回文子序列（不一定连续）而使得字符串最终为空。题目中只包含两种不同的字符，由于相同的字符组成的子序列一定是回文子序列，因此最多只需要删除 $2$ 次即可删除所有的字符。删除判断如下：

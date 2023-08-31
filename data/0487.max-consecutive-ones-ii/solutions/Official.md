@@ -1,4 +1,5 @@
 ## [487.最大连续1的个数 II 中文官方题解](https://leetcode.cn/problems/max-consecutive-ones-ii/solutions/100000/zui-da-lian-xu-1de-ge-shu-ii-by-leetcode-solution)
+
 #### 方法一：预处理 + 枚举
 
 直观的想法就是枚举每个 $0$ 的位置，把这个位置变成 $1$ ，统计它能把前后连成的最多的 $1$ 的个数。考虑位置 $i(0<i<n-1)$ ，从这个位置切开可以将整个数组（数组下标 $[0,n-1]$）分成三个部分：

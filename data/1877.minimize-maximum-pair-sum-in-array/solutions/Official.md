@@ -1,4 +1,5 @@
 ## [1877.数组中最大数对和的最小值 中文官方题解](https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/solutions/100000/shu-zu-zhong-zui-da-shu-dui-he-de-zui-xi-cvll)
+
 #### 方法一：排序 + 贪心
 
 **提示 $1$**

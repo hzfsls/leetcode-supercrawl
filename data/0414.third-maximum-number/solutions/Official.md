@@ -1,4 +1,5 @@
 ## [414.第三大的数 中文官方题解](https://leetcode.cn/problems/third-maximum-number/solutions/100000/di-san-da-de-shu-by-leetcode-solution-h3sp)
+
 #### 方法一：排序
 
 将数组从大到小排序后，从头开始遍历数组，通过判断相邻元素是否不同，来统计不同元素的个数。如果能找到三个不同的元素，就返回第三大的元素，否则返回最大的元素。

@@ -1,4 +1,5 @@
 ## [820.单词的压缩编码 中文官方题解](https://leetcode.cn/problems/short-encoding-of-words/solutions/100000/dan-ci-de-ya-suo-bian-ma-by-leetcode-solution)
+
 #### 预备知识
 
 - [字典树](https://baike.baidu.com/item/%E5%AD%97%E5%85%B8%E6%A0%91)

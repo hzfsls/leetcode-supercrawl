@@ -1,4 +1,5 @@
 ## [1595.连通两组点的最小成本 中文官方题解](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/solutions/100000/lian-tong-liang-zu-dian-de-zui-xiao-chen-6qoj)
+
 #### 方法一：状态压缩 + 动态规划
 
 记第一组点数为 $\textit{size}_1$，第二组点数为 $\textit{size}_2$。根据数据范围，我们可以使用二进制数 $s$ 来表示一个点集，$s$ 的第 $k$ 位为 $1$ 表示第 $k$ 个点在点集 $s$ 中，$s$ 的第 $k$ 位为 $0$ 表示第 $k$ 个点不在点集 $s$ 中。使用 $\textit{dp}[i][s]$ 表示第一组的前 $i$ 个点（前 $i$ 个点指第 $0, 1, 2, ..., i - 1$ 个点）与第二组的点集 $s$ 的最小连通成本（因为 $\textit{size}_1 \ge \textit{size}_2$，所以将第二组作为点集），有四种情况：

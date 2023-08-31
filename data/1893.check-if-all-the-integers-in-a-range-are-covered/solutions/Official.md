@@ -1,4 +1,5 @@
 ## [1893.检查是否区域内所有整数都被覆盖 中文官方题解](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/solutions/100000/jian-cha-shi-fou-qu-yu-nei-suo-you-zheng-5hib)
+
 #### 方法一：差分数组
 
 **思路与算法**

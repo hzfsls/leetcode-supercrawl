@@ -1,4 +1,5 @@
 ## [299.猜数字游戏 中文官方题解](https://leetcode.cn/problems/bulls-and-cows/solutions/100000/cai-shu-zi-you-xi-by-leetcode-solution-q9lz)
+
 #### 方法一：遍历
 
 根据题意，对于公牛，需要满足数字和确切位置都猜对。我们可以遍历 $\textit{secret}$ 和 $\textit{guess}$，统计满足 $\textit{secret}[i]=\textit{guess}[i]$ 的下标个数，即为公牛的个数。

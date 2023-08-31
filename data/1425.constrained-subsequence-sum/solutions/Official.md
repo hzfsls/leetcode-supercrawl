@@ -1,4 +1,5 @@
 ## [1425.带限制的子序列和 中文官方题解](https://leetcode.cn/problems/constrained-subsequence-sum/solutions/100000/dai-xian-zhi-de-zi-xu-lie-he-by-leetcode-k5dw)
+
 #### 方法一：动态规划 + 单调队列优化
 
 我们用 $f[i]$ 表示在数组的前 $i$ 个数中进行选择，并且恰好选择了第 $i$ 个数，可以得到的最大和。那么 $f[i]$ 的状态转移分为两种：

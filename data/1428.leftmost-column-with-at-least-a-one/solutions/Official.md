@@ -1,4 +1,5 @@
 ## [1428.至少有一个 1 的最左端列 中文官方题解](https://leetcode.cn/problems/leftmost-column-with-at-least-a-one/solutions/100000/zhi-shao-you-yi-ge-1-de-zui-zuo-duan-lie-8d4b)
+
 [TOC]
 
  ## 解决方案

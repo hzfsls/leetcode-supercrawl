@@ -1,4 +1,5 @@
 ## [682.棒球比赛 中文官方题解](https://leetcode.cn/problems/baseball-game/solutions/100000/bang-qiu-bi-sai-by-leetcode-solution-gxab)
+
 #### 方法一：模拟
 
 **思路与算法**

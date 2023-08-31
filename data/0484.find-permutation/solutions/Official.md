@@ -1,4 +1,5 @@
 ## [484.寻找排列 中文官方题解](https://leetcode.cn/problems/find-permutation/solutions/100000/xun-zhao-pai-lie-by-leetcode-solution-ejis)
+
 [TOC] 
 
  ## 解决方案 

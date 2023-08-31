@@ -1,4 +1,5 @@
 ## [1584.连接所有点的最小费用 中文官方题解](https://leetcode.cn/problems/min-cost-to-connect-all-points/solutions/100000/lian-jie-suo-you-dian-de-zui-xiao-fei-yo-kcx7)
+
 #### 写在前面
 
 根据题意，我们得到了一张 $n$ 个节点的完全图，任意两点之间的距离均为它们的曼哈顿距离。现在我们需要在这个图中取得一个子图，恰满足子图的任意两点之间有且仅有一条简单路径，且这个子图的所有边的总权值之和尽可能小。

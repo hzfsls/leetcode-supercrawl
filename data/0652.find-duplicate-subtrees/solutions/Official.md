@@ -1,4 +1,5 @@
 ## [652.寻找重复的子树 中文官方题解](https://leetcode.cn/problems/find-duplicate-subtrees/solutions/100000/xun-zhao-zhong-fu-de-zi-shu-by-leetcode-zoncw)
+
 #### 方法一：使用序列化进行唯一表示
 
 **思路与算法**

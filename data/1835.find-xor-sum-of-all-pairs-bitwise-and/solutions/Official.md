@@ -1,4 +1,5 @@
 ## [1835.所有数对按位与结果的异或和 中文官方题解](https://leetcode.cn/problems/find-xor-sum-of-all-pairs-bitwise-and/solutions/100000/find-xor-sum-of-all-pairs-bitwise-and-by-sok6)
+
 #### 方法一：依次确定答案的每一位
 
 **提示 $1$**

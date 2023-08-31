@@ -1,4 +1,5 @@
 ## [2335.装满杯子需要的最短总时长 中文官方题解](https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/solutions/100000/zhuang-man-bei-zi-xu-yao-de-zui-duan-zon-c7y4)
+
 #### 方法一：贪心 + 分类讨论
 
 假设不同类型杯子的数量分别为 $x$, $y$ 和 $z$，其中 $x \le y \le z$。

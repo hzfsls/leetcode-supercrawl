@@ -1,4 +1,5 @@
 ## [2076.处理含限制条件的好友请求 中文官方题解](https://leetcode.cn/problems/process-restricted-friend-requests/solutions/100000/chu-li-han-xian-zhi-tiao-jian-de-hao-you-jj2q)
+
 #### 方法一：并查集
 
 **思路与算法**

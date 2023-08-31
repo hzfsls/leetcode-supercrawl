@@ -1,4 +1,5 @@
 ## [2138.将字符串拆分为若干长度为 k 的组 中文官方题解](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/solutions/100000/jiang-zi-fu-chuan-chai-fen-wei-ruo-gan-c-264k)
+
 #### 方法一：寻找每一组的起始下标
 
 **思路与算法**

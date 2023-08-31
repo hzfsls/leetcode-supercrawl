@@ -1,4 +1,5 @@
 ## [1326.灌溉花园的最少水龙头数目 中文官方题解](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden/solutions/100000/guan-gai-hua-yuan-de-zui-shao-shui-long-tou-shu-3)
+
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1125.最小的必要团队 中文官方题解](https://leetcode.cn/problems/smallest-sufficient-team/solutions/100000/zui-xiao-de-bi-yao-tuan-dui-by-leetcode-2mbmz)
+
 #### 方法一：动态规划
 
 **思路与算法**

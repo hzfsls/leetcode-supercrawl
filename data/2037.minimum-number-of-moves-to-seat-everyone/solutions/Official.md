@@ -1,4 +1,5 @@
 ## [2037.使每位学生都有座位的最少移动次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/solutions/100000/shi-mei-wei-xue-sheng-du-you-zuo-wei-de-oll4i)
+
 #### 方法一：排序
 
 **思路与算法**

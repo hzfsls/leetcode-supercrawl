@@ -1,4 +1,5 @@
 ## [23.合并 K 个升序链表 中文官方题解](https://leetcode.cn/problems/merge-k-sorted-lists/solutions/100000/he-bing-kge-pai-xu-lian-biao-by-leetcode-solutio-2)
+
 ### 📺 视频题解
 
 ![#023 合并K个排序链表.mp4](d305b3db-0db6-408e-875a-2e207bf4f971)

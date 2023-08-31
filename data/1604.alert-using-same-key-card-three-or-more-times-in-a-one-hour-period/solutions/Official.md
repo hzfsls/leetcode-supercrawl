@@ -1,4 +1,5 @@
 ## [1604.警告一小时内使用相同员工卡大于等于三次的人 中文官方题解](https://leetcode.cn/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/solutions/100000/jing-gao-yi-xiao-shi-nei-shi-yong-xiang-ioeiw)
+
 #### 方法一：哈希表 + 排序
 
 由于给定的数组是每个员工在**同一天**内使用员工卡的时间，因此同一个员工使用员工卡的时间顺序一定是按照小时数和分钟数递增的。只要获得每个员工的全部使用员工卡的时间，即可判断哪些员工收到系统警告，即哪些员工在一小时内使用员工卡的次数大于等于三次。

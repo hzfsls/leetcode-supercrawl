@@ -1,4 +1,5 @@
 ## [2163.删除元素后和的最小差值 中文官方题解](https://leetcode.cn/problems/minimum-difference-in-sums-after-removal-of-elements/solutions/100000/shan-chu-yuan-su-hou-he-de-zui-xiao-chai-ah0j)
+
 #### 方法一：优先队列
 
 **思路与算法**

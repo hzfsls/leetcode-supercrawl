@@ -1,4 +1,5 @@
 ## [1286.字母组合迭代器 中文官方题解](https://leetcode.cn/problems/iterator-for-combination/solutions/100000/zi-mu-zu-he-die-dai-qi-by-leetcode-solution)
+
 ### 方法一：生成法
 
 我们可以用经典的生成法依次求出这些组合。以字符串 `"abcde"` 为例，我们需要求出其长度为 `3` 的所有组合。

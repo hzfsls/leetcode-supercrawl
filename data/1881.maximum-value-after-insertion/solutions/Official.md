@@ -1,4 +1,5 @@
 ## [1881.插入后的最大值 中文官方题解](https://leetcode.cn/problems/maximum-value-after-insertion/solutions/100000/cha-ru-hou-de-zui-da-zhi-by-leetcode-sol-gcfc)
+
 #### 方法一：贪心
 
 **提示 $1$**

@@ -1,4 +1,5 @@
 ## [1889.装包裹的最小浪费空间 中文官方题解](https://leetcode.cn/problems/minimum-space-wasted-from-packaging/solutions/100000/zhuang-bao-guo-de-zui-xiao-lang-fei-kong-90lk)
+
 #### 方法一：排序 + 二分查找
 
 **思路与算法**

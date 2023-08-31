@@ -1,4 +1,5 @@
 ## [615.平均工资：部门与公司比较 中文官方题解](https://leetcode.cn/problems/average-salary-departments-vs-company/solutions/100000/ping-jun-gong-zi-bu-men-yu-gong-si-bi-ji-9tv9)
+
 [TOC]
 
 ## 解决方案

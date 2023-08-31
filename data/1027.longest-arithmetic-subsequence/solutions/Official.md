@@ -1,4 +1,5 @@
 ## [1027.最长等差数列 中文官方题解](https://leetcode.cn/problems/longest-arithmetic-subsequence/solutions/100000/zui-chang-deng-chai-shu-lie-by-leetcode-eieq8)
+
 #### 方法一：动态规划
 
 **思路与算法**

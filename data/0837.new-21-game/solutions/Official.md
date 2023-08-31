@@ -1,4 +1,5 @@
 ## [837.新 21 点 中文官方题解](https://leetcode.cn/problems/new-21-game/solutions/100000/xin-21dian-by-leetcode-solution)
+
 ### 📺视频题解  
 ![837. 新21点 4.mp4](8e029a47-ffea-47d0-a750-7c0c208ac6cb)
 

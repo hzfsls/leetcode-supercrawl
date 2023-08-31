@@ -1,4 +1,5 @@
 ## [2208.将数组和减半的最少操作次数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/solutions/100000/jiang-shu-zu-he-jian-ban-de-zui-shao-cao-4lej)
+
 #### 方法一：贪心 + 优先队列
 
 基于贪心的思想，将数组和减半的操作次数最小化的做法为：每次操作都选择当前数组的最大值进行减半操作。

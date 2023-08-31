@@ -1,4 +1,5 @@
 ## [1032.字符流 中文官方题解](https://leetcode.cn/problems/stream-of-characters/solutions/100000/zi-fu-liu-by-leetcode-solution-b9yo)
+
 #### 方法一：AC 自动机
 
 **思路**

@@ -1,4 +1,5 @@
 ## [31.下一个排列 中文官方题解](https://leetcode.cn/problems/next-permutation/solutions/100000/xia-yi-ge-pai-lie-by-leetcode-solution)
+
 #### 前言
 
 本题要求我们实现一个算法，将给定数字序列重新排列成字典序中下一个更大的排列。

@@ -1,4 +1,5 @@
 ## [387.字符串中的第一个唯一字符 中文官方题解](https://leetcode.cn/problems/first-unique-character-in-a-string/solutions/100000/zi-fu-chuan-zhong-de-di-yi-ge-wei-yi-zi-x9rok)
+
 #### 方法一：使用哈希表存储频数
 
 **思路与算法**

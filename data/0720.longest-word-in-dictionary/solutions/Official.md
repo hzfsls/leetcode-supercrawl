@@ -1,4 +1,5 @@
 ## [720.词典中最长的单词 中文官方题解](https://leetcode.cn/problems/longest-word-in-dictionary/solutions/100000/ci-dian-zhong-zui-chang-de-dan-ci-by-lee-k5gj)
+
 #### 方法一：哈希集合
 
 **思路和算法**

@@ -1,4 +1,5 @@
 ## [828.统计子串中的唯一字符 中文官方题解](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/solutions/100000/tong-ji-zi-chuan-zhong-de-wei-yi-zi-fu-b-h9pj)
+
 #### 方法一：分别计算每个字符的贡献
 
 **思路**

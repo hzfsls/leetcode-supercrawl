@@ -1,4 +1,5 @@
 ## [1816.截断句子 中文官方题解](https://leetcode.cn/problems/truncate-sentence/solutions/100000/jie-duan-ju-zi-by-leetcode-solution-d4ts)
+
 #### 方法一：遍历
 
 **思路与算法**

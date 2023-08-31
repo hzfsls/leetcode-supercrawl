@@ -1,4 +1,5 @@
 ## [1132.报告的记录 II 中文官方题解](https://leetcode.cn/problems/reported-posts-ii/solutions/100000/bao-gao-de-ji-lu-ii-by-leetcode-solution)
+
 ### 预备知识
 
 本题使用到的 `mysql` 函数的说明：

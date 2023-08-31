@@ -1,4 +1,5 @@
 ## [803.打砖块 中文官方题解](https://leetcode.cn/problems/bricks-falling-when-hit/solutions/100000/da-zhuan-kuai-by-leetcode-solution-szrq)
+
 #### 方法一：逆序思维 + 并查集
 
 **思路**

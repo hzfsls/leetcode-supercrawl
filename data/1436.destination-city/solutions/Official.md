@@ -1,4 +1,5 @@
 ## [1436.旅行终点站 中文官方题解](https://leetcode.cn/problems/destination-city/solutions/100000/lu-xing-zhong-dian-zhan-by-leetcode-solu-pscd)
+
 #### 方法一：哈希表
 
 根据终点站的定义，终点站不会出现在 $\textit{cityA}_i$ 中，因为存在从 $\textit{cityA}_i$ 出发的线路，所以终点站只会出现在 $\textit{cityB}_i$ 中。据此，我们可以遍历 $\textit{cityB}_i$，返回不在 $\textit{cityA}_i$ 中的城市，即为答案。

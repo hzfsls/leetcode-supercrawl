@@ -1,4 +1,5 @@
 ## [696.计数二进制子串 中文官方题解](https://leetcode.cn/problems/count-binary-substrings/solutions/100000/ji-shu-er-jin-zhi-zi-chuan-by-leetcode-solution)
+
 #### 方法一：按字符分组
 
 **思路与算法**

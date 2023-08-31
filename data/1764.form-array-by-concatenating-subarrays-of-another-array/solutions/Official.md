@@ -1,4 +1,5 @@
 ## [1764.通过连接另一个数组的子数组得到一个数组 中文官方题解](https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array/solutions/100000/tong-guo-lian-jie-ling-yi-ge-shu-zu-de-z-xsvx)
+
 #### 方法一：贪心 + 双指针
 
 使用变量 $i$ 指向需要匹配的数组，即 $\textit{groups}[i]$。遍历数组 $\textit{nums}$，假设当前遍历到第 $k$ 个元素：

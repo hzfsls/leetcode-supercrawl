@@ -1,4 +1,5 @@
 ## [995.K 连续位的最小翻转次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-k-consecutive-bit-flips/solutions/100000/k-lian-xu-wei-de-zui-xiao-fan-zhuan-ci-s-bikk)
+
 #### 方法一：差分数组
 
 由于对同一个子数组执行两次翻转操作不会改变该子数组，所以对每个长度为 $k$ 的子数组，应至多执行一次翻转操作。

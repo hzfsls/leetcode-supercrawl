@@ -1,4 +1,5 @@
 ## [555.分割连接字符串 中文官方题解](https://leetcode.cn/problems/split-concatenated-strings/solutions/100000/fen-ge-lian-jie-zi-fu-chuan-by-leetcode-solution)
+
 #### 方法 1: 深度优先搜索 [Time Limit Exceed]
 考虑最直观的解法：直接生成所有可能的答案并比较。首先我们要得出字符串反转能得到的所有字符串。所有可能的反转情况如下图中的树所示，树中的叶子结点即为我们要得到的所有字符串。
 我们定义一个递归函数 `dfs` 来搜索此树的叶子结点。`dfs` 以所有还没有考虑过的字符串的列表 `strs` 为参数。

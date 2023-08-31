@@ -1,4 +1,5 @@
 ## [2651.计算列车到站时间 中文官方题解](https://leetcode.cn/problems/calculate-delayed-arrival-time/solutions/100000/ji-suan-lie-che-dao-zhan-shi-jian-by-lee-14h7)
+
 #### 方法一：数学
 
 实际到站时间 $\textit{realTime}$ 的计算公式为：

@@ -1,4 +1,5 @@
 ## [273.整数转换英文表示 中文官方题解](https://leetcode.cn/problems/integer-to-english-words/solutions/100000/zheng-shu-zhuan-huan-ying-wen-biao-shi-b-ivik)
+
 #### 方法一：递归
 
 由于非负整数 $\textit{num}$ 的最大值为 $2^{31}-1$，因此最多有 $10$ 位数。将整数转换成英文表示中，将数字按照 $3$ 位一组划分，将每一组的英文表示拼接之后即可得到整数 $\textit{num}$ 的英文表示。

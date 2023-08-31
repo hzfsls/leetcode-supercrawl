@@ -1,4 +1,5 @@
 ## [1948.删除系统中的重复文件夹 中文官方题解](https://leetcode.cn/problems/delete-duplicate-folders-in-system/solutions/100000/shan-chu-xi-tong-zhong-de-zhong-fu-wen-j-ic32)
+
 #### 方法一：子树的序列化表示
 
 **思路**

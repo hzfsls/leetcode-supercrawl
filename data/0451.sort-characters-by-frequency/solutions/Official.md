@@ -1,4 +1,5 @@
 ## [451.根据字符出现频率排序 中文官方题解](https://leetcode.cn/problems/sort-characters-by-frequency/solutions/100000/gen-ju-zi-fu-chu-xian-pin-lu-pai-xu-by-l-zmvy)
+
 #### 方法一：按照出现频率排序
 
 题目要求将给定的字符串按照字符出现的频率降序排序，因此需要首先遍历字符串，统计每个字符出现的频率，然后每次得到频率最高的字符，生成排序后的字符串。

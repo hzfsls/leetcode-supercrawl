@@ -1,4 +1,5 @@
 ## [1194.锦标赛优胜者 中文官方题解](https://leetcode.cn/problems/tournament-winners/solutions/100000/jin-biao-sai-you-sheng-zhe-by-leetcode-solution)
+
 #### 方法一：`UNION ALL`
 
 **思路**

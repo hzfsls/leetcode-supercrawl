@@ -1,4 +1,5 @@
 ## [1025.除数博弈 中文官方题解](https://leetcode.cn/problems/divisor-game/solutions/100000/chu-shu-bo-yi-by-leetcode-solution)
+
 #### 方法一：数学
 
 **思路与算法**

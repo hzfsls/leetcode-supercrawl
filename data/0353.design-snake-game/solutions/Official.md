@@ -1,4 +1,5 @@
 ## [353.贪吃蛇 中文官方题解](https://leetcode.cn/problems/design-snake-game/solutions/100000/tan-chi-she-by-leetcode-solution-5nes)
+
 [TOC]
 
 ## 解决方案

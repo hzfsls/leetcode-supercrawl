@@ -1,4 +1,5 @@
 ## [1015.可被 K 整除的最小整数 中文官方题解](https://leetcode.cn/problems/smallest-integer-divisible-by-k/solutions/100000/ke-bei-k-zheng-chu-de-zui-xiao-zheng-shu-ynog)
+
 ### 问题提示
 如何通过遍历找到能被 $k$ 整除的最小正整数 $n$ 的长度？
 如何在遍历过程中判断出现循环并避免重复计算？

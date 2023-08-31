@@ -1,4 +1,5 @@
 ## [177.第N高的薪水 中文官方题解](https://leetcode.cn/problems/nth-highest-salary/solutions/100000/di-n-gao-de-xin-shui-by-leetcode-solutio-anro)
+
 [TOC]
 
 ## 解决方案

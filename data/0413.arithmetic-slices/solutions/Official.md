@@ -1,4 +1,5 @@
 ## [413.等差数列划分 中文官方题解](https://leetcode.cn/problems/arithmetic-slices/solutions/100000/deng-chai-shu-lie-hua-fen-by-leetcode-so-g7os)
+
 #### 方法一：差分 + 计数
 
 **思路与算法**

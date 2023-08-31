@@ -1,4 +1,5 @@
 ## [2202.K 次操作后最大化顶端元素 中文官方题解](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/solutions/100000/k-ci-cao-zuo-hou-zui-da-hua-ding-duan-yu-s80c)
+
 #### 方法一：枚举
 
 **思路与算法**

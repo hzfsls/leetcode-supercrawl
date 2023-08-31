@@ -1,4 +1,5 @@
 ## [1233.删除子文件夹 中文官方题解](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/solutions/100000/shan-chu-zi-wen-jian-jia-by-leetcode-sol-0x8d)
+
 #### 方法一：排序
 
 **思路与算法**

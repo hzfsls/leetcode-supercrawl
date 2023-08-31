@@ -1,4 +1,5 @@
 ## [796.旋转字符串 中文官方题解](https://leetcode.cn/problems/rotate-string/solutions/100000/xuan-zhuan-zi-fu-chuan-by-leetcode-solut-4hlp)
+
 #### 方法一：模拟
 
 **思路**

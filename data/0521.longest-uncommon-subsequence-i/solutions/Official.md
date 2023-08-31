@@ -1,4 +1,5 @@
 ## [521.最长特殊序列 Ⅰ 中文官方题解](https://leetcode.cn/problems/longest-uncommon-subsequence-i/solutions/100000/zui-chang-te-shu-xu-lie-i-by-leetcode-so-v9sr)
+
 #### 方法一：脑筋急转弯
 
 字符串的子序列的长度不会超过该字符串的长度。若子序列的长度等于字符串的长度，那么子序列就是该字符串。

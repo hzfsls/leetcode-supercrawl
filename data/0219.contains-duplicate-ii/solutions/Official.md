@@ -1,4 +1,5 @@
 ## [219.存在重复元素 II 中文官方题解](https://leetcode.cn/problems/contains-duplicate-ii/solutions/100000/cun-zai-zhong-fu-yuan-su-ii-by-leetcode-kluvk)
+
 #### 方法一：哈希表
 
 从左到右遍历数组 $\textit{nums}$，当遍历到下标 $i$ 时，如果存在下标 $j < i$ 使得 $\textit{nums}[i] = \textit{nums}[j]$，则当 $i - j \le k$ 时即找到了两个符合要求的下标 $j$ 和 $i$。

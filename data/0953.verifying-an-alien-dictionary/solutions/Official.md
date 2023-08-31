@@ -1,4 +1,5 @@
 ## [953.验证外星语词典 中文官方题解](https://leetcode.cn/problems/verifying-an-alien-dictionary/solutions/100000/yan-zheng-wai-xing-yu-ci-dian-by-leetcod-jew7)
+
 #### 方法一：直接遍历
 
 **思路与算法**

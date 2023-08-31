@@ -1,4 +1,5 @@
 ## [2129.将标题首字母大写 中文官方题解](https://leetcode.cn/problems/capitalize-the-title/solutions/100000/jiang-biao-ti-shou-zi-mu-da-xie-by-leetc-lhn7)
+
 #### 方法一：按要求遍历
 
 **思路与算法**

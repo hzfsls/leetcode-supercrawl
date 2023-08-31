@@ -1,4 +1,5 @@
 ## [1044.最长重复子串 中文官方题解](https://leetcode.cn/problems/longest-duplicate-substring/solutions/100000/zui-chang-zhong-fu-zi-chuan-by-leetcode-0i9rd)
+
 #### 方法一：二分查找 + Rabin-Karp 字符串编码
 
 **思路及解法**

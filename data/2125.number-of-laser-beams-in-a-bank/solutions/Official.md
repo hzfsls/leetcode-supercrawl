@@ -1,4 +1,5 @@
 ## [2125.银行中的激光束数量 中文官方题解](https://leetcode.cn/problems/number-of-laser-beams-in-a-bank/solutions/100000/yin-xing-zhong-de-ji-guang-shu-shu-liang-ad02)
+
 #### 方法一：直接计数
 
 **思路与算法**

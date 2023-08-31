@@ -1,4 +1,5 @@
 ## [187.重复的DNA序列 中文官方题解](https://leetcode.cn/problems/repeated-dna-sequences/solutions/100000/zhong-fu-de-dnaxu-lie-by-leetcode-soluti-z8zn)
+
 #### 方法一：哈希表
 
 我们可以用一个哈希表统计 $s$ 所有长度为 $10$ 的子串的出现次数，返回所有出现次数超过 $10$ 的子串。

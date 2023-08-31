@@ -1,4 +1,5 @@
 ## [678.有效的括号字符串 中文官方题解](https://leetcode.cn/problems/valid-parenthesis-string/solutions/100000/you-xiao-de-gua-hao-zi-fu-chuan-by-leetc-osi3)
+
 #### 方法一：动态规划
 
 要判断 $s$ 是否为有效的括号字符串，需要判断 $s$ 的首尾字符以及 $s$ 的中间字符是否符合有效的括号字符串的要求。可以使用动态规划求解。

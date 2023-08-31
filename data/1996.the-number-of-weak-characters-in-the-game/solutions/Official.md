@@ -1,4 +1,5 @@
 ## [1996.游戏中弱角色的数量 中文官方题解](https://leetcode.cn/problems/the-number-of-weak-characters-in-the-game/solutions/100000/you-xi-zhong-ruo-jiao-se-de-shu-liang-by-3d2g)
+
 #### 方法一：排序
 
 **思路**

@@ -1,4 +1,5 @@
 ## [697.数组的度 中文官方题解](https://leetcode.cn/problems/degree-of-an-array/solutions/100000/shu-zu-de-du-by-leetcode-solution-ig97)
+
 #### 方法一：哈希表
 
 **思路及解法**

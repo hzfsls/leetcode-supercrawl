@@ -1,4 +1,5 @@
 ## [687.最长同值路径 中文官方题解](https://leetcode.cn/problems/longest-univalue-path/solutions/100000/zui-chang-tong-zhi-lu-jing-by-leetcode-s-hgfk)
+
 #### 方法一：深度优先搜索
 
 我们将二叉树看成一个有向图（从父结点指向子结点的边），定义同值有向路径为从某一结点出发，到达它的某一后代节点的路径，且经过的结点的值相同。最长同值路径长度必定为某一节点的左最长同值有向路径长度与右最长同值有向路径长度之和。

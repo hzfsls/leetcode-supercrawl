@@ -1,4 +1,5 @@
 ## [319.灯泡开关 中文官方题解](https://leetcode.cn/problems/bulb-switcher/solutions/100000/deng-pao-kai-guan-by-leetcode-solution-rrgp)
+
 #### 方法一：数学
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1228.等差数列中缺失的数字 中文官方题解](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/solutions/100000/deng-chai-shu-lie-zhong-que-shi-de-shu-z-f1ug)
+
 [TOC] 
 
  ## 解决方案

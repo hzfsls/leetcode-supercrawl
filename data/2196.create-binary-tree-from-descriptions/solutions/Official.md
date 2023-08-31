@@ -1,4 +1,5 @@
 ## [2196.根据描述创建二叉树 中文官方题解](https://leetcode.cn/problems/create-binary-tree-from-descriptions/solutions/100000/gen-ju-miao-shu-chuang-jian-er-cha-shu-b-sqrk)
+
 #### 方法一：哈希表
 
 **思路与算法**

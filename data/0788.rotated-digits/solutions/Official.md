@@ -1,4 +1,5 @@
 ## [788.旋转数字 中文官方题解](https://leetcode.cn/problems/rotated-digits/solutions/100000/xuan-zhuan-shu-zi-by-leetcode-solution-q9bh)
+
 #### 方法一：枚举每一个数
 
 **思路与算法**

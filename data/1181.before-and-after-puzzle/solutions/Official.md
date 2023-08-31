@@ -1,4 +1,5 @@
 ## [1181.前后拼接 中文官方题解](https://leetcode.cn/problems/before-and-after-puzzle/solutions/100000/qian-hou-pin-jie-by-leetcode-solution-2)
+
 #### 方法一：哈希表、排序
 
 **思路**

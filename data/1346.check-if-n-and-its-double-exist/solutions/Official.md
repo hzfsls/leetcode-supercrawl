@@ -1,4 +1,5 @@
 ## [1346.检查整数及其两倍数是否存在 中文官方题解](https://leetcode.cn/problems/check-if-n-and-its-double-exist/solutions/100000/jian-cha-zheng-shu-ji-qi-liang-bei-shu-shi-fou-cun)
+
 #### 方法一：暴力法
 
 直接遍历所有的数字对，判断一个数字是否是另一个数字的两倍。注意要用乘法判断，除法判断会有除零的问题。

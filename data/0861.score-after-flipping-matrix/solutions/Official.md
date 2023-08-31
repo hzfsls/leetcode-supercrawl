@@ -1,4 +1,5 @@
 ## [861.翻转矩阵后的得分 中文官方题解](https://leetcode.cn/problems/score-after-flipping-matrix/solutions/100000/fan-zhuan-ju-zhen-hou-de-de-fen-by-leetc-cxma)
+
 #### 方法一：贪心
 
 根据题意，能够知道一个重要的事实：给定一个翻转方案，则它们之间任意交换顺序后，得到的结果保持不变。因此，我们总可以先考虑所有的行翻转，再考虑所有的列翻转。

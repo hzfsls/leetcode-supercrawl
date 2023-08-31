@@ -1,4 +1,5 @@
 ## [329.矩阵中的最长递增路径 中文官方题解](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/solutions/100000/ju-zhen-zhong-de-zui-chang-di-zeng-lu-jing-by-le-2)
+
 #### 方法一：记忆化深度优先搜索
 
 将矩阵看成一个有向图，每个单元格对应图中的一个节点，如果相邻的两个单元格的值不相等，则在相邻的两个单元格之间存在一条从较小值指向较大值的有向边。问题转化成在有向图中寻找最长路径。

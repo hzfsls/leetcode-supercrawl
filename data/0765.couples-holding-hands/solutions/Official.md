@@ -1,4 +1,5 @@
 ## [765.情侣牵手 中文官方题解](https://leetcode.cn/problems/couples-holding-hands/solutions/100000/qing-lu-qian-shou-by-leetcode-solution-bvzr)
+
 #### 方法一：并查集
 
 假定第一对情侣的男生与第二对情侣的女生坐在了一起，而第二对情侣的男生与第三对情侣的女生坐在了一起。根据题意，要想让第二对情侣之间能够成功牵手，要么交换第一对情侣的男生与第二对情侣的男生，要么交换第二对情侣的女生与第三对情侣的女生。

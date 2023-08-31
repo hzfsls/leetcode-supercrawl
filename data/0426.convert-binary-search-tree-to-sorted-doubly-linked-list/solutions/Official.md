@@ -1,4 +1,5 @@
 ## [426.将二叉搜索树转化为排序的双向链表 中文官方题解](https://leetcode.cn/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solutions/100000/jiang-er-cha-sou-suo-shu-zhuan-hua-wei-p-hdae)
+
 [TOC]
 
 ## 解决方案

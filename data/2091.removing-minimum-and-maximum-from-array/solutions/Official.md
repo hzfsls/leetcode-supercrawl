@@ -1,4 +1,5 @@
 ## [2091.从数组中移除最大值和最小值 中文官方题解](https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/solutions/100000/cong-shu-zu-zhong-yi-chu-zui-da-zhi-he-z-k1ty)
+
 #### 方法一：分类讨论
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [237.删除链表中的节点 中文官方题解](https://leetcode.cn/problems/delete-node-in-a-linked-list/solutions/100000/shan-chu-lian-biao-zhong-de-jie-dian-by-x656s)
+
 #### 方法一：和下一个节点交换
 
 删除链表中的节点的常见的方法是定位到待删除节点的上一个节点，修改上一个节点的 $\textit{next}$ 指针，使其指向待删除节点的下一个节点，即可完成删除操作。

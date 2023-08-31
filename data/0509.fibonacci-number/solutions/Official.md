@@ -1,4 +1,5 @@
 ## [509.斐波那契数 中文官方题解](https://leetcode.cn/problems/fibonacci-number/solutions/100000/fei-bo-na-qi-shu-by-leetcode-solution-o4ze)
+
 #### 方法一：动态规划
 
 斐波那契数的边界条件是 $F(0)=0$ 和 $F(1)=1$。当 $n>1$ 时，每一项的和都等于前两项的和，因此有如下递推关系：

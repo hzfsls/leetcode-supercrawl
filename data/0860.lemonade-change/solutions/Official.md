@@ -1,4 +1,5 @@
 ## [860.柠檬水找零 中文官方题解](https://leetcode.cn/problems/lemonade-change/solutions/100000/ning-meng-shui-zhao-ling-by-leetcode-sol-nvp7)
+
 #### 方法一：贪心
 
 由于顾客只可能给你三个面值的钞票，而且我们一开始没有任何钞票，因此我们拥有的钞票面值只可能是 $5$ 美元，$10$ 美元和 $20$ 美元三种。基于此，我们可以进行如下的分类讨论。

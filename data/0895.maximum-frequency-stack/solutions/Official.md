@@ -1,4 +1,5 @@
 ## [895.最大频率栈 中文官方题解](https://leetcode.cn/problems/maximum-frequency-stack/solutions/100000/zui-da-pin-lu-zhan-by-leetcode-solution-moay)
+
 #### 方法一：哈希表和栈
 
 **思路与算法**

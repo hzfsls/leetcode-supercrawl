@@ -1,4 +1,5 @@
 ## [51.N 皇后 中文官方题解](https://leetcode.cn/problems/n-queens/solutions/100000/nhuang-hou-by-leetcode-solution)
+
 #### 前言
 
 「$N$ 皇后问题」研究的是如何将 $N$ 个皇后放置在 $N \times N$ 的棋盘上，并且使皇后彼此之间不能相互攻击。

@@ -1,4 +1,5 @@
 ## [1882.使用服务器处理任务 中文官方题解](https://leetcode.cn/problems/process-tasks-using-servers/solutions/100000/process-tasks-using-servers-by-leetcode-rot1m)
+
 #### 方法一：优先队列
 
 **思路与算法**

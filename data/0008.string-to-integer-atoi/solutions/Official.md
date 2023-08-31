@@ -1,4 +1,5 @@
 ## [8.字符串转换整数 (atoi) 中文官方题解](https://leetcode.cn/problems/string-to-integer-atoi/solutions/100000/zi-fu-chuan-zhuan-huan-zheng-shu-atoi-by-leetcode-)
+
 ### 视频题解 
 #### 简述
 根据问题的描述我们来判断并且描述对应的解题方法。对于这道题目，很明显是字符串的转化问题。需要明确转化规则，尽量根据转化规则编写对应的子函数。

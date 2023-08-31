@@ -1,4 +1,5 @@
 ## [333.最大 BST 子树 中文官方题解](https://leetcode.cn/problems/largest-bst-subtree/solutions/100000/zui-da-bst-zi-shu-by-leetcode-solution)
+
 #### 预备知识：二叉搜索树（ BST ）
 
 二叉搜索树，它或者是一棵空树，或者是具有下列性质的二叉树：若它的左子树不为空，则左子树上所有节点的值均小于它的根节点的值； 若它的右子树不空，则右子树上所有节点的值均大于它的根节点的值；它的左右子树也为二叉搜索树。

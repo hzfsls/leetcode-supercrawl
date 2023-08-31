@@ -1,4 +1,5 @@
 ## [793.阶乘函数后 K 个零 中文官方题解](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/solutions/100000/jie-cheng-han-shu-hou-k-ge-ling-by-leetc-n6vj)
+
 #### 方法一：二分查找
 
 **思路与算法**

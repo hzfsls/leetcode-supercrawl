@@ -1,4 +1,5 @@
 ## [1582.二进制矩阵中的特殊位置 中文官方题解](https://leetcode.cn/problems/special-positions-in-a-binary-matrix/solutions/100000/er-jin-zhi-ju-zhen-zhong-de-te-shu-wei-z-kan4)
+
 #### 方法一：模拟
 
 **思路与算法**

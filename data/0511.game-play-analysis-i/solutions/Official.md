@@ -1,4 +1,5 @@
 ## [511.游戏玩法分析 I 中文官方题解](https://leetcode.cn/problems/game-play-analysis-i/solutions/100000/you-xi-wan-fa-fen-xi-i-by-leetcode-solut-ngvq)
+
 [TOC]
 
 ## 解决方案

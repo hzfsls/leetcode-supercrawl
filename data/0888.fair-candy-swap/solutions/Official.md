@@ -1,4 +1,5 @@
 ## [888.公平的糖果交换 中文官方题解](https://leetcode.cn/problems/fair-candy-swap/solutions/100000/gong-ping-de-tang-guo-jiao-huan-by-leetc-tlam)
+
 #### 方法一：哈希表
 
 **思路及算法**

@@ -1,4 +1,5 @@
 ## [46.全排列 中文官方题解](https://leetcode.cn/problems/permutations/solutions/100000/quan-pai-lie-by-leetcode-solution-2)
+
 ### 📺 视频题解
 
 ![46.mp4](11db115f-647e-4a23-bb02-6560ffe883ad)

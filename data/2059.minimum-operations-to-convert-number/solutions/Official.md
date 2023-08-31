@@ -1,4 +1,5 @@
 ## [2059.转化数字的最小运算数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-convert-number/solutions/100000/zhuan-hua-shu-zi-de-zui-xiao-yun-suan-sh-kju7)
+
 #### 方法一：广度优先搜索
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2130.链表最大孪生和 中文官方题解](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/solutions/100000/lian-biao-zui-da-luan-sheng-he-by-leetco-uoc7)
+
 #### 方法一：快慢指针 + 反转链表
 
 **思路与算法**

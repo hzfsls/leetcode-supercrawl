@@ -1,4 +1,5 @@
 ## [790.多米诺和托米诺平铺 中文官方题解](https://leetcode.cn/problems/domino-and-tromino-tiling/solutions/100000/duo-mi-nuo-he-tuo-mi-nuo-ping-pu-by-leet-7n0j)
+
 #### 方法一：动态规划
 
 考虑这么一种平铺的方式：在第 $i$ 列前面的正方形都被瓷砖覆盖，在第 $i$ 列后面的正方形都没有被瓷砖覆盖（$i$ 从 $1$ 开始计数）。那么第 $i$ 列的正方形有四种被覆盖的情况：

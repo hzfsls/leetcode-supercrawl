@@ -1,4 +1,5 @@
 ## [2190.数组中紧跟 key 之后出现最频繁的数字 中文官方题解](https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/solutions/100000/shu-zu-zhong-jin-gen-key-zhi-hou-chu-xia-elzm)
+
 #### 方法一：哈希表
 
 **思路与算法**

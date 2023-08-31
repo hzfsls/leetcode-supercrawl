@@ -1,4 +1,5 @@
 ## [630.课程表 III 中文官方题解](https://leetcode.cn/problems/course-schedule-iii/solutions/100000/ke-cheng-biao-iii-by-leetcode-solution-yoyz)
+
 #### 方法一：优先队列 + 贪心
 
 **思路**

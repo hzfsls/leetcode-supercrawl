@@ -1,4 +1,5 @@
 ## [41.缺失的第一个正数 中文官方题解](https://leetcode.cn/problems/first-missing-positive/solutions/100000/que-shi-de-di-yi-ge-zheng-shu-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![41. 缺失的第一个正数.mp4](cac80bf0-8440-4325-94bb-b9f729db7dde)
 

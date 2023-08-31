@@ -1,4 +1,5 @@
 ## [590.N 叉树的后序遍历 中文官方题解](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/solutions/100000/n-cha-shu-de-hou-xu-bian-li-by-leetcode-txesi)
+
 #### 方法一：递归
 
 **思路**

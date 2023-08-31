@@ -1,4 +1,5 @@
 ## [1819.序列中不同最大公约数的数目 中文官方题解](https://leetcode.cn/problems/number-of-different-subsequences-gcds/solutions/100000/xu-lie-zhong-bu-tong-zui-da-gong-yue-shu-ha1j)
+
 #### 方法一：枚举
 
 **思路与算法**

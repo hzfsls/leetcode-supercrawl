@@ -1,4 +1,5 @@
 ## [335.路径交叉 中文官方题解](https://leetcode.cn/problems/self-crossing/solutions/100000/lu-jing-jiao-cha-by-leetcode-solution-dekx)
+
 #### 前言
 
 我们先通过枚举各种移动方案来归纳路径交叉的规律。

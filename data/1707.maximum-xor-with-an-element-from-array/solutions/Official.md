@@ -1,4 +1,5 @@
 ## [1707.与数组中元素的最大异或值 中文官方题解](https://leetcode.cn/problems/maximum-xor-with-an-element-from-array/solutions/100000/yu-shu-zu-zhong-yuan-su-de-zui-da-yi-huo-7erc)
+
 #### 前言
 
 本文需要读者了解字典树的相关知识，建议读者尝试解决「[208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)」，在充分理解该题做法后继续阅读。

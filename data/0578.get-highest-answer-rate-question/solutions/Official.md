@@ -1,4 +1,5 @@
 ## [578.查询回答率最高的问题 中文官方题解](https://leetcode.cn/problems/get-highest-answer-rate-question/solutions/100000/cha-xun-hui-da-lu-zui-gao-de-wen-ti-by-leetcode-so)
+
 #### 方法 1：使用两个子查询分别求回答次数与出现次数
 ##### 想法
 $回答率 = 回答次数 / 出现次数$。为了求得回答率，可以先分别求出每个问题的回答次数与出现次数，形成两个子表，然后将子表合并即可。

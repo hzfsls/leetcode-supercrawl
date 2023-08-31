@@ -1,4 +1,5 @@
 ## [1830.使字符串有序的最少操作次数 中文官方题解](https://leetcode.cn/problems/minimum-number-of-operations-to-make-string-sorted/solutions/100000/shi-zi-fu-chuan-you-xu-de-zui-shao-cao-z-qgra)
+
 #### 前言
 
 读者需要掌握如下进阶知识点才能解决本题：

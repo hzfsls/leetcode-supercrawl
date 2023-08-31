@@ -1,4 +1,5 @@
 ## [587.安装栅栏 中文官方题解](https://leetcode.cn/problems/erect-the-fence/solutions/100000/an-zhuang-zha-lan-by-leetcode-solution-75s3)
+
 #### 方法一: Jarvis 算法
 
 **思路与算法**

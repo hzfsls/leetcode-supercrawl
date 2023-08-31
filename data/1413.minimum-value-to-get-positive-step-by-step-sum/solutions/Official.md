@@ -1,4 +1,5 @@
 ## [1413.逐步求和得到正数的最小值 中文官方题解](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/solutions/100000/zhu-bu-qiu-he-de-dao-zheng-shu-de-zui-xi-vyrt)
+
 #### 方法一：贪心
 
 **思路**

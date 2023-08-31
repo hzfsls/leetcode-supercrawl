@@ -1,4 +1,5 @@
 ## [824.山羊拉丁文 中文官方题解](https://leetcode.cn/problems/goat-latin/solutions/100000/shan-yang-la-ding-wen-by-leetcode-soluti-1l55)
+
 #### 方法一：找到每一个单词 + 模拟
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1915.最美子字符串的数目 中文官方题解](https://leetcode.cn/problems/number-of-wonderful-substrings/solutions/100000/zui-mei-zi-zi-fu-chuan-de-shu-mu-by-leet-2j7g)
+
 #### 方法一：状态压缩
 
 **提示 $1$**

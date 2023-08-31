@@ -1,4 +1,5 @@
 ## [604.迭代压缩字符串 中文官方题解](https://leetcode.cn/problems/design-compressed-string-iterator/solutions/100000/die-dai-ya-suo-zi-fu-chuan-by-leetcode-s-wpus)
+
 [TOC]
 
  ## 解决方案

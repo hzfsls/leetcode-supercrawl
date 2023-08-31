@@ -1,4 +1,5 @@
 ## [1678.设计 Goal 解析器 中文官方题解](https://leetcode.cn/problems/goal-parser-interpretation/solutions/100000/she-ji-goal-jie-xi-qi-by-leetcode-soluti-npnp)
+
 #### 方法一：直接遍历
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1235.规划兼职工作 中文官方题解](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/solutions/100000/gui-hua-jian-zhi-gong-zuo-by-leetcode-so-gu0e)
+
 #### 方法一：动态规划 + 二分查找
 
 由题意知，兼职工作由开始时间 $\textit{startTime}$，结束时间 $\textit{endTime}$ 和预计报酬 $\textit{profit}$ 三种属性表示。我们首先将兼职工作按结束时间 $\textit{endTime}$ 从小到大进行排序。使用 $\textit{dp}[i]$ 表示前 $i$ 份兼职工作可以获得的最大报酬，即区间 $[0, i - 1]$ 的所有兼职工作可以获得的最大报酬。初始时 $\textit{dp}[0] = 0$，表示没有兼职工作时报酬为 $0$。那么对于 $i \gt 0$，根据第 $i - 1$ 份兼职工作是否被选择，我们有以下转移方程：

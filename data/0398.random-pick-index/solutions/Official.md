@@ -1,4 +1,5 @@
 ## [398.随机数索引 中文官方题解](https://leetcode.cn/problems/random-pick-index/solutions/100000/sui-ji-shu-suo-yin-by-leetcode-solution-ofsq)
+
 #### 方法一：哈希表
 
 如果不考虑数组的大小，我们可以在构造函数中，用一个哈希表 $\textit{pos}$ 记录 $\textit{nums}$ 中相同元素的下标。

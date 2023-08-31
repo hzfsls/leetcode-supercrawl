@@ -1,4 +1,5 @@
 ## [1739.放置盒子 中文官方题解](https://leetcode.cn/problems/building-boxes/solutions/100000/fang-zhi-he-zi-by-leetcode-solution-7ah2)
+
 #### 方法一：找规律
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1135.最低成本联通所有城市 中文官方题解](https://leetcode.cn/problems/connecting-cities-with-minimum-cost/solutions/100000/zui-di-cheng-ben-lian-tong-suo-you-cheng-shi-by-le)
+
 #### 预备知识
 
 [**最小生成树**](https://baike.baidu.com/item/最小生成树)

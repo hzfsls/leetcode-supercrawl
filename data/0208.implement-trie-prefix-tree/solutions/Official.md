@@ -1,4 +1,5 @@
 ## [208.实现 Trie (前缀树) 中文官方题解](https://leetcode.cn/problems/implement-trie-prefix-tree/solutions/100000/shi-xian-trie-qian-zhui-shu-by-leetcode-ti500)
+
 #### 方法一：字典树
 
 $\text{Trie}$，又称前缀树或字典树，是一棵有根树，其每个节点包含以下字段：

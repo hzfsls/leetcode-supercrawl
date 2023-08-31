@@ -1,4 +1,5 @@
 ## [908.最小差值 I 中文官方题解](https://leetcode.cn/problems/smallest-range-i/solutions/100000/zui-xiao-chai-zhi-i-by-leetcode-solution-7lcl)
+
 #### 方法一：数学
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [846.一手顺子 中文官方题解](https://leetcode.cn/problems/hand-of-straights/solutions/100000/yi-shou-shun-zi-by-leetcode-solution-4lwn)
+
 #### 方法一：贪心
 
 题目要求将数组 $\textit{hand}$ 中的牌分组使得每组的大小是 $\textit{groupSize}$。假设数组 $\textit{hand}$ 的长度是 $n$，只有当 $n \bmod \textit{groupSize} = 0$ 时才可能完成分组，因此如果 $n \bmod \textit{groupSize} \ne 0$ 则直接返回 $\text{false}$。

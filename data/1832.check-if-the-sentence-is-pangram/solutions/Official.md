@@ -1,4 +1,5 @@
 ## [1832.判断句子是否为全字母句 中文官方题解](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/solutions/100000/pan-duan-ju-zi-shi-fou-wei-quan-zi-mu-ju-xc7a)
+
 #### 方法一：数组
 
 **思路与算法**

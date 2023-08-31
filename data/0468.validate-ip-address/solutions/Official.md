@@ -1,4 +1,5 @@
 ## [468.验证IP地址 中文官方题解](https://leetcode.cn/problems/validate-ip-address/solutions/100000/yan-zheng-ipdi-zhi-by-leetcode-solution-kge5)
+
 #### 方法一：依次判断
 
 **思路与算法**

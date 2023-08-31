@@ -1,4 +1,5 @@
 ## [672.灯泡开关 Ⅱ 中文官方题解](https://leetcode.cn/problems/bulb-switcher-ii/solutions/100000/deng-pao-kai-guan-ii-by-leetcode-solutio-he7o)
+
 #### 方法一：降低搜索空间
 
 **思路**

@@ -1,4 +1,5 @@
 ## [1461.检查一个字符串是否包含所有长度为 K 的二进制子串 中文官方题解](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/solutions/100000/jian-cha-yi-ge-zi-fu-chuan-shi-fou-bao-h-1no1)
+
 #### 方法一：哈希表
 
 我们遍历字符串 $s$，并用一个哈希集合（HashSet）存储所有长度为 $k$ 的子串。在遍历完成后，只需要判断哈希集合中是否有 $2^k$ 项即可，这是因为长度为 $k$ 的二进制串的数量为 $2^k$。

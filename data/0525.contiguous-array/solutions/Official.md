@@ -1,4 +1,5 @@
 ## [525.连续数组 中文官方题解](https://leetcode.cn/problems/contiguous-array/solutions/100000/lian-xu-shu-zu-by-leetcode-solution-mvnm)
+
 #### 方法一：前缀和 + 哈希表
 
 由于「$0$ 和 $1$ 的数量相同」等价于「$1$ 的数量减去 $0$ 的数量等于 $0$」，我们可以将数组中的 $0$ 视作 $-1$，则原问题转换成「求最长的连续子数组，其元素和为 $0$」。

@@ -1,4 +1,5 @@
 ## [1662.检查两个字符串数组是否相等 中文官方题解](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/solutions/100000/jian-cha-liang-ge-zi-fu-chuan-shu-zu-shi-9iuo)
+
 #### 方法一：拼接字符串进行对比
 
 **思路与算法**

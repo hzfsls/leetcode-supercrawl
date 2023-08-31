@@ -1,4 +1,5 @@
 ## [14.最长公共前缀 中文官方题解](https://leetcode.cn/problems/longest-common-prefix/solutions/100000/zui-chang-gong-gong-qian-zhui-by-leetcode-solution)
+
 ### 📺 视频题解 
 ![...14 最长公共前缀 仲耀晖 3.mp4](8edae0a8-6480-4128-8244-9f10b83e7cf6)
 

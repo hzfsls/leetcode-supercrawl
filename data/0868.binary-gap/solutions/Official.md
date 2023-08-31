@@ -1,4 +1,5 @@
 ## [868.二进制间距 中文官方题解](https://leetcode.cn/problems/binary-gap/solutions/100000/er-jin-zhi-jian-ju-by-leetcode-solution-dh2q)
+
 #### 方法一：位运算
 
 **思路与算法**

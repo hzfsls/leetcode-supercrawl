@@ -1,4 +1,5 @@
 ## [1574.删除最短的子数组使剩余数组有序 中文官方题解](https://leetcode.cn/problems/shortest-subarray-to-be-removed-to-make-array-sorted/solutions/100000/shan-chu-zui-duan-de-zi-shu-zu-shi-sheng-do2f)
+
 #### 方法一：双指针
 
 **思路与算法**

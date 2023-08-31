@@ -1,4 +1,5 @@
 ## [813.最大平均值和的分组 中文官方题解](https://leetcode.cn/problems/largest-sum-of-averages/solutions/100000/zui-da-ping-jun-zhi-he-de-fen-zu-by-leet-09xt)
+
 #### 方法一：动态规划
 
 命题：平均值和最大的分组的子数组数目必定是 $k$。

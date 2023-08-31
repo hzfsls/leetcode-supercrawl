@@ -1,4 +1,5 @@
 ## [406.根据身高重建队列 中文官方题解](https://leetcode.cn/problems/queue-reconstruction-by-height/solutions/100000/gen-ju-shen-gao-zhong-jian-dui-lie-by-leetcode-sol)
+
 #### 方法一：从低到高考虑
 
 **思路与算法**

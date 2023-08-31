@@ -1,4 +1,5 @@
 ## [1134.阿姆斯特朗数 中文官方题解](https://leetcode.cn/problems/armstrong-number/solutions/100000/a-mu-si-te-lang-shu-by-leetcode-solution)
+
 #### 方法一：模拟
 
 **思路**

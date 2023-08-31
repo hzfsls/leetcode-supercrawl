@@ -1,4 +1,5 @@
 ## [1363.形成三的最大倍数 中文官方题解](https://leetcode.cn/problems/largest-multiple-of-three/solutions/100000/xing-cheng-san-de-zui-da-bei-shu-by-leetcode-solut)
+
 #### 方法一：数学
 
 首先我们需要了解一个结论：

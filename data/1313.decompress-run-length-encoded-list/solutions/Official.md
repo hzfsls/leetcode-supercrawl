@@ -1,4 +1,5 @@
 ## [1313.解压缩编码列表 中文官方题解](https://leetcode.cn/problems/decompress-run-length-encoded-list/solutions/100000/jie-ya-suo-bian-ma-lie-biao-by-leetcode-solution)
+
 #### 方法一：模拟
 
 我们以步长（step）为 `2` 遍历数组 `nums`，对于当前遍历到的元素 `a` 和 `b`，我们将 `a` 个 `b` 添加进答案中即可。

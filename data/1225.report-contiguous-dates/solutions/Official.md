@@ -1,4 +1,5 @@
 ## [1225.报告系统状态的连续日期 中文官方题解](https://leetcode.cn/problems/report-contiguous-dates/solutions/100000/bao-gao-xi-tong-zhuang-tai-de-lian-xu-ri-qi-by-lee)
+
 #### 方法一：变量法
 
 **思路**

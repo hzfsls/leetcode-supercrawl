@@ -1,4 +1,5 @@
 ## [1566.重复至少 K 次且长度为 M 的模式 中文官方题解](https://leetcode.cn/problems/detect-pattern-of-length-m-repeated-k-or-more-times/solutions/100000/zhong-fu-zhi-shao-k-ci-qie-chang-du-wei-m-de-mo-2)
+
 #### 方法一：枚举
 
 **思路与算法**

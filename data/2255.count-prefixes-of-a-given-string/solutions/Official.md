@@ -1,4 +1,5 @@
 ## [2255.统计是给定字符串前缀的字符串数目 中文官方题解](https://leetcode.cn/problems/count-prefixes-of-a-given-string/solutions/100000/tong-ji-shi-gei-ding-zi-fu-chuan-qian-zh-vpyg)
+
 #### 方法一：遍历判断
 
 **思路与算法**

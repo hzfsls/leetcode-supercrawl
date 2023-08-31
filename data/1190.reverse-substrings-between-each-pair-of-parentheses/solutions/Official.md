@@ -1,4 +1,5 @@
 ## [1190.反转每对括号间的子串 中文官方题解](https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/solutions/100000/fan-zhuan-mei-dui-gua-hao-jian-de-zi-chu-gwpv)
+
 #### 方法一：栈
 
 **思路及算法**

@@ -1,4 +1,5 @@
 ## [2337.移动片段得到字符串 中文官方题解](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/solutions/100000/yi-dong-pian-duan-de-dao-zi-fu-chuan-by-0j7py)
+
 #### 方法一：双指针
 
 可能的移动操作有如下两种：

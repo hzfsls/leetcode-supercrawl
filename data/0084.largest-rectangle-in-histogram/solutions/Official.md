@@ -1,4 +1,5 @@
 ## [84.柱状图中最大的矩形 中文官方题解](https://leetcode.cn/problems/largest-rectangle-in-histogram/solutions/100000/zhu-zhuang-tu-zhong-zui-da-de-ju-xing-by-leetcode-)
+
 ### 📺视频题解  
 
 ![84.柱状图中最大的矩形.mp4](3c5357f6-eb8d-4255-9810-a00c6bc06e0d)

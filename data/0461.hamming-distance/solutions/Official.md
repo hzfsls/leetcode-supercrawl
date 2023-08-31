@@ -1,4 +1,5 @@
 ## [461.汉明距离 中文官方题解](https://leetcode.cn/problems/hamming-distance/solutions/100000/yi-ming-ju-chi-by-leetcode-solution-u1w7)
+
 #### 前言
 
 汉明距离广泛应用于多个领域。在编码理论中用于错误检测，在信息论中量化字符串之间的差异。

@@ -1,4 +1,5 @@
 ## [673.最长递增子序列的个数 中文官方题解](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/solutions/100000/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f)
+
 #### 前言
 
 本题是「[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)」的进阶版本，建议读者在掌握该题做法后继续阅读。

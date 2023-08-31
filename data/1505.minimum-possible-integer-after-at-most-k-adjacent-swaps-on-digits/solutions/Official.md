@@ -1,4 +1,5 @@
 ## [1505.最多 K 次交换相邻数位后得到的最小整数 中文官方题解](https://leetcode.cn/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/solutions/100000/zui-duo-k-ci-jiao-huan-xiang-lin-shu-wei-hou-de-da)
+
 #### 前言
 
 给定一个长度为 $n$ 的数组 $a$，设计一种数据结构，支持如下的操作：

@@ -1,4 +1,5 @@
 ## [2064.分配给商店的最多商品的最小值 中文官方题解](https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store/solutions/100000/fen-pei-gei-shang-dian-de-zui-duo-shang-g0nc2)
+
 #### 方法一：二分查找
 
 **提示 $1$**

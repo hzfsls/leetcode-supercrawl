@@ -1,4 +1,5 @@
 ## [845.数组中的最长山脉 中文官方题解](https://leetcode.cn/problems/longest-mountain-in-array/solutions/100000/shu-zu-zhong-de-zui-chang-shan-mai-by-leetcode-sol)
+
 #### 方法一：枚举山顶
 
 **思路与算法**

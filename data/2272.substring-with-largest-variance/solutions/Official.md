@@ -1,4 +1,5 @@
 ## [2272.最大波动的子字符串 中文官方题解](https://leetcode.cn/problems/substring-with-largest-variance/solutions/100000/zui-da-bo-dong-de-zi-zi-fu-chuan-by-leet-xsnp)
+
 #### 方法一：枚举最多和最少的字符 + 最大子段和动态规划
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1486.数组异或操作 中文官方题解](https://leetcode.cn/problems/xor-operation-in-an-array/solutions/100000/shu-zu-yi-huo-cao-zuo-by-leetcode-solution)
+
 #### 方法一：模拟
 
 **思路**

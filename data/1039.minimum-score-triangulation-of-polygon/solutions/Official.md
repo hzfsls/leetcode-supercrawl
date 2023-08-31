@@ -1,4 +1,5 @@
 ## [1039.多边形三角剖分的最低得分 中文官方题解](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/solutions/100000/duo-bian-xing-san-jiao-pou-fen-de-zui-di-weqg)
+
 #### 方法一：动态规划
 
 **思路**

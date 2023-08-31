@@ -1,4 +1,5 @@
 ## [1012.至少有 1 位重复的数字 中文官方题解](https://leetcode.cn/problems/numbers-with-repeated-digits/solutions/100000/zhi-shao-you-1-wei-zhong-fu-de-shu-zi-by-0mvu)
+
 #### 前言
 
 关于数位 DP 的详细介绍可以参考「[数位DP(OI Wiki)](https://oi-wiki.org/dp/number/)」，类似题目有「[233. 数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/)」、「[600. 不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/)」等。

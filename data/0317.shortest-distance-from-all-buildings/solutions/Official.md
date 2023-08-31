@@ -1,4 +1,5 @@
 ## [317.离建筑物最近的距离 中文官方题解](https://leetcode.cn/problems/shortest-distance-from-all-buildings/solutions/100000/chi-jian-zhu-wu-zui-jin-de-ju-chi-by-lee-u22n)
+
 [TOC]
  ## 解决方案
 

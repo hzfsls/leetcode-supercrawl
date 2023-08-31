@@ -1,4 +1,5 @@
 ## [1536.排布二进制网格的最少交换次数 中文官方题解](https://leetcode.cn/problems/minimum-swaps-to-arrange-a-binary-grid/solutions/100000/pai-bu-er-jin-zhi-wang-ge-de-zui-shao-jiao-huan-ci)
+
 #### 方法一：贪心
 
 **思路与算法**

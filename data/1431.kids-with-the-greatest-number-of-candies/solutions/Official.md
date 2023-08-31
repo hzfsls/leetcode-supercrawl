@@ -1,4 +1,5 @@
 ## [1431.拥有最多糖果的孩子 中文官方题解](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/solutions/100000/yong-you-zui-duo-tang-guo-de-hai-zi-by-leetcode-so)
+
 ### 📺 视频题解  
 ![1431. 拥有最多糖果的孩子.mp4](23e02b0e-6a64-4153-acf7-1001b619c58e)
 

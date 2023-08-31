@@ -1,4 +1,5 @@
 ## [575.分糖果 中文官方题解](https://leetcode.cn/problems/distribute-candies/solutions/100000/fen-tang-guo-by-leetcode-solution-l4f6)
+
 #### 方法一：贪心
 
 一方面，设糖果数量为 $n$，由于妹妹只能分到一半的糖果，所以答案不会超过 $\dfrac{n}{2}$；另一方面，设这些糖果一共有 $m$ 种，答案也不会超过 $m$。

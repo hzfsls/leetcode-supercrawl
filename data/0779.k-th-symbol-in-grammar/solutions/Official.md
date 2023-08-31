@@ -1,4 +1,5 @@
 ## [779.第K个语法符号 中文官方题解](https://leetcode.cn/problems/k-th-symbol-in-grammar/solutions/100000/di-kge-yu-fa-fu-hao-by-leetcode-solution-zgwd)
+
 #### 方法一：递归
 
 **思路与算法**

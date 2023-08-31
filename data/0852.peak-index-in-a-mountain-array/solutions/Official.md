@@ -1,4 +1,5 @@
 ## [852.山脉数组的峰顶索引 中文官方题解](https://leetcode.cn/problems/peak-index-in-a-mountain-array/solutions/100000/shan-mai-shu-zu-de-feng-ding-suo-yin-by-dtqvv)
+
 #### 前言
 
 虽然题目描述中说明了「我们可以返回**任何**满足条件的下标 $i$」，但由于条件为：

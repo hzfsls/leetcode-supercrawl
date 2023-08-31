@@ -1,4 +1,5 @@
 ## [1138.字母板上的路径 中文官方题解](https://leetcode.cn/problems/alphabet-board-path/solutions/100000/zi-mu-ban-shang-de-lu-jing-by-leetcode-s-c30t)
+
 #### 方法一：直接模拟
 
 **思路与算法**

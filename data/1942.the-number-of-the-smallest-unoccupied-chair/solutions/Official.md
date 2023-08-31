@@ -1,4 +1,5 @@
 ## [1942.最小未被占据椅子的编号 中文官方题解](https://leetcode.cn/problems/the-number-of-the-smallest-unoccupied-chair/solutions/100000/zui-xiao-wei-bei-zhan-ju-yi-zi-de-bian-h-kz2d)
+
 #### 方法一：最小堆 + 哈希表
 
 **思路与算法**

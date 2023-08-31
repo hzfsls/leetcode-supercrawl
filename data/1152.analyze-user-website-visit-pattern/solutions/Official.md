@@ -1,4 +1,5 @@
 ## [1152.用户网站访问行为分析 中文官方题解](https://leetcode.cn/problems/analyze-user-website-visit-pattern/solutions/100000/yong-hu-wang-zhan-fang-wen-xing-wei-fen-xi-by-leet)
+
 #### 方法一： 暴力法
 
 本题更偏向于工程问题，主要是对数据的处理。

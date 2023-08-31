@@ -1,4 +1,5 @@
 ## [230.二叉搜索树中第K小的元素 中文官方题解](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/solutions/100000/er-cha-sou-suo-shu-zhong-di-kxiao-de-yua-8o07)
+
 #### 方法一：中序遍历
 
 **预备知识**

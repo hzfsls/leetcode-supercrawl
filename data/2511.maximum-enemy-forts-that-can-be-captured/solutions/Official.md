@@ -1,4 +1,5 @@
 ## [2511.最多可以摧毁的敌人城堡数目 中文官方题解](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/solutions/100000/zui-duo-ke-yi-cui-hui-de-di-ren-cheng-ba-5qmc)
+
 #### 方法一：直接模拟
 
 **思路与算法**

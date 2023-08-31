@@ -1,4 +1,5 @@
 ## [1206.设计跳表 中文官方题解](https://leetcode.cn/problems/design-skiplist/solutions/100000/she-ji-tiao-biao-by-leetcode-solution-e8yh)
+
 #### 方法一：直接构造
 
 跳表这种数据结构是由 $\text{William Pugh}$ 发明的，关于跳表的详细介绍可以参考论文:「[Skip Lists: A Probabilistic Alternative to Balanced Trees](https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf)」，论文中详细阐述了关于 $\texttt{skiplist}$ 查找元素、删除元素、插入元素的算法伪代码，以及时间复杂度的分析。跳表是一种随机化的数据结构，可以被看做二叉树的一个变种，它在性能上和红黑树、$\texttt{AVL}$ 树不相上下，但是跳表的原理非常简单，目前在 $\texttt{Redis}$ 和 $\texttt{LevelDB}$ 中都有用到。跳表的期望空间复杂度为 $O(n)$，跳表的查询，插入和删除操作的期望时间复杂度均为 $O(\log n)$。跳表实际为一种多层的有序链表，跳表的每一层都为一个有序链表，且满足每个位于第 $i$ 层的节点有 $p$ 的概率出现在第 $i+1$ 层，其中 $p$ 为常数。

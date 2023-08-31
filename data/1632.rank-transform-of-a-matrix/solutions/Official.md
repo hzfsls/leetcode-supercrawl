@@ -1,4 +1,5 @@
 ## [1632.矩阵转换后的秩 中文官方题解](https://leetcode.cn/problems/rank-transform-of-a-matrix/solutions/100000/ju-zhen-zhuan-huan-hou-de-zhi-by-leetcod-biw0)
+
 #### 方法一：并查集 + 拓扑排序
 
 **思路**

@@ -1,4 +1,5 @@
 ## [2087.网格图中机器人回家的最小代价 中文官方题解](https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/solutions/100000/wang-ge-tu-zhong-ji-qi-ren-hui-jia-de-zu-62gy)
+
 #### 方法一：贪心
 
 **提示 $1$**

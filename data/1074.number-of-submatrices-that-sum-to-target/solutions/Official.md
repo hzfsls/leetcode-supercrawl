@@ -1,4 +1,5 @@
 ## [1074.元素和为目标值的子矩阵数量 中文官方题解](https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/solutions/100000/yuan-su-he-wei-mu-biao-zhi-de-zi-ju-zhen-8ym2)
+
 #### 方法一：前缀和 + 哈希表
 
 我们枚举子矩阵的上下边界，并计算出该边界内每列的元素和，则原问题转换成了如下一维问题：

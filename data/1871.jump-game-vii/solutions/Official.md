@@ -1,4 +1,5 @@
 ## [1871.跳跃游戏 VII 中文官方题解](https://leetcode.cn/problems/jump-game-vii/solutions/100000/tiao-yue-you-xi-vii-by-leetcode-solution-rsyv)
+
 #### 方法一：动态规划 + 前缀和优化
 
 **提示 $1$**

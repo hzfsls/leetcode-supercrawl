@@ -1,4 +1,5 @@
 ## [921.使括号有效的最少添加 中文官方题解](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/solutions/100000/shi-gua-hao-you-xiao-de-zui-shao-tian-ji-gcxu)
+
 #### 方法一：贪心
 
 这道题是括号匹配的题目。每个左括号必须对应一个右括号，而且左括号必须在对应的右括号之前。

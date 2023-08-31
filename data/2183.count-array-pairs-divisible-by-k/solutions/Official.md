@@ -1,4 +1,5 @@
 ## [2183.统计可以被 K 整除的下标对数目 中文官方题解](https://leetcode.cn/problems/count-array-pairs-divisible-by-k/solutions/100000/tong-ji-ke-yi-bei-k-zheng-chu-de-xia-bia-ql6d)
+
 #### 前言
 
 本题有非常多的做法，具体原因在于求出每一个数与 $k$ 的最大公约数（时间复杂度为 $O(n \log k)$）之后，剩余的步骤需要的时间相对较少。因此剩余的步骤使用较为暴力的方法也可以通过。

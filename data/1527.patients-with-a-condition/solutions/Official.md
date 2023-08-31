@@ -1,4 +1,5 @@
 ## [1527.患某种疾病的患者 中文官方题解](https://leetcode.cn/problems/patients-with-a-condition/solutions/100000/huan-mou-chong-ji-bing-de-huan-zhe-by-le-7i52)
+
 [TOC]
 
 ## 解决方案

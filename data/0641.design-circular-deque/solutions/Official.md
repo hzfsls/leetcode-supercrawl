@@ -1,4 +1,5 @@
 ## [641.设计循环双端队列 中文官方题解](https://leetcode.cn/problems/design-circular-deque/solutions/100000/she-ji-xun-huan-shuang-duan-dui-lie-by-l-97v0)
+
 #### 方法一：数组
 
 可以参考循环队列：「[622. 设计循环队列](https://leetcode.cn/problems/design-circular-queue/)」，我们利用循环队列实现双端队列。在循环队列中的基础上，我们增加 $\texttt{insertFront}$ 和 $\texttt{deleteFront}$ 函数实现即可。根据循环队列的定义，队列判空的条件是 $\textit{front}=\textit{rear}$，而队列判满的条件是 $\textit{front} = (\textit{rear} + 1) \bmod \textit{capacity}$。

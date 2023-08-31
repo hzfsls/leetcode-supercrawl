@@ -1,4 +1,5 @@
 ## [1376.通知所有员工所需的时间 中文官方题解](https://leetcode.cn/problems/time-needed-to-inform-all-employees/solutions/100000/tong-zhi-suo-you-yuan-gong-suo-xu-de-shi-503h)
+
 ### 问题提示
 
 * 如何用代码表示员工之间的从属关系？

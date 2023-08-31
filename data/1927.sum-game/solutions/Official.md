@@ -1,4 +1,5 @@
 ## [1927.求和游戏 中文官方题解](https://leetcode.cn/problems/sum-game/solutions/100000/qiu-he-you-xi-by-leetcode-solution-06ti)
+
 #### 方法一：猜想 + 数学归纳法验证
 
 **提示 $1$**

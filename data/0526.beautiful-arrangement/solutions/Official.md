@@ -1,4 +1,5 @@
 ## [526.优美的排列 中文官方题解](https://leetcode.cn/problems/beautiful-arrangement/solutions/100000/you-mei-de-pai-lie-by-leetcode-solution-vea2)
+
 #### 方法一：回溯
 
 **思路和算法**

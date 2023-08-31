@@ -1,4 +1,5 @@
 ## [2187.完成旅途的最少时间 中文官方题解](https://leetcode.cn/problems/minimum-time-to-complete-trips/solutions/100000/wan-cheng-lu-tu-de-zui-shao-shi-jian-by-uxyrp)
+
 #### 方法一：二分查找转化为判定问题
 
 **提示 $1$**

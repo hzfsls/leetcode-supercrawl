@@ -1,4 +1,5 @@
 ## [1429.第一个唯一数字 中文官方题解](https://leetcode.cn/problems/first-unique-number/solutions/100000/di-yi-ge-wei-yi-shu-zi-by-leetcode-solut-h8no)
+
 [TOC]
  ## 解决方法
 

@@ -1,4 +1,5 @@
 ## [981.基于时间的键值存储 中文官方题解](https://leetcode.cn/problems/time-based-key-value-store/solutions/100000/ji-yu-shi-jian-de-jian-zhi-cun-chu-by-le-t98o)
+
 #### 方法一：哈希表 + 二分查找
 
 为实现 $\texttt{get}$ 操作，我们需要用一个哈希表存储 $\texttt{set}$ 操作传入的数据。具体地，哈希表的键为字符串 $\textit{key}$，值为一个二元组列表，二元组中存储的是时间戳 $\textit{timestamp}$ 和值 $\textit{value}$。

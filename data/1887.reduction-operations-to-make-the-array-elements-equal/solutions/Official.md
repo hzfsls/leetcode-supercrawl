@@ -1,4 +1,5 @@
 ## [1887.使数组元素相等的减少操作次数 中文官方题解](https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/solutions/100000/shi-shu-zu-yuan-su-xiang-deng-de-jian-sh-lt55)
+
 #### 方法一：排序
 
 **提示 $1$**

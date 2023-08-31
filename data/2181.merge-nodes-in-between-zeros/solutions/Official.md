@@ -1,4 +1,5 @@
 ## [2181.合并零之间的节点 中文官方题解](https://leetcode.cn/problems/merge-nodes-in-between-zeros/solutions/100000/he-bing-ling-zhi-jian-de-jie-dian-by-lee-zo9b)
+
 #### 方法一：模拟
 
 **思路与算法**

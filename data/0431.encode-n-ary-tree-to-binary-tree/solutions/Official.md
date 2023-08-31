@@ -1,4 +1,5 @@
 ## [431.将 N 叉树编码为二叉树 中文官方题解](https://leetcode.cn/problems/encode-n-ary-tree-to-binary-tree/solutions/100000/jiang-n-cha-shu-bian-ma-wei-er-cha-shu-b-2m84)
+
 [TOC]
 
 ## 解决方案

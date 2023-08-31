@@ -1,4 +1,5 @@
 ## [1081.不同字符的最小子序列 中文官方题解](https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/solutions/100000/bu-tong-zi-fu-de-zui-xiao-zi-xu-lie-by-l-5qyk)
+
 ### 📺 视频题解  
 ![...081. 不同字符的最小子序列 .mp4](80f8a567-14de-4568-81b6-d23a6d676eef)
 

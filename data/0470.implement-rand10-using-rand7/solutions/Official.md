@@ -1,4 +1,5 @@
 ## [470.用 Rand7() 实现 Rand10() 中文官方题解](https://leetcode.cn/problems/implement-rand10-using-rand7/solutions/100000/yong-rand7-shi-xian-rand10-by-leetcode-s-qbmd)
+
 #### 方法一：拒绝采样
 
 **思路与算法**

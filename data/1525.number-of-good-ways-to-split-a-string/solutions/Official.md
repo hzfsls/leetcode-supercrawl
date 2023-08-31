@@ -1,4 +1,5 @@
 ## [1525.字符串的好分割数目 中文官方题解](https://leetcode.cn/problems/number-of-good-ways-to-split-a-string/solutions/100000/zi-fu-chuan-de-hao-fen-ge-shu-mu-by-leetcode-solut)
+
 #### 方法一：动态规划
 
 **思路及算法**

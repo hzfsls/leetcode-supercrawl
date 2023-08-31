@@ -1,4 +1,5 @@
 ## [2283.判断一个数的数字计数是否等于数位的值 中文官方题解](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/solutions/100000/pan-duan-yi-ge-shu-de-shu-zi-ji-shu-shi-ozwa7)
+
 #### 方法一：哈希表
 
 **思路与算法**

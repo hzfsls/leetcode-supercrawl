@@ -1,4 +1,5 @@
 ## [488.祖玛游戏 中文官方题解](https://leetcode.cn/problems/zuma-game/solutions/100000/zu-ma-you-xi-by-leetcode-solution-lrp4)
+
 #### 方法一：广度优先搜索
 
 **思路**

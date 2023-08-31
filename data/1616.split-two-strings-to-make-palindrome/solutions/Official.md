@@ -1,4 +1,5 @@
 ## [1616.分割两个字符串得到回文串 中文官方题解](https://leetcode.cn/problems/split-two-strings-to-make-palindrome/solutions/100000/fen-ge-liang-ge-zi-fu-chuan-de-dao-hui-w-bjzk)
+
 #### 方法一：双指针
 
 **思路**

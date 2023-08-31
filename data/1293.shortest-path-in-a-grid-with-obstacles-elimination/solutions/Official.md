@@ -1,4 +1,5 @@
 ## [1293.网格中的最短路径 中文官方题解](https://leetcode.cn/problems/shortest-path-in-a-grid-with-obstacles-elimination/solutions/100000/wang-ge-zhong-de-zui-duan-lu-jing-by-leetcode-solu)
+
 ### 方法一：广度优先搜索
 
 对于二维网格中的最短路问题，我们一般可以使用广度优先搜索 + 队列的方法解决。

@@ -1,4 +1,5 @@
 ## [1041.困于环中的机器人 中文官方题解](https://leetcode.cn/problems/robot-bounded-in-circle/solutions/100000/kun-yu-huan-zhong-de-ji-qi-ren-by-leetco-kjya)
+
 #### 方法一：模拟
 
 **思路**

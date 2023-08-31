@@ -1,4 +1,5 @@
 ## [1386.安排电影院座位 中文官方题解](https://leetcode.cn/problems/cinema-seat-allocation/solutions/100000/an-pai-dian-ying-yuan-zuo-wei-by-leetcode-solution)
+
 #### 方法一：位运算
 
 对于一个家庭而言，只有以下三种给他们安排座位的方法：

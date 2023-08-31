@@ -1,4 +1,5 @@
 ## [1237.找出给定方程的正整数解 中文官方题解](https://leetcode.cn/problems/find-positive-integer-solution-for-a-given-equation/solutions/100000/zhao-chu-gei-ding-fang-cheng-de-zheng-zh-kie6)
+
 #### 前言
 
 本题是「[240. 搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/)」的变形题。

@@ -1,4 +1,5 @@
 ## [2063.所有子字符串中的元音 中文官方题解](https://leetcode.cn/problems/vowels-of-all-substrings/solutions/100000/suo-you-zi-zi-fu-chuan-zhong-de-yuan-yin-vuyj)
+
 #### 方法一：对偶性质
 
 **思路与算法**

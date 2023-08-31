@@ -1,4 +1,5 @@
 ## [1275.找出井字棋的获胜者 中文官方题解](https://leetcode.cn/problems/find-winner-on-a-tic-tac-toe-game/solutions/100000/zhao-chu-jing-zi-qi-de-huo-sheng-zhe-by-leetcode-s)
+
 ### 方法一：模拟
 
 我们可以模拟数组 `move` 中的每一步落子。我们使用两个集合 `A` 和 `B` 存放每位玩家当前已经落子的位置，并用集合 `wins` 存放棋子排成一条直线的所有情况（排成一行或一列各有 `3` 种，排成对角线有 `2` 种，总计 `8` 种）。当某位玩家落子时，我们枚举 `wins` 中的每一种情况，并判断该玩家是否将棋子落在了这些位置。如果满足了其中一种情况，则该玩家获胜。

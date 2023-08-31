@@ -1,4 +1,5 @@
 ## [2273.移除字母异位词后的结果数组 中文官方题解](https://leetcode.cn/problems/find-resultant-array-after-removing-anagrams/solutions/100000/yi-chu-zi-mu-yi-wei-ci-hou-de-jie-guo-sh-xi48)
+
 #### 方法一：逐个判断
 
 **思路与算法**

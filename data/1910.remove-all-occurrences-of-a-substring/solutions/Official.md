@@ -1,4 +1,5 @@
 ## [1910.删除一个字符串中所有出现的给定子字符串 中文官方题解](https://leetcode.cn/problems/remove-all-occurrences-of-a-substring/solutions/100000/shan-chu-yi-ge-zi-fu-chuan-zhong-suo-you-4j08)
+
 #### 方法一：模拟 + 暴力匹配
 
 **思路与算法**

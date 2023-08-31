@@ -1,4 +1,5 @@
 ## [276.栅栏涂色 中文官方题解](https://leetcode.cn/problems/paint-fence/solutions/100000/zha-lan-tu-se-by-leetcode-solution-yv0k)
+
 [TOC]
 
 ## 解决方案

@@ -1,4 +1,5 @@
 ## [1101.彼此熟识的最早时间 中文官方题解](https://leetcode.cn/problems/the-earliest-moment-when-everyone-become-friends/solutions/100000/bi-ci-shou-shi-de-zui-zao-shi-jian-by-le-e3yb)
+
 ## 题解 
 
 ---

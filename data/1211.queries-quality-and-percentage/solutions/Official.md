@@ -1,4 +1,5 @@
 ## [1211.查询结果的质量和占比 中文官方题解](https://leetcode.cn/problems/queries-quality-and-percentage/solutions/100000/cha-xun-jie-guo-de-zhi-liang-he-zhan-bi-by-leetcod)
+
 #### 方法一：`GROUP BY`
 
 **思路**

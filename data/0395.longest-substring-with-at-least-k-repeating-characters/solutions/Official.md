@@ -1,4 +1,5 @@
 ## [395.至少有 K 个重复字符的最长子串 中文官方题解](https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/solutions/100000/zhi-shao-you-kge-zhong-fu-zi-fu-de-zui-c-o6ww)
+
 #### 方法一：分治
 
 对于字符串 $s$，如果存在某个字符 $\textit{ch}$，它的出现次数大于 $0$ 且小于 $k$，则任何包含 $\textit{ch}$ 的子串都不可能满足要求。也就是说，我们将字符串按照 $\textit{ch}$ 切分成若干段，则满足要求的最长子串一定出现在某个被切分的段内，而不能跨越一个或多个段。因此，可以考虑分治的方式求解本题。

@@ -1,4 +1,5 @@
 ## [565.数组嵌套 中文官方题解](https://leetcode.cn/problems/array-nesting/solutions/100000/shu-zu-qian-tao-by-leetcode-solution-7ur3)
+
 #### 方法一：图
 
 遍历数组，从 $i$ 向 $\textit{nums}[i]$ 连边，我们可以得到一张有向图。

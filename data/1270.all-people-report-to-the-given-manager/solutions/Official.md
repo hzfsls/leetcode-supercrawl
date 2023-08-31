@@ -1,4 +1,5 @@
 ## [1270.向公司CEO汇报工作的所有人 中文官方题解](https://leetcode.cn/problems/all-people-report-to-the-given-manager/solutions/100000/xiang-gong-si-ceohui-bao-gong-zuo-de-suo-you-ren-b)
+
 #### 方法一：`UNION ALL`、子查询
 
 **思路**

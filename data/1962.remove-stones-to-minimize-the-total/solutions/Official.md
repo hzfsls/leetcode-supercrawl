@@ -1,4 +1,5 @@
 ## [1962.移除石子使总数最小 中文官方题解](https://leetcode.cn/problems/remove-stones-to-minimize-the-total/solutions/100000/yi-chu-shi-zi-shi-zong-shu-zui-xiao-by-l-9lsg)
+
 #### 方法一：最大堆（优先队列）
 
 **提示 $1$**

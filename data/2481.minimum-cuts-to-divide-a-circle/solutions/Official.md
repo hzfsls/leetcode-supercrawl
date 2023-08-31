@@ -1,4 +1,5 @@
 ## [2481.分割圆的最少切割次数 中文官方题解](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/solutions/100000/fen-ge-yuan-de-zui-shao-qie-ge-ci-shu-by-fsrb)
+
 #### 方法一：分情况讨论
 
 **思路**

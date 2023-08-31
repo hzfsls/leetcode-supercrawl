@@ -1,4 +1,5 @@
 ## [1638.统计只差一个字符的子串数目 中文官方题解](https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/solutions/100000/tong-ji-zhi-chai-yi-ge-zi-fu-de-zi-chuan-z8xi)
+
 #### 方法一：枚举
 
 **思路与算法**

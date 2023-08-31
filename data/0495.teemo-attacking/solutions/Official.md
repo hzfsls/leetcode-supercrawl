@@ -1,4 +1,5 @@
 ## [495.提莫攻击 中文官方题解](https://leetcode.cn/problems/teemo-attacking/solutions/100000/ti-mo-gong-ji-by-leetcode-solution-6p4k)
+
 #### 方法一：单次扫描
 
 我们只需要对数组进行一次扫描就可以计算出总的中毒持续时间。我们记录艾希恢复为未中毒的起始时间 $\textit{expired}$，设艾希遭遇第 $i$ 次的攻击的时间为 $\textit{timeSeries}[i]$。当艾希遭遇第 $i$ 攻击时：

@@ -1,4 +1,5 @@
 ## [1388.3n 块披萨 中文官方题解](https://leetcode.cn/problems/pizza-with-3n-slices/solutions/100000/3n-kuai-pi-sa-by-leetcode-solution)
+
 #### 前言
 
 本题可以转化成如下问题：

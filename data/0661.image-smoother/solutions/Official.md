@@ -1,4 +1,5 @@
 ## [661.图片平滑器 中文官方题解](https://leetcode.cn/problems/image-smoother/solutions/100000/tu-pian-ping-hua-qi-by-leetcode-solution-9oi5)
+
 #### 方法一：遍历
 
 **思路和算法**

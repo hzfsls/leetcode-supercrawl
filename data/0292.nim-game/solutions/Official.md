@@ -1,4 +1,5 @@
 ## [292.Nim 游戏 中文官方题解](https://leetcode.cn/problems/nim-game/solutions/100000/nim-you-xi-by-leetcode-solution-95g8)
+
 #### 方法一：数学推理
 
 **思路与算法**

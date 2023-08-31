@@ -1,4 +1,5 @@
 ## [649.Dota2 参议院 中文官方题解](https://leetcode.cn/problems/dota2-senate/solutions/100000/dota2-can-yi-yuan-by-leetcode-solution-jb7l)
+
 #### 方法一：贪心 + 「循环」队列
 
 **思路与算法**

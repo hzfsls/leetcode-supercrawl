@@ -1,4 +1,5 @@
 ## [1010.总持续时间可被 60 整除的歌曲 中文官方题解](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/solutions/100000/zong-chi-xu-shi-jian-ke-bei-60-zheng-chu-42cu)
+
 #### 方法一：组合数学
 
 **思路**

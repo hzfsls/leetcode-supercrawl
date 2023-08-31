@@ -1,4 +1,5 @@
 ## [1515.服务中心的最佳位置 中文官方题解](https://leetcode.cn/problems/best-position-for-a-service-centre/solutions/100000/fu-wu-zhong-xin-de-zui-jia-wei-zhi-by-leetcode-sol)
+
 #### 前言
 
 比起普通的算法题，本题更像是机器学习岗位面试中的一道数学题。题目中给定的函数是一个凸函数（convex function），因此这是一个凸优化问题，「局部最小值」就等于「全局最小值」。

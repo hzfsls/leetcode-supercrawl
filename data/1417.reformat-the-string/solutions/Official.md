@@ -1,4 +1,5 @@
 ## [1417.重新格式化字符串 中文官方题解](https://leetcode.cn/problems/reformat-the-string/solutions/100000/zhong-xin-ge-shi-hua-zi-fu-chuan-by-leet-lgqx)
+
 #### 方法一：双指针
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [349.两个数组的交集 中文官方题解](https://leetcode.cn/problems/intersection-of-two-arrays/solutions/100000/liang-ge-shu-zu-de-jiao-ji-by-leetcode-solution)
+
 #### 方法一：两个集合
 
 计算两个数组的交集，直观的方法是遍历数组 `nums1`，对于其中的每个元素，遍历数组 `nums2` 判断该元素是否在数组 `nums2` 中，如果存在，则将该元素添加到返回值。假设数组 `nums1` 和 `nums2` 的长度分别是 $m$ 和 $n$，则遍历数组 `nums1` 需要 $O(m)$ 的时间，判断 `nums1` 中的每个元素是否在数组 `nums2` 中需要 $O(n)$ 的时间，因此总时间复杂度是 $O(mn)$。

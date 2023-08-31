@@ -1,4 +1,5 @@
 ## [547.省份数量 中文官方题解](https://leetcode.cn/problems/number-of-provinces/solutions/100000/sheng-fen-shu-liang-by-leetcode-solution-eyk0)
+
 #### 前言
 
 可以把 $n$ 个城市和它们之间的相连关系看成图，城市是图中的节点，相连关系是图中的边，给定的矩阵 $\textit{isConnected}$ 即为图的邻接矩阵，省份即为图中的连通分量。

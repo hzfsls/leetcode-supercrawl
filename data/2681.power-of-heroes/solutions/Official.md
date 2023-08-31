@@ -1,4 +1,5 @@
 ## [2681.英雄的力量 中文官方题解](https://leetcode.cn/problems/power-of-heroes/solutions/100000/ying-xiong-de-li-liang-by-leetcode-solut-9k1g)
+
 #### 方法一：动态规划 + 前缀和
 
 **思路与算法**

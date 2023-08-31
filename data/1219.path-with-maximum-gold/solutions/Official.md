@@ -1,4 +1,5 @@
 ## [1219.黄金矿工 中文官方题解](https://leetcode.cn/problems/path-with-maximum-gold/solutions/100000/huang-jin-kuang-gong-by-leetcode-solutio-f9gg)
+
 #### 方法一：回溯算法
 
 **思路与算法**

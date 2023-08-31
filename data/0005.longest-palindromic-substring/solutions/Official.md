@@ -1,4 +1,5 @@
 ## [5.最长回文子串 中文官方题解](https://leetcode.cn/problems/longest-palindromic-substring/solutions/100000/zui-chang-hui-wen-zi-chuan-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![5-最长回文子串.mp4](fa050df7-29f7-4f4e-b0f6-a196c2da0724)
 

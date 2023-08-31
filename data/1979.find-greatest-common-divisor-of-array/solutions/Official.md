@@ -1,4 +1,5 @@
 ## [1979.找出数组的最大公约数 中文官方题解](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/solutions/100000/zhao-chu-shu-zu-de-zui-da-gong-yue-shu-b-brqd)
+
 #### 方法一：按要求计算
 
 **思路与算法**

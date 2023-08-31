@@ -1,4 +1,5 @@
 ## [486.预测赢家 中文官方题解](https://leetcode.cn/problems/predict-the-winner/solutions/100000/yu-ce-ying-jia-by-leetcode-solution)
+
 #### 方法一：递归
 
 为了判断哪个玩家可以获胜，需要计算一个总分，即先手得分与后手得分之差。当数组中的所有数字都被拿取时，如果总分大于或等于 $0$，则先手获胜，反之则后手获胜。

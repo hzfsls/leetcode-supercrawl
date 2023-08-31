@@ -1,4 +1,5 @@
 ## [823.带因子的二叉树 中文官方题解](https://leetcode.cn/problems/binary-trees-with-factors/solutions/100000/dai-yin-zi-de-er-cha-shu-by-leetcode-sol-0082)
+
 #### 方法一：动态规划 + 双指针
 
 因为每个整数 $\textit{arr}[i]$ 均大于 $1$，因此每个非叶结点的值都大于它的子结点的值。考虑以 $\textit{arr}[i]$ 为根结点的带因子的二叉树，那么它的所有子孙结点的值都小于 $\textit{arr}[i]$。我们将 $\textit{arr}$ 从小到大进行排序，那么对于以 $\textit{arr}[i]$ 为根结点的带因子的二叉树，它的子孙结点值的下标只能在区间 $[0, i - 1)$ 中。

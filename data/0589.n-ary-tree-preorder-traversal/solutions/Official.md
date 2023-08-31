@@ -1,4 +1,5 @@
 ## [589.N 叉树的前序遍历 中文官方题解](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/solutions/100000/n-cha-shu-de-qian-xu-bian-li-by-leetcode-bg99)
+
 #### 方法一：递归
 
 **思路**

@@ -1,4 +1,5 @@
 ## [2383.赢得比赛需要的最少训练时长 中文官方题解](https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/solutions/100000/ying-de-bi-sai-xu-yao-de-zui-shao-xun-li-kujd)
+
 #### 方法一：模拟
 
 **思路**

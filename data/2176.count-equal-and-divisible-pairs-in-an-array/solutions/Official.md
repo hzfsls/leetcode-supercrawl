@@ -1,4 +1,5 @@
 ## [2176.统计数组中相等且可以被整除的数对 中文官方题解](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/solutions/100000/tong-ji-shu-zu-zhong-xiang-deng-qie-ke-y-tc4p)
+
 #### 方法一：遍历数对
 
 **思路与算法**

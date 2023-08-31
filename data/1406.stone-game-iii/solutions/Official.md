@@ -1,4 +1,5 @@
 ## [1406.石子游戏 III 中文官方题解](https://leetcode.cn/problems/stone-game-iii/solutions/100000/shi-zi-you-xi-iii-by-leetcode-solution)
+
 #### 方法一：动态规划
 
 对于这种两个玩家、分先后手、博弈类型的题目，我们一般可以使用动态规划来解决。

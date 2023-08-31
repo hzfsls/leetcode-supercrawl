@@ -1,4 +1,5 @@
 ## [1374.生成每种字符都是奇数个的字符串 中文官方题解](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/solutions/100000/sheng-cheng-mei-chong-zi-fu-du-shi-qi-sh-c2yf)
+
 #### 方法一：分类讨论
 
 **思路与算法**

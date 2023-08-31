@@ -1,4 +1,5 @@
 ## [297.二叉树的序列化与反序列化 中文官方题解](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/solutions/100000/er-cha-shu-de-xu-lie-hua-yu-fan-xu-lie-hua-by-le-2)
+
 #### 方法一：深度优先搜索
 
 **思路和算法**

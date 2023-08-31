@@ -1,4 +1,5 @@
 ## [1932.合并多棵二叉搜索树 中文官方题解](https://leetcode.cn/problems/merge-bsts-to-create-single-bst/solutions/100000/he-bing-duo-ke-er-cha-sou-suo-shu-by-lee-m42t)
+
 #### 方法一：构造的唯一性
 
 **提示 $1$**

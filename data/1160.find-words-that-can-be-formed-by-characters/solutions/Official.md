@@ -1,4 +1,5 @@
 ## [1160.拼写单词 中文官方题解](https://leetcode.cn/problems/find-words-that-can-be-formed-by-characters/solutions/100000/pin-xie-dan-ci-by-leetcode-solution)
+
 ### 📺 视频题解  
 ![1160. 拼写单词 1.mp4](00067219-da0f-4f84-9d10-7a13053bf870)
 

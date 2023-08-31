@@ -1,4 +1,5 @@
 ## [811.子域名访问计数 中文官方题解](https://leetcode.cn/problems/subdomain-visit-count/solutions/100000/zi-yu-ming-fang-wen-ji-shu-by-leetcode-s-0a6i)
+
 #### 方法一：哈希表
 
 每个计数配对域名的格式都是 $\texttt{"rep d1.d2.d3"}$ 或 $\texttt{"rep d1.d2"}$。子域名的计数如下：

@@ -1,4 +1,5 @@
 ## [1360.日期之间隔几天 中文官方题解](https://leetcode.cn/problems/number-of-days-between-two-dates/solutions/100000/ri-qi-zhi-jian-ge-ji-tian-by-leetcode-solution)
+
 #### 方法一：将日期转化为为整数（暴力）
 
 由于题目中的日期不会早于 1971 年，我们可以将两个日期转化为距离 1971 年 1 月 1 日的天数。这一转化过程可以直接暴力求解：从当前日期开始，一天一天递减，直到 1971 年 1 月 1 日为止。

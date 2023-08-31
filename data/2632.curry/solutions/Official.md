@@ -1,4 +1,5 @@
 ## [2632.柯里化 中文官方题解](https://leetcode.cn/problems/curry/solutions/100000/ke-li-hua-by-leetcode-solution-ncu3)
+
 [TOC]
 
 ## 解决方案

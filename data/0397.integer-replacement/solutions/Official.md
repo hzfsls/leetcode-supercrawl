@@ -1,4 +1,5 @@
 ## [397.整数替换 中文官方题解](https://leetcode.cn/problems/integer-replacement/solutions/100000/zheng-shu-ti-huan-by-leetcode-solution-swef)
+
 #### 方法一：枚举所有的情况
 
 **思路与算法**

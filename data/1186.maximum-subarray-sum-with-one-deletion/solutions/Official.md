@@ -1,4 +1,5 @@
 ## [1186.删除一次得到子数组最大和 中文官方题解](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/solutions/100000/shan-chu-yi-ci-de-dao-zi-shu-zu-de-zui-d-o1o9)
+
 #### 方法一：动态规划
 
 本题是典型的动态规划应用题，我们可以将问题拆分成多个子问题，即求解以 $\textit{arr}[i]$ 结尾的最多删除一次的非空子数组的最大和。我们以 $\textit{dp}[i][k]$ 表示以 $\textit{arr}[i]$ 结尾，删除 $k$ 次的非空子数组的最大和（删除前的末尾元素为 $\textit{arr}[i]$，就视为以 $\textit{arr}[i]$ 结尾）。初始时 $\textit{dp}[0][0] = \textit{arr}[0]$，$\textit{dp}[0][1] ＝ 0$（以 $\textit{arr}[0]$ 结尾，删除一次的非空子数组不存在，因此 $\textit{dp}[0][1]$ 不会计入结果）。当 $i \gt 0$ 时，转移方程如下：

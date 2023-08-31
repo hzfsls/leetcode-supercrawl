@@ -1,4 +1,5 @@
 ## [1316.不同的循环子字符串 中文官方题解](https://leetcode.cn/problems/distinct-echo-substrings/solutions/100000/bu-tong-de-xun-huan-zi-zi-fu-chuan-by-leetcode-sol)
+
 #### 方法一：枚举
 
 我们在 `text` 中枚举位置 `i` 和 `j`，若字符串 `text[i:j]` 和 `text[j:j*2-i]` 相等，那么字符串 `text[i:j*2-i]` 就是一个满足条件的子串，其中 `text[x:y]` 表示字符串 `text` 中以位置 `x` 开始，位置 `y` 结束并且不包含位置 `y` 的子串。

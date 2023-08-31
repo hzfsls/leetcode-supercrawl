@@ -1,4 +1,5 @@
 ## [2633.将对象转换为 JSON 字符串 中文官方题解](https://leetcode.cn/problems/convert-object-to-json-string/solutions/100000/jiang-dui-xiang-zhuan-huan-wei-json-zi-f-7zcb)
+
 ## 概述
 
  问题要求我们将一个对象转换为有效的JSON字符串表示。我们得到的对象可能包含字符串、整数、数组、对象、布尔值和null值。我们需要将这个对象转换为JSON字符串，而不使用内置的`JSON.stringify`方法。生成的字符串应该有与`Object.keys()`返回的相同的键顺序，且不应该包含额外的空格。 

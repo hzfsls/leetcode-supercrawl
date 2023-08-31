@@ -1,4 +1,5 @@
 ## [1137.第 N 个泰波那契数 中文官方题解](https://leetcode.cn/problems/n-th-tribonacci-number/solutions/100000/di-n-ge-tai-bo-na-qi-shu-by-leetcode-sol-kn16)
+
 #### 方法一：动态规划
 
 泰波那契数的边界条件是 $T(0)=0, T(1)=1, T(2)=1$。当 $n>2$ 时，每一项的和都等于前三项的和，因此有如下递推关系：

@@ -1,4 +1,5 @@
 ## [1672.最富有客户的资产总量 中文官方题解](https://leetcode.cn/problems/richest-customer-wealth/solutions/100000/zui-fu-you-ke-hu-de-zi-chan-zong-liang-b-8p06)
+
 #### 方法一：遍历
 
 **思路与算法**

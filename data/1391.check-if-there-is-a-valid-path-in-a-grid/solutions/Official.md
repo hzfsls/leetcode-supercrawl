@@ -1,4 +1,5 @@
 ## [1391.检查网格中是否存在有效路径 中文官方题解](https://leetcode.cn/problems/check-if-there-is-a-valid-path-in-a-grid/solutions/100000/jian-cha-wang-ge-zhong-shi-fou-cun-zai-you-xiao-lu)
+
 #### 说明
 
 **静态连通性**

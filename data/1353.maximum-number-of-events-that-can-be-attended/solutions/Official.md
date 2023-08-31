@@ -1,4 +1,5 @@
 ## [1353.最多可以参加的会议数目 中文官方题解](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended/solutions/100000/zui-duo-ke-yi-can-jia-de-hui-yi-shu-mu-by-leetcode)
+
 #### 解题思路：
 
 贪心的思想，对于第 $i$ 天，如果有若干的会议都可以在这一天开，那么我们肯定是让 $endDay$ 小的会议先在这一天开才会使答案最优，因为 $endDay$ 大的会议可选择的空间是比 $endDay$ 小的多的，所以在满足条件的会议需要让 $endDay$ 小的先开。

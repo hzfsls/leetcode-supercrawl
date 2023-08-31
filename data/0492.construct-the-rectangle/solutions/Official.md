@@ -1,4 +1,5 @@
 ## [492.构造矩形 中文官方题解](https://leetcode.cn/problems/construct-the-rectangle/solutions/100000/gou-zao-ju-xing-by-leetcode-solution-dest)
+
 #### 方法一：数学
 
 根据题目给出的三个要求，可知：

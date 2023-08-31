@@ -1,4 +1,5 @@
 ## [640.求解方程 中文官方题解](https://leetcode.cn/problems/solve-the-equation/solutions/100000/qiu-jie-fang-cheng-by-leetcode-solution-knct)
+
 #### 方法一：解析
 
 我们将等式右边的项都移到等式左边，那么等式右边的项的默认系数为 $-1$。我们依次解析方程的项，并将同类项进行合并，使用 $\textit{factor}$ 表示变量的系数，$\textit{val}$ 表示常量值。

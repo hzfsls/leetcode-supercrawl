@@ -1,4 +1,5 @@
 ## [1706.球会落何处 中文官方题解](https://leetcode.cn/problems/where-will-the-ball-fall/solutions/100000/qiu-hui-luo-he-chu-by-leetcode-solution-xqop)
+
 #### 方法一：模拟
 
 **思路**

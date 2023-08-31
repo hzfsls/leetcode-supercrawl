@@ -1,4 +1,5 @@
 ## [1544.整理字符串 中文官方题解](https://leetcode.cn/problems/make-the-string-great/solutions/100000/zheng-li-zi-fu-chuan-by-leetcode-solution)
+
 #### 方法一：模拟
 
 **思路与算法**

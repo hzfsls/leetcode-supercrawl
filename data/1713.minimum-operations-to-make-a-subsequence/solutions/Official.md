@@ -1,4 +1,5 @@
 ## [1713.得到子序列的最少操作次数 中文官方题解](https://leetcode.cn/problems/minimum-operations-to-make-a-subsequence/solutions/100000/de-dao-zi-xu-lie-de-zui-shao-cao-zuo-ci-hefgl)
+
 #### 方法一：贪心 + 二分查找
 
 记数组 $\textit{target}$ 的长度为 $n$，数组$\textit{arr}$ 的长度为 $m$。

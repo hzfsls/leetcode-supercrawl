@@ -1,4 +1,5 @@
 ## [458.可怜的小猪 中文官方题解](https://leetcode.cn/problems/poor-pigs/solutions/100000/ke-lian-de-xiao-zhu-by-leetcode-solution-z0h7)
+
 #### 方法一：动态规划
 
 根据 $\textit{minutesToDie}$ 和 $\textit{minutesToTest}$，可以计算得到最大测试轮数 $\textit{iterations} = \Big\lfloor \dfrac{\textit{minutesToTest}}{\textit{minutesToDie}} \Big\rfloor$。

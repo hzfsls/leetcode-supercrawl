@@ -1,4 +1,5 @@
 ## [1856.子数组最小乘积的最大值 中文官方题解](https://leetcode.cn/problems/maximum-subarray-min-product/solutions/100000/zi-shu-zu-zui-xiao-cheng-ji-de-zui-da-zh-rq8r)
+
 #### 方法一：单调栈
 
 **提示 $1$**

@@ -1,4 +1,5 @@
 ## [326.3 的幂 中文官方题解](https://leetcode.cn/problems/power-of-three/solutions/100000/3de-mi-by-leetcode-solution-hnap)
+
 #### 方法一：试除法
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [2410.运动员和训练师的最大匹配数 中文官方题解](https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/solutions/100000/yun-dong-yuan-he-xun-lian-shi-de-zui-da-3icgd)
+
 #### 方法一：排序 + 双指针 + 贪心
 
 为了尽可能匹配最多数量的运动员，从贪心的角度考虑，应该按照运动员的能力值从小到大的顺序依次匹配每个运动员，且对于每个运动员，应该选择可以匹配这个运动员的能力值且能力值最小的训练师。证明如下。

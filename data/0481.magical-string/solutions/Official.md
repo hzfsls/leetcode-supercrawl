@@ -1,4 +1,5 @@
 ## [481.神奇字符串 中文官方题解](https://leetcode.cn/problems/magical-string/solutions/100000/shen-qi-zi-fu-chuan-by-leetcode-solution-y5dg)
+
 #### 方法一：双指针
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1742.盒子中小球的最大数量 中文官方题解](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/solutions/100000/he-zi-zhong-xiao-qiu-de-zui-da-shu-liang-9sfh)
+
 #### 方法一：哈希表
 
 遍历所有的小球，对于编号为 $i$ 的小球，计算它应该放入的盒子编号 $\textit{box}$，使用哈希表 $\textit{count}$ 记录每个盒子中的小球数量，返回遍历结束后 $\textit{count}$ 中小球数量最大的盒子对应的小球数量即可。

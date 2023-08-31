@@ -1,4 +1,5 @@
 ## [1624.两个相同字符之间的最长子字符串 中文官方题解](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/solutions/100000/liang-ge-xiang-tong-zi-fu-zhi-jian-de-zu-9n2l)
+
 #### 方法一：直接遍历
 
 题目要求求出两个相同字符之间的最长子字符串的长度。对于字符 $\textit{ch}$，只需要求出 $\textit{ch}$ 第一次出现在字符串中的索引位置 $\textit{first}$ 和最后一次出现在字符串中的索引位置 $\textit{last}$，则以 $\textit{ch}$ 为相同字符之间的子字符串的最大长度一定为 $\textit{last} - \textit{first} - 1$，我们依次求出所有可能的子字符的长度的最大值即可。我们设数组 $\textit{firstIndex}$ 记录每个字符 $i$ 在字符串中第一次出现的索引，$\textit{maxLength}$ 表示当前子字符串的最大长度。

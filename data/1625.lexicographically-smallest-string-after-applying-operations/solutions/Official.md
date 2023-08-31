@@ -1,4 +1,5 @@
 ## [1625.执行操作后字典序最小的字符串 中文官方题解](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/solutions/100000/zhi-xing-cao-zuo-hou-zi-dian-xu-zui-xiao-4jyr)
+
 #### 方法一：枚举
 
 **思路与算法**

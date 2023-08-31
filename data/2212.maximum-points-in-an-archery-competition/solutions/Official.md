@@ -1,4 +1,5 @@
 ## [2212.射箭比赛中的最大得分 中文官方题解](https://leetcode.cn/problems/maximum-points-in-an-archery-competition/solutions/100000/she-jian-bi-sai-zhong-de-zui-da-de-fen-b-zwh9)
+
 #### 方法一：枚举状态
 
 **思路与算法**

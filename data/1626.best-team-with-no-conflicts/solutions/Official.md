@@ -1,4 +1,5 @@
 ## [1626.无矛盾的最佳球队 中文官方题解](https://leetcode.cn/problems/best-team-with-no-conflicts/solutions/100000/wu-mao-dun-de-zui-jia-qiu-dui-by-leetcod-2lxf)
+
 #### 方法一：动态规划
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [98.验证二叉搜索树 中文官方题解](https://leetcode.cn/problems/validate-binary-search-tree/solutions/100000/yan-zheng-er-cha-sou-suo-shu-by-leetcode-solution)
+
 ### 📺 视频题解 
  
 ![...验证二叉搜索树 - Lizzi.mp4](9c48c167-86cd-4bcb-9e79-b3123afb2083)

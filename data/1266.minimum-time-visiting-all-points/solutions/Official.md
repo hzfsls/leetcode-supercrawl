@@ -1,4 +1,5 @@
 ## [1266.访问所有点的最小时间 中文官方题解](https://leetcode.cn/problems/minimum-time-visiting-all-points/solutions/100000/fang-wen-suo-you-dian-de-zui-xiao-shi-jian-by-le-2)
+
 #### 方法一：切比雪夫距离
 
 对于平面上的两个点 `x = (x0, x1)` 和 `y = (y0, y1)`，设它们横坐标距离之差为 `dx = |x0 - y0|`，纵坐标距离之差为 `dy = |x1 - y1|`，对于以下三种情况，我们可以分别计算出从 `x` 移动到 `y` 的最少次数：

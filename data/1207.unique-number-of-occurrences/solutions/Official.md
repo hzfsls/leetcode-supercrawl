@@ -1,4 +1,5 @@
 ## [1207.独一无二的出现次数 中文官方题解](https://leetcode.cn/problems/unique-number-of-occurrences/solutions/100000/du-yi-wu-er-de-chu-xian-ci-shu-by-leetcode-solutio)
+
 #### 方法一：哈希表
 
 首先使用哈希表记录每个数字的出现次数；随后再利用新的哈希表，统计不同的出现次数的数目。如果不同的出现次数的数目等于不同数字的数目，则返回 $\text{true}$，否则返回 $\text{false}$。

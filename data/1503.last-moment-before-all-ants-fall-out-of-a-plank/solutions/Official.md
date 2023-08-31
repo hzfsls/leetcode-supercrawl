@@ -1,4 +1,5 @@
 ## [1503.所有蚂蚁掉下来前的最后一刻 中文官方题解](https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank/solutions/100000/suo-you-ma-yi-diao-xia-lai-qian-de-zui-hou-yi-ke-2)
+
 #### 方法一：模拟
 
 这道题最容易让人迷惑的地方在于「当两只向**不同**方向移动的蚂蚁在某个点相遇时，它们会同时改变移动方向并继续移动」。按照常规思路，需要对每只蚂蚁分别计算每个时刻所在的位置，如果考虑到改变移动方向，情况会非常复杂。

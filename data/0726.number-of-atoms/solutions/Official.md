@@ -1,4 +1,5 @@
 ## [726.原子的数量 中文官方题解](https://leetcode.cn/problems/number-of-atoms/solutions/100000/yuan-zi-de-shu-liang-by-leetcode-solutio-54lv)
+
 #### 方法一：栈 + 哈希表
 
 对于括号序列相关的题目，通用的解法是使用递归或栈。本题中我们将使用栈解决。

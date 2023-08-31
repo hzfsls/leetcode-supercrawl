@@ -1,4 +1,5 @@
 ## [222.完全二叉树的节点个数 中文官方题解](https://leetcode.cn/problems/count-complete-tree-nodes/solutions/100000/wan-quan-er-cha-shu-de-jie-dian-ge-shu-by-leetco-2)
+
 #### 方法一：二分查找 + 位运算
 
 对于任意二叉树，都可以通过广度优先搜索或深度优先搜索计算节点个数，时间复杂度和空间复杂度都是 $O(n)$，其中 $n$ 是二叉树的节点个数。这道题规定了给出的是完全二叉树，因此可以利用完全二叉树的特性计算节点个数。

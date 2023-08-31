@@ -1,4 +1,5 @@
 ## [1414.和为 K 的最少斐波那契数字数目 中文官方题解](https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/solutions/100000/he-wei-k-de-zui-shao-fei-bo-na-qi-shu-zi-shu-mu-by)
+
 #### 方法一：贪心
 
 **思路**

@@ -1,4 +1,5 @@
 ## [2356.每位教师所教授的科目种类的数量 中文官方题解](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher/solutions/100000/mei-wei-jiao-shi-suo-jiao-shou-de-ke-mu-1dn0h)
+
 [TOC]
 
 ## 解决方案

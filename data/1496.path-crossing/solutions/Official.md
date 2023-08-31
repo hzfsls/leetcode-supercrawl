@@ -1,4 +1,5 @@
 ## [1496.判断路径是否相交 中文官方题解](https://leetcode.cn/problems/path-crossing/solutions/100000/pan-duan-lu-jing-shi-fou-xiang-jiao-by-leetcode-so)
+
 #### 方法一：哈希表
 
 **思路**

@@ -1,4 +1,5 @@
 ## [1529.最少的后缀翻转次数 中文官方题解](https://leetcode.cn/problems/minimum-suffix-flips/solutions/100000/deng-pao-kai-guan-iv-by-leetcode-solution)
+
 #### 方法一：贪心
 
 根据翻转操作的定义，选定下标 $i$ 之后，翻转从下标 $i$ 到下标 $n-1$ 的每个字符，在下标 $i$ 前面的字符则不被翻转。因此，如果一个字符被翻转，则一定是选择了该字符的下标或者该字符前面的某个下标，然后进行了翻转操作。

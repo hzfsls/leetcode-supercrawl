@@ -1,4 +1,5 @@
 ## [1239.串联字符串的最大长度 中文官方题解](https://leetcode.cn/problems/maximum-length-of-a-concatenated-string-with-unique-characters/solutions/100000/chuan-lian-zi-fu-chuan-de-zui-da-chang-d-g6gk)
+
 #### 方法一：回溯 + 位运算
 
 我们需要计算可行解的长度，至于可行解具体是什么，以及可行解中各个字符的顺序我们是不用考虑的。因此构成可行解的每个字符串均可以视作一个字符集合，且集合不含重复元素。

@@ -1,4 +1,5 @@
 ## [825.适龄的朋友 中文官方题解](https://leetcode.cn/problems/friends-of-appropriate-ages/solutions/100000/gua-ling-de-peng-you-by-leetcode-solutio-v7yk)
+
 #### 方法一：排序 + 双指针
 
 **思路与算法**

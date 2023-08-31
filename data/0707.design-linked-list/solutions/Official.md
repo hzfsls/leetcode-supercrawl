@@ -1,4 +1,5 @@
 ## [707.设计链表 中文官方题解](https://leetcode.cn/problems/design-linked-list/solutions/100000/she-ji-lian-biao-by-leetcode-solution-abix)
+
 #### 方法一：单向链表
 
 **思路**

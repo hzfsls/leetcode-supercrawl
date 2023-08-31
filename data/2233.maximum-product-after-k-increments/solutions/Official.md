@@ -1,4 +1,5 @@
 ## [2233.K 次增加后的最大乘积 中文官方题解](https://leetcode.cn/problems/maximum-product-after-k-increments/solutions/100000/k-ci-zeng-jia-hou-de-zui-da-cheng-ji-by-0jnmm)
+
 #### 方法一：最小堆（优先队列）
 
 **提示 $1$**

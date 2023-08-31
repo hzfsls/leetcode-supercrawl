@@ -1,4 +1,5 @@
 ## [1797.设计一个验证系统 中文官方题解](https://leetcode.cn/problems/design-authentication-manager/solutions/100000/she-ji-yi-ge-yan-zheng-xi-tong-by-leetco-kqqb)
+
 #### 方法一：哈希表
 
 **思路**

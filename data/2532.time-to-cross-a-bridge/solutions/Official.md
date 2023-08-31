@@ -1,4 +1,5 @@
 ## [2532.过桥的时间 中文官方题解](https://leetcode.cn/problems/time-to-cross-a-bridge/solutions/100000/guo-qiao-de-shi-jian-by-leetcode-solutio-thj9)
+
 #### 方法一：优先队列
 
 **思路与算法**

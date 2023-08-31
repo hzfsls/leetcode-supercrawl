@@ -1,4 +1,5 @@
 ## [71.简化路径 中文官方题解](https://leetcode.cn/problems/simplify-path/solutions/100000/jian-hua-lu-jing-by-leetcode-solution-aucq)
+
 #### 方法一：栈
 
 **思路与算法**

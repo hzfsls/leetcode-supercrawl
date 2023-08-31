@@ -1,4 +1,5 @@
 ## [2201.统计可以提取的工件 中文官方题解](https://leetcode.cn/problems/count-artifacts-that-can-be-extracted/solutions/100000/tong-ji-ke-yi-ti-qu-de-gong-jian-by-leet-uszp)
+
 #### 方法一：使用哈希表存储挖掘的位置
 
 **思路与算法**

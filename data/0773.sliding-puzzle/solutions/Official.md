@@ -1,4 +1,5 @@
 ## [773.滑动谜题 中文官方题解](https://leetcode.cn/problems/sliding-puzzle/solutions/100000/hua-dong-mi-ti-by-leetcode-solution-q8dn)
+
 #### 方法一：广度优先搜索
 
 **思路与算法**

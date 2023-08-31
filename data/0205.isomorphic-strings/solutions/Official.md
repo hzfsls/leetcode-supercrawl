@@ -1,4 +1,5 @@
 ## [205.同构字符串 中文官方题解](https://leetcode.cn/problems/isomorphic-strings/solutions/100000/tong-gou-zi-fu-chuan-by-leetcode-solutio-s6fd)
+
 #### 方法一：哈希表
 
 此题是「[290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)」的简化版，需要我们判断 $s$ 和 $t$ 每个位置上的字符是否都一一对应，即 $s$ 的任意一个字符被 $t$ 中唯一的字符对应，同时 $t$ 的任意一个字符被 $s$ 中唯一的字符对应。这也被称为「双射」的关系。

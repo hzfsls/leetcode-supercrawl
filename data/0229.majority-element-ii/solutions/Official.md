@@ -1,4 +1,5 @@
 ## [229.多数元素 II 中文官方题解](https://leetcode.cn/problems/majority-element-ii/solutions/100000/qiu-zhong-shu-ii-by-leetcode-solution-y1rn)
+
 #### 方法一：哈希统计
 
 **思路**

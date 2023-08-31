@@ -1,4 +1,5 @@
 ## [501.二叉搜索树中的众数 中文官方题解](https://leetcode.cn/problems/find-mode-in-binary-search-tree/solutions/100000/er-cha-sou-suo-shu-zhong-de-zhong-shu-by-leetcode-)
+
 #### 方法一：中序遍历
 
 **思路与算法**

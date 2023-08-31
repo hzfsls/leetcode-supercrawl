@@ -1,4 +1,5 @@
 ## [1450.在既定时间做作业的学生人数 中文官方题解](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/solutions/100000/zai-ji-ding-shi-jian-zuo-zuo-ye-de-xue-s-uv49)
+
 #### 方法一：枚举
 
 题目要求找到 $\textit{queryTime}$ 时正在做作业的学生人数，第 $i$ 名学生的起始时间 $\textit{startTime}[i]$ 和完成时间 $\textit{endTime}[i]$ 如果满足 $\textit{startTime}[i] \le \textit{queryTime} \le \textit{endTime}[i]$，则可知该名学生在 $\textit{queryTime}$ 时一定正在作业。我们遍历所有学生的起始时间和结束时间，统计符合上述条件的学生总数即可。

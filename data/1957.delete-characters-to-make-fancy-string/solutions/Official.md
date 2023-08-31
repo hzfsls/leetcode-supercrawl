@@ -1,4 +1,5 @@
 ## [1957.删除字符使字符串变好 中文官方题解](https://leetcode.cn/problems/delete-characters-to-make-fancy-string/solutions/100000/shan-chu-zi-fu-shi-zi-fu-chuan-bian-hao-12ovq)
+
 #### 方法一：模拟
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1825.求出 MK 平均值 中文官方题解](https://leetcode.cn/problems/finding-mk-average/solutions/100000/qiu-chu-mk-ping-jun-zhi-by-leetcode-solu-sos6)
+
 #### 方法一：三个有序集合
 
 我们使用三个有序集合 $s_1$，$s_2$ 和 $s_3$ 分别保存最小的 $k$ 个元素、中间的 $m-2k$ 个元素和最大的 $k$ 个元素；使用 $\textit{sum}_2$ 保存 $s_2$ 中所有元素之和；使用队列 $q$ 保存最后的 $m$ 个元素。

@@ -1,4 +1,5 @@
 ## [1129.颜色交替的最短路径 中文官方题解](https://leetcode.cn/problems/shortest-path-with-alternating-colors/solutions/100000/yan-se-jiao-ti-de-zui-duan-lu-jing-by-le-vnuu)
+
 #### 方法一：广度优先搜索
 
 使用 $0$ 表示红色，$1$ 表示蓝色，对于某一节点 $x$，从节点 $0$ 到节点 $x$ 的红色边和蓝色边交替出现的路径有两种类型：

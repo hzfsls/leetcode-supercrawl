@@ -1,4 +1,5 @@
 ## [162.寻找峰值 中文官方题解](https://leetcode.cn/problems/find-peak-element/solutions/100000/xun-zhao-feng-zhi-by-leetcode-solution-96sj)
+
 #### 方法一：寻找最大值
 
 **思路与算法**

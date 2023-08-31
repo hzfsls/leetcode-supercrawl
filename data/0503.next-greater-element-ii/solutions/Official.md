@@ -1,4 +1,5 @@
 ## [503.下一个更大元素 II 中文官方题解](https://leetcode.cn/problems/next-greater-element-ii/solutions/100000/xia-yi-ge-geng-da-yuan-su-ii-by-leetcode-bwam)
+
 #### 方法一：单调栈 + 循环数组
 
 **思路及算法**

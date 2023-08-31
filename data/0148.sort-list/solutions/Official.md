@@ -1,4 +1,5 @@
 ## [148.排序链表 中文官方题解](https://leetcode.cn/problems/sort-list/solutions/100000/pai-xu-lian-biao-by-leetcode-solution)
+
 #### 前言
 
 「[147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list)」要求使用插入排序的方法对链表进行排序，插入排序的时间复杂度是 $O(n^2)$，其中 $n$ 是链表的长度。这道题考虑时间复杂度更低的排序算法。题目的进阶问题要求达到 $O(n \log n)$ 的时间复杂度和 $O(1)$ 的空间复杂度，时间复杂度是 $O(n \log n)$ 的排序算法包括归并排序、堆排序和快速排序（快速排序的最差时间复杂度是 $O(n^2)$），其中最适合链表的排序算法是归并排序。

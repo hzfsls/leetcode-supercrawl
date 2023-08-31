@@ -1,4 +1,5 @@
 ## [2500.删除每行中的最大值 中文官方题解](https://leetcode.cn/problems/delete-greatest-value-in-each-row/solutions/100000/shan-chu-mei-xing-zhong-de-zui-da-zhi-by-6fh9)
+
 #### 方法一：排序
 
 **思路与算法**

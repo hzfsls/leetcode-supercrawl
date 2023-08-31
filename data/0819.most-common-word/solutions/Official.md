@@ -1,4 +1,5 @@
 ## [819.最常见的单词 中文官方题解](https://leetcode.cn/problems/most-common-word/solutions/100000/zui-chang-jian-de-dan-ci-by-leetcode-sol-mzjb)
+
 #### 方法一：哈希表 + 计数
 
 为了判断给定段落中的每个单词是否在禁用单词列表中，需要使用哈希集合存储禁用单词列表中的单词。以下将禁用单词列表中的单词称为禁用单词。

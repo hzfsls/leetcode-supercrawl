@@ -1,4 +1,5 @@
 ## [2006.差的绝对值为 K 的数对数目 中文官方题解](https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/solutions/100000/chai-de-jue-dui-zhi-wei-k-de-shu-dui-shu-xspo)
+
 #### 方法一：暴力
 
 **思路**

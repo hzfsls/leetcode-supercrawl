@@ -1,4 +1,5 @@
 ## [1697.检查边长度限制的路径是否存在 中文官方题解](https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths/solutions/100000/jian-cha-bian-chang-du-xian-zhi-de-lu-ji-cdr5)
+
 #### 前言
 
 关于并查集的详细说明可以参考 OI Wiki「[并查集](https://oi-wiki.org/ds/dsu/)」或者 LeetBook「[并查集](https://leetcode.cn/leetbook/detail/disjoint-set/)」，本文不作过多说明。

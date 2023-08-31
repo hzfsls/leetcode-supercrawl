@@ -1,4 +1,5 @@
 ## [2039.网络空闲的时刻 中文官方题解](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/solutions/100000/wang-luo-kong-xian-de-shi-ke-by-leetcode-qttv)
+
 #### 方法一：广度优先搜索
 
 **思路**

@@ -1,4 +1,5 @@
 ## [1484.按日期分组销售产品 中文官方题解](https://leetcode.cn/problems/group-sold-products-by-the-date/solutions/100000/an-ri-qi-fen-zu-xiao-shou-chan-pin-by-le-wsi4)
+
 [TOC]
 
 ## 解决方案

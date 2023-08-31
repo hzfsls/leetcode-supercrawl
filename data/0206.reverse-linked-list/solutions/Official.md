@@ -1,4 +1,5 @@
 ## [206.反转链表 中文官方题解](https://leetcode.cn/problems/reverse-linked-list/solutions/100000/fan-zhuan-lian-biao-by-leetcode-solution-d1k2)
+
 #### 方法一：迭代
 
 假设链表为 $1 \rightarrow 2 \rightarrow 3 \rightarrow \varnothing$，我们想要把它改成 $\varnothing \leftarrow 1 \leftarrow 2 \leftarrow 3$。

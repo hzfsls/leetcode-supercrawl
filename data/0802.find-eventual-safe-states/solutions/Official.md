@@ -1,4 +1,5 @@
 ## [802.找到最终的安全状态 中文官方题解](https://leetcode.cn/problems/find-eventual-safe-states/solutions/100000/zhao-dao-zui-zhong-de-an-quan-zhuang-tai-yzfz)
+
 #### 方法一：深度优先搜索 + 三色标记法
 
 根据题意，若起始节点位于一个环内，或者能到达一个环，则该节点不是安全的。否则，该节点是安全的。

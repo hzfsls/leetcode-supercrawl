@@ -1,4 +1,5 @@
 ## [236.二叉树的最近公共祖先 中文官方题解](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/solutions/100000/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2)
+
 ### 📺 视频题解  
 ![236. 二叉树的最近公共祖先.mp4](6258a388-b9c6-486c-9d92-c09571d373a9)
 

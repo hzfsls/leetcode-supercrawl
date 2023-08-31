@@ -1,4 +1,5 @@
 ## [1418.点菜展示表 中文官方题解](https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant/solutions/100000/dian-cai-zhan-shi-biao-by-leetcode-solution)
+
 #### 方法一：哈希表
 
 我们首先分析题目需要我们做些什么：

@@ -1,4 +1,5 @@
 ## [2047.句子中的有效单词数 中文官方题解](https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/solutions/100000/ju-zi-zhong-de-you-xiao-dan-ci-shu-by-le-hvow)
+
 #### 方法一：遍历
 
 **思路与算法**

@@ -1,4 +1,5 @@
 ## [1753.移除石子的最大得分 中文官方题解](https://leetcode.cn/problems/maximum-score-from-removing-stones/solutions/100000/yi-chu-shi-zi-de-zui-da-de-fen-by-leetco-e5wm)
+
 #### 方法一：贪心
 
 **思路与算法**

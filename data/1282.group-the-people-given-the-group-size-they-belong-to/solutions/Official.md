@@ -1,4 +1,5 @@
 ## [1282.用户分组 中文官方题解](https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/solutions/100000/yong-hu-fen-zu-by-leetcode-solution)
+
 #### 方法一：哈希表
 
 由于给定的输入一定存在有效的解，因此对于数组 $\textit{groupSizes}$ 中的每个元素 $x$，当 $x$ 在数组中出现 $y$ 次时，$y$ 一定能被 $x$ 整除，且大小为 $x$ 的组有 $\dfrac{y}{x}$ 个。

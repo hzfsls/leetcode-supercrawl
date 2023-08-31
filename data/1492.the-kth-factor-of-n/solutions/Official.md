@@ -1,4 +1,5 @@
 ## [1492.n 的第 k 个因子 中文官方题解](https://leetcode.cn/problems/the-kth-factor-of-n/solutions/100000/n-de-di-k-ge-yin-zi-by-leetcode-solution)
+
 #### 方法一：枚举
 
 我们可以从小到大枚举所有在 $[1, n]$ 范围内的数，并判断是否为 $n$ 的因子。

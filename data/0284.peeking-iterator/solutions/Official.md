@@ -1,4 +1,5 @@
 ## [284.顶端迭代器 中文官方题解](https://leetcode.cn/problems/peeking-iterator/solutions/100000/ding-duan-die-dai-qi-by-leetcode-solutio-8toa)
+
 #### 方法一：迭代器
 
 最直观的做法是使用一个列表存储迭代器中的每个元素，然后按顺序遍历列表中的元素模拟迭代器，但是该做法没有利用到迭代器的性质，更好的做法是利用迭代器的性质实现顶端迭代器的操作。

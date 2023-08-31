@@ -1,4 +1,5 @@
 ## [669.修剪二叉搜索树 中文官方题解](https://leetcode.cn/problems/trim-a-binary-search-tree/solutions/100000/xiu-jian-er-cha-sou-suo-shu-by-leetcode-qe7q1)
+
 #### 方法一：递归
 
 对根结点 $\textit{root}$ 进行深度优先遍历。对于当前访问的结点，如果结点为空结点，直接返回空结点；如果结点的值小于 $\textit{low}$，那么说明该结点及它的左子树都不符合要求，我们返回对它的右结点进行修剪后的结果；如果结点的值大于 $\textit{high}$，那么说明该结点及它的右子树都不符合要求，我们返回对它的左子树进行修剪后的结果；如果结点的值位于区间 $[\textit{low}, \textit{high}]$，我们将结点的左结点设为对它的左子树修剪后的结果，右结点设为对它的右子树进行修剪后的结果。

@@ -1,4 +1,5 @@
 ## [1034.边界着色 中文官方题解](https://leetcode.cn/problems/coloring-a-border/solutions/100000/bian-kuang-zhao-se-by-leetcode-solution-0h5l)
+
 #### 前言
 
 此题与搜索的经典题「[200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)」较为类似，常规的思路是可以使用深度优先搜索或者广度优先搜索来寻找出位置 $(\textit{row},\textit{col})$ 的所在的连通分量，额外要做的是搜索的时候需要判断当前的点是否属于边界。如果属于边界，需要把该点加入到一个用来存所有边界点的数组中。当搜索完毕后，再将所有边界点的进行着色。
